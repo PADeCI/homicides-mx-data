@@ -1,0 +1,105 @@
+Entidad,Municipio,"No de 
+Muertos",Hombre,Mujer,"No 
+Identificado"
+,,,,,
+,,,,,
+"Baja California 
+(3)",Tijuana,1,-,-,1
+,,1,1,-,-
+,,1,1,-,-
+Chiapas (3),Cintalapa,2,2,-,-
+,"Rincón 
+Chamula San 
+Pedro",1,1,-,-
+"Chihuahua 
+(10)",Chihuahua,2,1,1,-
+,"Hidalgo del 
+Parral",1,1,-,-
+,Juárez,1,1,-,-
+,,1,1,-,-
+,,1,1,-,-
+,,2,2,-,-
+,,1,1,-,-
+,,1,-,1,-
+"Coahuila de 
+Zaragoza (2)",Monclova,1,-,1,-
+,Torreón,1,-,-,1
+Colima (1),"Villa de 
+Álvarez",1,1,-,-
+Durango (1),Durango,1,1,-,-
+"Guanajuato 
+(9)",Acámbaro,1,1,-,-
+,Celaya,1,1,-,-
+,,1,-,-,1
+,,1,-,1,-
+,Guanajuato,1,1,-,-
+,,,,,
+,,1.0,1,-,-
+,León,1.0,1,-,-
+,,1.0,-,-,1
+,Salamanca,1.0,1,-,-
+Guerrero (5),"Chilapa de 
+Álvarez",1.0,1,-,-
+,"Chilpancingo 
+de los Bravo",1.0,1,-,-
+,,1.0,1,-,-
+,"Zihuatanejo 
+de Azueta",2.0,1,1,-
+Jalisco (8),Guadalajara,1.0,1,-,-
+,,2.0,1,1,-
+,,1.0,1,-,-
+,,1.0,1,-,-
+,"San Pedro 
+Tlaquepaque",1.0,1,-,-
+,,1.0,-,-,1
+,,1.0,1,-,-
+México (7),"Ecatepec de 
+Morelos",2.0,2,-,-
+,Juchitepec,1.0,1,-,-
+,La Paz,1.0,1,-,-
+,"Naucalpan de 
+Juárez",1.0,1,-,-
+,"San Mateo 
+Atenco",1.0,1,-,-
+,Tepotzotlán,1.0,1,-,-
+"Michoacán de 
+Ocampo (13)",Coeneo,12.0,-,-,12
+,Uruapan,1.0,1,-,-
+,,,,,
+Morelos (5),Amacuzac,1.0,-,1,-
+,Cuernavaca,2.0,2,-,-
+,,1.0,1,-,-
+,Yautepec,1.0,1,-,-
+Nuevo León (1),Pesquería,1.0,1,-,-
+Oaxaca (4),Chahuites,1.0,1,-,-
+,"Oaxaca de 
+Juárez",1.0,-,-,1
+,Salina Cruz,1.0,1,-,-
+,"San Juan 
+Bautista 
+Tuxtepec",1.0,1,-,-
+Puebla (6),Puebla,1.0,1,-,-
+,,1.0,-,-,1
+,,1.0,-,1,-
+,Tilapa,2.0,2,-,-
+,Zihuateutla,1.0,-,1,-
+"Quintana Roo 
+(2)",Bacalar,1.0,1,-,-
+,Benito Juárez,1.0,1,-,-
+"San Luis 
+Potosí (1)",Villa de Reyes,1.0,1,-,-
+Sinaloa (1),Culiacán,1.0,1,-,-
+Sonora (1),Guaymas,1.0,-,1,-
+Tabasco (1),Centro,1.0,1,-,-
+Tamaulipas (3),Reynosa,1.0,1,-,-
+,,2.0,2,-,-
+"Veracruz de 
+Ignacio de la 
+Llave (10)",Coatzacoalcos,1,1,-,-
+,Cosoleacaque,1,1,-,-
+,Ixtaczoquitlán,1,-,1,-
+,Las Choapas,1,1,-,-
+,,1,1,-,-
+,Playa Vicente,4,2,2,-
+,Xalapa,1,1,-,-
+Totales,,97,65,13,19

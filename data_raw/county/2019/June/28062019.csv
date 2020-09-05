@@ -1,0 +1,61 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,2.0,0.0,2.0,0.0,2019-06-28
+Baja California,Tijuana,5.0,3.0,1.0,1.0,2019-06-28
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2019-06-28
+Chihuahua,Aquiles Serdán,1.0,1.0,0.0,0.0,2019-06-28
+Chihuahua,Chihuahua,5.0,5.0,0.0,0.0,2019-06-28
+Chihuahua,Hidalgo del Parral,1.0,1.0,0.0,0.0,2019-06-28
+Chihuahua,Juárez,2.0,1.0,1.0,0.0,2019-06-28
+Ciudad de México,Cuauhtémoc,2.0,2.0,0.0,0.0,2019-06-28
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-06-28
+Ciudad de México,"Venustiano 
+Carranza",1.0,1.0,0.0,0.0,2019-06-28
+Coahuila,Piedras Negras,1.0,0.0,1.0,0.0,2019-06-28
+Coahuila,Ramos Arizpe,1.0,0.0,1.0,0.0,2019-06-28
+Coahuila,Saltillo,1.0,0.0,1.0,0.0,2019-06-28
+Colima,Manzanillo,2.0,2.0,0.0,0.0,2019-06-28
+Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2019-06-28
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-06-28
+Guanajuato,León,2.0,2.0,0.0,0.0,2019-06-28
+Guanajuato,Pénjamo,1.0,0.0,1.0,0.0,2019-06-28
+Guerrero,"Acapulco de 
+Juárez",1.0,1.0,0.0,0.0,2019-06-28
+Hidalgo,"Santiago 
+Tulantepec de 
+Lugo Guerrero",1.0,1.0,0.0,0.0,2019-06-28
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-06-28
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,0.0,0.0,1.0,2019-06-28
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,1.0,0.0,0.0,2019-06-28
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-06-28
+Michoacán,Apatzingán,2.0,2.0,0.0,0.0,2019-06-28
+Michoacán,Jacona,4.0,4.0,0.0,0.0,2019-06-28
+Michoacán,Múgica,1.0,1.0,0.0,0.0,2019-06-28
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-06-28
+Morelos,Jojutla,1.0,1.0,0.0,0.0,2019-06-28
+Morelos,Xochitepec,1.0,1.0,0.0,0.0,2019-06-28
+Estado de México,Huehuetoca,2.0,1.0,1.0,0.0,2019-06-28
+Estado de México,Tecámac,1.0,1.0,0.0,0.0,2019-06-28
+Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2019-06-28
+Nuevo León,Juárez,3.0,3.0,0.0,0.0,2019-06-28
+Oaxaca,Loma Bonita,1.0,0.0,0.0,1.0,2019-06-28
+Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2019-06-28
+Oaxaca,"San Juan Bautista 
+Tuxtepec",1.0,1.0,0.0,0.0,2019-06-28
+Oaxaca,"San Miguel del 
+Puerto",2.0,2.0,0.0,0.0,2019-06-28
+Puebla,Amozoc,1.0,1.0,0.0,0.0,2019-06-28
+Quintana Roo,Benito Juárez,3.0,1.0,0.0,2.0,2019-06-28
+Quintana Roo,Tulum,3.0,2.0,1.0,0.0,2019-06-28
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2019-06-28
+Sinaloa,Escuinapa,4.0,0.0,0.0,4.0,2019-06-28
+Sonora,Guaymas,3.0,2.0,1.0,0.0,2019-06-28
+Sonora,Nogales,1.0,0.0,0.0,1.0,2019-06-28
+Veracruz,Acultzingo,1.0,1.0,0.0,0.0,2019-06-28
+Veracruz,Coatzacoalcos,1.0,0.0,0.0,1.0,2019-06-28
+Veracruz,Playa Vicente,5.0,5.0,0.0,0.0,2019-06-28
+Veracruz,Veracruz,1.0,1.0,0.0,0.0,2019-06-28
+Veracruz,Xalapa,1.0,1.0,0.0,0.0,2019-06-28
+Veracruz,Xico,1.0,1.0,0.0,0.0,2019-06-28
+Zacatecas,Sombrerete,1.0,1.0,0.0,0.0,2019-06-28

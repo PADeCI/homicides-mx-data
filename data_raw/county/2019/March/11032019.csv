@@ -1,0 +1,57 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,"No. de 
+muertos",Fecha
+Baja California,Tijuana,1.0,0.0,0.0,1.0,0.0,2019-03-11
+Baja California Sur,Los Cabos,2.0,1.0,1.0,0.0,0.0,2019-03-11
+Chiapas,Tapachula,1.0,0.0,1.0,0.0,0.0,2019-03-11
+Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,0.0,2019-03-11
+Chihuahua,Juárez,3.0,2.0,0.0,1.0,0.0,2019-03-11
+Ciudad de México,Tlalpan,2.0,2.0,0.0,0.0,0.0,2019-03-11
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,0.0,2019-03-11
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,0.0,2019-03-11
+Guerrero,"Acapulco de 
+Juárez",5.0,5.0,0.0,0.0,0.0,2019-03-11
+Guerrero,"Chilpancingo 
+de los Bravo",2.0,1.0,0.0,1.0,0.0,2019-03-11
+Guerrero,"Huitzuco de los 
+Figueroa",1.0,1.0,0.0,0.0,0.0,2019-03-11
+Guerrero,Pilcaya,1.0,1.0,0.0,0.0,0.0,2019-03-11
+Guerrero,"Taxco de 
+Alarcón",1.0,1.0,0.0,0.0,0.0,2019-03-11
+Hidalgo,Acaxochitlán,2.0,2.0,0.0,0.0,0.0,2019-03-11
+Jalisco,El Salto,1.0,1.0,0.0,0.0,0.0,2019-03-11
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,1.0,0.0,0.0,0.0,2019-03-11
+Jalisco,Zapopan,4.0,1.0,3.0,0.0,0.0,2019-03-11
+Michoacán,Zacapu,1.0,1.0,0.0,0.0,1.0,2019-03-11
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2.0,2019-03-11
+Morelos,"Emiliano 
+Zapata",1.0,1.0,0.0,0.0,1.0,2019-03-11
+Morelos,Jiutepec,2.0,2.0,0.0,0.0,2.0,2019-03-11
+Morelos,Temixco,1.0,1.0,0.0,0.0,1.0,2019-03-11
+Estado de México,Donato Guerra,1.0,1.0,0.0,0.0,0.0,2019-03-11
+Estado de México,Nezahualcóyotl,1.0,0.0,0.0,1.0,0.0,2019-03-11
+Estado de México,Zacualpan,1.0,1.0,0.0,0.0,1.0,2019-03-11
+Oaxaca,"Santa Cruz 
+Xoxocotlán",1.0,0.0,0.0,2.0,2.0,2019-03-11
+Oaxaca,"Tlalixtac de 
+Cabrera",1.0,1.0,0.0,0.0,1.0,2019-03-11
+Puebla,Atlequizayan,1.0,1.0,0.0,0.0,1.0,2019-03-11
+Puebla,Chietla,1.0,1.0,0.0,0.0,1.0,2019-03-11
+Puebla,Jalpan,1.0,1.0,0.0,0.0,1.0,2019-03-11
+Puebla,Puebla,3.0,3.0,1.0,4.0,8.0,2019-03-11
+Puebla,"San Salvador 
+Huixcolotla",1.0,1.0,0.0,0.0,1.0,2019-03-11
+San Luis Potosí,"Soledad de 
+Graciano 
+Sánchez",1.0,1.0,0.0,0.0,1.0,2019-03-11
+Sinaloa,Ahome,1.0,1.0,0.0,0.0,1.0,2019-03-11
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,1.0,2019-03-11
+Sonora,Empalme,1.0,2.0,0.0,0.0,2.0,2019-03-11
+Sonora,Hermosillo,2.0,1.0,1.0,0.0,2.0,2019-03-11
+Sonora,Nogales,1.0,1.0,0.0,0.0,1.0,2019-03-11
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,1.0,2019-03-11
+Tabasco,Tamaulipas (1)  Miguel Alemán,1.0,1.0,0.0,0.0,1.0,2019-03-11
+Veracruz,Río Blanco,1.0,0.0,0.0,1.0,1.0,2019-03-11
+Veracruz,San Rafael,1.0,1.0,0.0,0.0,1.0,2019-03-11
+Veracruz,Tlachichilco,1.0,0.0,1.0,0.0,1.0,2019-03-11
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,1.0,2019-03-11

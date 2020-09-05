@@ -1,0 +1,75 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Jesús María,1.0,1.0,0.0,0.0,2020-05-15
+Baja California,Mexicali,3.0,2.0,1.0,0.0,2020-05-15
+Baja California,Tijuana,7.0,4.0,2.0,1.0,2020-05-15
+Chiapas,Tapachula,1.0,0.0,1.0,0.0,2020-05-15
+Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2020-05-15
+Chihuahua,Juárez,2.0,0.0,1.0,1.0,2020-05-15
+Ciudad de México,"Miguel 
+Hidalgo",2.0,2.0,0.0,0.0,2020-05-15
+Ciudad de México,Xochimilco,1.0,1.0,0.0,0.0,2020-05-15
+Coahuila,Torreón,1.0,1.0,0.0,0.0,2020-05-15
+Colima,Armería,1.0,0.0,1.0,0.0,2020-05-15
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-05-15
+Colima,Tecomán,1.0,1.0,0.0,0.0,2020-05-15
+Colima,"Villa de 
+Álvarez",1.0,1.0,0.0,0.0,2020-05-15
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-05-15
+Guanajuato,Celaya,3.0,3.0,0.0,0.0,2020-05-15
+Guanajuato,Irapuato,4.0,1.0,0.0,3.0,2020-05-15
+Guanajuato,León,3.0,2.0,1.0,0.0,2020-05-15
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-05-15
+Guanajuato,"San Francisco 
+del Rincón",1.0,1.0,0.0,0.0,2020-05-15
+Guanajuato,"Santa Cruz de 
+Juventino 
+Rosas",1.0,1.0,0.0,0.0,2020-05-15
+Guanajuato,Tarimoro,4.0,0.0,0.0,4.0,2020-05-15
+Guanajuato,Uriangato,1.0,1.0,0.0,0.0,2020-05-15
+Guanajuato,Yuriria,1.0,0.0,0.0,1.0,2020-05-15
+Guerrero,"Acapulco de 
+Juárez",1.0,0.0,1.0,0.0,2020-05-15
+Guerrero,Cuautepec,1.0,1.0,0.0,0.0,2020-05-15
+Guerrero,"Xochistlahuac
+a",2.0,2.0,0.0,0.0,2020-05-15
+Guerrero,"Zihuatanejo 
+de Azueta",1.0,1.0,0.0,0.0,2020-05-15
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,0.0,1.0,0.0,2020-05-15
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,1.0,0.0,0.0,2020-05-15
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-05-15
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-05-15
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-05-15
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-05-15
+Morelos,Axochiapan,1.0,1.0,0.0,0.0,2020-05-15
+Estado de México,"Nicolás 
+Romero",1.0,1.0,0.0,0.0,2020-05-15
+Estado de México,Toluca,1.0,0.0,1.0,0.0,2020-05-15
+Oaxaca,"Acatlán de 
+Pérez 
+Figueroa",6.0,6.0,0.0,0.0,2020-05-15
+Oaxaca,"Pinotepa 
+Nacional",1.0,1.0,0.0,0.0,2020-05-15
+Oaxaca,"San Juan 
+Bautista 
+Tuxtepec",1.0,0.0,0.0,1.0,2020-05-15
+Oaxaca,Santiago,1.0,1.0,0.0,0.0,2020-05-15
+Oaxaca,"Villa de 
+Tututepec de 
+Melchor 
+Ocampo",1.0,1.0,0.0,0.0,2020-05-15
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-05-15
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-15
+Quintana Roo,Tulum,1.0,1.0,0.0,0.0,2020-05-15
+San Luis Potosí,Cárdenas,1.0,0.0,0.0,1.0,2020-05-15
+San Luis Potosí,Matehuala,1.0,1.0,0.0,0.0,2020-05-15
+San Luis Potosí,"San Luis 
+Potosí",1.0,1.0,0.0,0.0,2020-05-15
+Sinaloa,Choix,1.0,1.0,0.0,0.0,2020-05-15
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-05-15
+Sonora,Cajeme,1.0,0.0,1.0,0.0,2020-05-15
+Sonora,Magdalena,3.0,3.0,0.0,0.0,2020-05-15
+Tabasco,Centro,1.0,1.0,0.0,0.0,2020-05-15
+Tamaulipas,Reynosa,3.0,3.0,0.0,0.0,2020-05-15
+Veracruz,Xico,1.0,1.0,0.0,0.0,2020-05-15

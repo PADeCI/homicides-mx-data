@@ -1,0 +1,90 @@
+Entidad,Municipio,"No de 
+Muertos",Hombre,Mujer,"No 
+Identificado"
+"Baja California 
+(7)",Mexicali,1,1,-,-
+,Tijuana,1,1,-,-
+,,1,-,1,-
+,,1,1,-,-
+,,2,1,1,-
+,,1,1,-,-
+Chiapas (1),Huixtla,1,1,-,-
+Chihuahua (6),Juárez,1,1,-,-
+,,1,1,-,-
+,,1,1,-,-
+,,1,1,-,-
+,,1,1,-,-
+,,1,1,-,-
+"Ciudad de 
+México (1)","Gustavo A. 
+Madero",1,1,-,-
+Colima (1),Ixtlahuacán,1,1,-,-
+"Guanajuato 
+(8)",Acámbaro,1,1,-,-
+,Celaya,1,1,-,-
+,Comonfort,1,1,-,-
+,,1,1,-,-
+,León,1,1,-,-
+,"San Luis de la 
+Paz",3,2,1,-
+Guerrero (3),"Acapulco de 
+Juárez",1,1,-,-
+,,1,1,-,-
+,Ometepec,1,1,-,-
+Jalisco (4),Guadalajara,1,1,-,-
+,"San Pedro 
+Tlaquepaque",1,1,-,-
+,Tonalá,1,-,1,-
+,Zapopan,1,1,-,-
+México (3),Tecámac,1,1,-,-
+,,1,1,-,-
+,Texcoco,1,1,-,-
+"Michoacán de 
+Ocampo (2)",Hidalgo,1,1,-,-
+,Zamora,1,1,-,-
+Morelos (4),Cuernavaca,1,1,-,-
+,Jiutepec,1,1,-,-
+,,1,1,-,-
+,"Tlaltizapán de 
+Zapata",1,1,-,-
+"Nuevo León 
+(2)",Monterrey,1,1,-,-
+,,1,1,-,-
+Oaxaca (4),Salina Cruz,1,1,-,-
+,"San Juan 
+Bautista 
+Tuxtepec",1,1,-,-
+,"San Miguel 
+Soyaltepec",2,2,-,-
+Puebla (3),Puebla,1,1,-,-
+,,1,-,-,1
+,Zacatlán,1,-,1,-
+"Quintana Roo 
+(6)",Benito Juárez,1,1,-,-
+,,1,1,-,-
+,Isla Mujeres,1,1,-,-
+,Solidaridad,1,1,-,-
+,Tulum,2,2,-,-
+San Luis,Rioverde,1,1,-,-
+Potosí (2),,,,,
+,"San Luis 
+Potosí",1.0,1,-,-
+Sinaloa (3),Culiacán,1.0,1,-,-
+,,1.0,1,-,-
+,,1.0,1,-,-
+Sonora (6),Cajeme,1.0,1,-,-
+,,1.0,1,-,-
+,Hermosillo,1.0,-,1,-
+,Huatabampo,1.0,1,-,-
+,"San Luis Río 
+Colorado",2.0,2,-,-
+Tabasco (2),Centro,1.0,1,-,-
+,Paraíso,1.0,1,-,-
+Tamaulipas (2),"Miguel 
+Alemán",2.0,2,-,-
+"Veracruz de 
+Ignacio de la 
+Llave (1)",Oluta,1.0,1,-,-
+Zacatecas (2),Calera,1.0,1,-,-
+,Fresnillo,1.0,1,-,-
+Totales,,73.0,66,6,1

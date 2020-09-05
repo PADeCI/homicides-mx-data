@@ -1,0 +1,78 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Calvillo,1.0,1.0,0.0,0.0,2020-08-03
+Baja California,Mexicali,1.0,0.0,1.0,0.0,2020-08-03
+Baja California,Tijuana,8.0,6.0,0.0,2.0,2020-08-03
+Campeche,Candelaria,1.0,1.0,0.0,0.0,2020-08-03
+Chiapas,Tapachula,1.0,0.0,1.0,0.0,2020-08-03
+Chihuahua,Juárez,3.0,3.0,0.0,0.0,2020-08-03
+Chihuahua,Madera,2.0,1.0,1.0,0.0,2020-08-03
+Ciudad de México,Cuauhtémoc,2.0,2.0,0.0,0.0,2020-08-03
+Coahuila,Acuña,1.0,1.0,0.0,0.0,2020-08-03
+Durango,Durango,1.0,1.0,0.0,0.0,2020-08-03
+Guanajuato,Acámbaro,2.0,2.0,0.0,0.0,2020-08-03
+Guanajuato,"Apaseo el 
+Alto",1.0,1.0,0.0,0.0,2020-08-03
+Guanajuato,Celaya,3.0,3.0,0.0,0.0,2020-08-03
+Guanajuato,Comonfort,1.0,1.0,0.0,0.0,2020-08-03
+Guanajuato,León,2.0,2.0,0.0,0.0,2020-08-03
+Guanajuato,Moroleón,2.0,2.0,0.0,0.0,2020-08-03
+Guanajuato,"Valle de 
+Santiago",2.0,2.0,0.0,0.0,2020-08-03
+Guerrero,"Acapulco de 
+Juárez",1.0,1.0,0.0,0.0,2020-08-03
+Guerrero,"Chilapa de 
+Álvarez",1.0,0.0,1.0,0.0,2020-08-03
+Guerrero,"Zihuatanejo 
+de Azueta",1.0,1.0,0.0,0.0,2020-08-03
+Hidalgo,"Tulancingo 
+de Bravo",1.0,0.0,1.0,0.0,2020-08-03
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-08-03
+Jalisco,"Tlajomulco 
+de Zúñiga",1.0,1.0,0.0,0.0,2020-08-03
+Jalisco,Tonalá,2.0,2.0,0.0,0.0,2020-08-03
+Jalisco,Zapotlanejo,1.0,0.0,1.0,0.0,2020-08-03
+Michoacán,Apatzingán,1.0,1.0,0.0,0.0,2020-08-03
+Michoacán,Chavinda,1.0,1.0,0.0,0.0,2020-08-03
+Michoacán,Chilchota,1.0,1.0,0.0,0.0,2020-08-03
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-08-03
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-08-03
+Michoacán,Puruándiro,1.0,1.0,0.0,0.0,2020-08-03
+Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2020-08-03
+Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2020-08-03
+Estado de México,"Valle de 
+Chalco 
+Solidaridad",1.0,0.0,1.0,0.0,2020-08-03
+Estado de México,"Zinacantepe
+c",1.0,1.0,0.0,0.0,2020-08-03
+Nuevo León,"Ciénega de 
+Flores",1.0,1.0,0.0,0.0,2020-08-03
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-08-03
+Nuevo León,"San Nicolás 
+de los Garza",1.0,1.0,0.0,0.0,2020-08-03
+Nuevo León,"Santa 
+Catarina",2.0,1.0,1.0,0.0,2020-08-03
+Oaxaca,"Heroica 
+Ciudad de 
+Juchitán de 
+Zaragoza",1.0,1.0,0.0,0.0,2020-08-03
+Oaxaca,"Oaxaca de 
+Juárez",2.0,1.0,0.0,1.0,2020-08-03
+Puebla,Huejotzingo,1.0,1.0,0.0,0.0,2020-08-03
+Puebla,Puebla,2.0,1.0,0.0,1.0,2020-08-03
+Puebla,Tehuacán,1.0,1.0,0.0,0.0,2020-08-03
+Puebla,Tilapa,1.0,1.0,0.0,0.0,2020-08-03
+Querétaro,Querétaro,1.0,0.0,0.0,1.0,2020-08-03
+Quintana Roo,"Benito 
+Juárez",2.0,1.0,1.0,0.0,2020-08-03
+San Luis Potosí,"Axtla de 
+Terrazas",1.0,0.0,1.0,0.0,2020-08-03
+Sinaloa,Ahome,1.0,1.0,0.0,0.0,2020-08-03
+Sonora,Nogales,1.0,1.0,0.0,0.0,2020-08-03
+Tlaxcala,Tlaxcala,1.0,1.0,0.0,0.0,2020-08-03
+Veracruz,"Castillo de 
+Teayo",1.0,1.0,0.0,0.0,2020-08-03
+Veracruz,Omealca,1.0,1.0,0.0,0.0,2020-08-03
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-08-03
+Zacatecas,Jerez,1.0,1.0,0.0,0.0,2020-08-03
+Zacatecas,Ojocaliente,1.0,1.0,0.0,0.0,2020-08-03
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2020-08-03

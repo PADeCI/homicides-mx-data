@@ -1,0 +1,81 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Asientos,1.0,1.0,0.0,0.0,2019-08-13
+Baja California,Tijuana,7.0,5.0,2.0,0.0,2019-08-13
+Chiapas,Tapachula,1.0,1.0,0.0,0.0,2019-08-13
+Chihuahua,Juárez,4.0,4.0,0.0,0.0,2019-08-13
+Ciudad de México,Azcapotzalco,1.0,1.0,0.0,0.0,2019-08-13
+Ciudad de México,"Gustavo A. 
+Madero",1.0,1.0,0.0,0.0,2019-08-13
+Colima,Colima,1.0,1.0,0.0,0.0,2019-08-13
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-08-13
+Durango,Nombre de Dios,1.0,1.0,0.0,0.0,2019-08-13
+Guanajuato,Abasolo,1.0,0.0,1.0,0.0,2019-08-13
+Guanajuato,Apaseo el Alto,1.0,0.0,1.0,0.0,2019-08-13
+Guanajuato,Irapuato,3.0,1.0,0.0,2.0,2019-08-13
+Guanajuato,Jerécuaro,2.0,1.0,0.0,1.0,2019-08-13
+Guanajuato,León,1.0,0.0,0.0,1.0,2019-08-13
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-08-13
+Guanajuato,"San Luis de la 
+Paz",1.0,1.0,0.0,0.0,2019-08-13
+Guanajuato,"San Miguel de 
+Allende",1.0,1.0,0.0,0.0,2019-08-13
+Guerrero,"Acapulco de 
+Juárez",2.0,2.0,0.0,0.0,2019-08-13
+Guerrero,"Atoyac de 
+Álvarez",1.0,1.0,0.0,0.0,2019-08-13
+Guerrero,"Chilapa de 
+Álvarez",1.0,0.0,1.0,0.0,2019-08-13
+Guerrero,"Chilpancingo de 
+los Bravo",1.0,1.0,0.0,0.0,2019-08-13
+Jalisco,Guadalajara,3.0,2.0,1.0,0.0,2019-08-13
+Jalisco,"Lagos de 
+Moreno",5.0,4.0,1.0,0.0,2019-08-13
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-13
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2019-08-13
+Michoacán,Zináparo,3.0,2.0,1.0,0.0,2019-08-13
+Morelos,Jiutepec,2.0,0.0,0.0,2.0,2019-08-13
+Morelos,Miacatlán,1.0,1.0,0.0,0.0,2019-08-13
+Morelos,Tetecala,1.0,1.0,0.0,0.0,2019-08-13
+Estado de México,Acolman,1.0,0.0,1.0,0.0,2019-08-13
+Estado de México,"Coacalco de 
+Berriozábal",1.0,1.0,0.0,0.0,2019-08-13
+Estado de México,Donato Guerra,1.0,0.0,0.0,1.0,2019-08-13
+Nuevo León,Carmen,1.0,1.0,0.0,0.0,2019-08-13
+Nuevo León,Gral. Escobedo,1.0,1.0,0.0,0.0,2019-08-13
+Oaxaca,"Tlalixtac de 
+Cabrera",1.0,1.0,0.0,0.0,2019-08-13
+Puebla,Acatzingo,1.0,1.0,0.0,0.0,2019-08-13
+Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2019-08-13
+Puebla,"Venustiano 
+Carranza",1.0,1.0,0.0,0.0,2019-08-13
+Puebla,Yehualtepec,1.0,1.0,0.0,0.0,2019-08-13
+Querétaro,Querétaro,2.0,2.0,0.0,0.0,2019-08-13
+Quintana Roo,Benito Juárez,1.0,0.0,1.0,0.0,2019-08-13
+Sinaloa,Ahome,1.0,1.0,0.0,0.0,2019-08-13
+Sinaloa,Culiacán,2.0,0.0,2.0,0.0,2019-08-13
+Sinaloa,Escuinapa,1.0,1.0,0.0,0.0,2019-08-13
+Sonora,Nogales,1.0,0.0,1.0,0.0,2019-08-13
+Sonora,"San Luis Río 
+Colorado",1.0,1.0,0.0,0.0,2019-08-13
+Tabasco,Centro,1.0,1.0,0.0,0.0,2019-08-13
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-08-13
+Tabasco,Nacajuca,1.0,1.0,0.0,0.0,2019-08-13
+Tamaulipas,Victoria,1.0,0.0,0.0,1.0,2019-08-13
+Tlaxcala,"San Lorenzo 
+Axocomanitla",1.0,1.0,0.0,0.0,2019-08-13
+Veracruz,"Alto Lucero de 
+Gutiérrez 
+Barrios",3.0,3.0,0.0,0.0,2019-08-13
+Veracruz,"Huiloapan de 
+Cuauhtémoc",1.0,0.0,1.0,0.0,2019-08-13
+Veracruz,"Juan Rodríguez 
+Clara",2.0,2.0,0.0,0.0,2019-08-13
+Veracruz,Jáltipan,1.0,0.0,1.0,0.0,2019-08-13
+Veracruz,"Nanchital de 
+Lázaro 
+Cárdenas del 
+Río",1.0,1.0,0.0,0.0,2019-08-13
+Veracruz,Papantla,2.0,1.0,1.0,0.0,2019-08-13
+Veracruz,Tempoal,1.0,0.0,1.0,0.0,2019-08-13
+Veracruz,Veracruz,1.0,1.0,0.0,0.0,2019-08-13
+Zacatecas,Río Grande,2.0,2.0,0.0,0.0,2019-08-13

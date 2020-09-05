@@ -1,0 +1,57 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,4.0,4.0,0.0,0.0,2020-07-09
+Chihuahua,Juárez,5.0,4.0,1.0,0.0,2020-07-09
+Ciudad de México,"Gustavo A. 
+Madero",1.0,1.0,0.0,0.0,2020-07-09
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-07-09
+Colima,Colima,1.0,0.0,0.0,1.0,2020-07-09
+Colima,Tecomán,1.0,1.0,0.0,0.0,2020-07-09
+Durango,Durango,1.0,1.0,0.0,0.0,2020-07-09
+Guanajuato,"Apaseo el 
+Grande",1.0,1.0,0.0,0.0,2020-07-09
+Guanajuato,Comonfort,1.0,1.0,0.0,0.0,2020-07-09
+Guanajuato,Cortázar,2.0,2.0,0.0,0.0,2020-07-09
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-07-09
+Guerrero,"Acapulco de 
+Juárez",1.0,1.0,0.0,0.0,2020-07-09
+Guerrero,"Chilpancingo 
+de los Bravo",1.0,1.0,0.0,0.0,2020-07-09
+Guerrero,"Iguala de la 
+Independencia",1.0,1.0,0.0,0.0,2020-07-09
+Hidalgo,"Atotonilco de 
+Tula",2.0,2.0,0.0,0.0,2020-07-09
+Jalisco,Guadalajara,4.0,3.0,1.0,0.0,2020-07-09
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,1.0,0.0,0.0,2020-07-09
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,1.0,0.0,0.0,2020-07-09
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-07-09
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-07-09
+Michoacán,Tangancícuaro,3.0,0.0,0.0,3.0,2020-07-09
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2020-07-09
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-07-09
+Morelos,Axochiapan,1.0,1.0,0.0,0.0,2020-07-09
+Morelos,Yautepec,2.0,2.0,0.0,0.0,2020-07-09
+Estado de México,"Nicolás 
+Romero",5.0,0.0,5.0,0.0,2020-07-09
+Estado de México,Teotihuacán,1.0,0.0,1.0,0.0,2020-07-09
+Nuevo León,Gral. Escobedo,1.0,1.0,0.0,0.0,2020-07-09
+Oaxaca,"Oaxaca de 
+Juárez",2.0,1.0,0.0,1.0,2020-07-09
+Oaxaca,"Santa María 
+Huatulco",2.0,2.0,0.0,0.0,2020-07-09
+Puebla,Ocoyucan,1.0,0.0,0.0,1.0,2020-07-09
+Puebla,Puebla,2.0,1.0,1.0,0.0,2020-07-09
+Quintana Roo,Benito Juárez,1.0,0.0,1.0,0.0,2020-07-09
+Quintana Roo,Blanco,1.0,1.0,0.0,0.0,2020-07-09
+Quintana Roo,Othón P.,1.0,1.0,0.0,0.0,2020-07-09
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-07-09
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-07-09
+Tabasco,Cárdenas,2.0,2.0,0.0,0.0,2020-07-09
+Tamaulipas,Nuevo Laredo,1.0,0.0,1.0,0.0,2020-07-09
+Veracruz,Coatzacoalcos,2.0,0.0,0.0,2.0,2020-07-09
+Veracruz,Veracruz,1.0,1.0,0.0,0.0,2020-07-09
+Veracruz,"Álamo 
+Temapache",1.0,1.0,0.0,0.0,2020-07-09
+Zacatecas,Fresnillo,3.0,2.0,0.0,1.0,2020-07-09
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2020-07-09

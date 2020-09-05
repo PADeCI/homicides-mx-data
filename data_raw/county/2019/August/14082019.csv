@@ -1,0 +1,76 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tecate,1.0,1.0,0.0,0.0,2019-08-14
+Baja California,Tijuana,6.0,5.0,0.0,1.0,2019-08-14
+Chiapas,"San Cristóbal 
+de las Casas",1.0,0.0,1.0,0.0,2019-08-14
+Chihuahua,Juárez,5.0,4.0,0.0,1.0,2019-08-14
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-08-14
+Ciudad de México,"Gustavo A. 
+Madero",1.0,1.0,0.0,0.0,2019-08-14
+Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2019-08-14
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-08-14
+Ciudad de México,Miguel Hidalgo,2.0,2.0,0.0,0.0,2019-08-14
+Ciudad de México,"Álvaro 
+Obregón",2.0,1.0,1.0,0.0,2019-08-14
+Coahuila,Saltillo,1.0,0.0,0.0,1.0,2019-08-14
+Colima,Coquimatlán,1.0,1.0,0.0,0.0,2019-08-14
+Colima,Manzanillo,6.0,5.0,1.0,0.0,2019-08-14
+Colima,Tecomán,1.0,1.0,0.0,0.0,2019-08-14
+Durango,San Dimas,1.0,0.0,1.0,0.0,2019-08-14
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-08-14
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-08-14
+Guanajuato,León,4.0,2.0,0.0,2.0,2019-08-14
+Guanajuato,Salamanca,1.0,0.0,1.0,0.0,2019-08-14
+Guanajuato,"Valle de 
+Santiago",1.0,1.0,0.0,0.0,2019-08-14
+Guerrero,"Acapulco de 
+Juárez",3.0,2.0,1.0,0.0,2019-08-14
+Guerrero,"Chilpancingo 
+de los Bravo",1.0,1.0,0.0,0.0,2019-08-14
+Guerrero,"Coyuca de 
+Benítez",1.0,1.0,0.0,0.0,2019-08-14
+Guerrero,"Zihuatanejo de 
+Azueta",1.0,1.0,0.0,0.0,2019-08-14
+Hidalgo,"Santiago 
+Tulantepec de 
+Lugo Guerrero",1.0,1.0,0.0,0.0,2019-08-14
+Jalisco,"San Pedro 
+Tlaquepaque",2.0,1.0,1.0,0.0,2019-08-14
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,0.0,0.0,1.0,2019-08-14
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-08-14
+Jalisco,Zapopan,3.0,3.0,0.0,0.0,2019-08-14
+Michoacán,Morelia,3.0,3.0,0.0,0.0,2019-08-14
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2019-08-14
+Morelos,Cuautla,2.0,1.0,1.0,0.0,2019-08-14
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-08-14
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2019-08-14
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2019-08-14
+Estado de México,Zumpango,2.0,2.0,0.0,0.0,2019-08-14
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-08-14
+Oaxaca,"Miahuatlán de 
+Porfirio Díaz",1.0,1.0,0.0,0.0,2019-08-14
+Oaxaca,"Santo Domingo 
+Tehuantepec",1.0,0.0,1.0,0.0,2019-08-14
+Puebla,"San Matías 
+Tlalancaleca",1.0,0.0,1.0,0.0,2019-08-14
+Quintana Roo,Benito Juárez,3.0,3.0,0.0,0.0,2019-08-14
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-08-14
+Quintana Roo,Tulum,1.0,0.0,1.0,0.0,2019-08-14
+San Luis Potosí,San Luis Potosí,3.0,2.0,1.0,0.0,2019-08-14
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-14
+Sinaloa,Mazatlán,1.0,1.0,0.0,0.0,2019-08-14
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-08-14
+Tamaulipas,Miguel Alemán,1.0,1.0,0.0,0.0,2019-08-14
+Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2019-08-14
+Veracruz,"Alto Lucero de 
+Gutiérrez 
+Barrios",3.0,3.0,0.0,0.0,2019-08-14
+Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2019-08-14
+Veracruz,Las Choapas,1.0,0.0,1.0,0.0,2019-08-14
+Veracruz,Teocelo,1.0,1.0,0.0,0.0,2019-08-14
+Veracruz,Tepetlán,2.0,2.0,0.0,0.0,2019-08-14
+Veracruz,"Vega de 
+Alatorre",1.0,1.0,0.0,0.0,2019-08-14
+Zacatecas,Calera,1.0,1.0,0.0,0.0,2019-08-14
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-08-14

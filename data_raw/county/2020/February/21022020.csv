@@ -1,0 +1,76 @@
+Entidad,Municipio,"No de 
+Muertos",Hombre,Mujer,"No 
+Identificado"
+"Baja 
+California (5)",Tecate,1,1,-,-
+,Tijuana,1,1,-,-
+,,1,-,1,-
+,,1,1,-,-
+,,1,-,1,-
+"Chihuahua 
+(5)",Juárez,4,4,-,-
+,,1,1,-,-
+"Coahuila de 
+Zaragoza (1)",Torreón,1,1,-,-
+Colima (2),Armería,1,1,-,-
+,Manzanillo,1,-,1,-
+"Guanajuato 
+(23)",Apaseo el Alto,2,2,-,-
+,Celaya,1,1,-,-
+,,2,-,-,2
+,,4,4,-,-
+,Irapuato,1,1,-,-
+,León,1,1,-,-
+,,1,1,-,-
+,Moroleón,11,-,-,11
+Guerrero (6),Acapulco de,1,1,-,-
+,Juárez,,,,
+,,1.0,1,-,-
+,"Chilpancingo 
+de los Bravo",1.0,1,-,-
+,Eduardo Neri,1.0,1,-,-
+,"Tlapa de 
+Comonfort",2.0,2,-,-
+Jalisco (4),Guadalajara,1.0,1,-,-
+,,1.0,1,-,-
+,Tonalá,2.0,2,-,-
+México (3),Calimaya,1.0,1,-,-
+,"Nezahualcóyo
+tl",1.0,1,-,-
+,Zinacantepec,1.0,1,-,-
+"Michoacán 
+de Ocampo 
+(6)",Cuitzeo,2.0,2,-,-
+,Indaparapeo,2.0,2,-,-
+,Zamora,2.0,2,-,-
+Morelos (4),Cuernavaca,2.0,2,-,-
+,,1.0,-,-,1
+,Jojutla,1.0,1,-,-
+"Nuevo León 
+(3)",Galeana,1.0,-,1,-
+,Los Aldamas,2.0,1,1,-
+Oaxaca (1),San Juan,1.0,1,-,-
+,Mazatlán,,,,
+Puebla (3),Huejotzingo,1.0,1,-,-
+,Puebla,1.0,-,-,1
+,,1.0,1,-,-
+"Quintana 
+Roo (1)",Benito Juárez,1.0,-,1,-
+"San Luis 
+Potosí (1)",Ebano,1.0,-,1,-
+Sinaloa (2),Mazatlán,1.0,1,-,-
+,Sinaloa,1.0,1,-,-
+Sonora (2),Hermosillo,1.0,1,-,-
+,Nogales,1.0,1,-,-
+Tabasco (2),Cárdenas,1.0,-,1,-
+,Macuspana,1.0,1,-,-
+"Tamaulipas 
+(1)",Reynosa,1.0,1,-,-
+"Veracruz de 
+Ignacio de la 
+Llave (5)",Chocamán,1.0,1,-,-
+,Cosoleacaque,1.0,1,-,-
+,Espinal,1.0,1,-,-
+,Papantla,1.0,1,-,-
+,Tezonapa,1.0,1,-,-
+Totales,,80.0,57,8,15

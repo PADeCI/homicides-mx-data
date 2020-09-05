@@ -1,0 +1,80 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,2.0,2.0,0.0,0.0,2019-05-22
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2019-05-22
+Baja California,Tijuana,3.0,1.0,1.0,1.0,2019-05-22
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-05-22
+Chihuahua,Cuauhtémoc,3.0,3.0,0.0,0.0,2019-05-22
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-05-22
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-05-22
+Ciudad de México,"Gustavo A. 
+Madero",2.0,1.0,1.0,0.0,2019-05-22
+Ciudad de México,"Venustiano 
+Carranza",1.0,1.0,0.0,0.0,2019-05-22
+Coahuila,Acuña,2.0,2.0,0.0,0.0,2019-05-22
+Colima,Armería,1.0,0.0,1.0,0.0,2019-05-22
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-05-22
+Guanajuato,León,2.0,2.0,0.0,0.0,2019-05-22
+Guanajuato,"San Francisco 
+del Rincón",1.0,1.0,0.0,0.0,2019-05-22
+Guanajuato,"Valle de 
+Santiago",1.0,0.0,0.0,1.0,2019-05-22
+Guerrero,"Acapulco de 
+Juárez",1.0,1.0,0.0,0.0,2019-05-22
+Guerrero,"Chilpancingo 
+de los Bravo",2.0,2.0,0.0,0.0,2019-05-22
+Guerrero,"Coyuca de 
+Catalán",1.0,1.0,0.0,0.0,2019-05-22
+Guerrero,"Zihuatanejo de 
+Azueta",2.0,2.0,0.0,0.0,2019-05-22
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-05-22
+Jalisco,"San Pedro 
+Tlaquepaque",2.0,2.0,0.0,0.0,2019-05-22
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-05-22
+Jalisco,Zapotlanejo,1.0,1.0,0.0,0.0,2019-05-22
+Michoacán,Chilchota,3.0,3.0,0.0,0.0,2019-05-22
+Michoacán,Uruapan,11.0,0.0,0.0,11.0,2019-05-22
+Morelos,Temixco,1.0,1.0,0.0,0.0,2019-05-22
+Estado de México,"Atizapán de 
+Zaragoza",1.0,0.0,1.0,0.0,2019-05-22
+Estado de México,"Ecatepec de 
+Morelos",1.0,0.0,1.0,0.0,2019-05-22
+Estado de México,Nezahualcóyotl,1.0,0.0,0.0,1.0,2019-05-22
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2019-05-22
+Nuevo León,"Ciénega de 
+Flores",1.0,1.0,0.0,0.0,2019-05-22
+Nuevo León,García,1.0,1.0,0.0,0.0,2019-05-22
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-05-22
+Oaxaca,"Heroica Ciudad 
+de Juchitán de 
+Zaragoza",1.0,0.0,1.0,0.0,2019-05-22
+Oaxaca,"Oaxaca de 
+Juárez",1.0,1.0,0.0,0.0,2019-05-22
+Oaxaca,"San Agustín de 
+las Juntas",1.0,0.0,0.0,1.0,2019-05-22
+Oaxaca,"San Juan 
+Guichicovi",1.0,1.0,0.0,0.0,2019-05-22
+Oaxaca,"Teotitlán de 
+Flores Magón",1.0,1.0,0.0,0.0,2019-05-22
+Oaxaca,"Ánimas 
+Trujano",1.0,1.0,0.0,0.0,2019-05-22
+Puebla,"Tetela de 
+Ocampo",1.0,0.0,1.0,0.0,2019-05-22
+Puebla,"Tlacotepec de 
+Benito Juárez",1.0,0.0,1.0,0.0,2019-05-22
+Puebla,Yehualtepec,1.0,1.0,0.0,0.0,2019-05-22
+San Luis Potosí,"Soledad de 
+Graciano 
+Sánchez",1.0,0.0,1.0,0.0,2019-05-22
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-05-22
+Sinaloa,Mazatlán,2.0,1.0,0.0,1.0,2019-05-22
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2019-05-22
+Sonora,Hermosillo,1.0,0.0,0.0,1.0,2019-05-22
+Sonora,Nogales,1.0,1.0,0.0,0.0,2019-05-22
+Tabasco,Centro,3.0,2.0,1.0,0.0,2019-05-22
+Veracruz,Río Blanco,1.0,1.0,0.0,0.0,2019-05-22
+Veracruz,Tuxpan,1.0,1.0,0.0,0.0,2019-05-22
+Veracruz,Xalapa,1.0,0.0,1.0,0.0,2019-05-22
+Zacatecas,Chalchihuites,2.0,2.0,0.0,0.0,2019-05-22
+Zacatecas,Guadalupe,2.0,1.0,1.0,0.0,2019-05-22
+Zacatecas,Ojocaliente,1.0,1.0,0.0,0.0,2019-05-22
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2019-05-22

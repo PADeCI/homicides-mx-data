@@ -1,0 +1,75 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1,1.0,0.0,0.0,2019-02-11
+Baja California,"Playas de 
+Rosarito",1,1.0,0.0,0.0,2019-02-11
+Baja California,Tijuana,1,1.0,0.0,0.0,2019-02-11
+Chiapas,Palenque,1,1.0,0.0,0.0,2019-02-11
+Chiapas,Villaflores,1,1.0,0.0,0.0,2019-02-11
+Chihuahua,Guerrero,1,1.0,0.0,0.0,2019-02-11
+Chihuahua,Juárez,3,3.0,0.0,0.0,2019-02-11
+Ciudad de México,Iztapalapa,1,1.0,0.0,0.0,2019-02-11
+Estado de México,"Almoloya de 
+Juárez",1,1.0,0.0,0.0,2019-02-11
+Estado de México,"Ecatepec de 
+Morelos",1,0.0,1.0,0.0,2019-02-11
+Estado de México,"Naucalpan de 
+Juárez",1,1.0,0.0,0.0,2019-02-11
+Estado de México,Nezahualcóyotl,2,2.0,0.0,0.0,2019-02-11
+Guanajuato,"Dolores Hidalgo 
+Cuna de la 
+Independencia 
+Nacional",2,2.0,0.0,0.0,2019-02-11
+Guanajuato,Guanajuato,1,1.0,0.0,0.0,2019-02-11
+Guanajuato,Irapuato,2,2.0,0.0,0.0,2019-02-11
+Guanajuato,Jerécuaro,2,1.0,0.0,1.0,2019-02-11
+Guanajuato,Romita,1,1.0,0.0,0.0,2019-02-11
+Guanajuato,Salamanca,4,4.0,0.0,0.0,2019-02-11
+Guerrero,"Acapulco de 
+Juárez",2,2.0,0.0,0.0,2019-02-11
+Guerrero,"Chilpancingo de 
+los Bravo",2,2.0,0.0,0.0,2019-02-11
+Guerrero,Cuajinicuilapa,1,1.0,0.0,0.0,2019-02-11
+Guerrero,"Iguala de la 
+Independencia",1,1.0,0.0,0.0,2019-02-11
+Jalisco,"San Pedro 
+Tlaquepaque",2,2.0,0.0,0.0,2019-02-11
+Jalisco,Tonalá,1,1.0,0.0,0.0,2019-02-11
+Jalisco,Zapopan,4,0.0,0.0,4.0,2019-02-11
+Michoacán,Zamora,3,3.0,0.0,0.0,2019-02-11
+Michoacán,Zitácuaro,5,5.0,0.0,0.0,2019-02-11
+Morelos,Cuautla,1,0.0,1.0,0.0,2019-02-11
+Morelos,Cuernavaca,1,1.0,0.0,0.0,2019-02-11
+Morelos,Tepalcingo,1,0.0,1.0,0.0,2019-02-11
+Morelos,Yautepec,1,1.0,0.0,0.0,2019-02-11
+Nuevo León,Monterrey,1,1.0,0.0,0.0,2019-02-11
+Oaxaca,"San Juan 
+Bautista 
+Cuicatlán",1,0.0,1.0,0.0,2019-02-11
+Oaxaca,"San Pedro 
+Mixtepec -Dto. 
+22 -",3,3.0,0.0,0.0,2019-02-11
+Oaxaca,"Santa María 
+Tonameca",2,2.0,0.0,0.0,2019-02-11
+Puebla,Amozoc,1,1.0,0.0,0.0,2019-02-11
+Puebla,Cuyoaco,1,1.0,0.0,0.0,2019-02-11
+Puebla,Puebla,2,1.0,1.0,0.0,2019-02-11
+Puebla,"San Martín 
+Texmelucan",3,1.0,0.0,2.0,2019-02-11
+Puebla,Tepeaca,1,0.0,1.0,0.0,2019-02-11
+Querétaro,Querétaro,2,1.0,0.0,1.0,2019-02-11
+Querétaro,San Juan del Río,1,1.0,0.0,0.0,2019-02-11
+Quintana Roo,Benito Juárez,1,0.0,0.0,1.0,2019-02-11
+Sinaloa,Culiacán,3,3.0,0.0,0.0,2019-02-11
+Sinaloa,Mazatlán,1,1.0,0.0,0.0,2019-02-11
+Sinaloa,"Salvador 
+Alvarado",1,1.0,0.0,0.0,2019-02-11
+Sonora,Cajeme,1,1.0,0.0,0.0,2019-02-11
+Tabasco,Centro,1,1.0,0.0,0.0,2019-02-11
+Tabasco,Cunduacán,1,1.0,0.0,0.0,2019-02-11
+Tabasco,Huimanguillo,2,1.0,1.0,0.0,2019-02-11
+Tamaulipas,Nuevo Laredo,1,1.0,0.0,0.0,2019-02-11
+Tamaulipas,Reynosa,2,0.0,0.0,2.0,2019-02-11
+Veracruz,Acayucan,1,1.0,0.0,0.0,2019-02-11
+Veracruz,Jáltipan,1,1.0,0.0,0.0,2019-02-11
+Veracruz,Paso del Macho,1,1.0,0.0,0.0,2019-02-11
+Zacatecas,Zacatecas,3,2.0,0.0,1.0,2019-02-11

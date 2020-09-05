@@ -1,0 +1,65 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2020-05-06
+Baja California,Tecate,1.0,1.0,0.0,0.0,2020-05-06
+Baja California,Tijuana,3.0,3.0,0.0,0.0,2020-05-06
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-05-06
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-05-06
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-05-06
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-05-06
+Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2020-05-06
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-05-06
+Colima,Villa de Álvarez,1.0,1.0,0.0,0.0,2020-05-06
+Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2020-05-06
+Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2020-05-06
+Guanajuato,León,3.0,2.0,0.0,1.0,2020-05-06
+Guanajuato,Salvatierra,1.0,0.0,1.0,0.0,2020-05-06
+Guerrero,Acapulco de,1.0,1.0,0.0,0.0,2020-05-06
+Guerrero,Juárez,1.0,1.0,0.0,0.0,2020-05-06
+Guerrero,"Taxco de 
+Alarcón",2.0,2.0,0.0,0.0,2020-05-06
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-05-06
+Jalisco,"San Pedro 
+Tlaquepaque",2.0,2.0,0.0,0.0,2020-05-06
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,0.0,0.0,1.0,2020-05-06
+Jalisco,Tomatlán,2.0,0.0,0.0,2.0,2020-05-06
+Jalisco,Zapopan,4.0,3.0,0.0,1.0,2020-05-06
+Michoacán,Morelia,3.0,1.0,0.0,2.0,2020-05-06
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-05-06
+Morelos,Yecapixtla,1.0,1.0,0.0,0.0,2020-05-06
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2020-05-06
+Estado de México,Ecatzingo,2.0,1.0,1.0,0.0,2020-05-06
+Estado de México,"Ixtapan de la 
+Sal",1.0,1.0,0.0,0.0,2020-05-06
+Estado de México,La Paz,2.0,2.0,0.0,0.0,2020-05-06
+Nuevo León,García,1.0,0.0,1.0,0.0,2020-05-06
+Nuevo León,Santiago,1.0,1.0,0.0,0.0,2020-05-06
+Oaxaca,"Acatlán de 
+Pérez Figueroa",1.0,1.0,0.0,0.0,2020-05-06
+Oaxaca,"San Pedro 
+Ixcatlán",1.0,1.0,0.0,0.0,2020-05-06
+Oaxaca,"San Pedro 
+Mixtepec",1.0,1.0,0.0,0.0,2020-05-06
+Puebla,Huejotzingo,1.0,1.0,0.0,0.0,2020-05-06
+Puebla,Tepeaca,1.0,1.0,0.0,0.0,2020-05-06
+Querétaro,"San Juan del 
+Río",3.0,1.0,0.0,2.0,2020-05-06
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-06
+Quintana Roo,"Othón P. 
+Blanco",1.0,1.0,0.0,0.0,2020-05-06
+San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2020-05-06
+Sinaloa,Choix,2.0,1.0,1.0,0.0,2020-05-06
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-05-06
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-05-06
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-05-06
+Tlaxcala,Calpulalpan,1.0,1.0,0.0,0.0,2020-05-06
+Veracruz,"Emiliano 
+Zapata",1.0,1.0,0.0,0.0,2020-05-06
+Veracruz,Fortín,1.0,1.0,0.0,0.0,2020-05-06
+Veracruz,"Martínez de la 
+Torre",1.0,1.0,0.0,0.0,2020-05-06
+Veracruz,Misantla,2.0,1.0,1.0,0.0,2020-05-06
+Veracruz,Playa Vicente,1.0,1.0,0.0,0.0,2020-05-06
+Veracruz,Xalapa,1.0,1.0,0.0,0.0,2020-05-06
+Zacatecas,Calera,1.0,0.0,1.0,0.0,2020-05-06
+Zacatecas,Valparaíso,1.0,1.0,0.0,0.0,2020-05-06

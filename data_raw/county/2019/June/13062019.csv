@@ -1,0 +1,70 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,5.0,2.0,0.0,3.0,2019-06-13
+Chihuahua,Bocoyna,1.0,1.0,0.0,0.0,2019-06-13
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-06-13
+Chihuahua,Juárez,4.0,0.0,1.0,3.0,2019-06-13
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-06-13
+Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2019-06-13
+Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2019-06-13
+Colima,Manzanillo,3.0,3.0,0.0,0.0,2019-06-13
+Colima,Villa de Álvarez,2.0,2.0,0.0,0.0,2019-06-13
+Durango,Gomez Palacio,1.0,1.0,0.0,0.0,2019-06-13
+Guanajuato,Abasolo,1.0,1.0,0.0,0.0,2019-06-13
+Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2019-06-13
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-06-13
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-06-13
+Guanajuato,Pénjamo,2.0,0.0,2.0,0.0,2019-06-13
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-06-13
+Guanajuato,"San Francisco 
+del Rincón",2.0,2.0,0.0,0.0,2019-06-13
+Guerrero,"Acapulco de 
+Juárez",3.0,3.0,0.0,0.0,2019-06-13
+Guerrero,Atoyac de,1.0,1.0,0.0,0.0,2019-06-13
+Guerrero,"Chilapa de 
+Álvarez",1.0,0.0,1.0,0.0,2019-06-13
+Guerrero,"Coyuca de 
+Catalán",1.0,1.0,0.0,0.0,2019-06-13
+Guerrero,Álvarez,1.0,1.0,0.0,0.0,2019-06-13
+Hidalgo,"Atotonilco de 
+Tula",1.0,1.0,0.0,0.0,2019-06-13
+Hidalgo,Zempoala,4.0,4.0,0.0,0.0,2019-06-13
+Jalisco,Guadalajara,5.0,3.0,1.0,1.0,2019-06-13
+Jalisco,Puerto Vallarta,3.0,3.0,0.0,0.0,2019-06-13
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-06-13
+Michoacán,Morelia,4.0,3.0,1.0,0.0,2019-06-13
+Michoacán,Tangancícuaro,1.0,1.0,0.0,0.0,2019-06-13
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2019-06-13
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-06-13
+Morelos,"Emiliano 
+Zapata",1.0,1.0,0.0,0.0,2019-06-13
+Morelos,Yautepec,1.0,1.0,0.0,0.0,2019-06-13
+Estado de México,Juchitepec,1.0,1.0,0.0,0.0,2019-06-13
+Estado de México,Nezahualcóyotl,2.0,2.0,0.0,0.0,2019-06-13
+Estado de México,Tecámac,1.0,1.0,0.0,0.0,2019-06-13
+Nayarit,Tepic,1.0,1.0,0.0,0.0,2019-06-13
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2019-06-13
+Oaxaca,"Asunción 
+Ixtaltepec",1.0,1.0,0.0,0.0,2019-06-13
+Oaxaca,"Heroica Ciudad 
+de Juchitán de 
+Zaragoza",3.0,3.0,0.0,0.0,2019-06-13
+Puebla,Chalchicomula,1.0,1.0,0.0,0.0,2019-06-13
+Puebla,Huaquechula,1.0,1.0,0.0,0.0,2019-06-13
+Puebla,"San Pedro 
+Cholula",1.0,1.0,0.0,0.0,2019-06-13
+Puebla,de Sesma,1.0,1.0,0.0,0.0,2019-06-13
+Querétaro,El Marqués,1.0,1.0,0.0,0.0,2019-06-13
+Quintana Roo,Benito Juárez,1.0,0.0,0.0,1.0,2019-06-13
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-06-13
+Sinaloa,Choix,2.0,2.0,0.0,0.0,2019-06-13
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2019-06-13
+Sinaloa,Mocorito,2.0,1.0,1.0,0.0,2019-06-13
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2019-06-13
+Sonora,Navojoa,1.0,1.0,0.0,0.0,2019-06-13
+Veracruz,Cosoleacaque,2.0,2.0,0.0,0.0,2019-06-13
+Veracruz,Jesús Carranza,1.0,1.0,0.0,0.0,2019-06-13
+Veracruz,"Sayula de 
+Alemán",2.0,2.0,0.0,0.0,2019-06-13
+Veracruz,Veracruz,1.0,0.0,1.0,0.0,2019-06-13
+Veracruz,Xalapa,2.0,1.0,1.0,0.0,2019-06-13
+Zacatecas,Miguel Auza,1.0,1.0,0.0,0.0,2019-06-13

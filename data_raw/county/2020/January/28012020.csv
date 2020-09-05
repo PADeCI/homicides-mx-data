@@ -1,0 +1,60 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,4.0,4.0,0.0,0.0,2020-01-28
+Chihuahua,Cuauhtémoc,2.0,2.0,0.0,0.0,2020-01-28
+Chihuahua,Juárez,5.0,4.0,0.0,1.0,2020-01-28
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2020-01-28
+Coahuila,Nava,1.0,1.0,0.0,0.0,2020-01-28
+Colima,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-01-28
+Guanajuato,Irapuato,9.0,9.0,0.0,0.0,2020-01-28
+Guanajuato,León,2.0,2.0,0.0,0.0,2020-01-28
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-01-28
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2020-01-28
+Guerrero,Acapulco De Juárez,2.0,1.0,1.0,0.0,2020-01-28
+Guerrero,Huitzuco De Los Figueroa,2.0,1.0,0.0,1.0,2020-01-28
+Guerrero,Huitzuco De Los Figueroa,2.0,1.0,0.0,1.0,2020-01-28
+Hidalgo,Ixmiquilpan,1.0,1.0,0.0,0.0,2020-01-28
+Hidalgo,Tulancingo De Bravo,2.0,1.0,0.0,1.0,2020-01-28
+Jalisco,Tonalá,1.0,0.0,0.0,1.0,2020-01-28
+Coahuila,Las Choapas,1.0,1.0,0.0,0.0,2020-01-28
+Coahuila,Medellín De Bravo,2.0,2.0,0.0,0.0,2020-01-28
+Coahuila,Papantla,1.0,1.0,0.0,0.0,2020-01-28
+Coahuila,Veracruz,1.0,0.0,1.0,0.0,2020-01-28
+Michoacán,Buenavista,1.0,1.0,0.0,0.0,2020-01-28
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-01-28
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-01-28
+Morelos,Jiutepec,1.0,0.0,0.0,1.0,2020-01-28
+Morelos,Temixco,1.0,1.0,0.0,0.0,2020-01-28
+Morelos,Xochitepec,1.0,1.0,0.0,0.0,2020-01-28
+Estado de México,Ecatepec De Morelos,1.0,0.0,1.0,0.0,2020-01-28
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2020-01-28
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-01-28
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-01-28
+Nayarit,Compostela,1.0,1.0,0.0,0.0,2020-01-28
+Nuevo León,García,1.0,1.0,0.0,0.0,2020-01-28
+Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2020-01-28
+Nuevo León,San Nicolás De Los Garza,1.0,1.0,0.0,0.0,2020-01-28
+Oaxaca,San Jacinto Amilpas,1.0,0.0,0.0,1.0,2020-01-28
+Oaxaca,San Juan Bautista Tuxtepec,2.0,2.0,0.0,0.0,2020-01-28
+Oaxaca,Santo Domingo Tehuantepec,1.0,0.0,1.0,0.0,2020-01-28
+Puebla,Amozoc,1.0,1.0,0.0,0.0,2020-01-28
+Puebla,Atempan,1.0,0.0,0.0,1.0,2020-01-28
+Puebla,Huehuetla,1.0,0.0,1.0,0.0,2020-01-28
+Puebla,Izúcar De Matamoros,1.0,1.0,0.0,0.0,2020-01-28
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-01-28
+Puebla,San Martín Texmelucan,2.0,2.0,0.0,0.0,2020-01-28
+Puebla,San Salvador El Seco,1.0,0.0,0.0,1.0,2020-01-28
+Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2020-01-28
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-01-28
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-01-28
+San Luis Potosí,San Luis Potosí,2.0,0.0,2.0,0.0,2020-01-28
+San Luis Potosí,Tampamolón Corona,1.0,0.0,0.0,1.0,2020-01-28
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-01-28
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-01-28
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-01-28
+Sonora,Hermosillo,5.0,5.0,0.0,0.0,2020-01-28
+Tabasco,Centro,3.0,3.0,0.0,0.0,2020-01-28
+Tabasco,Nacajuca,1.0,1.0,0.0,0.0,2020-01-28
+Tamaulipas,Reynosa,2.0,2.0,0.0,0.0,2020-01-28
+Tlaxcala,Chiautempan,1.0,1.0,0.0,0.0,2020-01-28
+Tlaxcala,San Francisco Tetlanohcan,1.0,1.0,0.0,0.0,2020-01-28
+Veracruz,Coatepec,1.0,1.0,0.0,0.0,2020-01-28

@@ -1,0 +1,70 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2019-05-14
+Baja California,Tijuana,2.0,2.0,0.0,0.0,2019-05-14
+Chiapas,"Benemérito de 
+las Américas",1.0,1.0,0.0,0.0,2019-05-14
+Chiapas,Palenque,2.0,1.0,0.0,1.0,2019-05-14
+Chiapas,Suchiate,1.0,1.0,0.0,0.0,2019-05-14
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-05-14
+Chihuahua,"Guadalupe y 
+Calvo",2.0,2.0,0.0,0.0,2019-05-14
+Chihuahua,Juárez,4.0,4.0,0.0,0.0,2019-05-14
+Ciudad de México,Benito Juárez,3.0,2.0,1.0,0.0,2019-05-14
+Ciudad de México,Cuauhtémoc,1.0,0.0,0.0,1.0,2019-05-14
+Ciudad de México,"La Magdalena 
+Contreras",1.0,1.0,0.0,0.0,2019-05-14
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2019-05-14
+Coahuila,Torreón,2.0,2.0,0.0,0.0,2019-05-14
+Colima,Manzanillo,2.0,1.0,1.0,0.0,2019-05-14
+Durango,Cuencamé,1.0,1.0,0.0,0.0,2019-05-14
+Durango,Lerdo,1.0,1.0,0.0,0.0,2019-05-14
+Guanajuato,Acámbaro,2.0,1.0,1.0,0.0,2019-05-14
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-05-14
+Guanajuato,León,1.0,1.0,0.0,0.0,2019-05-14
+Guanajuato,"Silao de la 
+Víctoria",1.0,1.0,0.0,0.0,2019-05-14
+Guerrero,"Acapulco de 
+Juárez",1.0,0.0,1.0,0.0,2019-05-14
+Guerrero,"Chilapa de 
+Álvarez",1.0,1.0,0.0,0.0,2019-05-14
+Guerrero,"Chilpancingo 
+de los Bravo",1.0,1.0,0.0,0.0,2019-05-14
+Guerrero,"Tlapa de 
+Comonfort",1.0,1.0,0.0,0.0,2019-05-14
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-05-14
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,1.0,0.0,0.0,2019-05-14
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,1.0,0.0,0.0,2019-05-14
+Michoacán,Apatzingán,1.0,1.0,0.0,0.0,2019-05-14
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2019-05-14
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-05-14
+Morelos,Cuernavaca,3.0,3.0,0.0,0.0,2019-05-14
+Morelos,Tetecala,1.0,1.0,0.0,0.0,2019-05-14
+Estado de México,La Paz,1.0,0.0,0.0,1.0,2019-05-14
+Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2019-05-14
+Estado de México,Zumpango,1.0,1.0,0.0,0.0,2019-05-14
+Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2019-05-14
+Oaxaca,"San Juan 
+Bautista 
+Tuxtepec",1.0,0.0,0.0,1.0,2019-05-14
+Puebla,"Izúcar de 
+Matamoros",1.0,1.0,0.0,0.0,2019-05-14
+Puebla,Jolalpan,1.0,1.0,0.0,0.0,2019-05-14
+Puebla,Tehuacán,1.0,1.0,0.0,0.0,2019-05-14
+Puebla,Tochtepec,1.0,1.0,0.0,0.0,2019-05-14
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-05-14
+Quintana Roo,Solidaridad,1.0,0.0,1.0,0.0,2019-05-14
+San Luis Potosí,Aquismón,2.0,0.0,0.0,2.0,2019-05-14
+Sinaloa,Culiacán,1.0,0.0,0.0,1.0,2019-05-14
+Sinaloa,Guasave,1.0,1.0,0.0,0.0,2019-05-14
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2019-05-14
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-05-14
+Tabasco,Macuspana,1.0,1.0,0.0,0.0,2019-05-14
+Tamaulipas,Altamira,1.0,1.0,0.0,0.0,2019-05-14
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-05-14
+Tlaxcala,Zacatelco,1.0,1.0,0.0,0.0,2019-05-14
+Veracruz,Coatzacoalcos,2.0,2.0,0.0,0.0,2019-05-14
+Zacatecas,"General Pánfilo 
+Natera",1.0,1.0,0.0,0.0,2019-05-14
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2019-05-14

@@ -1,0 +1,87 @@
+Entidad,Municipio,"No de 
+Muertos",Hombre,Mujer,"No 
+Identificado"
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+"Baja 
+California (8)",Tijuana,1,1,-,-
+,,1,-,-,1
+,,2,2,-,-
+,,2,2,-,-
+,,1,1,-,-
+,,1,-,-,1
+Chiapas (1),"Tuxtla 
+Gutiérrez",1,1,-,-
+Chihuahua (2),Madera,2,1,1,-
+Colima (1),Tecomán,1,1,-,-
+"Guanajuato 
+(8)","Apaseo el 
+Grande",1,-,-,1
+,,1,1,-,-
+,Celaya,1,1,-,-
+,Irapuato,2,2,-,-
+,,,,,
+,,1.0,1,-,-
+,,1.0,1,-,-
+,"San Francisco 
+del Rincón",1.0,1,-,-
+Guerrero (4),"Acapulco de 
+Juárez",1.0,1,-,-
+,,1.0,1,-,-
+,"Chilpancingo 
+de los Bravo",1.0,1,-,-
+,"Iguala de la 
+Independencia",1.0,1,-,-
+Jalisco (3),Guadalajara,1.0,1,-,-
+,"Tlajomulco de 
+Zúñiga",2.0,-,2,-
+México (2),Lerma,1.0,1,-,-
+,"Naucalpan de 
+Juárez",1.0,1,-,-
+"Michoacán de 
+Ocampo (22)",Morelia,1.0,1,-,-
+,,1.0,1,-,-
+,Uruapan,8.0,8,-,-
+,,10.0,-,-,10
+,Zinapécuaro,2.0,2,-,-
+Morelos (1),Yautepec,1,1,-,-
+"Nuevo León 
+(2)","Ciénega de 
+Flores",1,1,-,-
+,García,1,1,-,-
+Oaxaca (1),"Huautla de 
+Jiménez",1,1,-,-
+Puebla (8),Puebla,1,-,1,-
+,,1,1,-,-
+,,1,1,-,-
+,"San Martín 
+Texmelucan",3,1,2,-
+,Tochtepec,1,1,-,-
+,Zacatlán,1,1,-,-
+Querétaro (2),Querétaro,1,1,-,-
+,,1,1,-,-
+"Quintana Roo 
+(7)",Benito Juárez,4,4,-,-
+,,1,1,-,-
+,,1,1,-,-
+,Tulum,1,1,-,-
+"San Luis 
+Potosí (1)",San Luis Potosí,1,1,-,-
+Sinaloa (2),Culiacán,1,1,-,-
+,,1,1,-,-
+Sonora (4),Cajeme,1,1,-,-
+,,2,2,-,-
+,Hermosillo,1,-,-,1
+Tabasco (1),Cárdenas,1,1,-,-
+"Tamaulipas 
+(5)",Reynosa,3,3,-,-
+,,2,2,-,-
+"Veracruz de 
+Ignacio de la 
+Llave (2)",Veracruz,1,1,-,-
+,Zentla,1,1,-,-
+Yucatán (1),Tahdziú,1,1,-,-
+Zacatecas (1),Guadalupe,1,1,-,-
+Totales,,89,69,6,14

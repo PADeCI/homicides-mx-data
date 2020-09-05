@@ -1,0 +1,59 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2020-01-27
+Baja California,Tijuana,2.0,2.0,0.0,0.0,2020-01-27
+Chiapas,Salto De Agua,1.0,1.0,0.0,0.0,2020-01-27
+Chihuahua,Bachíniva,1.0,0.0,1.0,0.0,2020-01-27
+Chihuahua,Chihuahua,1.0,0.0,0.0,1.0,2020-01-27
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-01-27
+Ciudad de México,Cuauhtémoc,1.0,0.0,1.0,0.0,2020-01-27
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2020-01-27
+Coahuila,Monclova,1.0,1.0,0.0,0.0,2020-01-27
+Colima,Manzanillo,3.0,0.0,0.0,3.0,2020-01-27
+Guanajuato,Apaseo El Grande,1.0,0.0,0.0,1.0,2020-01-27
+Guanajuato,Celaya,4.0,1.0,1.0,2.0,2020-01-27
+Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2020-01-27
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-01-27
+Guanajuato,León,1.0,1.0,0.0,0.0,2020-01-27
+Guanajuato,Pénjamo,2.0,2.0,0.0,0.0,2020-01-27
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-01-27
+Guanajuato,Santiago Maravatío,1.0,1.0,0.0,0.0,2020-01-27
+Guanajuato,Yuriria,1.0,1.0,0.0,0.0,2020-01-27
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-01-27
+Guerrero,Zihuatanejo De Azueta,1.0,0.0,1.0,0.0,2020-01-27
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-01-27
+Hidalgo,Cuautepec De Hinojosa,1.0,1.0,0.0,0.0,2020-01-27
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-01-27
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-01-27
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-01-27
+Jalisco,Zacoalco De Torres,1.0,1.0,0.0,0.0,2020-01-27
+Jalisco,Zapopan,1.0,0.0,1.0,0.0,2020-01-27
+Michoacán,Churumuco,1.0,1.0,0.0,0.0,2020-01-27
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-01-27
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-01-27
+Morelos,Cuernavaca,2.0,2.0,0.0,0.0,2020-01-27
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-01-27
+Estado de México,Aculco,1.0,0.0,0.0,1.0,2020-01-27
+Nuevo León,Monterrey,2.0,1.0,1.0,0.0,2020-01-27
+Oaxaca,Matías Romero Avendaño,1.0,1.0,0.0,0.0,2020-01-27
+Oaxaca,San Juan Bautista Tuxtepec,2.0,1.0,1.0,0.0,2020-01-27
+Puebla,Acatzingo,1.0,1.0,0.0,0.0,2020-01-27
+Puebla,Chietla,3.0,1.0,2.0,0.0,2020-01-27
+Puebla,Izúcar De Matamoros,1.0,1.0,0.0,0.0,2020-01-27
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2020-01-27
+Quintana Roo,Benito Juárez,3.0,3.0,0.0,0.0,2020-01-27
+Quintana Roo,Felipe Carrillo Puerto,2.0,0.0,2.0,0.0,2020-01-27
+Quintana Roo,Othón P. Blanco,1.0,1.0,0.0,0.0,2020-01-27
+Quintana Roo,Tulum,1.0,1.0,0.0,0.0,2020-01-27
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-01-27
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,0.0,0.0,1.0,2020-01-27
+San Luis Potosí,Villa De Reyes,2.0,2.0,0.0,0.0,2020-01-27
+Sinaloa,Culiacán,6.0,3.0,3.0,0.0,2020-01-27
+Sonora,Cajeme,2.0,2.0,0.0,0.0,2020-01-27
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-01-27
+Sonora,Nogales,3.0,0.0,0.0,3.0,2020-01-27
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2020-01-27
+Tlaxcala,El Carmen Tequexquitla,1.0,1.0,0.0,0.0,2020-01-27
+Veracruz,Orizaba,2.0,2.0,0.0,0.0,2020-01-27
+Veracruz,San Rafael,1.0,1.0,0.0,0.0,2020-01-27
+Veracruz,Tuxpan,1.0,1.0,0.0,0.0,2020-01-27
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2020-01-27

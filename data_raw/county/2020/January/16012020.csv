@@ -1,0 +1,52 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Jesús María,1.0,0.0,1.0,0.0,2020-01-16
+Baja California,Tijuana,2.0,1.0,1.0,0.0,2020-01-16
+Baja California Sur,Mulegé,3.0,3.0,0.0,0.0,2020-01-16
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-01-16
+Ciudad de México,Cuauhtémoc,2.0,0.0,1.0,1.0,2020-01-16
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-01-16
+Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2020-01-16
+Coahuila,Matamoros,1.0,1.0,0.0,0.0,2020-01-16
+Coahuila,Saltillo,1.0,0.0,1.0,0.0,2020-01-16
+Coahuila,Torreón,2.0,2.0,0.0,0.0,2020-01-16
+Colima,Tecomán,2.0,2.0,0.0,0.0,2020-01-16
+Durango,Lerdo,1.0,1.0,0.0,0.0,2020-01-16
+Guanajuato,Celaya,7.0,7.0,0.0,0.0,2020-01-16
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-01-16
+Guanajuato,León,7.0,5.0,0.0,2.0,2020-01-16
+Guanajuato,Salamanca,2.0,1.0,1.0,0.0,2020-01-16
+Guanajuato,San Miguel De Allende,2.0,2.0,0.0,0.0,2020-01-16
+Guanajuato,Silao De La Victoria,4.0,3.0,1.0,0.0,2020-01-16
+Guerrero,Acapulco De Juárez,2.0,1.0,0.0,1.0,2020-01-16
+Guerrero,Huitzuco De Los Figueroa,1.0,1.0,0.0,0.0,2020-01-16
+Guerrero,Zirándaro,1.0,1.0,0.0,0.0,2020-01-16
+Hidalgo,Huejutla De Reyes,1.0,1.0,0.0,0.0,2020-01-16
+Hidalgo,Tepeji Del Río De Ocampo,1.0,0.0,1.0,0.0,2020-01-16
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2020-01-16
+Jalisco,Lagos De Moreno,6.0,0.0,0.0,6.0,2020-01-16
+Jalisco,San Pedro Tlaquepaque,1.0,0.0,0.0,1.0,2020-01-16
+Jalisco,Zapopan,3.0,0.0,0.0,3.0,2020-01-16
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-01-16
+Michoacán,Morelia,4.0,4.0,0.0,0.0,2020-01-16
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-01-16
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-01-16
+Morelos,Cuernavaca,2.0,1.0,1.0,0.0,2020-01-16
+Morelos,Jiutepec,2.0,0.0,0.0,2.0,2020-01-16
+Estado de México,Cuautitlán Izcalli,1.0,0.0,1.0,0.0,2020-01-16
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-01-16
+Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-01-16
+Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2020-01-16
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2020-01-16
+Oaxaca,San Pedro Mixtepec,1.0,1.0,0.0,0.0,2020-01-16
+Puebla,Acatzingo,1.0,1.0,0.0,0.0,2020-01-16
+Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2020-01-16
+Quintana Roo,Benito Juárez,2.0,1.0,0.0,1.0,2020-01-16
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-01-16
+Sonora,Guaymas,2.0,2.0,0.0,0.0,2020-01-16
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-01-16
+Tabasco,Nacajuca,2.0,1.0,1.0,0.0,2020-01-16
+Tamaulipas,Miguel Alemán,11.0,11.0,0.0,0.0,2020-01-16
+Tlaxcala,Santa Cruz Tlaxcala,1.0,1.0,0.0,0.0,2020-01-16
+Veracruz,Las Choapas,1.0,1.0,0.0,0.0,2020-01-16
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2020-01-16
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-01-16

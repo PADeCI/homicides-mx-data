@@ -1,0 +1,71 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2019-11-26
+Baja California,Tijuana,5.0,5.0,0.0,0.0,2019-11-26
+Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2019-11-26
+Ciudad de México,Iztapalapa,2.0,1.0,1.0,0.0,2019-11-26
+Ciudad de México,"Venustiano 
+Carranza",1.0,1.0,0.0,0.0,2019-11-26
+Coahuila,Parras,1.0,1.0,0.0,0.0,2019-11-26
+Colima,Colima,1.0,1.0,0.0,0.0,2019-11-26
+Durango,Pueblo Nuevo,1.0,1.0,0.0,0.0,2019-11-26
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-11-26
+Guanajuato,Cortázar,1.0,1.0,0.0,0.0,2019-11-26
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-11-26
+Guanajuato,León,2.0,2.0,0.0,0.0,2019-11-26
+Guanajuato,Pueblo Nuevo,1.0,1.0,0.0,0.0,2019-11-26
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-11-26
+Guanajuato,Villagrán,1.0,1.0,0.0,0.0,2019-11-26
+Guanajuato,Yuriria,1.0,1.0,0.0,0.0,2019-11-26
+Guerrero,"Acapulco de 
+Juárez",3.0,3.0,0.0,0.0,2019-11-26
+Guerrero,"Zihuatanejo 
+de Azueta",2.0,2.0,0.0,0.0,2019-11-26
+Jalisco,El Salto,1.0,1.0,0.0,0.0,2019-11-26
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-11-26
+Jalisco,"San Juan de 
+los Lagos",6.0,6.0,0.0,0.0,2019-11-26
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,1.0,0.0,0.0,2019-11-26
+Jalisco,Tonalá,3.0,1.0,0.0,2.0,2019-11-26
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-11-26
+Michoacán,"Lázaro 
+Cárdenas",1.0,1.0,0.0,0.0,2019-11-26
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-11-26
+Michoacán,Tangancícuaro,1.0,1.0,0.0,0.0,2019-11-26
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2019-11-26
+Morelos,"Emiliano 
+Zapata",1.0,1.0,0.0,0.0,2019-11-26
+Morelos,Huitzilac,1.0,1.0,0.0,0.0,2019-11-26
+Morelos,Jiutepec,1.0,0.0,1.0,0.0,2019-11-26
+Morelos,Temixco,1.0,1.0,0.0,0.0,2019-11-26
+Estado de México,"Coacalco de 
+Berriozábal",2.0,2.0,0.0,0.0,2019-11-26
+Estado de México,"Ecatepec de 
+Morelos",1.0,1.0,0.0,0.0,2019-11-26
+Estado de México,La Paz,1.0,0.0,1.0,0.0,2019-11-26
+Estado de México,Ocuilan,1.0,1.0,0.0,0.0,2019-11-26
+Nayarit,"San Pedro 
+Lagunillas",1.0,0.0,0.0,1.0,2019-11-26
+Nuevo León,Los Aldamas,1.0,1.0,0.0,0.0,2019-11-26
+Oaxaca,"Oaxaca de 
+Juárez",1.0,1.0,0.0,0.0,2019-11-26
+Oaxaca,"Tlalixtac de 
+Cabrera",1.0,1.0,0.0,0.0,2019-11-26
+Puebla,Puebla,1.0,1.0,0.0,0.0,2019-11-26
+Puebla,"San Martín 
+Totoltepec",1.0,1.0,0.0,0.0,2019-11-26
+Quintana Roo,Benito Juárez,2.0,0.0,2.0,0.0,2019-11-26
+Sinaloa,Elota,1.0,1.0,0.0,0.0,2019-11-26
+Sonora,Bácum,1.0,1.0,0.0,0.0,2019-11-26
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-11-26
+Tabasco,Centro,2.0,2.0,0.0,0.0,2019-11-26
+Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2019-11-26
+Tlaxcala,Calpulalpan,1.0,1.0,0.0,0.0,2019-11-26
+Tlaxcala,Zacatelco,1.0,1.0,0.0,0.0,2019-11-26
+Veracruz,Acayucan,1.0,1.0,0.0,0.0,2019-11-26
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-11-26
+Veracruz,"Martínez de la 
+Torre",1.0,1.0,0.0,0.0,2019-11-26
+Veracruz,Omealca,1.0,1.0,0.0,0.0,2019-11-26
+Veracruz,Veracruz,1.0,1.0,0.0,0.0,2019-11-26
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2019-11-26

@@ -1,0 +1,54 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,"No. de 
+muertos",Fecha
+Baja California,"Playas de 
+Rosarito",1.0,1.0,0.0,0.0,0.0,2019-03-06
+Baja California,Tijuana,3.0,2.0,0.0,1.0,0.0,2019-03-06
+Chiapas,"Tuxtla 
+Gutiérrez",1.0,0.0,1.0,0.0,0.0,2019-03-06
+Chihuahua,Bocoyna,1.0,0.0,0.0,1.0,0.0,2019-03-06
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,0.0,2019-03-06
+Ciudad de México,Cuauhtémoc,3.0,3.0,0.0,0.0,0.0,2019-03-06
+Coahuila,Matamoros,1.0,1.0,0.0,0.0,0.0,2019-03-06
+Colima,Armería,1.0,0.0,0.0,1.0,0.0,2019-03-06
+Colima,Manzanillo,1.0,1.0,0.0,0.0,0.0,2019-03-06
+Guanajuato,Irapuato,4.0,4.0,0.0,0.0,0.0,2019-03-06
+Guanajuato,León,2.0,2.0,0.0,0.0,0.0,2019-03-06
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,0.0,2019-03-06
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,0.0,2019-03-06
+Guanajuato,Salvatierra,1.0,0.0,1.0,0.0,0.0,2019-03-06
+Guerrero,"Acapulco de 
+Juárez",3.0,3.0,0.0,0.0,0.0,2019-03-06
+Guerrero,"Iguala de la 
+Independencia",1.0,1.0,0.0,0.0,0.0,2019-03-06
+Jalisco,El Salto,1.0,1.0,0.0,0.0,0.0,2019-03-06
+Jalisco,Tonalá,1.0,0.0,0.0,1.0,0.0,2019-03-06
+Michoacán,Morelia,1.0,1.0,0.0,0.0,1.0,2019-03-06
+Michoacán,"Venustiano 
+Carranza",1.0,1.0,0.0,0.0,1.0,2019-03-06
+Morelos,Amacuzac,1.0,1.0,0.0,0.0,1.0,2019-03-06
+Morelos,Cuautla,1.0,1.0,0.0,0.0,1.0,2019-03-06
+Estado de México,La Paz,1.0,1.0,0.0,0.0,1.0,2019-03-06
+Estado de México,"Tlalnepantla 
+de Baz",1.0,1.0,0.0,0.0,1.0,2019-03-06
+Estado de México,Toluca,1.0,1.0,0.0,0.0,1.0,2019-03-06
+Estado de México,"Valle de 
+Chalco 
+Solidaridad",1.0,1.0,0.0,0.0,1.0,2019-03-06
+Nuevo León,Gral. Escobedo,1.0,0.0,0.0,2.0,2.0,2019-03-06
+Nuevo León,Gral. Zuazua,1.0,1.0,0.0,0.0,1.0,2019-03-06
+Oaxaca,"Oaxaca de 
+Juárez",2.0,2.0,0.0,0.0,2.0,2019-03-06
+Oaxaca,"Santiago 
+Jamiltepec",1.0,0.0,1.0,0.0,1.0,2019-03-06
+Puebla,"Chalchicomula 
+de Sesma",1.0,1.0,0.0,0.0,1.0,2019-03-06
+Querétaro,"San Juan del 
+Río",1.0,1.0,0.0,0.0,1.0,2019-03-06
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,1.0,2019-03-06
+Sinaloa,Mazatlán,1.0,0.0,0.0,7.0,7.0,2019-03-06
+Tabasco,Centla,1.0,1.0,0.0,0.0,1.0,2019-03-06
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,1.0,2019-03-06
+Veracruz,Coatepec,1.0,2.0,0.0,0.0,2.0,2019-03-06
+Veracruz,Tuxpan,1.0,1.0,0.0,0.0,1.0,2019-03-06
+Veracruz,Xalapa,1.0,0.0,0.0,1.0,1.0,2019-03-06
+Zacatecas,Villa de Cos,2.0,0.0,0.0,2.0,2.0,2019-03-06

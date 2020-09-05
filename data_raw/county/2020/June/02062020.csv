@@ -1,0 +1,54 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2020-06-02
+Baja California,Tecate,1.0,1.0,0.0,0.0,2020-06-02
+Baja California,Tijuana,6.0,6.0,0.0,0.0,2020-06-02
+Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2020-06-02
+Chihuahua,Juárez,3.0,2.0,0.0,1.0,2020-06-02
+Ciudad de México,"Gustavo A. 
+Madero",2.0,0.0,0.0,2.0,2020-06-02
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-06-02
+Colima,Tecomán,4.0,0.0,0.0,4.0,2020-06-02
+Durango,Topia,1.0,1.0,0.0,0.0,2020-06-02
+Guanajuato,Acámbaro,1.0,0.0,1.0,0.0,2020-06-02
+Guanajuato,Celaya,5.0,5.0,0.0,0.0,2020-06-02
+Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2020-06-02
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-06-02
+Guanajuato,León,2.0,2.0,0.0,0.0,2020-06-02
+Guanajuato,"San Luis de la 
+Paz",7.0,4.0,3.0,0.0,2020-06-02
+Guanajuato,"Silao de la 
+Víctoria",1.0,1.0,0.0,0.0,2020-06-02
+Guanajuato,Uriangato,1.0,1.0,0.0,0.0,2020-06-02
+Guerrero,Azoyú,1.0,1.0,0.0,0.0,2020-06-02
+Hidalgo,Tepeapulco,1.0,1.0,0.0,0.0,2020-06-02
+Hidalgo,"Tezontepec de 
+Aldama",1.0,1.0,0.0,0.0,2020-06-02
+Jalisco,Amatitán,1.0,1.0,0.0,0.0,2020-06-02
+Jalisco,Chapala,1.0,1.0,0.0,0.0,2020-06-02
+Jalisco,"Jilotlán de los 
+Dolores",1.0,1.0,0.0,0.0,2020-06-02
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,0.0,1.0,0.0,2020-06-02
+Michoacán,Chavinda,1.0,1.0,0.0,0.0,2020-06-02
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-06-02
+Michoacán,Uruapan,3.0,2.0,0.0,1.0,2020-06-02
+Michoacán,Zamora,3.0,3.0,0.0,0.0,2020-06-02
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-06-02
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2020-06-02
+Estado de México,"Ecatepec de 
+Morelos",2.0,2.0,0.0,0.0,2020-06-02
+Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2020-06-02
+Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-06-02
+Estado de México,Temascaltepec,1.0,1.0,0.0,0.0,2020-06-02
+Nayarit,San Blas,1.0,1.0,0.0,0.0,2020-06-02
+Puebla,Coronango,1.0,1.0,0.0,0.0,2020-06-02
+Puebla,"San Martín 
+Texmelucan",1.0,1.0,0.0,0.0,2020-06-02
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-06-02
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2020-06-02
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-06-02
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-06-02
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-06-02
+Sonora,Guaymas,2.0,2.0,0.0,0.0,2020-06-02
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2020-06-02
+Veracruz,Tuxpan,1.0,1.0,0.0,0.0,2020-06-02

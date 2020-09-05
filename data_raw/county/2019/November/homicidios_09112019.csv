@@ -1,0 +1,47 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2019-11-09
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2019-11-09
+Baja California,Tijuana,2.0,2.0,0.0,0.0,2019-11-09
+Baja California Sur,La Paz,1.0,1.0,0.0,0.0,2019-11-09
+Chihuahua,Chihuahua,5.0,4.0,1.0,0.0,2019-11-09
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-11-09
+Chihuahua,Juárez,7.0,5.0,2.0,0.0,2019-11-09
+Colima,Tecomán,2.0,2.0,0.0,0.0,2019-11-09
+Durango,Lerdo,2.0,2.0,0.0,0.0,2019-11-09
+Durango,Pueblo Nuevo,1.0,1.0,0.0,0.0,2019-11-09
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-11-09
+Guanajuato,Guanajuato,3.0,0.0,0.0,3.0,2019-11-09
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-11-09
+Guanajuato,Salamanca,4.0,3.0,1.0,0.0,2019-11-09
+Guanajuato,"San Miguel de 
+Allende",1.0,1.0,0.0,0.0,2019-11-09
+Guerrero,"Acapulco de 
+Juárez",4.0,4.0,0.0,0.0,2019-11-09
+Guerrero,"Huitzuco de los 
+Figueroa",1.0,1.0,0.0,0.0,2019-11-09
+Hidalgo,Huehuetla,1.0,1.0,0.0,0.0,2019-11-09
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-11-09
+Jalisco,"San Pedro 
+Tlaquepaque",3.0,1.0,0.0,2.0,2019-11-09
+Jalisco,"Tlajomulco de 
+Zúñiga",6.0,5.0,1.0,0.0,2019-11-09
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-11-09
+Michoacán,Puruándiro,2.0,2.0,0.0,0.0,2019-11-09
+Michoacán,Uruapan,5.0,1.0,0.0,4.0,2019-11-09
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-11-09
+Morelos,"Tlaltizapán de 
+Zapata",2.0,0.0,0.0,2.0,2019-11-09
+Estado de México,Joquicingo,1.0,1.0,0.0,0.0,2019-11-09
+Estado de México,Otumba,1.0,1.0,0.0,0.0,2019-11-09
+Estado de México,Tonatico,1.0,1.0,0.0,0.0,2019-11-09
+Estado de México,Tultepec,1.0,1.0,0.0,0.0,2019-11-09
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2019-11-09
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-11-09
+Puebla,Puebla,1.0,1.0,0.0,0.0,2019-11-09
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2019-11-09
+Sonora,"Puerto 
+Peñasco",10.0,0.0,0.0,10.0,2019-11-09
+Veracruz,"Alamo 
+Temapache",2.0,2.0,0.0,0.0,2019-11-09
+Veracruz,Medellín,1.0,1.0,0.0,0.0,2019-11-09
+Veracruz,Pánuco,2.0,2.0,0.0,0.0,2019-11-09

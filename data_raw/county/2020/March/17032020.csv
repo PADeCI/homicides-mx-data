@@ -1,0 +1,89 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2020-03-17
+Baja California,Tijuana,3.0,2.0,1.0,0.0,2020-03-17
+Chihuahua,"Aquiles 
+Serdán",1.0,1.0,0.0,0.0,2020-03-17
+Chihuahua,Chihuahua,2.0,1.0,1.0,0.0,2020-03-17
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-03-17
+Ciudad de México,"Gustavo A. 
+Madero",1.0,1.0,0.0,0.0,2020-03-17
+Coahuila,Torreón,1.0,1.0,0.0,0.0,2020-03-17
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-03-17
+Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2020-03-17
+Guanajuato,León,3.0,3.0,0.0,0.0,2020-03-17
+Guanajuato,Tarimoro,2.0,2.0,0.0,0.0,2020-03-17
+Guanajuato,Uriangato,1.0,1.0,0.0,0.0,2020-03-17
+Guerrero,"Acapulco de 
+Juárez",2.0,2.0,0.0,0.0,2020-03-17
+Guerrero,"Chilpancingo 
+de los Bravo",2.0,2.0,0.0,0.0,2020-03-17
+Guerrero,"Huitzuco de 
+los Figueroa",1.0,1.0,0.0,0.0,2020-03-17
+Guerrero,"Técpan de 
+Galeana",1.0,1.0,0.0,0.0,2020-03-17
+Hidalgo,"Tula de 
+Allende",1.0,1.0,0.0,0.0,2020-03-17
+Jalisco,"Encarnación 
+de Díaz",2.0,1.0,1.0,0.0,2020-03-17
+Jalisco,"Lagos de 
+Moreno",1.0,1.0,0.0,0.0,2020-03-17
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,1.0,0.0,0.0,2020-03-17
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-03-17
+Jalisco,Zapopan,1.0,0.0,1.0,0.0,2020-03-17
+Michoacán,Cotija,1.0,1.0,0.0,0.0,2020-03-17
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-03-17
+Michoacán,La Piedad,1.0,1.0,0.0,0.0,2020-03-17
+Michoacán,Paracho,3.0,3.0,0.0,0.0,2020-03-17
+Michoacán,Zamora,3.0,2.0,1.0,0.0,2020-03-17
+Michoacán,Ziracuaretiro,1.0,1.0,0.0,0.0,2020-03-17
+Michoacán,Zitácuaro,3.0,3.0,0.0,0.0,2020-03-17
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-03-17
+Morelos,Jiutepec,2.0,1.0,0.0,1.0,2020-03-17
+Morelos,Temixco,1.0,1.0,0.0,0.0,2020-03-17
+Estado de México,Axapusco,1.0,0.0,1.0,0.0,2020-03-17
+Estado de México,"Cuautitlán 
+Izcalli",1.0,0.0,0.0,1.0,2020-03-17
+Estado de México,"Tlalnepantla 
+de Baz",2.0,1.0,1.0,0.0,2020-03-17
+Estado de México,Toluca,1.0,0.0,1.0,0.0,2020-03-17
+Nuevo León,Gral. Escobedo,1.0,1.0,0.0,0.0,2020-03-17
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-03-17
+Oaxaca,"Cuilápam de 
+Guerrero",1.0,1.0,0.0,0.0,2020-03-17
+Oaxaca,"Heroica 
+Ciudad de 
+Huajuapan de 
+León",1.0,1.0,0.0,0.0,2020-03-17
+Oaxaca,"Miahuatlán de 
+Porfirio Díaz",2.0,2.0,0.0,0.0,2020-03-17
+Oaxaca,"Oaxaca de 
+Juárez",2.0,2.0,0.0,0.0,2020-03-17
+Oaxaca,"San Juan 
+Bautista 
+Tuxtepec",3.0,3.0,0.0,0.0,2020-03-17
+Oaxaca,"San Juan 
+Guichicovi",1.0,1.0,0.0,0.0,2020-03-17
+Oaxaca,"San Pedro 
+Atoyac",1.0,1.0,0.0,0.0,2020-03-17
+Puebla,Huauchinango,1.0,1.0,0.0,0.0,2020-03-17
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-03-17
+Querétaro,El Marqués,1.0,1.0,0.0,0.0,2020-03-17
+Quintana Roo,"Othón P. 
+Blanco",1.0,1.0,0.0,0.0,2020-03-17
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2020-03-17
+San Luis Potosí,"Ciudad 
+Fernández",1.0,0.0,0.0,1.0,2020-03-17
+San Luis Potosí,Villa de Reyes,1.0,1.0,0.0,0.0,2020-03-17
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-03-17
+Sonora,"San Luis Río 
+Colorado",2.0,2.0,0.0,0.0,2020-03-17
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2020-03-17
+Tabasco,Nacajuca,3.0,3.0,0.0,0.0,2020-03-17
+Tabasco,Paraíso,1.0,1.0,0.0,0.0,2020-03-17
+Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2020-03-17
+Veracruz,"San Juan 
+Evangelista",1.0,1.0,0.0,0.0,2020-03-17
+Veracruz,Tierra Blanca,2.0,2.0,0.0,0.0,2020-03-17
+Zacatecas,Guadalupe,1.0,0.0,1.0,0.0,2020-03-17
+Zacatecas,Río Grande,3.0,3.0,0.0,0.0,2020-03-17

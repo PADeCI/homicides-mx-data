@@ -1,0 +1,71 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2019-05-13
+Baja California,"Playas de 
+Rosarito",1.0,0.0,1.0,0.0,2019-05-13
+Baja California,Tijuana,9.0,5.0,2.0,2.0,2019-05-13
+Chiapas,Acacoyagua,1.0,1.0,0.0,0.0,2019-05-13
+Chiapas,Ocosingo,1.0,1.0,0.0,0.0,2019-05-13
+Chiapas,Teopisca,1.0,1.0,0.0,0.0,2019-05-13
+Chihuahua,Chihuahua,6.0,4.0,0.0,2.0,2019-05-13
+Chihuahua,Cuauhtémoc,4.0,4.0,0.0,0.0,2019-05-13
+Chihuahua,Juárez,4.0,3.0,1.0,0.0,2019-05-13
+Ciudad de México,Cuauhtémoc,2.0,2.0,0.0,0.0,2019-05-13
+Ciudad de México,"Gustavo A. 
+Madero",1.0,1.0,0.0,0.0,2019-05-13
+Ciudad de México,Iztapalapa,1.0,0.0,1.0,0.0,2019-05-13
+Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2019-05-13
+Colima,Armería,1.0,0.0,0.0,1.0,2019-05-13
+Colima,Colima,1.0,1.0,0.0,0.0,2019-05-13
+Colima,Manzanillo,3.0,2.0,1.0,0.0,2019-05-13
+Guanajuato,Acámbaro,2.0,2.0,0.0,0.0,2019-05-13
+Guanajuato,"Dolores Hidalgo 
+Cuna de la 
+Independencia 
+Nacional",1.0,1.0,0.0,0.0,2019-05-13
+Guanajuato,León,1.0,0.0,0.0,1.0,2019-05-13
+Guanajuato,Salamanca,1.0,0.0,0.0,1.0,2019-05-13
+Guanajuato,Tarimoro,2.0,1.0,1.0,0.0,2019-05-13
+Hidalgo,Tula de Allende,2.0,0.0,0.0,2.0,2019-05-13
+Jalisco,Acatic,1.0,1.0,0.0,0.0,2019-05-13
+Jalisco,Guadalajara,1.0,0.0,1.0,0.0,2019-05-13
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-05-13
+Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2019-05-13
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2019-05-13
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2019-05-13
+Morelos,Cuernavaca,2.0,2.0,0.0,0.0,2019-05-13
+Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2019-05-13
+Estado de México,"Coacalco de 
+Berriozábal",1.0,1.0,0.0,0.0,2019-05-13
+Estado de México,Ixtapaluca,4.0,4.0,0.0,0.0,2019-05-13
+Estado de México,La Paz,2.0,1.0,0.0,1.0,2019-05-13
+Estado de México,Nezahualcóyotl,2.0,1.0,1.0,0.0,2019-05-13
+Estado de México,Toluca,1.0,0.0,1.0,0.0,2019-05-13
+Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2019-05-13
+Oaxaca,"San Juan 
+Bautista 
+Tuxtepec",1.0,1.0,0.0,0.0,2019-05-13
+Puebla,"Cuapiaxtla de 
+Madero",1.0,1.0,0.0,0.0,2019-05-13
+Puebla,Huehuetla,1.0,1.0,0.0,0.0,2019-05-13
+Puebla,"San Salvador el 
+Seco",2.0,2.0,0.0,0.0,2019-05-13
+Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2019-05-13
+Puebla,Tepeaca,1.0,1.0,0.0,0.0,2019-05-13
+Querétaro,"San Juan del 
+Río",1.0,1.0,0.0,0.0,2019-05-13
+Quintana Roo,Solidaridad,5.0,0.0,0.0,5.0,2019-05-13
+San Luis Potosí,"Soledad de 
+Graciano 
+Sánchez",2.0,1.0,1.0,0.0,2019-05-13
+San Luis Potosí,Villa de Arriaga,1.0,1.0,0.0,0.0,2019-05-13
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-05-13
+Tabasco,Centro,2.0,2.0,0.0,0.0,2019-05-13
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-05-13
+Tamaulipas,Llera,3.0,2.0,1.0,0.0,2019-05-13
+Veracruz,Altotonga,2.0,2.0,0.0,0.0,2019-05-13
+Veracruz,Maltrata,1.0,1.0,0.0,0.0,2019-05-13
+Veracruz,Papantla,1.0,1.0,0.0,0.0,2019-05-13
+Veracruz,Veracruz,1.0,1.0,0.0,0.0,2019-05-13
+Veracruz,Xalapa,1.0,0.0,0.0,1.0,2019-05-13
+Yucatán,Mérida,1.0,1.0,0.0,0.0,2019-05-13
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2019-05-13

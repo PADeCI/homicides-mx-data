@@ -1,0 +1,59 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,2.0,2.0,0.0,0.0,2019-06-18
+Baja California,Ensenada,2.0,2.0,0.0,0.0,2019-06-18
+Baja California,Tijuana,9.0,8.0,0.0,1.0,2019-06-18
+Chiapas,Pichucalco,1.0,1.0,0.0,0.0,2019-06-18
+Chiapas,Villaflores,1.0,1.0,0.0,0.0,2019-06-18
+Chihuahua,Janos,3.0,3.0,0.0,0.0,2019-06-18
+Chihuahua,Juárez,6.0,3.0,1.0,2.0,2019-06-18
+Chihuahua,"Nuevo Casas 
+Grandes",5.0,4.0,1.0,0.0,2019-06-18
+Ciudad de México,Tlalpan,2.0,0.0,0.0,2.0,2019-06-18
+Colima,Manzanillo,1.0,0.0,1.0,0.0,2019-06-18
+Colima,Tecomán,1.0,1.0,0.0,0.0,2019-06-18
+Guanajuato,Acámbaro,5.0,3.0,2.0,0.0,2019-06-18
+Guanajuato,Celaya,2.0,1.0,0.0,1.0,2019-06-18
+Guanajuato,Cortázar,2.0,0.0,0.0,2.0,2019-06-18
+Guanajuato,Irapuato,4.0,2.0,0.0,2.0,2019-06-18
+Guanajuato,León,3.0,3.0,0.0,0.0,2019-06-18
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-06-18
+Guanajuato,"San Francisco del 
+Rincón",1.0,1.0,0.0,0.0,2019-06-18
+Guanajuato,"San Miguel de 
+Allende",1.0,0.0,1.0,0.0,2019-06-18
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-06-18
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,1.0,0.0,0.0,2019-06-18
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,1.0,0.0,0.0,2019-06-18
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-06-18
+Michoacán,Morelia,4.0,4.0,0.0,0.0,2019-06-18
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-06-18
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2019-06-18
+Michoacán,Ziracuaretiro,1.0,1.0,0.0,0.0,2019-06-18
+Estado de México,Tultitlán,1.0,0.0,0.0,1.0,2019-06-18
+Nuevo León,García,1.0,1.0,0.0,0.0,2019-06-18
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2019-06-18
+Oaxaca,"San Felipe Jalapa 
+de Díaz",1.0,1.0,0.0,0.0,2019-06-18
+Oaxaca,"Santo Domingo 
+Tehuantepec",2.0,1.0,1.0,0.0,2019-06-18
+Puebla,Huauchinango,1.0,1.0,0.0,0.0,2019-06-18
+Querétaro,"Amealco de 
+Bonfil",1.0,0.0,1.0,0.0,2019-06-18
+Querétaro,Querétaro,1.0,0.0,0.0,1.0,2019-06-18
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2019-06-18
+Quintana Roo,Solidaridad,1.0,0.0,0.0,1.0,2019-06-18
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2019-06-18
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2019-06-18
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-06-18
+Sonora,"San Luis Río 
+Colorado",4.0,4.0,0.0,0.0,2019-06-18
+Tabasco,Centla,1.0,1.0,0.0,0.0,2019-06-18
+Tabasco,Centro,1.0,1.0,0.0,0.0,2019-06-18
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-06-18
+Tamaulipas,El Mante,1.0,1.0,0.0,0.0,2019-06-18
+Veracruz,Coatepec,1.0,1.0,0.0,0.0,2019-06-18
+Veracruz,Papantla,1.0,1.0,0.0,0.0,2019-06-18
+Veracruz,Santiago Tuxtla,1.0,1.0,0.0,0.0,2019-06-18
+Veracruz,Tuxpan,2.0,2.0,0.0,0.0,2019-06-18

@@ -1,0 +1,50 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,7.0,4.0,2.0,1.0,2020-01-15
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-01-15
+Chihuahua,Cuauhtémoc,2.0,2.0,0.0,0.0,2020-01-15
+Chihuahua,Juárez,3.0,3.0,0.0,0.0,2020-01-15
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-01-15
+Ciudad de México,Tláhuac,1.0,1.0,0.0,0.0,2020-01-15
+Colima,Armería,1.0,1.0,0.0,0.0,2020-01-15
+Colima,Colima,1.0,0.0,0.0,1.0,2020-01-15
+Colima,Manzanillo,4.0,4.0,0.0,0.0,2020-01-15
+Colima,Tecomán,5.0,3.0,2.0,0.0,2020-01-15
+Colima,Villa De Álvarez,2.0,2.0,0.0,0.0,2020-01-15
+Guanajuato,Apaseo El Grande,3.0,3.0,0.0,0.0,2020-01-15
+Guanajuato,Celaya,5.0,5.0,0.0,0.0,2020-01-15
+Guanajuato,Comonfort,3.0,3.0,0.0,0.0,2020-01-15
+Guanajuato,Cuerámaro,1.0,1.0,0.0,0.0,2020-01-15
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-01-15
+Guanajuato,Salamanca,3.0,2.0,0.0,1.0,2020-01-15
+Guanajuato,Tarimoro,7.0,6.0,1.0,0.0,2020-01-15
+Guerrero,Acapulco De Juárez,1.0,0.0,0.0,1.0,2020-01-15
+Hidalgo,Mixquiahuala De Juárez,1.0,0.0,1.0,0.0,2020-01-15
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2020-01-15
+Jalisco,Lagos De Moreno,3.0,3.0,0.0,0.0,2020-01-15
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,1.0,0.0,2020-01-15
+Michoacán,Los Reyes,2.0,0.0,0.0,2.0,2020-01-15
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-01-15
+Morelos,Guadalupe,1.0,1.0,0.0,0.0,2020-01-15
+Morelos,Temixco,3.0,2.0,0.0,1.0,2020-01-15
+Estado de México,Amatepec,1.0,0.0,1.0,0.0,2020-01-15
+Estado de México,Calimaya,1.0,1.0,0.0,0.0,2020-01-15
+Oaxaca,San Juan Bautista Tuxtepec,2.0,2.0,0.0,0.0,2020-01-15
+Oaxaca,San Pedro Ixcatlán,14.0,0.0,0.0,14.0,2020-01-15
+Campeche,Los Reyes,2.0,0.0,0.0,2.0,2020-01-15
+Campeche,Tarímbaro,1.0,1.0,0.0,0.0,2020-01-15
+Campeche,Uruapan,1.0,1.0,0.0,0.0,2020-01-15
+Puebla,Atlixco,1.0,1.0,0.0,0.0,2020-01-15
+Puebla,Nopalucan,1.0,1.0,0.0,0.0,2020-01-15
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-01-15
+Puebla,Zacapoaxtla,1.0,1.0,0.0,0.0,2020-01-15
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-01-15
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-01-15
+Tamaulipas,Altamira,1.0,1.0,0.0,0.0,2020-01-15
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-01-15
+Veracruz,Acultzingo,2.0,2.0,0.0,0.0,2020-01-15
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2020-01-15
+Veracruz,Puente Nacional,1.0,1.0,0.0,0.0,2020-01-15
+Veracruz,Texistepec,1.0,1.0,0.0,0.0,2020-01-15
+Veracruz,Xalapa,1.0,0.0,0.0,1.0,2020-01-15
+Zacatecas,Sombrerete,1.0,1.0,0.0,0.0,2020-01-15
+Zacatecas,Trancoso,1.0,1.0,0.0,0.0,2020-01-15

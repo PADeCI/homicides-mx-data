@@ -1,0 +1,72 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,6.0,5.0,0.0,1.0,2019-12-19
+Chiapas,Tuxtla Gutiérrez,2.0,1.0,1.0,0.0,2019-12-19
+Ciudad de México,Coyoacán,1.0,0.0,1.0,0.0,2019-12-19
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-12-19
+Ciudad de México,"Gustavo A. 
+Madero",1.0,1.0,0.0,0.0,2019-12-19
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-12-19
+Colima,Villa de Álvarez,1.0,1.0,0.0,0.0,2019-12-19
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-12-19
+Guanajuato,"Apaseo el 
+Grande",2.0,2.0,0.0,0.0,2019-12-19
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-12-19
+Guanajuato,Cortázar,1.0,1.0,0.0,0.0,2019-12-19
+Guanajuato,"Dolores Hidalgo 
+Cuna de la 
+Independencia 
+Nacional",1.0,1.0,0.0,0.0,2019-12-19
+Guanajuato,León,5.0,4.0,0.0,1.0,2019-12-19
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-12-19
+Guanajuato,San Luis de la Paz,2.0,0.0,2.0,0.0,2019-12-19
+Guerrero,"Acapulco de 
+Juárez",2.0,2.0,0.0,0.0,2019-12-19
+Guerrero,Cocula,1.0,1.0,0.0,0.0,2019-12-19
+Jalisco,"San Pedro 
+Tlaquepaque",5.0,4.0,1.0,0.0,2019-12-19
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,0.0,1.0,0.0,2019-12-19
+Jalisco,Zapopan,1.0,0.0,1.0,0.0,2019-12-19
+Michoacán,Aquila,1.0,0.0,1.0,0.0,2019-12-19
+Michoacán,"Coalcomán de 
+Vázquez Pallares",1.0,1.0,0.0,0.0,2019-12-19
+Michoacán,"José Sixto 
+Verduzco",2.0,2.0,0.0,0.0,2019-12-19
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-12-19
+Michoacán,Uruapan,2.0,0.0,2.0,0.0,2019-12-19
+Morelos,Mazatepec,1.0,1.0,0.0,0.0,2019-12-19
+Morelos,Miacatlán,1.0,1.0,0.0,0.0,2019-12-19
+Estado de México,Temoaya,3.0,0.0,0.0,3.0,2019-12-19
+Nuevo León,Monterrey,4.0,3.0,1.0,0.0,2019-12-19
+Nuevo León,"San Pedro Garza 
+García",2.0,2.0,0.0,0.0,2019-12-19
+Oaxaca,Chahuites,2.0,1.0,1.0,0.0,2019-12-19
+Oaxaca,"Heroica Ciudad 
+de Huajuapan de 
+León",1.0,0.0,0.0,1.0,2019-12-19
+Oaxaca,"Heroica Ciudad 
+de Tlaxiaco",1.0,1.0,0.0,0.0,2019-12-19
+Oaxaca,"Huautla de 
+Jiménez",1.0,1.0,0.0,0.0,2019-12-19
+Oaxaca,Oaxaca de Juárez,1.0,1.0,0.0,0.0,2019-12-19
+Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2019-12-19
+Oaxaca,"San Felipe Jalapa 
+de Díaz",1.0,1.0,0.0,0.0,2019-12-19
+Oaxaca,"Santiago 
+Pinotepa 
+Nacional",1.0,1.0,0.0,0.0,2019-12-19
+Puebla,Puebla,2.0,2.0,0.0,0.0,2019-12-19
+Puebla,"San Miguel 
+Xoxtla",3.0,3.0,0.0,0.0,2019-12-19
+Puebla,Zacatlán,3.0,3.0,0.0,0.0,2019-12-19
+Querétaro,Corregidora,2.0,2.0,0.0,0.0,2019-12-19
+Quintana Roo,Benito Juárez,2.0,1.0,0.0,1.0,2019-12-19
+Quintana Roo,Othón P. Blanco,1.0,1.0,0.0,0.0,2019-12-19
+Sinaloa,Ahome,5.0,0.0,0.0,5.0,2019-12-19
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2019-12-19
+Sinaloa,El Fuerte,1.0,1.0,0.0,0.0,2019-12-19
+Sonora,Caborca,4.0,4.0,0.0,0.0,2019-12-19
+Sonora,Ures,1.0,0.0,1.0,0.0,2019-12-19
+Tabasco,Centro,1.0,0.0,1.0,0.0,2019-12-19
+Veracruz,Emiliano Zapata,5.0,0.0,0.0,5.0,2019-12-19
+Zacatecas,Villanueva,4.0,4.0,0.0,0.0,2019-12-19

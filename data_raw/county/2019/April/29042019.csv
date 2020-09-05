@@ -1,0 +1,73 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,"Aguascalient
+es",1.0,1.0,0.0,0.0,2019-04-29
+Baja California,Tijuana,6.0,6.0,0.0,0.0,2019-04-29
+Campeche,Candelaria,1.0,1.0,0.0,0.0,2019-04-29
+Chiapas,Tapachula,2.0,2.0,0.0,0.0,2019-04-29
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2019-04-29
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-04-29
+Ciudad de México,Iztapalapa,2.0,1.0,1.0,0.0,2019-04-29
+Coahuila,"San Juan de 
+Sabinas",1.0,1.0,0.0,0.0,2019-04-29
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-04-29
+Colima,Tecomán,1.0,0.0,1.0,0.0,2019-04-29
+Durango,Durango,1.0,1.0,0.0,0.0,2019-04-29
+Guanajuato,Abasolo,3.0,3.0,0.0,0.0,2019-04-29
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-04-29
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-04-29
+Guanajuato,Salamanca,1.0,0.0,1.0,0.0,2019-04-29
+Guanajuato,"San Francisco 
+del Rincón",2.0,2.0,0.0,0.0,2019-04-29
+Guanajuato,"San Miguel 
+de Allende",1.0,1.0,0.0,0.0,2019-04-29
+Guerrero,Acapulco de,1.0,1.0,0.0,0.0,2019-04-29
+Guerrero,Juárez,2.0,1.0,0.0,1.0,2019-04-29
+Hidalgo,"Tula de 
+Allende",1.0,1.0,0.0,0.0,2019-04-29
+Jalisco,Guadalajara,7.0,4.0,1.0,2.0,2019-04-29
+Jalisco,"Lagos de 
+Moreno",1.0,1.0,0.0,0.0,2019-04-29
+Jalisco,Ocotlán,1.0,1.0,0.0,0.0,2019-04-29
+Jalisco,"Tlajomulco 
+de Zúñiga",2.0,2.0,0.0,0.0,2019-04-29
+Jalisco,Tonalá,1.0,0.0,0.0,1.0,2019-04-29
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-04-29
+Michoacán,Uruapan,7.0,7.0,0.0,0.0,2019-04-29
+Morelos,Amacuzac,1.0,1.0,0.0,0.0,2019-04-29
+Morelos,Cuautla,1.0,1.0,0.0,0.0,2019-04-29
+Morelos,Temixco,1.0,1.0,0.0,0.0,2019-04-29
+Morelos,Tepoztlán,1.0,1.0,0.0,0.0,2019-04-29
+Estado de México,"Nezahualcóy
+otl",1.0,1.0,0.0,0.0,2019-04-29
+Nuevo León,"Santa 
+Catarina",1.0,1.0,0.0,0.0,2019-04-29
+Oaxaca,"Matías 
+Romero 
+Avendaño",1.0,1.0,0.0,0.0,2019-04-29
+Oaxaca,"Santiago 
+Juxtlahuaca",2.0,2.0,0.0,0.0,2019-04-29
+Puebla,Ahuazotepec,2.0,2.0,0.0,0.0,2019-04-29
+Puebla,Atlixco,1.0,1.0,0.0,0.0,2019-04-29
+Puebla,Chilchotla,1.0,1.0,0.0,0.0,2019-04-29
+Puebla,Huaquechula,1.0,1.0,0.0,0.0,2019-04-29
+Puebla,"Huauchinang
+o",1.0,1.0,0.0,0.0,2019-04-29
+Puebla,"San Matías 
+Tlalancaleca",1.0,1.0,0.0,0.0,2019-04-29
+Puebla,Tehuacán,1.0,1.0,0.0,0.0,2019-04-29
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-04-29
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-04-29
+San Luis Potosí,Ciudad Valles,1.0,1.0,0.0,0.0,2019-04-29
+San Luis Potosí,Matehuala,1.0,1.0,0.0,0.0,2019-04-29
+San Luis Potosí,"San Luis 
+Potosí",1.0,1.0,0.0,0.0,2019-04-29
+Sinaloa,Culiacán,4.0,4.0,0.0,0.0,2019-04-29
+Sonora,Nogales,2.0,2.0,0.0,0.0,2019-04-29
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-04-29
+Tabasco,Huimanguillo,4.0,4.0,0.0,0.0,2019-04-29
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-04-29
+Tlaxcala,"Yauhquemec
+an",1.0,0.0,1.0,0.0,2019-04-29
+Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2019-04-29
+Veracruz,Las Choapas,3.0,3.0,0.0,0.0,2019-04-29
+Zacatecas,Fresnillo,3.0,3.0,0.0,0.0,2019-04-29

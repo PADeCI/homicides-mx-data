@@ -1,0 +1,91 @@
+Entidad,Municipio,"No de 
+Muertos",Hombre,Mujer,"No 
+Identificado"
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+"Baja 
+California (4)",Tijuana,1,1,-,-
+,,1,1,-,-
+,,1,-,-,1
+,,1,1,-,-
+Chiapas (1),Tapachula,1,1,-,-
+"Chihuahua 
+(3)",Juárez,2,-,-,2
+,,1,1,-,-
+"Ciudad de 
+México (5)","Gustavo A. 
+Madero",1,1,-,-
+,"La Magdalena 
+Contreras",3,3,-,-
+,"Venustiano 
+Carranza",1,1,-,-
+"Coahuila de 
+Zaragoza (1)",Piedras Negras,1,1,-,-
+Colima (1),Colima,1,1,-,-
+"Guanajuato 
+(18)",Acámbaro,1,1,-,-
+,Apaseo el Alto,1,1,-,-
+,Celaya,2,2,-,-
+,Irapuato,4,-,-,4
+,,1,1,-,-
+,,1,1,-,-
+,,,,,
+,León,1.0,1,-,-
+,,1.0,1,-,-
+,,3.0,3,-,-
+,,1.0,1,-,-
+,Salamanca,1.0,1,-,-
+,,1.0,1,-,-
+Hidalgo (1),Alfajayucan,1.0,-,-,1
+Jalisco (3),Guadalajara,1.0,-,-,1
+,Zapopan,1.0,1,-,-
+,,1.0,-,-,1
+México (5),"Ecatepec de 
+Morelos",1.0,1,-,-
+,Metepec,1.0,1,-,-
+,Nezahualcóyotl,1.0,1,-,-
+,"Tlalnepantla de 
+Baz",1.0,-,1,-
+,"Valle de Chalco 
+Solidaridad",1.0,-,1,-
+"Michoacán 
+de Ocampo 
+(1)",Jacona,1.0,1,-,-
+Morelos (1),Tepoztlán,1.0,1,-,-
+"Nuevo León 
+(7)",Carmen,1.0,1,-,-
+,Dr. Coss,5.0,5,-,-
+,Marín,1.0,-,-,1
+Oaxaca (1),"Santiago 
+Pinotepa",1.0,1,-,-
+,Nacional,,,,
+"Quintana 
+Roo (2)",Benito Juárez,1.0,1,-,-
+,Solidaridad,1.0,1,-,-
+"San Luis 
+Potosí (2)",San Luis Potosí,1.0,1,-,-
+,Tamuín,1.0,1,-,-
+Sonora (4),Cajeme,1.0,1,-,-
+,Empalme,3.0,3,-,-
+Tabasco (5),Centro,1.0,1,-,-
+,,4.0,4,-,-
+"Tamaulipas 
+(1)",Victoria,1.0,1,-,-
+"Veracruz de 
+Ignacio de la 
+Llave (8)",Catemaco,1.0,-,1,-
+,Cotaxtla,2.0,2,-,-
+,"Juchique de 
+Ferrer",1.0,1,-,-
+,"San Juan 
+Evangelista",1.0,1,-,-
+,Tierra Blanca,1.0,1,-,-
+,Veracruz,1.0,-,1,-
+,Zentla,1.0,1,-,-
+Zacatecas (3),"General 
+Francisco R. 
+Murguía",2.0,2,-,-
+,Miguel Auza,1.0,1,-,-
+Totales,,77.0,62,4,11

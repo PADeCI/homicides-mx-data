@@ -1,0 +1,40 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,8.0,8.0,0.0,0.0,2020-01-09
+Chihuahua,Juárez,2.0,1.0,0.0,1.0,2020-01-09
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2020-01-09
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2020-01-09
+Coahuila,Guerrero,4.0,4.0,0.0,0.0,2020-01-09
+Coahuila,Zaragoza,1.0,1.0,0.0,0.0,2020-01-09
+Colima,Manzanillo,2.0,2.0,0.0,0.0,2020-01-09
+Guanajuato,Apaseo El Grande,2.0,2.0,0.0,0.0,2020-01-09
+Guanajuato,Celaya,1.0,0.0,0.0,1.0,2020-01-09
+Guanajuato,Irapuato,2.0,1.0,1.0,0.0,2020-01-09
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-01-09
+Guanajuato,San Francisco Del Rincón,2.0,2.0,0.0,0.0,2020-01-09
+Guanajuato,San Miguel De Allende,5.0,5.0,0.0,0.0,2020-01-09
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-01-09
+Guerrero,Zirándaro,3.0,3.0,0.0,0.0,2020-01-09
+Jalisco,Guadalajara,2.0,0.0,2.0,0.0,2020-01-09
+Jalisco,San Pedro Tlaquepaque,2.0,1.0,0.0,1.0,2020-01-09
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-01-09
+Michoacán,Buenavista,2.0,0.0,0.0,2.0,2020-01-09
+Michoacán,Hidalgo,5.0,5.0,0.0,0.0,2020-01-09
+Michoacán,Morelia,1.0,0.0,1.0,0.0,2020-01-09
+Michoacán,Uruapan,4.0,4.0,0.0,0.0,2020-01-09
+Morelos,Cuautla,2.0,0.0,0.0,2.0,2020-01-09
+Estado de México,Amanalco,1.0,1.0,0.0,0.0,2020-01-09
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2020-01-09
+Nuevo León,Monterrey,3.0,2.0,0.0,1.0,2020-01-09
+Nuevo León,San Nicolás De Los Garza,1.0,1.0,0.0,0.0,2020-01-09
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2020-01-09
+Oaxaca,San Lucas Ojitlán,1.0,1.0,0.0,0.0,2020-01-09
+Puebla,Ocoyucan,1.0,1.0,0.0,0.0,2020-01-09
+Puebla,Tehuacán,1.0,0.0,1.0,0.0,2020-01-09
+Quintana Roo,Benito Juárez,4.0,4.0,0.0,0.0,2020-01-09
+Sonora,Empalme,1.0,1.0,0.0,0.0,2020-01-09
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-01-09
+Sonora,Nogales,1.0,1.0,0.0,0.0,2020-01-09
+Tamaulipas,Nuevo Laredo,1.0,0.0,1.0,0.0,2020-01-09
+Veracruz,Atzalan,6.0,2.0,0.0,4.0,2020-01-09
+Veracruz,Papantla,1.0,1.0,0.0,0.0,2020-01-09
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2020-01-09

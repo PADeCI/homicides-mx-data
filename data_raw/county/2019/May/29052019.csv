@@ -1,0 +1,81 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,2.0,2.0,0.0,0.0,2019-05-29
+Baja California,Tijuana,5.0,5.0,0.0,0.0,2019-05-29
+Chiapas,Escuintla,1.0,0.0,1.0,0.0,2019-05-29
+Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2019-05-29
+Chihuahua,Guerrero,2.0,2.0,0.0,0.0,2019-05-29
+Chihuahua,Juárez,5.0,4.0,0.0,1.0,2019-05-29
+Ciudad de México,Benito Juárez,1.0,0.0,1.0,0.0,2019-05-29
+Ciudad de México,Cuauhtémoc,2.0,2.0,0.0,0.0,2019-05-29
+Ciudad de México,"Gustavo A. 
+Madero",1.0,0.0,1.0,0.0,2019-05-29
+Ciudad de México,Miguel Hidalgo,1.0,0.0,0.0,1.0,2019-05-29
+Coahuila,Hidalgo,2.0,2.0,0.0,0.0,2019-05-29
+Coahuila,Saltillo,2.0,2.0,0.0,0.0,2019-05-29
+Colima,Manzanillo,5.0,1.0,0.0,4.0,2019-05-29
+Colima,Tecomán,1.0,1.0,0.0,0.0,2019-05-29
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-05-29
+Guanajuato,Cuerámaro,2.0,0.0,0.0,2.0,2019-05-29
+Guanajuato,Irapuato,4.0,4.0,0.0,0.0,2019-05-29
+Guanajuato,León,1.0,1.0,0.0,0.0,2019-05-29
+Guanajuato,"San Francisco 
+del Rincón",1.0,1.0,0.0,0.0,2019-05-29
+Guanajuato,Yuriria,1.0,1.0,0.0,0.0,2019-05-29
+Guerrero,"Acapulco de 
+Juárez",1.0,1.0,0.0,0.0,2019-05-29
+Guerrero,"Chilapa de 
+Álvarez",3.0,3.0,0.0,0.0,2019-05-29
+Guerrero,"Chilpancingo de 
+los Bravo",1.0,1.0,0.0,0.0,2019-05-29
+Hidalgo,"Nopala de 
+Villagrán",2.0,1.0,1.0,0.0,2019-05-29
+Hidalgo,Tepetitlán,1.0,1.0,0.0,0.0,2019-05-29
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-05-29
+Michoacán,"Coalcomán de 
+Vázquez 
+Pallares",9.0,0.0,0.0,9.0,2019-05-29
+Michoacán,Morelia,2.0,1.0,0.0,1.0,2019-05-29
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-05-29
+Michoacán,"Venustiano 
+Carranza",1.0,1.0,0.0,0.0,2019-05-29
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-05-29
+Estado de México,Aculco,3.0,2.0,1.0,0.0,2019-05-29
+Estado de México,Chimalhuacán,1.0,1.0,0.0,0.0,2019-05-29
+Estado de México,"Cuautitlán 
+Izcalli",1.0,1.0,0.0,0.0,2019-05-29
+Estado de México,"Ecatepec de 
+Morelos",1.0,1.0,0.0,0.0,2019-05-29
+Estado de México,Metepec,1.0,1.0,0.0,0.0,2019-05-29
+Oaxaca,"Putla Villa de 
+Guerrero",1.0,1.0,0.0,0.0,2019-05-29
+Oaxaca,"San Juan 
+Guichicovi",1.0,1.0,0.0,0.0,2019-05-29
+Oaxaca,"Santa María 
+Tonameca",1.0,1.0,0.0,0.0,2019-05-29
+Oaxaca,"Santo Domingo 
+Tehuantepec",1.0,1.0,0.0,0.0,2019-05-29
+Puebla,"Los Reyes de 
+Juárez",1.0,1.0,0.0,0.0,2019-05-29
+Puebla,"San Martín 
+Texmelucan",1.0,1.0,0.0,0.0,2019-05-29
+Puebla,Tehuacán,1.0,1.0,0.0,0.0,2019-05-29
+Puebla,Tepeaca,1.0,1.0,0.0,0.0,2019-05-29
+Puebla,Xicotepec,1.0,1.0,0.0,0.0,2019-05-29
+Querétaro,"Amealco de 
+Bonfil",1.0,1.0,0.0,0.0,2019-05-29
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-05-29
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2019-05-29
+San Luis Potosí,"Ciudad 
+Fernández",1.0,1.0,0.0,0.0,2019-05-29
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-05-29
+San Luis Potosí,"Soledad de 
+Graciano 
+Sánchez",2.0,2.0,0.0,0.0,2019-05-29
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2019-05-29
+Tabasco,Centro,1.0,1.0,0.0,0.0,2019-05-29
+Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2019-05-29
+Veracruz,Agua Dulce,3.0,0.0,0.0,3.0,2019-05-29
+Veracruz,Coatzacoalcos,1.0,0.0,1.0,0.0,2019-05-29
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2019-05-29
+Veracruz,Misantla,1.0,1.0,0.0,0.0,2019-05-29
+Zacatecas,Ojocaliente,1.0,1.0,0.0,0.0,2019-05-29

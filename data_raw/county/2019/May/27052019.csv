@@ -1,0 +1,86 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,3.0,1.0,0.0,2.0,2019-05-27
+Baja California,Tijuana,5.0,3.0,1.0,1.0,2019-05-27
+Baja California Sur,La Paz,1.0,1.0,0.0,0.0,2019-05-27
+Chiapas,Mazatán,1.0,1.0,0.0,0.0,2019-05-27
+Chiapas,Pantelhó,1.0,1.0,0.0,0.0,2019-05-27
+Chiapas,"Tuxtla 
+Gutiérrez",1.0,0.0,0.0,1.0,2019-05-27
+Chihuahua,Balleza,1.0,0.0,0.0,1.0,2019-05-27
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-05-27
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-05-27
+Chihuahua,"Guadalupe y 
+Calvo",6.0,1.0,0.0,5.0,2019-05-27
+Chihuahua,Guerrero,1.0,1.0,0.0,0.0,2019-05-27
+Chihuahua,Juárez,5.0,4.0,1.0,0.0,2019-05-27
+Chihuahua,Temósachic,1.0,1.0,0.0,0.0,2019-05-27
+Ciudad de México,Coyoacán,1.0,1.0,0.0,0.0,2019-05-27
+Ciudad de México,Miguel Hidalgo,1.0,0.0,1.0,0.0,2019-05-27
+Ciudad de México,Tláhuac,1.0,0.0,0.0,1.0,2019-05-27
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-05-27
+Durango,"Santiago 
+Papasquiaro",2.0,2.0,0.0,0.0,2019-05-27
+Guanajuato,Abasolo,1.0,1.0,0.0,0.0,2019-05-27
+Guanajuato,Acámbaro,1.0,0.0,1.0,0.0,2019-05-27
+Guanajuato,Cortázar,1.0,1.0,0.0,0.0,2019-05-27
+Guanajuato,León,3.0,2.0,0.0,1.0,2019-05-27
+Guanajuato,Romita,1.0,1.0,0.0,0.0,2019-05-27
+Guanajuato,"Silao de la 
+Victoria",1.0,1.0,0.0,0.0,2019-05-27
+Guanajuato,"Valle de 
+Santiago",1.0,0.0,1.0,0.0,2019-05-27
+Guerrero,"Acapulco de 
+Juárez",2.0,2.0,0.0,0.0,2019-05-27
+Guerrero,"Iguala de la 
+Independencia",1.0,1.0,0.0,0.0,2019-05-27
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-05-27
+Jalisco,"San Pedro 
+Tlaquepaque",2.0,2.0,0.0,0.0,2019-05-27
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,1.0,0.0,0.0,2019-05-27
+Jalisco,Tonalá,1.0,0.0,1.0,0.0,2019-05-27
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-05-27
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-05-27
+Morelos,Puente de Ixtla,2.0,2.0,0.0,0.0,2019-05-27
+Morelos,Temixco,1.0,0.0,1.0,0.0,2019-05-27
+Estado de México,Ayapango,1.0,0.0,1.0,0.0,2019-05-27
+Estado de México,Chiautla,2.0,2.0,0.0,0.0,2019-05-27
+Estado de México,"Coacalco de 
+Berriozábal",1.0,0.0,1.0,0.0,2019-05-27
+Estado de México,"Cuautitlán 
+Izcalli",3.0,3.0,0.0,0.0,2019-05-27
+Estado de México,"Melchor 
+Ocampo",1.0,1.0,0.0,0.0,2019-05-27
+Estado de México,"Naucalpan de 
+Juárez",1.0,1.0,0.0,0.0,2019-05-27
+Nayarit,Compostela,1.0,1.0,0.0,0.0,2019-05-27
+Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2019-05-27
+Nuevo León,Gral. Zuazua,1.0,0.0,1.0,0.0,2019-05-27
+Oaxaca,"Oaxaca de 
+Juárez",1.0,1.0,0.0,0.0,2019-05-27
+Oaxaca,"San Ildefonso 
+Villa Alta",2.0,0.0,0.0,2.0,2019-05-27
+Oaxaca,"San Sebastián 
+Tutla",1.0,1.0,0.0,0.0,2019-05-27
+Oaxaca,"Santiago 
+Pinotepa 
+Nacional",1.0,1.0,0.0,0.0,2019-05-27
+Oaxaca,"Santo 
+Domingo 
+Tehuantepec",1.0,1.0,0.0,0.0,2019-05-27
+Puebla,Atlixco,1.0,1.0,0.0,0.0,2019-05-27
+Puebla,Xicotepec,1.0,1.0,0.0,0.0,2019-05-27
+Sinaloa,Choix,1.0,0.0,1.0,0.0,2019-05-27
+Sonora,Nogales,1.0,1.0,0.0,0.0,2019-05-27
+Tabasco,Centro,1.0,1.0,0.0,0.0,2019-05-27
+Tabasco,"Jalpa de 
+Méndez",1.0,1.0,0.0,0.0,2019-05-27
+Tamaulipas,Reynosa,2.0,2.0,0.0,0.0,2019-05-27
+Veracruz,Jáltipan,1.0,1.0,0.0,0.0,2019-05-27
+Veracruz,Misantla,1.0,1.0,0.0,0.0,2019-05-27
+Veracruz,Omealca,1.0,1.0,0.0,0.0,2019-05-27
+Veracruz,Texistepec,1.0,1.0,0.0,0.0,2019-05-27
+Veracruz,Uxpanapa,1.0,1.0,0.0,0.0,2019-05-27
+Zacatecas,"General 
+Pánfilo Natera",1.0,1.0,0.0,0.0,2019-05-27
+Zacatecas,Ojocaliente,1.0,1.0,0.0,0.0,2019-05-27

@@ -1,0 +1,51 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,2.0,2.0,0.0,0.0,2020-01-22
+Chihuahua,Cuauhtémoc,1.0,0.0,1.0,0.0,2020-01-22
+Chihuahua,Juárez,1.0,0.0,1.0,0.0,2020-01-22
+Ciudad de México,Benito Juárez,1.0,0.0,1.0,0.0,2020-01-22
+Ciudad de México,Coyoacán,1.0,1.0,0.0,0.0,2020-01-22
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-01-22
+Guanajuato,Apaseo El Alto,2.0,2.0,0.0,0.0,2020-01-22
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2020-01-22
+Guanajuato,Celaya,3.0,0.0,3.0,0.0,2020-01-22
+Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2020-01-22
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-01-22
+Guanajuato,León,3.0,2.0,0.0,1.0,2020-01-22
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2020-01-22
+Guerrero,Acapulco De Juárez,3.0,0.0,0.0,3.0,2020-01-22
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-01-22
+Guerrero,Tlacoachistlahuaca,3.0,3.0,0.0,0.0,2020-01-22
+Guerrero,Chilpancingo De Los Bravo,2.0,2.0,0.0,0.0,2020-01-22
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2020-01-22
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-01-22
+Jalisco,Zacoalco De Torres,1.0,1.0,0.0,0.0,2020-01-22
+Michoacán,Morelia,2.0,1.0,1.0,0.0,2020-01-22
+Michoacán,Uruapan,4.0,2.0,0.0,2.0,2020-01-22
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-01-22
+Morelos,Cuernavaca,1.0,0.0,0.0,1.0,2020-01-22
+Estado de México,Chalco,2.0,2.0,0.0,0.0,2020-01-22
+Estado de México,Cuautitlán Izcalli,2.0,2.0,0.0,0.0,2020-01-22
+Estado de México,Ecatepec De Morelos,1.0,0.0,1.0,0.0,2020-01-22
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-01-22
+Estado de México,San Mateo Atenco,1.0,1.0,0.0,0.0,2020-01-22
+Estado de México,Texcoco,1.0,1.0,0.0,0.0,2020-01-22
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-01-22
+Estado de México,Zumpango,1.0,1.0,0.0,0.0,2020-01-22
+Nayarit,Tepic,1.0,1.0,0.0,0.0,2020-01-22
+Oaxaca,San Miguel Soyaltepec,3.0,0.0,0.0,3.0,2020-01-22
+Oaxaca,San Pedro Mixtepec,1.0,1.0,0.0,0.0,2020-01-22
+Puebla,San Martín Texmelucan,1.0,1.0,0.0,0.0,2020-01-22
+Puebla,Tehuacán,1.0,0.0,1.0,0.0,2020-01-22
+Puebla,Zacatlán,1.0,1.0,0.0,0.0,2020-01-22
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-01-22
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-01-22
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-01-22
+Tabasco,Huimanguillo,2.0,0.0,2.0,0.0,2020-01-22
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-01-22
+Veracruz,Camerino Z. Mendoza,1.0,0.0,0.0,1.0,2020-01-22
+Veracruz,Coatzacoalcos,3.0,3.0,0.0,0.0,2020-01-22
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2020-01-22
+Veracruz,Martínez De La Torre,1.0,0.0,1.0,0.0,2020-01-22
+Veracruz,Paso Del Macho,1.0,1.0,0.0,0.0,2020-01-22
+Veracruz,Tlapacoyan,1.0,1.0,0.0,0.0,2020-01-22
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2020-01-22

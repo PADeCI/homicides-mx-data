@@ -1,0 +1,48 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,8.0,7.0,1.0,0.0,2020-01-17
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-01-17
+Ciudad de México,Azcapotzalco,4.0,1.0,0.0,3.0,2020-01-17
+Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2020-01-17
+Colima,Tecomán,1.0,1.0,0.0,0.0,2020-01-17
+Durango,Lerdo,1.0,0.0,1.0,0.0,2020-01-17
+Guanajuato,Acámbaro,1.0,0.0,1.0,0.0,2020-01-17
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-01-17
+Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2020-01-17
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-01-17
+Guanajuato,León,2.0,1.0,1.0,0.0,2020-01-17
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-01-17
+Guanajuato,Villagrán,3.0,3.0,0.0,0.0,2020-01-17
+Guerrero,Acapulco De Juárez,4.0,0.0,0.0,4.0,2020-01-17
+Guerrero,Chilapa De Álvarez,10.0,0.0,0.0,10.0,2020-01-17
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-01-17
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2020-01-17
+Guerrero,Ometepec,1.0,1.0,0.0,0.0,2020-01-17
+Jalisco,Zapopan,1.0,0.0,0.0,1.0,2020-01-17
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-01-17
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2020-01-17
+Morelos,Cuernavaca,2.0,2.0,0.0,0.0,2020-01-17
+Nayarit,Bahía De Banderas,1.0,1.0,0.0,0.0,2020-01-17
+Nayarit,Santiago Ixcuintla,1.0,1.0,0.0,0.0,2020-01-17
+Nuevo León,Apodaca,1.0,0.0,0.0,1.0,2020-01-17
+Nuevo León,San Nicolás De Los Garza,1.0,0.0,1.0,0.0,2020-01-17
+Oaxaca,Zaragoza,1.0,0.0,1.0,0.0,2020-01-17
+Oaxaca,San Felipe Jalapa De Díaz,2.0,2.0,0.0,0.0,2020-01-17
+Oaxaca,San Lucas Ojitlán,1.0,1.0,0.0,0.0,2020-01-17
+Oaxaca,San Pedro Ixcatlán,3.0,0.0,3.0,0.0,2020-01-17
+Puebla,Acatzingo,2.0,2.0,0.0,0.0,2020-01-17
+Puebla,Puebla,5.0,4.0,1.0,0.0,2020-01-17
+Puebla,Tecamachalco,1.0,0.0,1.0,0.0,2020-01-17
+Querétaro,Querétaro,1.0,0.0,1.0,0.0,2020-01-17
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2020-01-17
+Quintana Roo,Solidaridad,2.0,1.0,0.0,1.0,2020-01-17
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-01-17
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-01-17
+Sonora,Nogales,1.0,1.0,0.0,0.0,2020-01-17
+Tabasco,Centro,1.0,1.0,0.0,0.0,2020-01-17
+Tabasco,Huimanguillo,2.0,2.0,0.0,0.0,2020-01-17
+Tabasco,Paraíso,1.0,1.0,0.0,0.0,2020-01-17
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-01-17
+Tamaulipas,Victoria,2.0,1.0,1.0,0.0,2020-01-17
+Veracruz,Boca Del Río,1.0,1.0,0.0,0.0,2020-01-17
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2020-01-17
+Veracruz,Xalapa,1.0,1.0,0.0,0.0,2020-01-17

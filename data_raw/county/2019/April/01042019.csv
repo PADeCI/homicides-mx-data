@@ -1,0 +1,78 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,1.0,0.0,0.0,1.0,2019-04-01
+Baja California Sur,La Paz,1.0,1.0,0.0,0.0,2019-04-01
+Chiapas,Tapachula,1.0,1.0,0.0,0.0,2019-04-01
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2019-04-01
+Chiapas,Villaflores,1.0,1.0,0.0,0.0,2019-04-01
+Chihuahua,Aldama,1.0,1.0,0.0,0.0,2019-04-01
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-04-01
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2019-04-01
+Ciudad de México,"Gustavo A. 
+Madero",1.0,1.0,0.0,0.0,2019-04-01
+Colima,Colima,1.0,1.0,0.0,0.0,2019-04-01
+Colima,Manzanillo,6.0,5.0,1.0,0.0,2019-04-01
+Durango,Topia,1.0,1.0,0.0,0.0,2019-04-01
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-04-01
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-04-01
+Guanajuato,León,2.0,2.0,0.0,0.0,2019-04-01
+Guanajuato,Yuriria,1.0,1.0,0.0,0.0,2019-04-01
+Guerrero,"Acapulco de 
+Juárez",2.0,1.0,1.0,0.0,2019-04-01
+Guerrero,"Huitzuco de los 
+Figueroa",1.0,1.0,0.0,0.0,2019-04-01
+Guerrero,"Taxco de 
+Alarcón",1.0,1.0,0.0,0.0,2019-04-01
+Guerrero,Teloloapan,1.0,1.0,0.0,0.0,2019-04-01
+Hidalgo,Actopan,1.0,1.0,0.0,0.0,2019-04-01
+Hidalgo,Tepeapulco,1.0,1.0,0.0,0.0,2019-04-01
+Hidalgo,"Tezontepec de 
+Aldama",1.0,1.0,0.0,0.0,2019-04-01
+Jalisco,Guadalajara,3.0,3.0,0.0,0.0,2019-04-01
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,1.0,0.0,0.0,2019-04-01
+Morelos,Ayala,1.0,1.0,0.0,0.0,2019-04-01
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-04-01
+Morelos,"Tlaltizapán de 
+Zapata",1.0,1.0,0.0,0.0,2019-04-01
+Morelos,Yautepec,1.0,1.0,0.0,0.0,2019-04-01
+Estado de México,Chiconcuac,1.0,0.0,1.0,0.0,2019-04-01
+Estado de México,"Ecatepec de 
+Morelos",1.0,1.0,0.0,0.0,2019-04-01
+Estado de México,"Naucalpan de 
+Juárez",1.0,1.0,0.0,0.0,2019-04-01
+Estado de México,Texcoco,1.0,0.0,1.0,0.0,2019-04-01
+Estado de México,Tlalmanalco,1.0,1.0,0.0,0.0,2019-04-01
+Estado de México,"Tlalnepantla de 
+Baz",1.0,1.0,0.0,0.0,2019-04-01
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2019-04-01
+Nuevo León,Gral. Escobedo,1.0,1.0,0.0,0.0,2019-04-01
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-04-01
+Oaxaca,"Heroica Ciudad 
+de Juchitán de 
+Zaragoza",1.0,1.0,0.0,0.0,2019-04-01
+Oaxaca,"Santa María 
+Jalapa del 
+Marqués",1.0,1.0,0.0,0.0,2019-04-01
+Oaxaca,"Santo Domingo 
+Tehuantepec",1.0,1.0,0.0,0.0,2019-04-01
+Puebla,Atlixco,1.0,1.0,0.0,0.0,2019-04-01
+Puebla,Palmar de Bravo,1.0,1.0,0.0,0.0,2019-04-01
+Puebla,Puebla,1.0,1.0,0.0,0.0,2019-04-01
+Puebla,"San Martín 
+Texmelucan",1.0,1.0,0.0,0.0,2019-04-01
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-04-01
+San Luis Potosí,Ahualulco,1.0,1.0,0.0,0.0,2019-04-01
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-04-01
+Tabasco,Centro,1.0,1.0,0.0,0.0,2019-04-01
+Tamaulipas,Reynosa,1.0,0.0,1.0,0.0,2019-04-01
+Veracruz,"Amatlán de los 
+Reyes",4.0,4.0,0.0,0.0,2019-04-01
+Veracruz,Boca del Río,1.0,1.0,0.0,0.0,2019-04-01
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2019-04-01
+Veracruz,Minatitlán,1.0,0.0,1.0,0.0,2019-04-01
+Veracruz,Orizaba,1.0,1.0,0.0,0.0,2019-04-01
+Veracruz,"Poza Rica de 
+Hidalgo",1.0,1.0,0.0,0.0,2019-04-01
+Veracruz,Tantoyuca,1.0,1.0,0.0,0.0,2019-04-01
+Yucatán,Yaxcabá,1.0,1.0,0.0,0.0,2019-04-01
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2019-04-01

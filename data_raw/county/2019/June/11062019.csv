@@ -1,0 +1,71 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,2.0,0.0,0.0,2.0,2019-06-11
+Baja California,Tijuana,10.0,10.0,0.0,0.0,2019-06-11
+Chiapas,Escuintla,1.0,1.0,0.0,0.0,2019-06-11
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-06-11
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-06-11
+Chihuahua,Guazapares,1.0,1.0,0.0,0.0,2019-06-11
+Chihuahua,Juárez,7.0,3.0,0.0,4.0,2019-06-11
+Ciudad de México,Tláhuac,1.0,1.0,0.0,0.0,2019-06-11
+Durango,San Dimas,1.0,1.0,0.0,0.0,2019-06-11
+Guanajuato,Cortazar,1.0,0.0,0.0,1.0,2019-06-11
+Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2019-06-11
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-06-11
+Guanajuato,León,5.0,5.0,0.0,0.0,2019-06-11
+Guanajuato,Salamanca,1.0,0.0,1.0,0.0,2019-06-11
+Guanajuato,"San Francisco del 
+Rincón",2.0,1.0,1.0,0.0,2019-06-11
+Guanajuato,Silao de la Víctoria,1.0,1.0,0.0,0.0,2019-06-11
+Guanajuato,Valle de Santiago,2.0,2.0,0.0,0.0,2019-06-11
+Guanajuato,Villagrán,1.0,1.0,0.0,0.0,2019-06-11
+Guerrero,Atoyac de Álvarez,1.0,0.0,1.0,0.0,2019-06-11
+Guerrero,Marquelia,2.0,2.0,0.0,0.0,2019-06-11
+Guerrero,Ometepec,1.0,0.0,1.0,0.0,2019-06-11
+Guerrero,Pilcaya,1.0,1.0,0.0,0.0,2019-06-11
+Guerrero,Taxco de Alarcón,1.0,1.0,0.0,0.0,2019-06-11
+Hidalgo,Atitalaquia,1.0,0.0,1.0,0.0,2019-06-11
+Hidalgo,Ixmiquilpan,1.0,1.0,0.0,0.0,2019-06-11
+Hidalgo,Pachuca de Soto,1.0,1.0,0.0,0.0,2019-06-11
+Jalisco,El Salto,1.0,0.0,0.0,1.0,2019-06-11
+Jalisco,Guadalajara,2.0,1.0,0.0,1.0,2019-06-11
+Jalisco,San Pedro,1.0,1.0,0.0,0.0,2019-06-11
+Jalisco,"Tlajomulco de 
+Zúñiga",3.0,3.0,0.0,0.0,2019-06-11
+Jalisco,Tlaquepaque,1.0,1.0,0.0,0.0,2019-06-11
+Jalisco,Tonalá,3.0,1.0,2.0,0.0,2019-06-11
+Jalisco,Zapopan,1.0,0.0,0.0,1.0,2019-06-11
+Michoacán,Aguililla,2.0,2.0,0.0,0.0,2019-06-11
+Michoacán,La Piedad,1.0,1.0,0.0,0.0,2019-06-11
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-06-11
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-06-11
+Morelos,Jantetelco,1.0,1.0,0.0,0.0,2019-06-11
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2019-06-11
+Estado de México,"Ecatepec de 
+Morelos",3.0,3.0,0.0,0.0,2019-06-11
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2019-06-11
+Nuevo León,García,1.0,1.0,0.0,0.0,2019-06-11
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-06-11
+Nuevo León,Santa Catarina,1.0,0.0,0.0,1.0,2019-06-11
+Oaxaca,"Pinotepa de Don 
+Luis",1.0,1.0,0.0,0.0,2019-06-11
+Oaxaca,"San Miguel 
+Soyaltepec",1.0,1.0,0.0,0.0,2019-06-11
+Oaxaca,"Santa María 
+Huatulco",1.0,1.0,0.0,0.0,2019-06-11
+Oaxaca,"Santiago 
+Jamiltepec",1.0,1.0,0.0,0.0,2019-06-11
+Puebla,Puebla,2.0,0.0,1.0,1.0,2019-06-11
+Puebla,Quecholac,1.0,1.0,0.0,0.0,2019-06-11
+Puebla,Tehuacán,2.0,1.0,1.0,0.0,2019-06-11
+Quintana Roo,José María Morelos,1.0,1.0,0.0,0.0,2019-06-11
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-06-11
+San Luis Potosí,Tamazunchale,1.0,1.0,0.0,0.0,2019-06-11
+Sinaloa,Guasave,1.0,1.0,0.0,0.0,2019-06-11
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2019-06-11
+Sonora,Empalme,1.0,1.0,0.0,0.0,2019-06-11
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-06-11
+Tamaulipas,Hidalgo,1.0,0.0,0.0,1.0,2019-06-11
+Tamaulipas,San Fernando,3.0,3.0,0.0,0.0,2019-06-11
+Veracruz,Las Choapas,1.0,1.0,0.0,0.0,2019-06-11
+Veracruz,Soconusco,1.0,1.0,0.0,0.0,2019-06-11
+Veracruz,Xalapa,1.0,1.0,0.0,0.0,2019-06-11

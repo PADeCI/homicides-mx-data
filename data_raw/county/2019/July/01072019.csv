@@ -1,0 +1,72 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,11,4.0,3.0,4.0,2019-07-01
+Chiapas,Berriozábal,1,1.0,0.0,0.0,2019-07-01
+Chiapas,"San Cristóbal de 
+las Casas",2,1.0,0.0,1.0,2019-07-01
+Chihuahua,Chihuahua,1,0.0,0.0,1.0,2019-07-01
+Chihuahua,Cuauhtémoc,1,1.0,0.0,0.0,2019-07-01
+Chihuahua,Guachochi,1,1.0,0.0,0.0,2019-07-01
+Chihuahua,Gómez Farías,1,0.0,0.0,1.0,2019-07-01
+Chihuahua,Juárez,7,6.0,0.0,1.0,2019-07-01
+Ciudad de México,Cuauhtémoc,3,1.0,1.0,1.0,2019-07-01
+Ciudad de México,Tlalpan,1,0.0,1.0,0.0,2019-07-01
+Colima,Armería,1,1.0,0.0,0.0,2019-07-01
+Colima,Tecomán,1,1.0,0.0,0.0,2019-07-01
+Guanajuato,Acámbaro,1,1.0,0.0,0.0,2019-07-01
+Guanajuato,Celaya,3,1.0,0.0,2.0,2019-07-01
+Guanajuato,Irapuato,2,2.0,0.0,0.0,2019-07-01
+Guanajuato,León,4,4.0,0.0,0.0,2019-07-01
+Guanajuato,Salamanca,1,1.0,0.0,0.0,2019-07-01
+Guanajuato,Salvatierra,1,0.0,1.0,0.0,2019-07-01
+Guanajuato,"Silao de la 
+Víctoria",2,1.0,1.0,0.0,2019-07-01
+Guerrero,"Acapulco de 
+Juárez",2,2.0,0.0,0.0,2019-07-01
+Guerrero,"Chilpancingo de 
+los Bravo",1,0.0,1.0,0.0,2019-07-01
+Hidalgo,Acatlán,2,0.0,0.0,2.0,2019-07-01
+Jalisco,Guadalajara,1,1.0,0.0,0.0,2019-07-01
+Jalisco,"San Pedro 
+Tlaquepaque",1,1.0,0.0,0.0,2019-07-01
+Jalisco,Zapopan,1,1.0,0.0,0.0,2019-07-01
+Michoacán,Cuitzeo,1,1.0,0.0,0.0,2019-07-01
+Michoacán,Ecuandureo,1,1.0,0.0,0.0,2019-07-01
+Michoacán,Morelia,2,1.0,1.0,0.0,2019-07-01
+Michoacán,Sahuayo,2,1.0,0.0,1.0,2019-07-01
+Michoacán,Uruapan,1,1.0,0.0,0.0,2019-07-01
+Michoacán,Zitácuaro,1,1.0,0.0,0.0,2019-07-01
+Morelos,Emiliano Zapata,1,0.0,1.0,0.0,2019-07-01
+Morelos,Huitzilac,1,1.0,0.0,0.0,2019-07-01
+Morelos,Jiutepec,1,1.0,0.0,0.0,2019-07-01
+Estado de México,"Atizapán de 
+Zaragoza",1,1.0,0.0,0.0,2019-07-01
+Estado de México,"Ecatepec de 
+Morelos",1,0.0,1.0,0.0,2019-07-01
+Estado de México,La Paz,2,2.0,0.0,0.0,2019-07-01
+Estado de México,Nicolás Romero,5,3.0,2.0,0.0,2019-07-01
+Estado de México,"Tlalnepantla de 
+Baz",1,1.0,0.0,0.0,2019-07-01
+Nayarit,"Bahía de 
+Banderas",1,1.0,0.0,0.0,2019-07-01
+Nayarit,Tepic,1,1.0,0.0,0.0,2019-07-01
+Nuevo León,Apodaca,1,1.0,0.0,0.0,2019-07-01
+Nuevo León,Guadalupe,1,0.0,1.0,0.0,2019-07-01
+Oaxaca,"Heroica Ciudad 
+de Juchitán de 
+Zaragoza",2,2.0,0.0,0.0,2019-07-01
+Oaxaca,Salina Cruz,2,2.0,0.0,0.0,2019-07-01
+Oaxaca,"Santo Domingo 
+Tehuantepec",1,1.0,0.0,0.0,2019-07-01
+Puebla,Cuautinchán,1,1.0,0.0,0.0,2019-07-01
+Puebla,Huauchinango,2,1.0,1.0,0.0,2019-07-01
+Puebla,Puebla,1,1.0,0.0,0.0,2019-07-01
+Quintana Roo,Solidaridad,1,1.0,0.0,0.0,2019-07-01
+San Luis Potosí,San Luis Potosí,1,1.0,0.0,0.0,2019-07-01
+Sonora,Caborca,2,2.0,0.0,0.0,2019-07-01
+Sonora,Cajeme,1,1.0,0.0,0.0,2019-07-01
+Tabasco,Macuspana,1,1.0,0.0,0.0,2019-07-01
+Tamaulipas,El Mante,1,0.0,1.0,0.0,2019-07-01
+Veracruz,Agua Dulce,1,1.0,0.0,0.0,2019-07-01
+Veracruz,Coatzacoalcos,1,0.0,0.0,1.0,2019-07-01
+Veracruz,Minatitlán,1,1.0,0.0,0.0,2019-07-01
+Veracruz,Veracruz,2,1.0,0.0,1.0,2019-07-01

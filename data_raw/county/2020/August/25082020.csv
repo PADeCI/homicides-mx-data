@@ -1,0 +1,75 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,3.0,3.0,0.0,0.0,2020-08-25
+Chiapas,"Villa 
+Comaltitlán",1.0,0.0,1.0,0.0,2020-08-25
+Chihuahua,Ascensión,3.0,3.0,0.0,0.0,2020-08-25
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-08-25
+Chihuahua,Cuauhtémoc,2.0,2.0,0.0,0.0,2020-08-25
+Chihuahua,"Guadalupe y 
+Calvo",2.0,2.0,0.0,0.0,2020-08-25
+Chihuahua,Juárez,2.0,1.0,0.0,1.0,2020-08-25
+Coahuila,Sabinas,1.0,0.0,1.0,0.0,2020-08-25
+Coahuila,Torreón,1.0,1.0,0.0,0.0,2020-08-25
+Guanajuato,"Apaseo el 
+Grande",1.0,1.0,0.0,0.0,2020-08-25
+Guanajuato,Apaseo el Alto,2.0,1.0,0.0,1.0,2020-08-25
+Guanajuato,Celaya,1.0,0.0,0.0,1.0,2020-08-25
+Guanajuato,Guanajuato,1.0,0.0,1.0,0.0,2020-08-25
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-08-25
+Guanajuato,León,3.0,2.0,1.0,0.0,2020-08-25
+Guanajuato,Salamanca,5.0,4.0,1.0,0.0,2020-08-25
+Guanajuato,"San Luis de la 
+Paz",4.0,4.0,0.0,0.0,2020-08-25
+Guanajuato,"Valle de 
+Santiago",1.0,1.0,0.0,0.0,2020-08-25
+Guerrero,"Acapulco de 
+Juárez",2.0,2.0,0.0,0.0,2020-08-25
+Guerrero,"Atlamajalcingo 
+del Monte",1.0,1.0,0.0,0.0,2020-08-25
+Guerrero,"Ayutla de los 
+Libres",1.0,1.0,0.0,0.0,2020-08-25
+Guerrero,"Huitzuco de los 
+Figueroa",2.0,2.0,0.0,0.0,2020-08-25
+Guerrero,"Iguala de la 
+Independencia",1.0,1.0,0.0,0.0,2020-08-25
+Guerrero,Petatlán,2.0,2.0,0.0,0.0,2020-08-25
+Hidalgo,Alfajayucan,2.0,2.0,0.0,0.0,2020-08-25
+Hidalgo,Tasquillo,1.0,1.0,0.0,0.0,2020-08-25
+Jalisco,Guadalajara,1.0,0.0,0.0,1.0,2020-08-25
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,1.0,0.0,0.0,2020-08-25
+Jalisco,"Tlajomulco de 
+Zúñiga",2.0,1.0,0.0,1.0,2020-08-25
+Jalisco,Zapopan,2.0,2.0,0.0,0.0,2020-08-25
+Michoacán,Ario,1.0,0.0,1.0,0.0,2020-08-25
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-08-25
+Michoacán,Zamora,1.0,0.0,1.0,0.0,2020-08-25
+Morelos,Axochiapan,1.0,1.0,0.0,0.0,2020-08-25
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-08-25
+Estado de México,Villa Victoria,1.0,0.0,1.0,0.0,2020-08-25
+Nuevo León,"Ciénega de 
+Flores",1.0,1.0,0.0,0.0,2020-08-25
+Oaxaca,Loma Bonita,2.0,1.0,1.0,0.0,2020-08-25
+Querétaro,"San Juan del 
+Río",1.0,1.0,0.0,0.0,2020-08-25
+Quintana Roo,Benito Juárez,3.0,0.0,0.0,3.0,2020-08-25
+San Luis Potosí,San Luis Potosí,7.0,7.0,0.0,0.0,2020-08-25
+Sinaloa,Badiraguato,1.0,1.0,0.0,0.0,2020-08-25
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-08-25
+Sonora,Caborca,1.0,1.0,0.0,0.0,2020-08-25
+Sonora,Hermosillo,2.0,0.0,0.0,2.0,2020-08-25
+Tabasco,Huimanguillo,7.0,6.0,1.0,0.0,2020-08-25
+Veracruz,Boca del Río,1.0,1.0,0.0,0.0,2020-08-25
+Veracruz,Coatzacoalcos,2.0,1.0,1.0,0.0,2020-08-25
+Veracruz,"Juan Rodríguez 
+Clara",1.0,0.0,1.0,0.0,2020-08-25
+Veracruz,La Perla,1.0,1.0,0.0,0.0,2020-08-25
+Veracruz,"Martínez de la 
+Torre",1.0,1.0,0.0,0.0,2020-08-25
+Veracruz,Orizaba,1.0,1.0,0.0,0.0,2020-08-25
+Veracruz,"Sayula de 
+Alemán",1.0,1.0,0.0,0.0,2020-08-25
+Veracruz,Tierra Blanca,1.0,1.0,0.0,0.0,2020-08-25
+Veracruz,Tihuatlán,1.0,1.0,0.0,0.0,2020-08-25
+Yucatán,Kanasín,1.0,0.0,1.0,0.0,2020-08-25
+Zacatecas,Fresnillo,6.0,4.0,0.0,2.0,2020-08-25

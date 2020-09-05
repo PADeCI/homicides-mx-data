@@ -1,0 +1,72 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,5.0,5.0,0.0,0.0,2020-04-13
+Chihuahua,Chihuahua,2.0,1.0,1.0,0.0,2020-04-13
+Chihuahua,Juárez,3.0,3.0,0.0,0.0,2020-04-13
+Ciudad de México,Coyoacán,1.0,1.0,0.0,0.0,2020-04-13
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-04-13
+Coahuila,Hidalgo,1.0,1.0,0.0,0.0,2020-04-13
+Colima,Colima,1.0,1.0,0.0,0.0,2020-04-13
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-04-13
+Guanajuato,Celaya,2.0,1.0,1.0,0.0,2020-04-13
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-04-13
+Guanajuato,León,4.0,4.0,0.0,0.0,2020-04-13
+Guanajuato,Pénjamo,3.0,2.0,1.0,0.0,2020-04-13
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-04-13
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-04-13
+Guerrero,"Acapulco de 
+Juárez",2.0,1.0,1.0,0.0,2020-04-13
+Guerrero,"Chilpancingo 
+de los Bravo",1.0,1.0,0.0,0.0,2020-04-13
+Guerrero,"Zihuatanejo de 
+Azueta",1.0,1.0,0.0,0.0,2020-04-13
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2020-04-13
+Jalisco,"Tlajomulco de 
+Zúñiga",2.0,2.0,0.0,0.0,2020-04-13
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-04-13
+Michoacán,Uruapan,1.0,0.0,0.0,1.0,2020-04-13
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-04-13
+Michoacán,Zinapécuaro,1.0,1.0,0.0,0.0,2020-04-13
+Morelos,Cuautla,1.0,1.0,0.0,0.0,2020-04-13
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-04-13
+Morelos,Tlayacapan,1.0,1.0,0.0,0.0,2020-04-13
+Estado de México,Nezahualcóyotl,3.0,3.0,0.0,0.0,2020-04-13
+Estado de México,"Tlalnepantla de 
+Baz",1.0,0.0,1.0,0.0,2020-04-13
+Nuevo León,"Ciénega de 
+Flores",1.0,1.0,0.0,0.0,2020-04-13
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2020-04-13
+Oaxaca,"Villa de 
+Tututepec de 
+Melchor 
+Ocampo",2.0,1.0,1.0,0.0,2020-04-13
+Puebla,Cholula,1.0,0.0,1.0,0.0,2020-04-13
+Puebla,"Izúcar de 
+Matamoros",1.0,1.0,0.0,0.0,2020-04-13
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-04-13
+Puebla,San Andrés,1.0,0.0,1.0,0.0,2020-04-13
+Puebla,"San Salvador 
+Huixcolotla",2.0,1.0,1.0,0.0,2020-04-13
+Puebla,Tlahuapan,2.0,2.0,0.0,0.0,2020-04-13
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-04-13
+San Luis Potosí,"Soledad de 
+Graciano 
+Sánchez",1.0,1.0,0.0,0.0,2020-04-13
+San Luis Potosí,Ébano,1.0,1.0,0.0,0.0,2020-04-13
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-04-13
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-04-13
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-04-13
+Tabasco,Macuspana,1.0,1.0,0.0,0.0,2020-04-13
+Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2020-04-13
+Tlaxcala,"Papalotla de 
+Xicohténcatl",1.0,1.0,0.0,0.0,2020-04-13
+Veracruz,Acayucan,1.0,1.0,0.0,0.0,2020-04-13
+Veracruz,Agua Dulce,1.0,1.0,0.0,0.0,2020-04-13
+Veracruz,Ixhuatlancillo,1.0,0.0,1.0,0.0,2020-04-13
+Veracruz,Ixtaczoquitlán,1.0,1.0,0.0,0.0,2020-04-13
+Veracruz,Texistepec,1.0,1.0,0.0,0.0,2020-04-13
+Veracruz,Xalapa,1.0,1.0,0.0,0.0,2020-04-13
+Veracruz,Yecuatla,1.0,1.0,0.0,0.0,2020-04-13
+Veracruz,"Ángel R. 
+Cabada",1.0,1.0,0.0,0.0,2020-04-13
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-04-13
+Zacatecas,Villa de Cos,1.0,1.0,0.0,0.0,2020-04-13

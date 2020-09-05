@@ -1,0 +1,74 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,3.0,2.0,1.0,0.0,2019-06-24
+Baja California,Tijuana,5.0,5.0,0.0,0.0,2019-06-24
+Chiapas,Frontera Hidalgo,1.0,1.0,0.0,0.0,2019-06-24
+Chiapas,Tapachula,1.0,1.0,0.0,0.0,2019-06-24
+Chihuahua,Bocoyna,1.0,1.0,0.0,0.0,2019-06-24
+Chihuahua,Juárez,3.0,2.0,1.0,0.0,2019-06-24
+Chihuahua,"San Francisco del 
+Oro",1.0,1.0,0.0,0.0,2019-06-24
+Ciudad de México,"Gustavo A. 
+Madero",1.0,0.0,1.0,0.0,2019-06-24
+Coahuila,Piedras Negras,1.0,1.0,0.0,0.0,2019-06-24
+Colima,Manzanillo,3.0,1.0,1.0,1.0,2019-06-24
+Guanajuato,Abasolo,1.0,0.0,1.0,0.0,2019-06-24
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-06-24
+Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2019-06-24
+Guanajuato,Cuerámaro,3.0,0.0,0.0,3.0,2019-06-24
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-06-24
+Guanajuato,León,1.0,1.0,0.0,0.0,2019-06-24
+Guanajuato,"Silao de la 
+Víctoria",1.0,1.0,0.0,0.0,2019-06-24
+Guerrero,"Acapulco de 
+Juárez",2.0,1.0,0.0,1.0,2019-06-24
+Guerrero,"Chilapa de 
+Álvarez",1.0,1.0,0.0,0.0,2019-06-24
+Guerrero,"Chilpancingo de 
+los Bravo",1.0,1.0,0.0,0.0,2019-06-24
+Guerrero,Copanatoyac,3.0,3.0,0.0,0.0,2019-06-24
+Guerrero,Petatlán,6.0,6.0,0.0,0.0,2019-06-24
+Guerrero,Tetipac,2.0,2.0,0.0,0.0,2019-06-24
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-06-24
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-06-24
+Michoacán,Lázaro Cárdenas,1.0,1.0,0.0,0.0,2019-06-24
+Michoacán,Zamora,2.0,1.0,1.0,0.0,2019-06-24
+Morelos,Ayala,1.0,1.0,0.0,0.0,2019-06-24
+Morelos,Yautepec,1.0,0.0,1.0,0.0,2019-06-24
+Estado de México,"Coacalco de 
+Berriozábal",1.0,1.0,0.0,0.0,2019-06-24
+Estado de México,Ixtapan de la Sal,2.0,2.0,0.0,0.0,2019-06-24
+Estado de México,La Paz,1.0,1.0,0.0,0.0,2019-06-24
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2019-06-24
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2019-06-24
+Nuevo León,"Cadereyta 
+Jiménez",1.0,1.0,0.0,0.0,2019-06-24
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2019-06-24
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-06-24
+Nuevo León,Santa Catarina,1.0,1.0,0.0,0.0,2019-06-24
+Oaxaca,"Matías Romero 
+Avendaño",1.0,1.0,0.0,0.0,2019-06-24
+Oaxaca,San Lucas Ojitlán,2.0,1.0,1.0,0.0,2019-06-24
+Oaxaca,"Santo Domingo 
+Tehuantepec",2.0,2.0,0.0,0.0,2019-06-24
+Oaxaca,Villa de Zaachila,1.0,1.0,0.0,0.0,2019-06-24
+Puebla,Tochtepec,1.0,1.0,0.0,0.0,2019-06-24
+Quintana Roo,Bacalar,1.0,0.0,1.0,0.0,2019-06-24
+Quintana Roo,Benito Juárez,3.0,2.0,1.0,0.0,2019-06-24
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-06-24
+San Luis Potosí,Matehuala,2.0,0.0,0.0,2.0,2019-06-24
+Sinaloa,Mazatlán,1.0,1.0,0.0,0.0,2019-06-24
+Sonora,Guaymas,2.0,2.0,0.0,0.0,2019-06-24
+Tabasco,Cárdenas,2.0,2.0,0.0,0.0,2019-06-24
+Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2019-06-24
+Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2019-06-24
+Tlaxcala,Tzompantepec,1.0,1.0,0.0,0.0,2019-06-24
+Veracruz,Atoyac,1.0,1.0,0.0,0.0,2019-06-24
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-06-24
+Veracruz,Jamapa,1.0,0.0,1.0,0.0,2019-06-24
+Veracruz,Mecatlán,1.0,1.0,0.0,0.0,2019-06-24
+Veracruz,Tierra Blanca,1.0,0.0,1.0,0.0,2019-06-24
+Veracruz,Veracruz,1.0,1.0,0.0,0.0,2019-06-24
+Veracruz,Xalapa,1.0,1.0,0.0,0.0,2019-06-24
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-06-24
+Zacatecas,Guadalupe,2.0,1.0,0.0,1.0,2019-06-24
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2019-06-24

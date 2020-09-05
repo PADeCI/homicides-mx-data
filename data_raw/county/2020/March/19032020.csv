@@ -1,0 +1,65 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1.0,0.0,0.0,1.0,2020-03-19
+Baja California,Chihuahua (1)  Santa Bárbara,1.0,1.0,0.0,0.0,2020-03-19
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2020-03-19
+Baja California,Tijuana,2.0,2.0,0.0,0.0,2020-03-19
+Ciudad de México,Coyoacán,1.0,0.0,1.0,0.0,2020-03-19
+Ciudad de México,"Cuajimalpa de 
+Morelos",1.0,1.0,0.0,0.0,2020-03-19
+Ciudad de México,"Álvaro 
+Obregón",1.0,1.0,0.0,0.0,2020-03-19
+Colima,Colima,1.0,1.0,0.0,0.0,2020-03-19
+Durango,Gómez Palacio,1.0,0.0,1.0,0.0,2020-03-19
+Durango,"Santiago 
+Papasquiaro",1.0,1.0,0.0,0.0,2020-03-19
+Guanajuato,"Apaseo el 
+Grande",2.0,2.0,0.0,0.0,2020-03-19
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-03-19
+Guanajuato,León,2.0,1.0,1.0,0.0,2020-03-19
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-03-19
+Guanajuato,"San Francisco 
+del Rincón",2.0,0.0,0.0,2.0,2020-03-19
+Guerrero,"Chilpancingo 
+de los Bravo",1.0,1.0,0.0,0.0,2020-03-19
+Guerrero,"Coyuca de 
+Benítez",1.0,1.0,0.0,0.0,2020-03-19
+Guerrero,"Leonardo 
+Bravo",2.0,2.0,0.0,0.0,2020-03-19
+Guerrero,"Tlalixtaquilla 
+de Maldonado",1.0,1.0,0.0,0.0,2020-03-19
+Guerrero,"Técpan de 
+Galeana",1.0,1.0,0.0,0.0,2020-03-19
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,1.0,0.0,0.0,2020-03-19
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,1.0,0.0,0.0,2020-03-19
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-03-19
+Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2020-03-19
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-03-19
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-03-19
+Morelos,Temixco,2.0,2.0,0.0,0.0,2020-03-19
+Morelos,Xochitepec,3.0,3.0,0.0,0.0,2020-03-19
+Estado de México,Huixquilucan,1.0,1.0,0.0,0.0,2020-03-19
+Estado de México,Tecámac,1.0,0.0,1.0,0.0,2020-03-19
+Oaxaca,"Miahuatlán de 
+Porfirio Díaz",2.0,1.0,1.0,0.0,2020-03-19
+Oaxaca,"San Juan 
+Bautista 
+Tuxtepec",1.0,1.0,0.0,0.0,2020-03-19
+Puebla,Atlixco,1.0,0.0,1.0,0.0,2020-03-19
+Puebla,"San Andrés 
+Cholula",1.0,1.0,0.0,0.0,2020-03-19
+Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2020-03-19
+Puebla,Tehuacán,1.0,1.0,0.0,0.0,2020-03-19
+Querétaro,"San Juan del 
+Río",2.0,2.0,0.0,0.0,2020-03-19
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-03-19
+San Luis Potosí,Rioverde,1.0,0.0,0.0,1.0,2020-03-19
+San Luis Potosí,Tamuín,1.0,1.0,0.0,0.0,2020-03-19
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-03-19
+Sinaloa,Navolato,1.0,1.0,0.0,0.0,2020-03-19
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-03-19
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-03-19
+Tlaxcala,Tlaxcala,1.0,1.0,0.0,0.0,2020-03-19
+Veracruz,Coacoatzintla,1.0,1.0,0.0,0.0,2020-03-19
+Veracruz,Zongolica,1.0,1.0,0.0,0.0,2020-03-19

@@ -1,0 +1,72 @@
+Entidad,Municipio,"No de 
+Muertos",Hombre,Mujer,"No 
+Identificado"
+,,,,,
+,,,,,
+"Aguascalientes 
+(1)",Aguascalientes,1,1,-,-
+"Baja California 
+(2)",Tijuana,1,1,-,-
+,,1,1,-,-
+Campeche (1),Escárcega,1,1,-,-
+Chihuahua (1),Juárez,1,1,-,-
+"Ciudad de 
+México (6)","Álvaro 
+Obregón",1,-,1,-
+,Azcapotzalco,1,1,-,-
+,"Gustavo A. 
+Madero",1,1,-,-
+,,1,-,-,1
+,,1,-,-,1
+,Tláhuac,1,-,1,-
+Colima (1),Manzanillo,1,1,-,-
+"Guanajuato 
+(13)",León,4,-,1,3
+,,3,1,-,2
+,,1,-,-,1
+,,1,1,-,-
+,,2,2,-,-
+,Salvatierra,1,-,-,1
+,Uriangato,1,1,-,-
+Guerrero (1),"Acapulco de 
+Juárez",1,1,-,-
+Jalisco (5),"Lagos de 
+Moreno",1,1,-,-
+,"San Pedro 
+Tlaquepaque",1,1,-,-
+,Tonalá,1,1,-,-
+,,,,,
+,,1.0,1,-,-
+,Zapopan,1.0,1,-,-
+México (7),"Almoloya de 
+Juárez",2.0,2,-,-
+,"Ecatepec de 
+Morelos",1.0,1,-,-
+,,1.0,1,-,-
+,"Naucalpan de 
+Juárez",1.0,1,-,-
+,,1.0,-,-,1
+,Otumba,1.0,1,-,-
+"Michoacán de 
+Ocampo (3)",Morelia,1.0,1,-,-
+,Panindícuaro,2.0,2,-,-
+Oaxaca (4),"Matías Romero 
+Avendaño",1.0,-,-,1
+,"Oaxaca de 
+Juárez",2.0,2,-,-
+,"San Pedro 
+Ixtlahuaca",1.0,1,-,-
+Puebla (2),Atlixco,1.0,-,-,1
+,Puebla,1.0,-,-,1
+"Quintana Roo 
+(1)",Benito Juárez,1.0,1,-,-
+"San Luis Potosí 
+(1)","Ciudad 
+Fernández",1.0,1,-,-
+Sinaloa (1),Culiacán,1.0,1,-,-
+Sonora (1),Hermosillo,1.0,-,1,-
+"Tamaulipas 
+(10)",Nuevo Laredo,8.0,8,-,-
+,Reynosa,2.0,2,-,-
+Yucatán (2),Mérida,2.0,-,2,-
+Totales,,63.0,44,6,13

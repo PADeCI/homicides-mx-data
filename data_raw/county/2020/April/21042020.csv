@@ -1,0 +1,80 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2020-04-21
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2020-04-21
+Baja California,Tijuana,6.0,5.0,1.0,0.0,2020-04-21
+Chihuahua,Aldama,1.0,1.0,0.0,0.0,2020-04-21
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-04-21
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-04-21
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-04-21
+Ciudad de México,Xochimilco,1.0,1.0,0.0,0.0,2020-04-21
+Coahuila,Saltillo,1.0,0.0,0.0,1.0,2020-04-21
+Colima,Tecomán,1.0,1.0,0.0,0.0,2020-04-21
+Guanajuato,Apaseo el Alto,2.0,2.0,0.0,0.0,2020-04-21
+Guanajuato,Comonfort,1.0,1.0,0.0,0.0,2020-04-21
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-04-21
+Guanajuato,León,5.0,2.0,2.0,1.0,2020-04-21
+Guanajuato,Salamanca,1.0,0.0,0.0,1.0,2020-04-21
+Guanajuato,"San Miguel de 
+Allende",1.0,1.0,0.0,0.0,2020-04-21
+Guerrero,"Acapulco de 
+Juárez",3.0,2.0,1.0,0.0,2020-04-21
+Guerrero,"Ayutla de los 
+Libres",1.0,0.0,1.0,0.0,2020-04-21
+Guerrero,"Chilapa de 
+Álvarez",1.0,1.0,0.0,0.0,2020-04-21
+Guerrero,"Coyuca de 
+Benítez",1.0,1.0,0.0,0.0,2020-04-21
+Guerrero,"Iguala de la 
+Independencia",1.0,1.0,0.0,0.0,2020-04-21
+Hidalgo,Zimapán,1.0,1.0,0.0,0.0,2020-04-21
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2020-04-21
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,1.0,0.0,0.0,2020-04-21
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,0.0,0.0,1.0,2020-04-21
+Jalisco,Zapopan,1.0,0.0,0.0,1.0,2020-04-21
+Michoacán,Apatzingán,3.0,2.0,0.0,1.0,2020-04-21
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-04-21
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2020-04-21
+Michoacán,Pátzcuaro,1.0,1.0,0.0,0.0,2020-04-21
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-04-21
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-04-21
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-04-21
+Morelos,Puente de Ixtla,1.0,1.0,0.0,0.0,2020-04-21
+Morelos,Temixco,1.0,1.0,0.0,0.0,2020-04-21
+Estado de México,"Almoloya de 
+Juárez",1.0,1.0,0.0,0.0,2020-04-21
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-04-21
+Nuevo León,Monterrey,2.0,2.0,0.0,0.0,2020-04-21
+Oaxaca,"Heroica Ciudad 
+de Ejutla de 
+Crespo",1.0,1.0,0.0,0.0,2020-04-21
+Oaxaca,"Matías Romero 
+Avendaño",1.0,1.0,0.0,0.0,2020-04-21
+Oaxaca,"San Juan 
+Bautista 
+Tuxtepec",1.0,1.0,0.0,0.0,2020-04-21
+Oaxaca,"Santo 
+Domingo 
+Tehuantepec",1.0,1.0,0.0,0.0,2020-04-21
+Puebla,"Izúcar de 
+Matamoros",1.0,1.0,0.0,0.0,2020-04-21
+Puebla,"Palmar de 
+Bravo",1.0,1.0,0.0,0.0,2020-04-21
+Puebla,"San Salvador 
+Huixcolotla",1.0,1.0,0.0,0.0,2020-04-21
+Quintana Roo,Benito Juárez,4.0,3.0,0.0,1.0,2020-04-21
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-04-21
+Sinaloa,Guasave,1.0,0.0,1.0,0.0,2020-04-21
+Sonora,Guaymas,2.0,2.0,0.0,0.0,2020-04-21
+Tabasco,Centro,1.0,0.0,1.0,0.0,2020-04-21
+Tabasco,"Jalpa de 
+Méndez",2.0,2.0,0.0,0.0,2020-04-21
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-04-21
+Veracruz,Atzacan,1.0,1.0,0.0,0.0,2020-04-21
+Veracruz,"Camerino Z. 
+Mendoza",1.0,1.0,0.0,0.0,2020-04-21
+Veracruz,"Puente 
+Nacional",1.0,1.0,0.0,0.0,2020-04-21
+Veracruz,Tantoyuca,1.0,1.0,0.0,0.0,2020-04-21
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2020-04-21

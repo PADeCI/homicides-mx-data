@@ -1,0 +1,87 @@
+Entidad,Municipio,"No de 
+Muertos",Hombre,Mujer,"No 
+Identificado"
+"Baja 
+California (9)",Tijuana,1,-,-,1
+,,2,2,-,-
+,,1,-,-,1
+,,2,2,-,-
+,,1,1,-,-
+,,1,1,-,-
+,,1,1,-,-
+"Chihuahua 
+(5)",Bocoyna,2,2,-,-
+,Juárez,1,1,-,-
+,,1,1,-,-
+,,1,-,-,1
+"Ciudad de 
+México (1)",Azcapotzalco,1,1,-,-
+Colima (3),Manzanillo,1,1,-,-
+,Tecomán,1,1,-,-
+,,1,1,-,-
+"Guanajuato 
+(16)",Celaya,2,-,-,2
+,,1,-,-,1
+,Cortazar,1,1,-,-
+,Irapuato,1,1,-,-
+,,1,1,-,-
+,León,1,1,-,-
+,Moroleón,9,-,-,9
+Guerrero (3),"Acapulco de 
+Juárez",1,-,1,-
+,,1,1,-,-
+,Eduardo Neri,1,1,-,-
+Jalisco (2),"San Pedro 
+Tlaquepaque",1,1,-,-
+,"Tepatitlán de 
+Morelos",1,1,-,-
+México (1),Chimalhuacán,1,1,-,-
+"Michoacán 
+de Ocampo 
+(16)",Apatzingán,2,2,-,-
+,Coeneo,12,-,-,12
+,Morelia,1,-,1,-
+,"Tangamandap
+io",1,1,-,-
+Morelos (3),Cuernavaca,1,-,-,1
+,,2,2,-,-
+"Nuevo León 
+(3)",Gral. Escobedo,1,1,-,-
+,,1,1,-,-
+,Guadalupe,1,1,-,-
+Puebla (3),Chietla,1,1,-,-
+,Puebla,1,1,-,-
+,,1,-,1,-
+Querétaro (2),Querétaro,2,-,-,2
+,,,,,
+"Quintana 
+Roo (10)",Benito Juárez,2.0,-,-,2
+,,1.0,1,-,-
+,,1.0,-,1,-
+,"Felipe Carrillo 
+Puerto",2.0,2,-,-
+,Solidaridad,1.0,1,-,-
+,,1.0,1,-,-
+,,1.0,1,-,-
+,Tulum,1.0,-,1,-
+"San Luis 
+Potosí (2)",Rioverde,1.0,1,-,-
+,"San Nicolás 
+Tolentino",1.0,1,-,-
+Sinaloa (1),Culiacán,1.0,-,1,-
+Sonora (2),Guaymas,1.0,1,-,-
+,Nogales,1.0,1,-,-
+Tabasco (1),Nacajuca,1.0,1,-,-
+Tlaxcala (1),Tlaxcala,1.0,1,-,-
+"Veracruz de 
+Ignacio de la 
+Llave (4)","Gutiérrez 
+Zamora",1.0,1,-,-
+,"Martínez de la 
+Torre",1.0,1,-,-
+,Misantla,1.0,1,-,-
+,Yanga,1.0,1,-,-
+Zacatecas (2),Fresnillo,1.0,1,-,-
+,Guadalupe,1.0,1,-,-
+,,,,,Zacatecas
+Totales,90.0,52.0,6.0,32.0,
