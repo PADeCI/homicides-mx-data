@@ -1,33 +1,26 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,"San Francisco 
-de los Romo",2.0,2.0,0.0,0.0,2019-10-22
+Aguascalientes,San Francisco De Los Romo,2.0,2.0,0.0,0.0,2019-10-22
 Baja California,Tijuana,2.0,2.0,0.0,0.0,2019-10-22
 Chiapas,Motozintla,1.0,1.0,0.0,0.0,2019-10-22
 Chihuahua,Juárez,5.0,5.0,0.0,0.0,2019-10-22
 Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-10-22
 Ciudad de México,Iztapalapa,1.0,0.0,1.0,0.0,2019-10-22
 Durango,Durango,1.0,1.0,0.0,0.0,2019-10-22
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2019-10-22
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2019-10-22
 Guanajuato,Celaya,4.0,3.0,0.0,1.0,2019-10-22
 Guanajuato,Huanímaro,1.0,1.0,0.0,0.0,2019-10-22
 Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2019-10-22
 Guanajuato,Tarimoro,2.0,1.0,1.0,0.0,2019-10-22
-Guerrero,"Acapulco de 
-Juárez",7.0,7.0,0.0,0.0,2019-10-22
-Guerrero,Azueta,1.0,1.0,0.0,0.0,2019-10-22
-Guerrero,"Chilpancingo de 
-los Bravo",1.0,1.0,0.0,0.0,2019-10-22
-Guerrero,Zihuatanejo de,1.0,1.0,0.0,0.0,2019-10-22
-Hidalgo,"Pachuca de 
-Soto",1.0,1.0,0.0,0.0,2019-10-22
-Jalisco,"Encarnación de 
-Díaz",4.0,4.0,0.0,0.0,2019-10-22
+Guerrero,Acapulco De Juárez,7.0,7.0,0.0,0.0,2019-10-22
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2019-10-22
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2019-10-22
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2019-10-22
+Hidalgo,Pachuca De Soto,1.0,1.0,0.0,0.0,2019-10-22
+Jalisco,Encarnación De Díaz,4.0,4.0,0.0,0.0,2019-10-22
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-10-22
 Jalisco,Jalostotitlán,2.0,0.0,0.0,2.0,2019-10-22
-Jalisco,"Ojuelos de 
-Jalisco",4.0,0.0,0.0,4.0,2019-10-22
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2019-10-22
+Jalisco,Ojuelos De Jalisco,4.0,0.0,0.0,4.0,2019-10-22
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-10-22
 Michoacán,Apatzingán,1.0,1.0,0.0,0.0,2019-10-22
 Michoacán,Madero,2.0,2.0,0.0,0.0,2019-10-22
 Michoacán,Morelia,3.0,3.0,0.0,0.0,2019-10-22
@@ -35,22 +28,18 @@ Michoacán,Quiroga,1.0,1.0,0.0,0.0,2019-10-22
 Michoacán,Uruapan,4.0,4.0,0.0,0.0,2019-10-22
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-10-22
 Morelos,Miacatlán,1.0,1.0,0.0,0.0,2019-10-22
-Morelos,Puente de Ixtla,1.0,1.0,0.0,0.0,2019-10-22
+Morelos,Puente De Ixtla,1.0,1.0,0.0,0.0,2019-10-22
 Morelos,Tlaquiltenango,1.0,1.0,0.0,0.0,2019-10-22
 Estado de México,Chimalhuacán,1.0,1.0,0.0,0.0,2019-10-22
-Estado de México,"Ecatepec de 
-Morelos",3.0,3.0,0.0,0.0,2019-10-22
-Estado de México,"Naucalpan de 
-Juárez",3.0,2.0,1.0,0.0,2019-10-22
+Estado de México,Ecatepec De Morelos,3.0,3.0,0.0,0.0,2019-10-22
+Estado de México,Naucalpan De Juárez,3.0,2.0,1.0,0.0,2019-10-22
 Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2019-10-22
 Estado de México,Zumpango,1.0,0.0,1.0,0.0,2019-10-22
-Nuevo León,"Cadereyta 
-Jiménez",1.0,1.0,0.0,0.0,2019-10-22
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2019-10-22
 Nuevo León,Monterrey,3.0,1.0,2.0,0.0,2019-10-22
 Puebla,Huauchinango,1.0,1.0,0.0,0.0,2019-10-22
 Puebla,Puebla,3.0,3.0,0.0,0.0,2019-10-22
-Puebla,"Rafael Lara 
-Grajales",1.0,1.0,0.0,0.0,2019-10-22
+Puebla,Rafael Lara Grajales,1.0,1.0,0.0,0.0,2019-10-22
 Quintana Roo,Benito Juárez,2.0,1.0,1.0,0.0,2019-10-22
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-10-22
 Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2019-10-22
@@ -62,6 +51,5 @@ Sonora,Hermosillo,1.0,0.0,0.0,1.0,2019-10-22
 Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2019-10-22
 Tlaxcala,Xaltocan,1.0,1.0,0.0,0.0,2019-10-22
 Veracruz,Coatepec,1.0,1.0,0.0,0.0,2019-10-22
-Veracruz,"Hueyapan de 
-Ocampo",1.0,1.0,0.0,0.0,2019-10-22
+Veracruz,Hueyapan De Ocampo,1.0,1.0,0.0,0.0,2019-10-22
 Zacatecas,Calera,1.0,1.0,0.0,0.0,2019-10-22

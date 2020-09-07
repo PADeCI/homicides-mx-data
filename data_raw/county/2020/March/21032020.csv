@@ -3,19 +3,15 @@ Baja California,Tijuana,3.0,3.0,0.0,0.0,2020-03-21
 Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-03-21
 Chihuahua,Juárez,3.0,3.0,0.0,0.0,2020-03-21
 Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-03-21
-Ciudad de México,"Venustiano 
-Carranza",3.0,3.0,0.0,0.0,2020-03-21
+Ciudad de México,Venustiano Carranza,3.0,3.0,0.0,0.0,2020-03-21
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-03-21
 Guanajuato,Comonfort,2.0,1.0,1.0,0.0,2020-03-21
 Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2020-03-21
 Guanajuato,Jerécuaro,2.0,2.0,0.0,0.0,2020-03-21
 Guanajuato,León,2.0,2.0,0.0,0.0,2020-03-21
-Guanajuato,"San Francisco 
-del Rincón",1.0,1.0,0.0,0.0,2020-03-21
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,1.0,0.0,0.0,2020-03-21
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,0.0,0.0,1.0,2020-03-21
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2020-03-21
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-03-21
+Jalisco,San Pedro Tlaquepaque,1.0,0.0,0.0,1.0,2020-03-21
 Michoacán,Chilchota,1.0,1.0,0.0,0.0,2020-03-21
 Michoacán,Los Reyes,1.0,1.0,0.0,0.0,2020-03-21
 Michoacán,Tangancícuaro,3.0,3.0,0.0,0.0,2020-03-21
@@ -26,17 +22,12 @@ Estado de México,Huixquilucan,1.0,1.0,0.0,0.0,2020-03-21
 Estado de México,Nezahualcóyotl,2.0,2.0,0.0,0.0,2020-03-21
 Estado de México,Ocoyoacac,4.0,2.0,0.0,2.0,2020-03-21
 Estado de México,Otzolotepec,2.0,2.0,0.0,0.0,2020-03-21
-Oaxaca,"San Martín 
-Huamelúlpam",2.0,2.0,0.0,0.0,2020-03-21
-Oaxaca,"Santa María 
-Huatulco",1.0,1.0,0.0,0.0,2020-03-21
+Oaxaca,San Martín Huamelúlpam,2.0,2.0,0.0,0.0,2020-03-21
+Oaxaca,Santa María Huatulco,1.0,1.0,0.0,0.0,2020-03-21
 Puebla,Coyotepec,1.0,0.0,0.0,1.0,2020-03-21
 Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-03-21
-Quintana Roo,"Othón P. 
-Blanco",1.0,0.0,0.0,1.0,2020-03-21
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",2.0,2.0,0.0,0.0,2020-03-21
+Quintana Roo,Othón P. Blanco,1.0,0.0,0.0,1.0,2020-03-21
+San Luis Potosí,Soledad De Graciano Sánchez,2.0,2.0,0.0,0.0,2020-03-21
 Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-03-21
 Veracruz,Minatitlán,2.0,2.0,0.0,0.0,2020-03-21
 Veracruz,Xalapa,1.0,1.0,0.0,0.0,2020-03-21

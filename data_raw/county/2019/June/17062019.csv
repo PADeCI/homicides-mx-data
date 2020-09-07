@@ -3,8 +3,7 @@ Baja California,Ensenada,1.0,1.0,0.0,0.0,2019-06-17
 Baja California,Tijuana,17.0,13.0,3.0,1.0,2019-06-17
 Chiapas,Las Margaritas,1.0,0.0,1.0,0.0,2019-06-17
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-06-17
-Chihuahua,"Hidalgo del 
-Parral",1.0,1.0,0.0,0.0,2019-06-17
+Chihuahua,Hidalgo Del Parral,1.0,1.0,0.0,0.0,2019-06-17
 Chihuahua,Juárez,10.0,5.0,2.0,3.0,2019-06-17
 Chihuahua,Madera,2.0,2.0,0.0,0.0,2019-06-17
 Coahuila,Torreón,1.0,1.0,0.0,0.0,2019-06-17
@@ -14,23 +13,16 @@ Durango,Durango,1.0,1.0,0.0,0.0,2019-06-17
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-06-17
 Guanajuato,Irapuato,2.0,1.0,1.0,0.0,2019-06-17
 Guanajuato,León,2.0,2.0,0.0,0.0,2019-06-17
-Guanajuato,"San Luis de la 
-Paz",2.0,2.0,0.0,0.0,2019-06-17
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-06-17
-Guanajuato,"Silao de la 
-Victoria",1.0,1.0,0.0,0.0,2019-06-17
-Guerrero,"Acapulco de 
-Juárez",4.0,1.0,0.0,3.0,2019-06-17
-Guerrero,"Chilpancingo de 
-los Bravo",1.0,1.0,0.0,0.0,2019-06-17
-Guerrero,Taxco de Alarcón,1.0,1.0,0.0,0.0,2019-06-17
+Guanajuato,San Luis De La Paz,2.0,2.0,0.0,0.0,2019-06-17
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-06-17
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2019-06-17
+Guerrero,Acapulco De Juárez,4.0,1.0,0.0,3.0,2019-06-17
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2019-06-17
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2019-06-17
 Hidalgo,Epazoyucan,1.0,1.0,0.0,0.0,2019-06-17
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-06-17
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2019-06-17
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2019-06-17
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-06-17
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-06-17
 Jalisco,Tonalá,2.0,2.0,0.0,0.0,2019-06-17
 Jalisco,Zapopan,2.0,2.0,0.0,0.0,2019-06-17
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-06-17
@@ -41,31 +33,23 @@ Michoacán,Zitácuaro,1.0,1.0,0.0,0.0,2019-06-17
 Morelos,Ayala,1.0,1.0,0.0,0.0,2019-06-17
 Morelos,Cuernavaca,2.0,1.0,0.0,1.0,2019-06-17
 Morelos,Emiliano Zapata,3.0,2.0,1.0,0.0,2019-06-17
-Morelos,Puente de Ixtla,1.0,1.0,0.0,0.0,2019-06-17
+Morelos,Puente De Ixtla,1.0,1.0,0.0,0.0,2019-06-17
 Morelos,Temixco,1.0,1.0,0.0,0.0,2019-06-17
-Morelos,Tetela del Volcán,1.0,1.0,0.0,0.0,2019-06-17
+Morelos,Tetela Del Volcán,1.0,1.0,0.0,0.0,2019-06-17
 Morelos,Yautepec,2.0,1.0,1.0,0.0,2019-06-17
-Estado de México,"Ecatepec de 
-Morelos",2.0,1.0,1.0,0.0,2019-06-17
+Estado de México,Ecatepec De Morelos,2.0,1.0,1.0,0.0,2019-06-17
 Estado de México,Nezahualcóyotl,2.0,2.0,0.0,0.0,2019-06-17
 Estado de México,Santo Tomás,1.0,1.0,0.0,0.0,2019-06-17
 Estado de México,Temoaya,4.0,3.0,1.0,0.0,2019-06-17
 Nayarit,Tepic,1.0,1.0,0.0,0.0,2019-06-17
 Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2019-06-17
 Nuevo León,Monterrey,2.0,1.0,0.0,1.0,2019-06-17
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0,2019-06-17
-Oaxaca,"Putla Villa de 
-Guerrero",1.0,1.0,0.0,0.0,2019-06-17
-Oaxaca,"San Felipe Jalapa 
-de Díaz",1.0,1.0,0.0,0.0,2019-06-17
-Oaxaca,"San Miguel 
-Soyaltepec",1.0,0.0,0.0,1.0,2019-06-17
-Oaxaca,"Santa Cruz 
-Xoxocotlán",1.0,1.0,0.0,0.0,2019-06-17
-Puebla,"Francisco Z. 
-Mena",1.0,1.0,0.0,0.0,2019-06-17
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2019-06-17
+Oaxaca,Putla Villa De Guerrero,1.0,1.0,0.0,0.0,2019-06-17
+Oaxaca,San Felipe Jalapa De Díaz,1.0,1.0,0.0,0.0,2019-06-17
+Oaxaca,San Miguel Soyaltepec,1.0,0.0,0.0,1.0,2019-06-17
+Oaxaca,Santa Cruz Xoxocotlán,1.0,1.0,0.0,0.0,2019-06-17
+Puebla,Francisco Z. Mena,1.0,1.0,0.0,0.0,2019-06-17
 Puebla,Huaquechula,2.0,2.0,0.0,0.0,2019-06-17
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-06-17
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-06-17
@@ -78,6 +62,5 @@ Tamaulipas,San Fernando,1.0,1.0,0.0,0.0,2019-06-17
 Veracruz,Agua Dulce,1.0,0.0,1.0,0.0,2019-06-17
 Veracruz,Altotonga,1.0,1.0,0.0,0.0,2019-06-17
 Veracruz,Carrillo Puerto,1.0,1.0,0.0,0.0,2019-06-17
-Veracruz,"Martínez de la 
-Torre",1.0,1.0,0.0,0.0,2019-06-17
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2019-06-17
 Veracruz,Oluta,1.0,1.0,0.0,0.0,2019-06-17

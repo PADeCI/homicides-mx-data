@@ -1,45 +1,34 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,"Playas de 
-Rosarito",1,0.0,0.0,1.0,2019-10-28
+Baja California,Playas De Rosarito,1,0.0,0.0,1.0,2019-10-28
 Baja California,Tijuana,1,1.0,0.0,0.0,2019-10-28
 Campeche,Escárcega,1,1.0,0.0,0.0,2019-10-28
 Chihuahua,Juárez,8,8.0,0.0,0.0,2019-10-28
 Ciudad de México,Iztapalapa,1,1.0,0.0,0.0,2019-10-28
 Colima,Armería,1,1.0,0.0,0.0,2019-10-28
 Colima,Colima,2,2.0,0.0,0.0,2019-10-28
-Colima,Villa de Álvarez,1,1.0,0.0,0.0,2019-10-28
+Colima,Villa De Álvarez,1,1.0,0.0,0.0,2019-10-28
 Guanajuato,Salamanca,3,3.0,0.0,0.0,2019-10-28
-Guanajuato,"San Francisco 
-del Rincón",1,1.0,0.0,0.0,2019-10-28
-Guerrero,"Acapulco de 
-Juárez",1,1.0,0.0,0.0,2019-10-28
-Guerrero,"Chilpancingo de 
-los Bravo",4,3.0,0.0,1.0,2019-10-28
-Guerrero,"Coyuca de 
-Benítez",1,1.0,0.0,0.0,2019-10-28
-Guerrero,"Tlapa de 
-Comonfort",1,1.0,0.0,0.0,2019-10-28
+Guanajuato,San Francisco Del Rincón,1,1.0,0.0,0.0,2019-10-28
+Guerrero,Acapulco De Juárez,1,1.0,0.0,0.0,2019-10-28
+Guerrero,Chilpancingo De Los Bravo,4,3.0,0.0,1.0,2019-10-28
+Guerrero,Coyuca De Benítez,1,1.0,0.0,0.0,2019-10-28
+Guerrero,Tlapa De Comonfort,1,1.0,0.0,0.0,2019-10-28
 Hidalgo,Ixmiquilpan,2,2.0,0.0,0.0,2019-10-28
 Jalisco,Puerto Vallarta,1,1.0,0.0,0.0,2019-10-28
 Michoacán,Apatzingán,1,1.0,0.0,0.0,2019-10-28
 Michoacán,Buenavista,1,1.0,0.0,0.0,2019-10-28
 Michoacán,Jacona,1,1.0,0.0,0.0,2019-10-28
 Michoacán,Jiquilpan,1,1.0,0.0,0.0,2019-10-28
-Michoacán,"Lázaro 
-Cárdenas",1,1.0,0.0,0.0,2019-10-28
+Michoacán,Lázaro Cárdenas,1,1.0,0.0,0.0,2019-10-28
 Michoacán,Uruapan,3,3.0,0.0,0.0,2019-10-28
 Michoacán,Zamora,1,1.0,0.0,0.0,2019-10-28
 Estado de México,Nezahualcóyotl,1,1.0,0.0,0.0,2019-10-28
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,0.0,1.0,0.0,2019-10-28
+Oaxaca,San Juan Bautista Tuxtepec,1,0.0,1.0,0.0,2019-10-28
 Puebla,Cuautempan,2,2.0,0.0,0.0,2019-10-28
 Puebla,Huejotzingo,5,0.0,0.0,5.0,2019-10-28
-Puebla,"Palmar de 
-Bravo",2,2.0,0.0,0.0,2019-10-28
+Puebla,Palmar De Bravo,2,2.0,0.0,0.0,2019-10-28
 Puebla,Teziutlán,1,1.0,0.0,0.0,2019-10-28
-Querétaro,"Landa de 
-Matamoros",1,1.0,0.0,0.0,2019-10-28
+Querétaro,Landa De Matamoros,1,1.0,0.0,0.0,2019-10-28
 Querétaro,Querétaro,1,1.0,0.0,0.0,2019-10-28
 Quintana Roo,Benito Juárez,2,2.0,0.0,0.0,2019-10-28
 Sinaloa,Culiacán,1,1.0,0.0,0.0,2019-10-28
@@ -52,11 +41,9 @@ Tlaxcala,Natívitas,2,2.0,0.0,0.0,2019-10-28
 Veracruz,Acayucan,1,1.0,0.0,0.0,2019-10-28
 Veracruz,Chinameca,1,1.0,0.0,0.0,2019-10-28
 Veracruz,Coatzacoalcos,1,1.0,0.0,0.0,2019-10-28
-Veracruz,"San Juan 
-Evangelista",1,1.0,0.0,0.0,2019-10-28
+Veracruz,San Juan Evangelista,1,1.0,0.0,0.0,2019-10-28
 Veracruz,Santiago Tuxtla,1,1.0,0.0,0.0,2019-10-28
 Veracruz,Tlalnelhuayocan,1,0.0,1.0,0.0,2019-10-28
 Zacatecas,Calera,1,1.0,0.0,0.0,2019-10-28
 Zacatecas,Juchipila,1,1.0,0.0,0.0,2019-10-28
-Zacatecas,"Nochistlán de 
-Mejía",1,1.0,0.0,0.0,2019-10-28
+Zacatecas,Nochistlán De Mejía,1,1.0,0.0,0.0,2019-10-28

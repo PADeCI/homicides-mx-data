@@ -1,50 +1,39 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Ensenada,1,1.0,0.0,0.0,2019-02-19
 Baja California,Tijuana,2,2.0,0.0,0.0,2019-02-19
-Chiapas,"Chiapa de 
-Corzo",2,0.0,0.0,2.0,2019-02-19
+Chiapas,Chiapa De Corzo,2,0.0,0.0,2.0,2019-02-19
 Chiapas,Palenque,1,0.0,0.0,1.0,2019-02-19
 Chiapas,Tapachula,3,3.0,0.0,0.0,2019-02-19
 Chihuahua,Cuauhtémoc,1,1.0,0.0,0.0,2019-02-19
 Chihuahua,Juárez,1,1.0,0.0,0.0,2019-02-19
 Ciudad de México,Tlalpan,1,0.0,1.0,0.0,2019-02-19
-Ciudad de México,"Venustiano 
-Carranza",2,2.0,0.0,0.0,2019-02-19
-Estado de México,"Ecatepec de 
-Morelos",3,3.0,0.0,0.0,2019-02-19
+Ciudad de México,Venustiano Carranza,2,2.0,0.0,0.0,2019-02-19
+Estado de México,Ecatepec De Morelos,3,3.0,0.0,0.0,2019-02-19
 Estado de México,Ixtapaluca,1,1.0,0.0,0.0,2019-02-19
 Estado de México,Malinalco,1,1.0,0.0,0.0,2019-02-19
-Estado de México,"Tlalnepantla de 
-Baz",2,2.0,0.0,0.0,2019-02-19
-Guanajuato,Apaseo el Alto,1,1.0,0.0,0.0,2019-02-19
+Estado de México,Tlalnepantla De Baz,2,2.0,0.0,0.0,2019-02-19
+Guanajuato,Apaseo El Alto,1,1.0,0.0,0.0,2019-02-19
 Guanajuato,Irapuato,3,2.0,0.0,1.0,2019-02-19
 Guanajuato,León,3,3.0,0.0,0.0,2019-02-19
 Guanajuato,Ocampo,1,1.0,0.0,0.0,2019-02-19
 Guanajuato,Romita,1,1.0,0.0,0.0,2019-02-19
 Guanajuato,Salamanca,1,1.0,0.0,0.0,2019-02-19
-Guanajuato,"Santiago 
-Maravatío",2,2.0,0.0,0.0,2019-02-19
+Guanajuato,Santiago Maravatío,2,2.0,0.0,0.0,2019-02-19
 Guanajuato,Yuriria,2,0.0,0.0,2.0,2019-02-19
-Guerrero,"Acapulco de 
-Juárez",4,4.0,0.0,0.0,2019-02-19
-Guerrero,"Chilapa de 
-Álvarez",1,0.0,0.0,1.0,2019-02-19
-Guerrero,"Chilpancingo de 
-los Bravo",2,2.0,0.0,0.0,2019-02-19
+Guerrero,Acapulco De Juárez,4,4.0,0.0,0.0,2019-02-19
+Guerrero,Chilapa De Álvarez,1,0.0,0.0,1.0,2019-02-19
+Guerrero,Chilpancingo De Los Bravo,2,2.0,0.0,0.0,2019-02-19
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2019-02-19
 Michoacán,Morelia,1,1.0,0.0,0.0,2019-02-19
 Morelos,Emiliano Zapata,1,1.0,0.0,0.0,2019-02-19
 Morelos,Jojutla,1,1.0,0.0,0.0,2019-02-19
 Nuevo León,Apodaca,1,1.0,0.0,0.0,2019-02-19
-Nuevo León,"Cadereyta 
-Jiménez",3,3.0,0.0,0.0,2019-02-19
+Nuevo León,Cadereyta Jiménez,3,3.0,0.0,0.0,2019-02-19
 Nuevo León,El Carmen,1,1.0,0.0,0.0,2019-02-19
 Nuevo León,García,2,2.0,0.0,0.0,2019-02-19
 Nuevo León,Monterrey,1,1.0,0.0,0.0,2019-02-19
 Nuevo León,Pesquería,6,6.0,0.0,0.0,2019-02-19
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,0.0,0.0,1.0,2019-02-19
+Oaxaca,San Juan Bautista Tuxtepec,1,0.0,0.0,1.0,2019-02-19
 Puebla,Puebla,2,1.0,1.0,0.0,2019-02-19
 Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2019-02-19
 Quintana Roo,Solidaridad,1,1.0,0.0,0.0,2019-02-19
@@ -55,7 +44,6 @@ Sonora,Nogales,2,0.0,0.0,2.0,2019-02-19
 Tabasco,Comalcalco,1,1.0,0.0,0.0,2019-02-19
 Tamaulipas,Reynosa,3,0.0,0.0,3.0,2019-02-19
 Veracruz,Minatitlán,1,1.0,0.0,0.0,2019-02-19
-Veracruz,"Sayula de 
-Alemán",1,1.0,0.0,0.0,2019-02-19
+Veracruz,Sayula De Alemán,1,1.0,0.0,0.0,2019-02-19
 Veracruz,Veracruz,1,0.0,1.0,0.0,2019-02-19
 Zacatecas,Guadalupe,1,1.0,0.0,0.0,2019-02-19

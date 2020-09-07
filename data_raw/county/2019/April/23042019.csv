@@ -10,15 +10,11 @@ Guanajuato,Abasolo,2.0,1.0,1.0,0.0,2019-04-23
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-04-23
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-04-23
 Guanajuato,Pénjamo,1.0,0.0,1.0,0.0,2019-04-23
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-04-23
-Guerrero,Acapulco de Juárez,2.0,2.0,0.0,0.0,2019-04-23
-Guerrero,"Chilpancingo de los 
-Bravo",1.0,0.0,1.0,0.0,2019-04-23
-Hidalgo,"Tezontepec de 
-Aldama",1.0,1.0,0.0,0.0,2019-04-23
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2019-04-23
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-04-23
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-04-23
+Guerrero,Chilpancingo De Los Bravo,1.0,0.0,1.0,0.0,2019-04-23
+Hidalgo,Tezontepec De Aldama,1.0,1.0,0.0,0.0,2019-04-23
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-04-23
 Michoacán,Coeneo,1.0,1.0,0.0,0.0,2019-04-23
 Michoacán,Hidalgo,1.0,1.0,0.0,0.0,2019-04-23
 Michoacán,Lagunillas,1.0,1.0,0.0,0.0,2019-04-23
@@ -26,8 +22,7 @@ Michoacán,Tarímbaro,1.0,0.0,1.0,0.0,2019-04-23
 Michoacán,Zinapécuaro,1.0,1.0,0.0,0.0,2019-04-23
 Morelos,Temixco,1.0,1.0,0.0,0.0,2019-04-23
 Estado de México,Chalco,1.0,0.0,1.0,0.0,2019-04-23
-Estado de México,"Ecatepec de 
-Morelos",2.0,2.0,0.0,0.0,2019-04-23
+Estado de México,Ecatepec De Morelos,2.0,2.0,0.0,0.0,2019-04-23
 Estado de México,Ixtapaluca,1.0,0.0,1.0,0.0,2019-04-23
 Estado de México,La Paz,1.0,1.0,0.0,0.0,2019-04-23
 Estado de México,Metepec,1.0,1.0,0.0,0.0,2019-04-23
@@ -44,7 +39,7 @@ Sonora,Hermosillo,2.0,2.0,0.0,0.0,2019-04-23
 Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-04-23
 Tabasco,Huimanguillo,4.0,3.0,1.0,0.0,2019-04-23
 Tamaulipas,Nuevo Laredo,5.0,5.0,0.0,0.0,2019-04-23
-Veracruz,Boca del Río,2.0,2.0,0.0,0.0,2019-04-23
+Veracruz,Boca Del Río,2.0,2.0,0.0,0.0,2019-04-23
 Veracruz,Chicontepec,1.0,0.0,1.0,0.0,2019-04-23
 Veracruz,Coatepec,1.0,1.0,0.0,0.0,2019-04-23
 Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-04-23

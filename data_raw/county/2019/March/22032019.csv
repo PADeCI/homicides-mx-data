@@ -4,21 +4,17 @@ Chiapas,Reforma,1,1.0,0.0,0.0,2019-03-22
 Chihuahua,Chihuahua,1,1.0,0.0,0.0,2019-03-22
 Chihuahua,Juárez,4,4.0,0.0,0.0,2019-03-22
 Guanajuato,Acámbaro,1,0.0,0.0,1.0,2019-03-22
-Guanajuato,Apaseo el Alto,1,1.0,0.0,0.0,2019-03-22
+Guanajuato,Apaseo El Alto,1,1.0,0.0,0.0,2019-03-22
 Guanajuato,Celaya,3,3.0,0.0,0.0,2019-03-22
 Guanajuato,Irapuato,2,2.0,0.0,0.0,2019-03-22
-Guanajuato,"Jaral del 
-Progreso",1,1.0,0.0,0.0,2019-03-22
+Guanajuato,Jaral Del Progreso,1,1.0,0.0,0.0,2019-03-22
 Guanajuato,León,1,1.0,0.0,0.0,2019-03-22
 Guanajuato,Salamanca,3,3.0,0.0,0.0,2019-03-22
-Guanajuato,"Silao de la 
-Victoria",1,0.0,1.0,0.0,2019-03-22
-Guerrero,"Acapulco de 
-Juárez",2,1.0,0.0,1.0,2019-03-22
+Guanajuato,Silao De La Victoria,1,0.0,1.0,0.0,2019-03-22
+Guerrero,Acapulco De Juárez,2,1.0,0.0,1.0,2019-03-22
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2019-03-22
 Jalisco,Puerto Vallarta,1,0.0,0.0,1.0,2019-03-22
-Jalisco,"Tlajomulco de 
-Zúñiga",1,1.0,0.0,0.0,2019-03-22
+Jalisco,Tlajomulco De Zúñiga,1,1.0,0.0,0.0,2019-03-22
 Jalisco,Zapopan,1,1.0,0.0,0.0,2019-03-22
 Michoacán,Coeneo,1,1.0,0.0,0.0,2019-03-22
 Michoacán,Tocumbo,1,1.0,0.0,0.0,2019-03-22
@@ -28,20 +24,15 @@ Morelos,Cuernavaca,1,1.0,0.0,0.0,2019-03-22
 Morelos,Yautepec,1,1.0,0.0,0.0,2019-03-22
 Estado de México,Chalco,1,1.0,0.0,0.0,2019-03-22
 Estado de México,Nezahualcóyotl,1,0.0,0.0,1.0,2019-03-22
-Estado de México,"Tlalnepantla de 
-Baz",2,1.0,1.0,0.0,2019-03-22
+Estado de México,Tlalnepantla De Baz,2,1.0,1.0,0.0,2019-03-22
 Estado de México,Tonanitla,1,0.0,0.0,1.0,2019-03-22
 Nayarit,Del Nayar,1,0.0,1.0,0.0,2019-03-22
 Nuevo León,Juárez,1,1.0,0.0,0.0,2019-03-22
-Oaxaca,"Miahuatlán de 
-Porfirio Díaz",1,1.0,0.0,0.0,2019-03-22
-Oaxaca,"San Juan 
-Mazatlán",2,2.0,0.0,0.0,2019-03-22
-Puebla,"Guadalupe 
-Victoria",2,2.0,0.0,0.0,2019-03-22
+Oaxaca,Miahuatlán De Porfirio Díaz,1,1.0,0.0,0.0,2019-03-22
+Oaxaca,San Juan Mazatlán,2,2.0,0.0,0.0,2019-03-22
+Puebla,Guadalupe Victoria,2,2.0,0.0,0.0,2019-03-22
 Puebla,Puebla,5,2.0,3.0,0.0,2019-03-22
-Puebla,"Rafael Lara 
-Grajales",1,1.0,0.0,0.0,2019-03-22
+Puebla,Rafael Lara Grajales,1,1.0,0.0,0.0,2019-03-22
 Quintana Roo,Benito Juárez,2,2.0,0.0,0.0,2019-03-22
 Sinaloa,Culiacán,1,1.0,0.0,0.0,2019-03-22
 Sinaloa,Elota,1,1.0,0.0,0.0,2019-03-22
@@ -50,8 +41,7 @@ Sonora,Cajeme,1,0.0,0.0,1.0,2019-03-22
 Tabasco,Cunduacán,1,1.0,0.0,0.0,2019-03-22
 Tamaulipas,El Mante,1,1.0,0.0,0.0,2019-03-22
 Tamaulipas,Reynosa,2,2.0,0.0,0.0,2019-03-22
-Veracruz,"Martínez de la 
-Torre",1,1.0,0.0,0.0,2019-03-22
+Veracruz,Martínez De La Torre,1,1.0,0.0,0.0,2019-03-22
 Veracruz,Papantla,1,1.0,0.0,0.0,2019-03-22
 Zacatecas,Fresnillo,1,1.0,0.0,0.0,2019-03-22
 Zacatecas,Guadalupe,1,1.0,0.0,0.0,2019-03-22

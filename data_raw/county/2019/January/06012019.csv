@@ -1,4 +1,4 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No identificado,Fecha
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,El Llano,1,,,,2019-01-06
 Baja California,Tijuana,10,,,,2019-01-06
 Chihuahua,Chihuahua,1,,,,2019-01-06
@@ -8,23 +8,21 @@ Ciudad de México,Miguel Hidalgo,1,,,,2019-01-06
 Coahuila,Torreón,1,,,,2019-01-06
 Colima,Coquimatlán,1,,,,2019-01-06
 Estado de México,Amecameca,1,,,,2019-01-06
-Estado de México,"Coacalco de 
-Berriozábal",1,,,,2019-01-06
+Estado de México,Coacalco De Berriozábal,1,,,,2019-01-06
 Estado de México,Metepec,1,,,,2019-01-06
 Estado de México,Nezahualcóyotl,1,,,,2019-01-06
-Estado de México,Tlalnepantla de Baz,2,,,,2019-01-06
+Estado de México,Tlalnepantla De Baz,2,,,,2019-01-06
 Guanajuato,Abasolo,1,,,,2019-01-06
 Guanajuato,Celaya,1,,,,2019-01-06
 Guanajuato,Irapuato,1,,,,2019-01-06
 Guanajuato,León,5,,,,2019-01-06
-Guanajuato,"Santa Cruz de 
-Juventino Rosas",1,,,,2019-01-06
-Guanajuato,Valle de Santiago,1,,,,2019-01-06
+Guanajuato,Santa Cruz De Juventino Rosas,1,,,,2019-01-06
+Guanajuato,Valle De Santiago,1,,,,2019-01-06
 Guanajuato,Yuriria,2,,,,2019-01-06
-Guerrero,Acapulco de Juárez,3,,,,2019-01-06
+Guerrero,Acapulco De Juárez,3,,,,2019-01-06
 Guerrero,Petatlán,2,,,,2019-01-06
 Hidalgo,El Arenal,1,,,,2019-01-06
-Hidalgo,Tula de Allende,1,,,,2019-01-06
+Hidalgo,Tula De Allende,1,,,,2019-01-06
 Jalisco,Arandas,1,,,,2019-01-06
 Jalisco,Guadalajara,2,,,,2019-01-06
 Jalisco,Jalostotitlán,9,,,,2019-01-06
@@ -32,20 +30,16 @@ Michoacán,Tarímbaro,1,,,,2019-01-06
 Michoacán,Uruapan,3,,,,2019-01-06
 Morelos,Emiliano Zapata,3,,,,2019-01-06
 Nuevo León,Monterrey,2,,,,2019-01-06
-Oaxaca,"Putla Villa de 
-Guerrero",2,,,,2019-01-06
-Puebla,"Tepatlaxco de 
-Hidalgo",1,,,,2019-01-06
+Oaxaca,Putla Villa De Guerrero,2,,,,2019-01-06
+Puebla,Tepatlaxco De Hidalgo,1,,,,2019-01-06
 Quintana Roo,Solidaridad,1,,,,2019-01-06
-San Luis Potosí,"Armadillo de los 
-Infante",1,,,,2019-01-06
+San Luis Potosí,Armadillo De Los Infante,1,,,,2019-01-06
 San Luis Potosí,San Luis Potosí,2,,,,2019-01-06
 Sinaloa,Culiacán,1,,,,2019-01-06
 Sinaloa,Mazatlán,1,,,,2019-01-06
 Sonora,Cajeme,3,,,,2019-01-06
 Sonora,Empalme,1,,,,2019-01-06
-Tlaxcala,"Tepetitla de 
-Lardizábal",1,,,,2019-01-06
+Tlaxcala,Tepetitla De Lardizábal,1,,,,2019-01-06
 Veracruz,Veracruz,1,,,,2019-01-06
 Zacatecas,Jerez,1,,,,2019-01-06
 Zacatecas,Morelos,1,,,,2019-01-06

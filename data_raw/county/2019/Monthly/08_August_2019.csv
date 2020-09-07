@@ -1,0 +1,1451 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,4.0,2.0,2.0,0.0,2019-08-01
+Chiapas,Tapachula,1.0,1.0,0.0,0.0,2019-08-01
+Chiapas,Tuxtla Chico,1.0,0.0,1.0,0.0,2019-08-01
+Chihuahua,Juárez,4.0,3.0,1.0,0.0,2019-08-01
+Chihuahua,Temósachic,1.0,1.0,0.0,0.0,2019-08-01
+Ciudad de México,Cuauhtémoc,1.0,0.0,0.0,1.0,2019-08-01
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-08-01
+Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2019-08-01
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2019-08-01
+Coahuila,Saltillo,2.0,2.0,0.0,0.0,2019-08-01
+Durango,Tamazula,5.0,0.0,0.0,5.0,2019-08-01
+Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-01
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-08-01
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2019-08-01
+Guerrero,Acapulco De Juárez,4.0,4.0,0.0,0.0,2019-08-01
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-08-01
+Jalisco,Tonalá,3.0,2.0,1.0,0.0,2019-08-01
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-08-01
+Michoacán,Hidalgo,1.0,1.0,0.0,0.0,2019-08-01
+Michoacán,Morelia,3.0,1.0,1.0,1.0,2019-08-01
+Michoacán,Uruapan,7.0,3.0,0.0,4.0,2019-08-01
+Morelos,Amacuzac,1.0,1.0,0.0,0.0,2019-08-01
+Morelos,Cuernavaca,1.0,0.0,0.0,1.0,2019-08-01
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2019-08-01
+Estado de México,Temoaya,1.0,1.0,0.0,0.0,2019-08-01
+Nayarit,San Blas,1.0,0.0,1.0,0.0,2019-08-01
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2019-08-01
+Puebla,Esperanza,1.0,1.0,0.0,0.0,2019-08-01
+Puebla,Huaquechula,2.0,2.0,0.0,0.0,2019-08-01
+Puebla,Tecamachalco,2.0,0.0,0.0,2.0,2019-08-01
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-08-01
+Tabasco,Comalcalco,1.0,0.0,1.0,0.0,2019-08-01
+Tabasco,Jalpa De Méndez,1.0,1.0,0.0,0.0,2019-08-01
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-01
+Veracruz,Huatusco,1.0,0.0,1.0,0.0,2019-08-01
+Veracruz,San Juan Evangelista,2.0,2.0,0.0,0.0,2019-08-01
+Veracruz,Veracruz,1.0,1.0,0.0,0.0,2019-08-01
+Veracruz,Xalapa,1.0,1.0,0.0,0.0,2019-08-01
+Veracruz,Álamo Temapache,1.0,0.0,1.0,0.0,2019-08-01
+Zacatecas,Pinos,1.0,1.0,0.0,0.0,2019-08-01
+Zacatecas,Pánuco,2.0,2.0,0.0,0.0,2019-08-01
+Zacatecas,Valparaíso,2.0,0.0,0.0,2.0,2019-08-01
+Baja California,Tijuana,9.0,8.0,1.0,0.0,2019-08-02
+Baja California Sur,La Paz,2.0,2.0,0.0,0.0,2019-08-02
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2019-08-02
+Chihuahua,Madera,3.0,3.0,0.0,0.0,2019-08-02
+Guanajuato,Celaya,2.0,0.0,0.0,2.0,2019-08-02
+Guanajuato,Irapuato,2.0,1.0,1.0,0.0,2019-08-02
+Guanajuato,León,2.0,2.0,0.0,0.0,2019-08-02
+Guanajuato,Salamanca,2.0,1.0,0.0,1.0,2019-08-02
+Guanajuato,Santa Cruz De Juventino Rosas,1.0,1.0,0.0,0.0,2019-08-02
+Guanajuato,Valle De Santiago,5.0,5.0,0.0,0.0,2019-08-02
+Guerrero,Acapulco De Juárez,3.0,2.0,1.0,0.0,2019-08-02
+Guerrero,Chilpancingo De Los Bravo,1.0,0.0,0.0,1.0,2019-08-02
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2019-08-02
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2019-08-02
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-08-02
+Jalisco,Tepatitlán De Morelos,2.0,2.0,0.0,0.0,2019-08-02
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-08-02
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-08-02
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-08-02
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-02
+Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2019-08-02
+Morelos,Puente De Ixtla,1.0,0.0,0.0,1.0,2019-08-02
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2019-08-02
+Estado de México,Tultitlán,1.0,0.0,1.0,0.0,2019-08-02
+Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2019-08-02
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2019-08-02
+Oaxaca,San Pedro Tapanatepec,4.0,4.0,0.0,0.0,2019-08-02
+Puebla,Tehuacán,1.0,1.0,0.0,0.0,2019-08-02
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-08-02
+Sinaloa,Culiacán,5.0,5.0,0.0,0.0,2019-08-02
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2019-08-02
+Sonora,Hermosillo,3.0,3.0,0.0,0.0,2019-08-02
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-08-02
+Tlaxcala,Apizaco,1.0,1.0,0.0,0.0,2019-08-02
+Veracruz,Álamo Temapache,1.0,1.0,0.0,0.0,2019-08-02
+Veracruz,Manlio Fabio Altamirano,1.0,1.0,0.0,0.0,2019-08-02
+Veracruz,Minatitlán,1.0,0.0,1.0,0.0,2019-08-02
+Veracruz,Tuxpan,1.0,0.0,1.0,0.0,2019-08-02
+Aguascalientes,Aguascalientes,1.0,0.0,1.0,0.0,2019-08-03
+Baja California,Tijuana,1.0,1.0,0.0,0.0,2019-08-03
+Baja California Sur,Los Cabos,2.0,1.0,1.0,0.0,2019-08-03
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-08-03
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-08-03
+Ciudad de México,Azcapotzalco,1.0,0.0,1.0,0.0,2019-08-03
+Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2019-08-03
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2019-08-03
+Colima,Colima,1.0,1.0,0.0,0.0,2019-08-03
+Colima,Tecomán,1.0,1.0,0.0,0.0,2019-08-03
+Guanajuato,Celaya,3.0,0.0,0.0,3.0,2019-08-03
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-08-03
+Guanajuato,León,4.0,4.0,0.0,0.0,2019-08-03
+Guerrero,Acapulco De Juárez,2.0,1.0,1.0,0.0,2019-08-03
+Guerrero,Cuajinicuilapa,1.0,1.0,0.0,0.0,2019-08-03
+Hidalgo,Ixmiquilpan,3.0,3.0,0.0,0.0,2019-08-03
+Jalisco,San Pedro Tlaquepaque,1.0,0.0,1.0,0.0,2019-08-03
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-08-03
+Michoacán,Morelia,3.0,3.0,0.0,0.0,2019-08-03
+Michoacán,Sahuayo,1.0,0.0,1.0,0.0,2019-08-03
+Morelos,Jiutepec,4.0,4.0,0.0,0.0,2019-08-03
+Estado de México,Chapultepec,1.0,1.0,0.0,0.0,2019-08-03
+Estado de México,Coatepec Harinas,2.0,2.0,0.0,0.0,2019-08-03
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2019-08-03
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-08-03
+Puebla,Yehualtepec,1.0,1.0,0.0,0.0,2019-08-03
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2019-08-03
+San Luis Potosí,San Luis Potosí,2.0,1.0,1.0,0.0,2019-08-03
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-03
+Tabasco,Centro,1.0,1.0,0.0,0.0,2019-08-03
+Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2019-08-03
+Veracruz,Actopan,1.0,1.0,0.0,0.0,2019-08-03
+Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2019-08-03
+Veracruz,Xalapa,3.0,3.0,0.0,0.0,2019-08-03
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2019-08-03
+Baja California,Tijuana,5.0,4.0,0.0,1.0,2019-08-04
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-08-04
+Colima,Tecomán,1.0,1.0,0.0,0.0,2019-08-04
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-08-04
+Guanajuato,León,2.0,1.0,0.0,1.0,2019-08-04
+Guanajuato,Pénjamo,3.0,0.0,0.0,3.0,2019-08-04
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-08-04
+Guanajuato,Villagrán,1.0,1.0,0.0,0.0,2019-08-04
+Guerrero,Chilapa De Álvarez,3.0,3.0,0.0,0.0,2019-08-04
+Guerrero,Ometepec,2.0,2.0,0.0,0.0,2019-08-04
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2019-08-04
+Jalisco,Guadalajara,3.0,1.0,2.0,0.0,2019-08-04
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-08-04
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-08-04
+Michoacán,Maravatío,1.0,1.0,0.0,0.0,2019-08-04
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-08-04
+Morelos,Cuernavaca,2.0,1.0,1.0,0.0,2019-08-04
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-08-04
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2019-08-04
+Oaxaca,Zaragoza,1.0,0.0,0.0,1.0,2019-08-04
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2019-08-04
+Puebla,Acatzingo,1.0,1.0,0.0,0.0,2019-08-04
+Puebla,Puebla,2.0,1.0,0.0,1.0,2019-08-04
+Puebla,Tlaola,1.0,1.0,0.0,0.0,2019-08-04
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2019-08-04
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-08-04
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2019-08-04
+Sinaloa,Mazatlán,1.0,1.0,0.0,0.0,2019-08-04
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2019-08-04
+Sonora,Hermosillo,3.0,3.0,0.0,0.0,2019-08-04
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-04
+Veracruz,Poza Rica De Hidalgo,2.0,2.0,0.0,0.0,2019-08-04
+Veracruz,Río Blanco,2.0,0.0,0.0,2.0,2019-08-04
+Zacatecas,Calera,1.0,1.0,0.0,0.0,2019-08-04
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2019-08-04
+Aguascalientes,Aguascalientes,1.0,0.0,1.0,0.0,2019-08-05
+Baja California,Playas De Rosarito,1.0,1.0,0.0,0.0,2019-08-05
+Baja California,Tijuana,10.0,8.0,0.0,2.0,2019-08-05
+Chiapas,Comitán De Domínguez,2.0,0.0,0.0,2.0,2019-08-05
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-08-05
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-08-05
+Chihuahua,Guachochi,4.0,4.0,0.0,0.0,2019-08-05
+Chihuahua,Juárez,5.0,3.0,0.0,2.0,2019-08-05
+Chihuahua,Urique,2.0,2.0,0.0,0.0,2019-08-05
+Ciudad de México,Coyoacán,1.0,0.0,0.0,1.0,2019-08-05
+Ciudad de México,La Magdalena Contreras,1.0,1.0,0.0,0.0,2019-08-05
+Coahuila,Acuña,1.0,0.0,1.0,0.0,2019-08-05
+Colima,Manzanillo,3.0,3.0,0.0,0.0,2019-08-05
+Durango,Pueblo Nuevo,1.0,1.0,0.0,0.0,2019-08-05
+Guanajuato,Apaseo El Grande,3.0,1.0,0.0,2.0,2019-08-05
+Guanajuato,Celaya,4.0,1.0,0.0,3.0,2019-08-05
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-08-05
+Guanajuato,Salvatierra,2.0,0.0,0.0,2.0,2019-08-05
+Guanajuato,San Felipe,1.0,1.0,0.0,0.0,2019-08-05
+Guanajuato,Valle De Santiago,1.0,0.0,1.0,0.0,2019-08-05
+Guerrero,Acapulco De Juárez,4.0,4.0,0.0,0.0,2019-08-05
+Guerrero,Atoyac De Álvarez,1.0,1.0,0.0,0.0,2019-08-05
+Guerrero,San Marcos,2.0,2.0,0.0,0.0,2019-08-05
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2019-08-05
+Hidalgo,Pachuca De Soto,1.0,0.0,1.0,0.0,2019-08-05
+Hidalgo,Tlanalapa,1.0,1.0,0.0,0.0,2019-08-05
+Jalisco,El Salto,1.0,0.0,0.0,1.0,2019-08-05
+Jalisco,Guadalajara,1.0,0.0,1.0,0.0,2019-08-05
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-08-05
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-08-05
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-08-05
+Michoacán,Morelia,3.0,2.0,0.0,1.0,2019-08-05
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2019-08-05
+Morelos,Jantetelco,1.0,1.0,0.0,0.0,2019-08-05
+Morelos,Puente De Ixtla,2.0,2.0,0.0,0.0,2019-08-05
+Estado de México,Coacalco De Berriozábal,1.0,0.0,1.0,0.0,2019-08-05
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2019-08-05
+Estado de México,Texcaltitlán,1.0,1.0,0.0,0.0,2019-08-05
+Estado de México,Tlalnepantla De Baz,2.0,2.0,0.0,0.0,2019-08-05
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2019-08-05
+Nuevo León,Galeana,1.0,1.0,0.0,0.0,2019-08-05
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-08-05
+Oaxaca,Ciudad Ixtepec,1.0,1.0,0.0,0.0,2019-08-05
+Oaxaca,Heroica Ciudad De Huajuapan De León,1.0,0.0,1.0,0.0,2019-08-05
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-08-05
+Oaxaca,Santo Domingo Tepuxtepec,1.0,1.0,0.0,0.0,2019-08-05
+Puebla,General Felipe Ángeles,3.0,0.0,0.0,3.0,2019-08-05
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-08-05
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-08-05
+Quintana Roo,Solidaridad,2.0,2.0,0.0,0.0,2019-08-05
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-08-05
+Sinaloa,Ahome,1.0,1.0,0.0,0.0,2019-08-05
+Sinaloa,Culiacán,4.0,4.0,0.0,0.0,2019-08-05
+Sinaloa,Mocorito,1.0,1.0,0.0,0.0,2019-08-05
+Sonora,Cajeme,4.0,4.0,0.0,0.0,2019-08-05
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-08-05
+Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2019-08-05
+Tamaulipas,Reynosa,2.0,2.0,0.0,0.0,2019-08-05
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2019-08-05
+Veracruz,Las Choapas,1.0,1.0,0.0,0.0,2019-08-05
+Veracruz,Tecolutla,1.0,1.0,0.0,0.0,2019-08-05
+Veracruz,Xalapa,1.0,1.0,0.0,0.0,2019-08-05
+Veracruz,Yanga,1.0,1.0,0.0,0.0,2019-08-05
+Baja California,Tecate,7.0,1.0,1.0,5.0,2019-08-06
+Baja California,Tijuana,6.0,3.0,1.0,2.0,2019-08-06
+Chiapas,Cacahoatán,1.0,1.0,0.0,0.0,2019-08-06
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2019-08-06
+Chihuahua,Bocoyna,1.0,1.0,0.0,0.0,2019-08-06
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-08-06
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-06
+Ciudad de México,Xochimilco,1.0,0.0,1.0,0.0,2019-08-06
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-08-06
+Colima,Tecomán,2.0,2.0,0.0,0.0,2019-08-06
+Guanajuato,León,2.0,1.0,0.0,1.0,2019-08-06
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-08-06
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-08-06
+Guanajuato,Valle De Santiago,1.0,0.0,1.0,0.0,2019-08-06
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-08-06
+Guerrero,Ayutla De Los Libres,2.0,0.0,2.0,0.0,2019-08-06
+Hidalgo,Atitalaquia,1.0,0.0,1.0,0.0,2019-08-06
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-08-06
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-08-06
+Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2019-08-06
+Michoacán,Tarímbaro,1.0,0.0,0.0,1.0,2019-08-06
+Michoacán,Ziracuaretiro,1.0,0.0,1.0,0.0,2019-08-06
+Morelos,Jojutla,1.0,1.0,0.0,0.0,2019-08-06
+Estado de México,Acolman,1.0,1.0,0.0,0.0,2019-08-06
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-08-06
+Estado de México,Texcoco,1.0,1.0,0.0,0.0,2019-08-06
+Estado de México,Tezoyuca,1.0,0.0,1.0,0.0,2019-08-06
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2019-08-06
+Nuevo León,Monterrey,1.0,0.0,1.0,0.0,2019-08-06
+Oaxaca,Huautla De Jiménez,1.0,1.0,0.0,0.0,2019-08-06
+Oaxaca,Santa María Huatulco,1.0,0.0,1.0,0.0,2019-08-06
+Puebla,Chignahuapan,1.0,1.0,0.0,0.0,2019-08-06
+Puebla,General Felipe Ángeles,1.0,1.0,0.0,0.0,2019-08-06
+Puebla,Huauchinango,1.0,1.0,0.0,0.0,2019-08-06
+Puebla,Puebla,2.0,2.0,0.0,0.0,2019-08-06
+Puebla,Zacatlán,1.0,1.0,0.0,0.0,2019-08-06
+Quintana Roo,Benito Juárez,2.0,1.0,0.0,1.0,2019-08-06
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-08-06
+San Luis Potosí,Ciudad Valles,1.0,1.0,0.0,0.0,2019-08-06
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-06
+Sinaloa,Rosario,2.0,1.0,1.0,0.0,2019-08-06
+Sonora,Empalme,2.0,2.0,0.0,0.0,2019-08-06
+Sonora,Hermosillo,2.0,2.0,0.0,0.0,2019-08-06
+Sonora,San Luis Río Colorado,1.0,1.0,0.0,0.0,2019-08-06
+Tabasco,Centro,1.0,0.0,1.0,0.0,2019-08-06
+Tabasco,Comalcalco,3.0,3.0,0.0,0.0,2019-08-06
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-08-06
+Tabasco,Macuspana,2.0,1.0,0.0,1.0,2019-08-06
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2019-08-06
+Veracruz,Ixhuatlán Del Sureste,1.0,1.0,0.0,0.0,2019-08-06
+Veracruz,Minatitlán,2.0,0.0,0.0,2.0,2019-08-06
+Veracruz,Sayula De Alemán,1.0,1.0,0.0,0.0,2019-08-06
+Zacatecas,Guadalupe,1.0,0.0,0.0,1.0,2019-08-06
+Baja California,Tijuana,7.0,3.0,3.0,1.0,2019-08-07
+Campeche,Carmen,1.0,1.0,0.0,0.0,2019-08-07
+Campeche,Escárcega,1.0,1.0,0.0,0.0,2019-08-07
+Chiapas,Cacahoatán,1.0,1.0,0.0,0.0,2019-08-07
+Chiapas,Reforma,1.0,1.0,0.0,0.0,2019-08-07
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-08-07
+Chihuahua,Juárez,4.0,3.0,1.0,0.0,2019-08-07
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-07
+Colima,Manzanillo,2.0,2.0,0.0,0.0,2019-08-07
+Durango,Mapimí,1.0,1.0,0.0,0.0,2019-08-07
+Guanajuato,Acámbaro,1.0,0.0,1.0,0.0,2019-08-07
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2019-08-07
+Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2019-08-07
+Guanajuato,León,2.0,1.0,0.0,1.0,2019-08-07
+Guanajuato,Purísima Del Rincón,1.0,1.0,0.0,0.0,2019-08-07
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-08-07
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-08-07
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2019-08-07
+Jalisco,El Salto,1.0,1.0,0.0,0.0,2019-08-07
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-08-07
+Jalisco,Puerto Vallarta,1.0,0.0,1.0,0.0,2019-08-07
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-08-07
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-08-07
+Michoacán,Apatzingán,1.0,1.0,0.0,0.0,2019-08-07
+Michoacán,Cuitzeo,1.0,1.0,0.0,0.0,2019-08-07
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-07
+Michoacán,Tingüindín,1.0,1.0,0.0,0.0,2019-08-07
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-08-07
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-08-07
+Morelos,Cuernavaca,2.0,1.0,1.0,0.0,2019-08-07
+Morelos,Jojutla,1.0,1.0,0.0,0.0,2019-08-07
+Morelos,Tlaltizapán De Zapata,1.0,1.0,0.0,0.0,2019-08-07
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2019-08-07
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-08-07
+Estado de México,Jilotepec,1.0,0.0,1.0,0.0,2019-08-07
+Estado de México,Metepec,2.0,2.0,0.0,0.0,2019-08-07
+Estado de México,Nicolás Romero,2.0,2.0,0.0,0.0,2019-08-07
+Nayarit,Tepic,1.0,0.0,0.0,1.0,2019-08-07
+Nuevo León,General Zuazua,1.0,1.0,0.0,0.0,2019-08-07
+Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2019-08-07
+Oaxaca,Putla Villa De Guerrero,2.0,2.0,0.0,0.0,2019-08-07
+Oaxaca,San Francisco Ixhuatán,1.0,1.0,0.0,0.0,2019-08-07
+Puebla,Cohuecan,5.0,5.0,0.0,0.0,2019-08-07
+Puebla,Tehuacán,1.0,0.0,0.0,1.0,2019-08-07
+Sinaloa,Salvador Alvarado,1.0,0.0,1.0,0.0,2019-08-07
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-08-07
+Sonora,San Luis Río Colorado,2.0,2.0,0.0,0.0,2019-08-07
+Tabasco,Centro,1.0,1.0,0.0,0.0,2019-08-07
+Tabasco,Cunduacán,1.0,1.0,0.0,0.0,2019-08-07
+Tabasco,Tenosique,1.0,0.0,1.0,0.0,2019-08-07
+Tamaulipas,El Mante,1.0,1.0,0.0,0.0,2019-08-07
+Tamaulipas,Reynosa,5.0,5.0,0.0,0.0,2019-08-07
+Veracruz,Amatitlán,1.0,1.0,0.0,0.0,2019-08-07
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-07
+Veracruz,Cuitláhuac,2.0,0.0,0.0,2.0,2019-08-07
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2019-08-07
+Veracruz,Río Blanco,1.0,0.0,1.0,0.0,2019-08-07
+Zacatecas,Villa González Ortega,1.0,1.0,0.0,0.0,2019-08-07
+Baja California,Ensenada,1.0,0.0,0.0,1.0,2019-08-08
+Baja California,Tijuana,6.0,3.0,1.0,2.0,2019-08-08
+Chiapas,Motozintla,1.0,1.0,0.0,0.0,2019-08-08
+Chiapas,Suchiate,1.0,1.0,0.0,0.0,2019-08-08
+Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2019-08-08
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2019-08-08
+Ciudad de México,Azcapotzalco,1.0,1.0,0.0,0.0,2019-08-08
+Ciudad de México,Cuauhtémoc,2.0,2.0,0.0,0.0,2019-08-08
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-08-08
+Guanajuato,Acámbaro,1.0,0.0,0.0,1.0,2019-08-08
+Guanajuato,Irapuato,1.0,0.0,1.0,0.0,2019-08-08
+Guanajuato,Salamanca,3.0,2.0,0.0,1.0,2019-08-08
+Guanajuato,San Luis De La Paz,2.0,0.0,0.0,2.0,2019-08-08
+Guerrero,Acapulco De Juárez,6.0,6.0,0.0,0.0,2019-08-08
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,0.0,1.0,2019-08-08
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-08-08
+Michoacán,Indaparapeo,1.0,1.0,0.0,0.0,2019-08-08
+Michoacán,Paracho,1.0,1.0,0.0,0.0,2019-08-08
+Michoacán,Parácuaro,1.0,1.0,0.0,0.0,2019-08-08
+Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2019-08-08
+Michoacán,Uruapan,19.0,0.0,0.0,19.0,2019-08-08
+Michoacán,Zamora,1.0,0.0,1.0,0.0,2019-08-08
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-08-08
+Morelos,Temixco,1.0,1.0,0.0,0.0,2019-08-08
+Morelos,Temoac,3.0,3.0,0.0,0.0,2019-08-08
+Estado de México,Atenco,1.0,0.0,1.0,0.0,2019-08-08
+Estado de México,Cuautitlán,1.0,1.0,0.0,0.0,2019-08-08
+Estado de México,Naucalpan De Juárez,3.0,3.0,0.0,0.0,2019-08-08
+Oaxaca,Miahuatlán De Porfirio Díaz,1.0,1.0,0.0,0.0,2019-08-08
+Oaxaca,Putla Villa De Guerrero,1.0,1.0,0.0,0.0,2019-08-08
+Oaxaca,San Pedro Tapanatepec,5.0,5.0,0.0,0.0,2019-08-08
+Puebla,Cohuecan,3.0,3.0,0.0,0.0,2019-08-08
+Puebla,Huauchinango,1.0,1.0,0.0,0.0,2019-08-08
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-08-08
+Sinaloa,Culiacán,4.0,4.0,0.0,0.0,2019-08-08
+Tabasco,Centro,2.0,2.0,0.0,0.0,2019-08-08
+Tlaxcala,Tzompantepec,1.0,0.0,1.0,0.0,2019-08-08
+Veracruz,Coatzacoalcos,1.0,0.0,1.0,0.0,2019-08-08
+Veracruz,Maltrata,4.0,4.0,0.0,0.0,2019-08-08
+Veracruz,Nanchital De Lázaro Cárdenas Del Río,1.0,1.0,0.0,0.0,2019-08-08
+Veracruz,Río Blanco,1.0,1.0,0.0,0.0,2019-08-08
+Veracruz,Tlacotalpan,1.0,1.0,0.0,0.0,2019-08-08
+Veracruz,Veracruz,1.0,1.0,0.0,0.0,2019-08-08
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2019-08-08
+Baja California,Tijuana,2.0,2.0,0.0,0.0,2019-08-09
+Campeche,Calkiní,1.0,0.0,0.0,1.0,2019-08-09
+Chiapas,Tapachula,1.0,1.0,0.0,0.0,2019-08-09
+Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2019-08-09
+Chihuahua,Juárez,4.0,4.0,0.0,0.0,2019-08-09
+Ciudad de México,Tlalpan,1.0,0.0,1.0,0.0,2019-08-09
+Colima,Armería,1.0,1.0,0.0,0.0,2019-08-09
+Durango,Nuevo Ideal,1.0,1.0,0.0,0.0,2019-08-09
+Guanajuato,Abasolo,1.0,1.0,0.0,0.0,2019-08-09
+Guanajuato,Acámbaro,2.0,0.0,0.0,2.0,2019-08-09
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-08-09
+Guanajuato,Irapuato,1.0,0.0,1.0,0.0,2019-08-09
+Guanajuato,San Luis De La Paz,2.0,1.0,1.0,0.0,2019-08-09
+Guanajuato,San Miguel De Allende,1.0,0.0,0.0,1.0,2019-08-09
+Guerrero,Acapulco De Juárez,7.0,6.0,0.0,1.0,2019-08-09
+Guerrero,Chilapa De Álvarez,1.0,1.0,0.0,0.0,2019-08-09
+Jalisco,San Pedro Tlaquepaque,1.0,0.0,1.0,0.0,2019-08-09
+Michoacán,Chavinda,1.0,1.0,0.0,0.0,2019-08-09
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-09
+Michoacán,Zamora,2.0,1.0,1.0,0.0,2019-08-09
+Morelos,Cuernavaca,4.0,0.0,0.0,4.0,2019-08-09
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2019-08-09
+Morelos,Tepoztlán,1.0,1.0,0.0,0.0,2019-08-09
+Morelos,Xochitepec,1.0,1.0,0.0,0.0,2019-08-09
+Estado de México,Huixquilucan,1.0,1.0,0.0,0.0,2019-08-09
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2019-08-09
+Nuevo León,García,1.0,0.0,1.0,0.0,2019-08-09
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2019-08-09
+Oaxaca,Santa María Huazolotitlán,1.0,1.0,0.0,0.0,2019-08-09
+Puebla,Puebla,1.0,1.0,0.0,0.0,2019-08-09
+Quintana Roo,Benito Juárez,3.0,2.0,1.0,0.0,2019-08-09
+Sinaloa,Rosario,1.0,1.0,0.0,0.0,2019-08-09
+Sonora,Empalme,3.0,2.0,1.0,0.0,2019-08-09
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2019-08-09
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-08-09
+Sonora,San Luis Río Colorado,1.0,1.0,0.0,0.0,2019-08-09
+Tabasco,Comalcalco,3.0,3.0,0.0,0.0,2019-08-09
+Tabasco,Paraíso,1.0,0.0,1.0,0.0,2019-08-09
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-08-09
+Tlaxcala,Apizaco,1.0,1.0,0.0,0.0,2019-08-09
+Veracruz,Coatzacoalcos,1.0,0.0,1.0,0.0,2019-08-09
+Veracruz,Emiliano Zapata,1.0,1.0,0.0,0.0,2019-08-09
+Veracruz,Papantla,1.0,1.0,0.0,0.0,2019-08-09
+Veracruz,Vega De Alatorre,5.0,4.0,1.0,0.0,2019-08-09
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-08-09
+Baja California,Tijuana,5.0,5.0,0.0,0.0,2019-08-10
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-08-10
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-08-10
+Ciudad de México,Venustiano Carranza,4.0,4.0,0.0,0.0,2019-08-10
+Colima,Manzanillo,2.0,1.0,1.0,0.0,2019-08-10
+Guanajuato,Apaseo El Grande,1.0,0.0,0.0,1.0,2019-08-10
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-08-10
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-08-10
+Guanajuato,Jerécuaro,1.0,1.0,0.0,0.0,2019-08-10
+Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-10
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-08-10
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-08-10
+Guanajuato,Yuriria,5.0,5.0,0.0,0.0,2019-08-10
+Guerrero,Chilapa De Álvarez,3.0,0.0,3.0,0.0,2019-08-10
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-08-10
+Jalisco,Lagos De Moreno,2.0,1.0,1.0,0.0,2019-08-10
+Jalisco,Lagos De Moreno,2.0,1.0,1.0,0.0,2019-08-10
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-10
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2019-08-10
+Morelos,Cuernavaca,1.0,0.0,1.0,0.0,2019-08-10
+Estado de México,Jilotzingo,1.0,1.0,0.0,0.0,2019-08-10
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2019-08-10
+Estado de México,Tenango Del Valle,1.0,1.0,0.0,0.0,2019-08-10
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2019-08-10
+Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2019-08-10
+Nuevo León,San Nicolás De Los Garza,1.0,1.0,0.0,0.0,2019-08-10
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2019-08-10
+Oaxaca,Santiago Juxtlahuaca,1.0,1.0,0.0,0.0,2019-08-10
+Puebla,Atlixco,1.0,1.0,0.0,0.0,2019-08-10
+Puebla,Puebla,1.0,1.0,0.0,0.0,2019-08-10
+Puebla,Santo Tomás Hueyotlipan,1.0,1.0,0.0,0.0,2019-08-10
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-08-10
+San Luis Potosí,San Luis Potosí,4.0,2.0,2.0,0.0,2019-08-10
+Sinaloa,Ahome,2.0,0.0,0.0,2.0,2019-08-10
+Sinaloa,Badiraguato,1.0,1.0,0.0,0.0,2019-08-10
+Sinaloa,Escuinapa,1.0,1.0,0.0,0.0,2019-08-10
+Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2019-08-10
+Tamaulipas,Victoria,2.0,2.0,0.0,0.0,2019-08-10
+Veracruz,Acayucan,1.0,1.0,0.0,0.0,2019-08-10
+Veracruz,Emiliano Zapata,2.0,2.0,0.0,0.0,2019-08-10
+Veracruz,Papantla,1.0,1.0,0.0,0.0,2019-08-10
+Baja California,Tijuana,6.0,4.0,1.0,1.0,2019-08-11
+Chiapas,San Cristóbal De Las Casas,1.0,1.0,0.0,0.0,2019-08-11
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-08-11
+Chihuahua,Hidalgo Del Parral,1.0,1.0,0.0,0.0,2019-08-11
+Chihuahua,Madera,6.0,0.0,0.0,6.0,2019-08-11
+Colima,Armería,1.0,0.0,0.0,1.0,2019-08-11
+Guanajuato,Irapuato,10.0,2.0,0.0,8.0,2019-08-11
+Guanajuato,León,2.0,2.0,0.0,0.0,2019-08-11
+Guanajuato,San Luis De La Paz,1.0,1.0,0.0,0.0,2019-08-11
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-08-11
+Jalisco,Zapopan,2.0,2.0,0.0,0.0,2019-08-11
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2019-08-11
+Michoacán,Tarímbaro,1.0,0.0,0.0,1.0,2019-08-11
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-08-11
+Morelos,Cuautla,1.0,1.0,0.0,0.0,2019-08-11
+Estado de México,Acolman,1.0,1.0,0.0,0.0,2019-08-11
+Estado de México,Almoloya De Juárez,1.0,1.0,0.0,0.0,2019-08-11
+Estado de México,Texcoco,1.0,1.0,0.0,0.0,2019-08-11
+Estado de México,Tonatico,1.0,1.0,0.0,0.0,2019-08-11
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2019-08-11
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-08-11
+Nuevo León,San Nicolás De Los Garza,1.0,1.0,0.0,0.0,2019-08-11
+Oaxaca,Santo Domingo Tehuantepec,1.0,1.0,0.0,0.0,2019-08-11
+Puebla,Puebla,3.0,2.0,0.0,1.0,2019-08-11
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-08-11
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2019-08-11
+Quintana Roo,Solidaridad,2.0,1.0,1.0,0.0,2019-08-11
+San Luis Potosí,Ciudad Valles,1.0,1.0,0.0,0.0,2019-08-11
+San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2019-08-11
+Sinaloa,Culiacán,1.0,0.0,0.0,1.0,2019-08-11
+Tabasco,Nacajuca,1.0,1.0,0.0,0.0,2019-08-11
+Tlaxcala,Papalotla De Xicohténcatl,1.0,1.0,0.0,0.0,2019-08-11
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-11
+Veracruz,Gutiérrez Zamora,1.0,1.0,0.0,0.0,2019-08-11
+Veracruz,Las Choapas,1.0,1.0,0.0,0.0,2019-08-11
+Veracruz,Vega De Alatorre,1.0,0.0,0.0,1.0,2019-08-11
+Aguascalientes,Asientos,1.0,1.0,0.0,0.0,2019-08-12
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2019-08-12
+Baja California,Tijuana,5.0,2.0,1.0,2.0,2019-08-12
+Chihuahua,Balleza,2.0,2.0,0.0,0.0,2019-08-12
+Chihuahua,Chihuahua,1.0,0.0,0.0,1.0,2019-08-12
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2019-08-12
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-08-12
+Colima,Manzanillo,1.0,0.0,0.0,1.0,2019-08-12
+Colima,Tecomán,2.0,2.0,0.0,0.0,2019-08-12
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-08-12
+Guanajuato,Jerécuaro,1.0,1.0,0.0,0.0,2019-08-12
+Guanajuato,León,8.0,7.0,1.0,0.0,2019-08-12
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2019-08-12
+Guanajuato,San Miguel De Allende,2.0,2.0,0.0,0.0,2019-08-12
+Guanajuato,Valle De Santiago,2.0,2.0,0.0,0.0,2019-08-12
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2019-08-12
+Guerrero,Pungarabato,1.0,1.0,0.0,0.0,2019-08-12
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2019-08-12
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-08-12
+Jalisco,Teuchitlán,2.0,0.0,0.0,2.0,2019-08-12
+Jalisco,Tlajomulco De Zúñiga,4.0,3.0,1.0,0.0,2019-08-12
+Jalisco,Zapopan,6.0,0.0,0.0,6.0,2019-08-12
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-12
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-08-12
+Michoacán,Zinapécuaro,3.0,2.0,1.0,0.0,2019-08-12
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2019-08-12
+Estado de México,Acolman,1.0,1.0,0.0,0.0,2019-08-12
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2019-08-12
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2019-08-12
+Estado de México,Valle De Bravo,1.0,0.0,1.0,0.0,2019-08-12
+Estado de México,Valle De Chalco Solidaridad,1.0,1.0,0.0,0.0,2019-08-12
+Nuevo León,San Nicolás De Los Garza,1.0,1.0,0.0,0.0,2019-08-12
+Oaxaca,Zaragoza,1.0,0.0,1.0,0.0,2019-08-12
+Puebla,Atlixco,1.0,1.0,0.0,0.0,2019-08-12
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-08-12
+Sinaloa,Ahome,1.0,1.0,0.0,0.0,2019-08-12
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-12
+Sonora,Empalme,1.0,1.0,0.0,0.0,2019-08-12
+Sonora,San Luis Río Colorado,2.0,2.0,0.0,0.0,2019-08-12
+Tamaulipas,Alpatláhuac,1.0,1.0,0.0,0.0,2019-08-12
+Tamaulipas,Ciudad Madero,1.0,0.0,1.0,0.0,2019-08-12
+Tamaulipas,Tampico,1.0,0.0,1.0,0.0,2019-08-12
+Veracruz,Mixtla De Altamirano,1.0,1.0,0.0,0.0,2019-08-12
+Veracruz,Tecolutla,1.0,1.0,0.0,0.0,2019-08-12
+Veracruz,Tierra Blanca,1.0,1.0,0.0,0.0,2019-08-12
+Veracruz,Tihuatlán,1.0,1.0,0.0,0.0,2019-08-12
+Zacatecas,Guadalupe,2.0,1.0,1.0,0.0,2019-08-12
+Zacatecas,Valparaíso,1.0,1.0,0.0,0.0,2019-08-12
+Aguascalientes,Asientos,1.0,1.0,0.0,0.0,2019-08-13
+Baja California,Tijuana,7.0,5.0,2.0,0.0,2019-08-13
+Chiapas,Tapachula,1.0,1.0,0.0,0.0,2019-08-13
+Chihuahua,Juárez,4.0,4.0,0.0,0.0,2019-08-13
+Ciudad de México,Azcapotzalco,1.0,1.0,0.0,0.0,2019-08-13
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-13
+Colima,Colima,1.0,1.0,0.0,0.0,2019-08-13
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-08-13
+Durango,Nombre De Dios,1.0,1.0,0.0,0.0,2019-08-13
+Guanajuato,Abasolo,1.0,0.0,1.0,0.0,2019-08-13
+Guanajuato,Apaseo El Alto,1.0,0.0,1.0,0.0,2019-08-13
+Guanajuato,Irapuato,3.0,1.0,0.0,2.0,2019-08-13
+Guanajuato,Jerécuaro,2.0,1.0,0.0,1.0,2019-08-13
+Guanajuato,León,1.0,0.0,0.0,1.0,2019-08-13
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-08-13
+Guanajuato,San Luis De La Paz,1.0,1.0,0.0,0.0,2019-08-13
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-08-13
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-08-13
+Guerrero,Atoyac De Álvarez,1.0,1.0,0.0,0.0,2019-08-13
+Guerrero,Chilapa De Álvarez,1.0,0.0,1.0,0.0,2019-08-13
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2019-08-13
+Jalisco,Guadalajara,3.0,2.0,1.0,0.0,2019-08-13
+Jalisco,Lagos De Moreno,5.0,4.0,1.0,0.0,2019-08-13
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-13
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2019-08-13
+Michoacán,Zináparo,3.0,2.0,1.0,0.0,2019-08-13
+Morelos,Jiutepec,2.0,0.0,0.0,2.0,2019-08-13
+Morelos,Miacatlán,1.0,1.0,0.0,0.0,2019-08-13
+Morelos,Tetecala,1.0,1.0,0.0,0.0,2019-08-13
+Estado de México,Acolman,1.0,0.0,1.0,0.0,2019-08-13
+Estado de México,Coacalco De Berriozábal,1.0,1.0,0.0,0.0,2019-08-13
+Estado de México,Donato Guerra,1.0,0.0,0.0,1.0,2019-08-13
+Nuevo León,Carmen,1.0,1.0,0.0,0.0,2019-08-13
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2019-08-13
+Oaxaca,Tlalixtac De Cabrera,1.0,1.0,0.0,0.0,2019-08-13
+Puebla,Acatzingo,1.0,1.0,0.0,0.0,2019-08-13
+Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2019-08-13
+Puebla,Venustiano Carranza,1.0,1.0,0.0,0.0,2019-08-13
+Puebla,Yehualtepec,1.0,1.0,0.0,0.0,2019-08-13
+Querétaro,Querétaro,2.0,2.0,0.0,0.0,2019-08-13
+Quintana Roo,Benito Juárez,1.0,0.0,1.0,0.0,2019-08-13
+Sinaloa,Ahome,1.0,1.0,0.0,0.0,2019-08-13
+Sinaloa,Culiacán,2.0,0.0,2.0,0.0,2019-08-13
+Sinaloa,Escuinapa,1.0,1.0,0.0,0.0,2019-08-13
+Sonora,Nogales,1.0,0.0,1.0,0.0,2019-08-13
+Sonora,San Luis Río Colorado,1.0,1.0,0.0,0.0,2019-08-13
+Tabasco,Centro,1.0,1.0,0.0,0.0,2019-08-13
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-08-13
+Tabasco,Nacajuca,1.0,1.0,0.0,0.0,2019-08-13
+Tamaulipas,Victoria,1.0,0.0,0.0,1.0,2019-08-13
+Tlaxcala,San Lorenzo Axocomanitla,1.0,1.0,0.0,0.0,2019-08-13
+Veracruz,Alto Lucero De Gutiérrez Barrios,3.0,3.0,0.0,0.0,2019-08-13
+Veracruz,Huiloapan De Cuauhtémoc,1.0,0.0,1.0,0.0,2019-08-13
+Veracruz,Juan Rodríguez Clara,2.0,2.0,0.0,0.0,2019-08-13
+Veracruz,Jáltipan,1.0,0.0,1.0,0.0,2019-08-13
+Veracruz,Nanchital De Lázaro Cárdenas Del Río,1.0,1.0,0.0,0.0,2019-08-13
+Veracruz,Papantla,2.0,1.0,1.0,0.0,2019-08-13
+Veracruz,Tempoal,1.0,0.0,1.0,0.0,2019-08-13
+Veracruz,Veracruz,1.0,1.0,0.0,0.0,2019-08-13
+Zacatecas,Río Grande,2.0,2.0,0.0,0.0,2019-08-13
+Baja California,Tecate,1.0,1.0,0.0,0.0,2019-08-14
+Baja California,Tijuana,6.0,5.0,0.0,1.0,2019-08-14
+Chiapas,San Cristóbal De Las Casas,1.0,0.0,1.0,0.0,2019-08-14
+Chihuahua,Juárez,5.0,4.0,0.0,1.0,2019-08-14
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-08-14
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-14
+Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2019-08-14
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-08-14
+Ciudad de México,Miguel Hidalgo,2.0,2.0,0.0,0.0,2019-08-14
+Ciudad de México,Álvaro Obregón,2.0,1.0,1.0,0.0,2019-08-14
+Coahuila,Saltillo,1.0,0.0,0.0,1.0,2019-08-14
+Colima,Coquimatlán,1.0,1.0,0.0,0.0,2019-08-14
+Colima,Manzanillo,6.0,5.0,1.0,0.0,2019-08-14
+Colima,Tecomán,1.0,1.0,0.0,0.0,2019-08-14
+Durango,San Dimas,1.0,0.0,1.0,0.0,2019-08-14
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-08-14
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-08-14
+Guanajuato,León,4.0,2.0,0.0,2.0,2019-08-14
+Guanajuato,Salamanca,1.0,0.0,1.0,0.0,2019-08-14
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-08-14
+Guerrero,Acapulco De Juárez,3.0,2.0,1.0,0.0,2019-08-14
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2019-08-14
+Guerrero,Coyuca De Benítez,1.0,1.0,0.0,0.0,2019-08-14
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2019-08-14
+Hidalgo,Santiago Tulantepec De Lugo Guerrero,1.0,1.0,0.0,0.0,2019-08-14
+Jalisco,San Pedro Tlaquepaque,2.0,1.0,1.0,0.0,2019-08-14
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,0.0,1.0,2019-08-14
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-08-14
+Jalisco,Zapopan,3.0,3.0,0.0,0.0,2019-08-14
+Michoacán,Morelia,3.0,3.0,0.0,0.0,2019-08-14
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2019-08-14
+Morelos,Cuautla,2.0,1.0,1.0,0.0,2019-08-14
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-08-14
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2019-08-14
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2019-08-14
+Estado de México,Zumpango,2.0,2.0,0.0,0.0,2019-08-14
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-08-14
+Oaxaca,Miahuatlán De Porfirio Díaz,1.0,1.0,0.0,0.0,2019-08-14
+Oaxaca,Santo Domingo Tehuantepec,1.0,0.0,1.0,0.0,2019-08-14
+Puebla,San Matías Tlalancaleca,1.0,0.0,1.0,0.0,2019-08-14
+Quintana Roo,Benito Juárez,3.0,3.0,0.0,0.0,2019-08-14
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-08-14
+Quintana Roo,Tulum,1.0,0.0,1.0,0.0,2019-08-14
+San Luis Potosí,San Luis Potosí,3.0,2.0,1.0,0.0,2019-08-14
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-14
+Sinaloa,Mazatlán,1.0,1.0,0.0,0.0,2019-08-14
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-08-14
+Tamaulipas,Miguel Alemán,1.0,1.0,0.0,0.0,2019-08-14
+Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2019-08-14
+Veracruz,Alto Lucero De Gutiérrez Barrios,3.0,3.0,0.0,0.0,2019-08-14
+Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2019-08-14
+Veracruz,Las Choapas,1.0,0.0,1.0,0.0,2019-08-14
+Veracruz,Teocelo,1.0,1.0,0.0,0.0,2019-08-14
+Veracruz,Tepetlán,2.0,2.0,0.0,0.0,2019-08-14
+Veracruz,Vega De Alatorre,1.0,1.0,0.0,0.0,2019-08-14
+Zacatecas,Calera,1.0,1.0,0.0,0.0,2019-08-14
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-08-14
+Baja California,Ensenada,2.0,2.0,0.0,0.0,2019-08-15
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2019-08-15
+Baja California,Tijuana,8.0,5.0,0.0,3.0,2019-08-15
+Chihuahua,Bocoyna,1.0,1.0,0.0,0.0,2019-08-15
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-08-15
+Chihuahua,Juárez,6.0,3.0,0.0,3.0,2019-08-15
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-15
+Colima,Colima,2.0,2.0,0.0,0.0,2019-08-15
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-08-15
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2019-08-15
+Guanajuato,Celaya,17.0,1.0,1.0,15.0,2019-08-15
+Guanajuato,Comonfort,1.0,1.0,0.0,0.0,2019-08-15
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-08-15
+Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-15
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-08-15
+Guanajuato,Salvatierra,2.0,0.0,0.0,2.0,2019-08-15
+Guerrero,Atoyac De Álvarez,1.0,1.0,0.0,0.0,2019-08-15
+Guerrero,San Marcos,2.0,1.0,1.0,0.0,2019-08-15
+Hidalgo,Tizayuca,1.0,1.0,0.0,0.0,2019-08-15
+Jalisco,El Salto,1.0,1.0,0.0,0.0,2019-08-15
+Jalisco,San Pedro Tlaquepaque,2.0,2.0,0.0,0.0,2019-08-15
+Jalisco,Zapopan,1.0,0.0,0.0,1.0,2019-08-15
+Michoacán,Apatzingán,1.0,1.0,0.0,0.0,2019-08-15
+Michoacán,Cotija,4.0,4.0,0.0,0.0,2019-08-15
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2019-08-15
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-08-15
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-08-15
+Morelos,Ayala,1.0,1.0,0.0,0.0,2019-08-15
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-08-15
+Morelos,Jiutepec,3.0,3.0,0.0,0.0,2019-08-15
+Morelos,Miacatlán,1.0,1.0,0.0,0.0,2019-08-15
+Nuevo León,García,1.0,0.0,1.0,0.0,2019-08-15
+Oaxaca,Loma Bonita,1.0,1.0,0.0,0.0,2019-08-15
+Oaxaca,Santa Cruz Xoxocotlán,1.0,1.0,0.0,0.0,2019-08-15
+Puebla,Chietla,1.0,1.0,0.0,0.0,2019-08-15
+Puebla,Puebla,1.0,0.0,1.0,0.0,2019-08-15
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2019-08-15
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2019-08-15
+Sonora,Caborca,1.0,1.0,0.0,0.0,2019-08-15
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-08-15
+Tamaulipas,San Fernando,6.0,6.0,0.0,0.0,2019-08-15
+Veracruz,Minatitlán,2.0,1.0,1.0,0.0,2019-08-15
+Baja California,Tijuana,7.0,6.0,0.0,1.0,2019-08-16
+Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2019-08-16
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-08-16
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-08-16
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-08-16
+Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2019-08-16
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2019-08-16
+Durango,Durango,2.0,2.0,0.0,0.0,2019-08-16
+Durango,Nuevo Ideal,1.0,1.0,0.0,0.0,2019-08-16
+Guanajuato,Acámbaro,3.0,1.0,0.0,2.0,2019-08-16
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2019-08-16
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,1.0,1.0,0.0,0.0,2019-08-16
+Guanajuato,Salamanca,3.0,2.0,0.0,1.0,2019-08-16
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-08-16
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-08-16
+Guerrero,Acapulco De Juárez,5.0,3.0,2.0,0.0,2019-08-16
+Guerrero,Técpan De Galeana,1.0,0.0,0.0,1.0,2019-08-16
+Michoacán,Copándaro,1.0,1.0,0.0,0.0,2019-08-16
+Michoacán,Cotija,1.0,0.0,1.0,0.0,2019-08-16
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-08-16
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-16
+Michoacán,Quiroga,1.0,1.0,0.0,0.0,2019-08-16
+Michoacán,Tarímbaro,1.0,0.0,0.0,1.0,2019-08-16
+Michoacán,Uruapan,4.0,4.0,0.0,0.0,2019-08-16
+Morelos,Huitzilac,1.0,1.0,0.0,0.0,2019-08-16
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2019-08-16
+Morelos,Puente De Ixtla,1.0,1.0,0.0,0.0,2019-08-16
+Morelos,Tetecala,1.0,1.0,0.0,0.0,2019-08-16
+Estado de México,Cuautitlán Izcalli,1.0,0.0,1.0,0.0,2019-08-16
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2019-08-16
+Nuevo León,China,1.0,1.0,0.0,0.0,2019-08-16
+Nuevo León,García,1.0,0.0,1.0,0.0,2019-08-16
+Nuevo León,Montemorelos,1.0,1.0,0.0,0.0,2019-08-16
+Oaxaca,El Espinal,1.0,1.0,0.0,0.0,2019-08-16
+Oaxaca,Heroica Ciudad De Huajuapan De León,1.0,1.0,0.0,0.0,2019-08-16
+Oaxaca,San Miguel Soyaltepec,1.0,1.0,0.0,0.0,2019-08-16
+Oaxaca,Santo Domingo Tehuantepec,1.0,1.0,0.0,0.0,2019-08-16
+Puebla,Puebla,3.0,0.0,2.0,1.0,2019-08-16
+Puebla,San Martín Texmelucan,1.0,1.0,0.0,0.0,2019-08-16
+San Luis Potosí,San Ciro De Acosta,2.0,2.0,0.0,0.0,2019-08-16
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-08-16
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-16
+Sonora,Hermosillo,2.0,2.0,0.0,0.0,2019-08-16
+Tabasco,Jalpa De Méndez,1.0,0.0,1.0,0.0,2019-08-16
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-08-16
+Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2019-08-16
+Veracruz,Veracruz,2.0,1.0,1.0,0.0,2019-08-16
+Zacatecas,Fresnillo,1.0,0.0,1.0,0.0,2019-08-16
+Baja California,Tecate,2.0,2.0,0.0,0.0,2019-08-17
+Baja California,Tijuana,4.0,3.0,1.0,0.0,2019-08-17
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2019-08-17
+Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2019-08-17
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-08-17
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-08-17
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-17
+Ciudad de México,Iztapalapa,3.0,3.0,0.0,0.0,2019-08-17
+Ciudad de México,La Magdalena Contreras,1.0,1.0,0.0,0.0,2019-08-17
+Colima,Armería,1.0,1.0,0.0,0.0,2019-08-17
+Colima,Manzanillo,3.0,3.0,0.0,0.0,2019-08-17
+Durango,Guadalupe Victoria,1.0,0.0,1.0,0.0,2019-08-17
+Guanajuato,Acámbaro,2.0,2.0,0.0,0.0,2019-08-17
+Guanajuato,Celaya,4.0,4.0,0.0,0.0,2019-08-17
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-08-17
+Guerrero,Acapulco De Juárez,5.0,4.0,0.0,1.0,2019-08-17
+Guerrero,Taxco De Alarcón,2.0,2.0,0.0,0.0,2019-08-17
+Hidalgo,Tecozautla,3.0,3.0,0.0,0.0,2019-08-17
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-08-17
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2019-08-17
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-08-17
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-08-17
+Michoacán,Uruapan,1.0,0.0,1.0,0.0,2019-08-17
+Michoacán,Zamora,3.0,3.0,0.0,0.0,2019-08-17
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-08-17
+Estado de México,Toluca,2.0,2.0,0.0,0.0,2019-08-17
+Estado de México,Tultitlán,1.0,0.0,1.0,0.0,2019-08-17
+Oaxaca,El Espinal,2.0,2.0,0.0,0.0,2019-08-17
+Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2019-08-17
+Oaxaca,San Miguel Soyaltepec,1.0,1.0,0.0,0.0,2019-08-17
+Oaxaca,Santo Domingo Tehuantepec,1.0,1.0,0.0,0.0,2019-08-17
+Oaxaca,Ocampo,2.0,1.0,1.0,0.0,2019-08-17
+Puebla,Chignahuapan,1.0,0.0,1.0,0.0,2019-08-17
+Puebla,Cuautinchán,1.0,0.0,1.0,0.0,2019-08-17
+Puebla,San Andrés Cholula,1.0,1.0,0.0,0.0,2019-08-17
+Puebla,Xicotepec,1.0,1.0,0.0,0.0,2019-08-17
+Quintana Roo,Isla Mujeres,3.0,3.0,0.0,0.0,2019-08-17
+Tabasco,Centro,2.0,2.0,0.0,0.0,2019-08-17
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-08-17
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-08-17
+Veracruz,Agua Dulce,1.0,1.0,0.0,0.0,2019-08-17
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-17
+Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2019-08-17
+Baja California,Tijuana,4.0,3.0,1.0,0.0,2019-08-18
+Chihuahua,Aquiles Serdán,5.0,1.0,1.0,3.0,2019-08-18
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2019-08-18
+Ciudad de México,Gustavo A. Madero,3.0,3.0,0.0,0.0,2019-08-18
+Ciudad de México,Iztapalapa,2.0,2.0,0.0,0.0,2019-08-18
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2019-08-18
+Durango,Guadalupe Victoria,1.0,0.0,1.0,0.0,2019-08-18
+Guanajuato,Acámbaro,3.0,3.0,0.0,0.0,2019-08-18
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-08-18
+Guanajuato,Guanajuato,3.0,3.0,0.0,0.0,2019-08-18
+Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-18
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-08-18
+Guanajuato,Villagrán,1.0,1.0,0.0,0.0,2019-08-18
+Guerrero,Acapulco De Juárez,3.0,3.0,0.0,0.0,2019-08-18
+Guerrero,Taxco De Alarcón,1.0,0.0,1.0,0.0,2019-08-18
+Jalisco,Chapala,2.0,2.0,0.0,0.0,2019-08-18
+Jalisco,Encarnación De Díaz,1.0,1.0,0.0,0.0,2019-08-18
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-08-18
+Jalisco,San Pedro Tlaquepaque,3.0,2.0,1.0,0.0,2019-08-18
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2019-08-18
+Jalisco,Tonalá,2.0,2.0,0.0,0.0,2019-08-18
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-08-18
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-08-18
+Morelos,Mazatepec,1.0,1.0,0.0,0.0,2019-08-18
+Morelos,Miacatlán,1.0,1.0,0.0,0.0,2019-08-18
+Morelos,Temixco,1.0,1.0,0.0,0.0,2019-08-18
+Morelos,Tepalcingo,2.0,1.0,1.0,0.0,2019-08-18
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2019-08-18
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-08-18
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-08-18
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2019-08-18
+Oaxaca,Oaxaca De Juárez,5.0,5.0,0.0,0.0,2019-08-18
+Oaxaca,San Juan Bautista Tuxtepec,3.0,3.0,0.0,0.0,2019-08-18
+Oaxaca,San Pedro Mixtepec,1.0,1.0,0.0,0.0,2019-08-18
+Oaxaca,Santa Lucía Del Camino,1.0,1.0,0.0,0.0,2019-08-18
+Oaxaca,Santiago Pinotepa Nacional,1.0,1.0,0.0,0.0,2019-08-18
+Oaxaca,Tlalixtac De Cabrera,1.0,1.0,0.0,0.0,2019-08-18
+Quintana Roo,Benito Juárez,4.0,4.0,0.0,0.0,2019-08-18
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2019-08-18
+Sinaloa,Sinaloa,1.0,1.0,0.0,0.0,2019-08-18
+Sonora,San Luis Río Colorado,1.0,1.0,0.0,0.0,2019-08-18
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-08-18
+Tamaulipas,Matamoros,2.0,2.0,0.0,0.0,2019-08-18
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-08-18
+Veracruz,Coatepec,1.0,1.0,0.0,0.0,2019-08-18
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-18
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2019-08-18
+Baja California,Tijuana,10.0,7.0,1.0,2.0,2019-08-19
+Chiapas,Chilón,1.0,0.0,1.0,0.0,2019-08-19
+Chiapas,Tapachula,2.0,2.0,0.0,0.0,2019-08-19
+Chiapas,Tonalá,1.0,1.0,0.0,0.0,2019-08-19
+Chihuahua,Juárez,6.0,4.0,1.0,1.0,2019-08-19
+Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2019-08-19
+Colima,Armería,1.0,1.0,0.0,0.0,2019-08-19
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-08-19
+Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-19
+Guanajuato,Purísima Del Rincón,1.0,1.0,0.0,0.0,2019-08-19
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-08-19
+Guerrero,Acapulco De Juárez,4.0,2.0,1.0,1.0,2019-08-19
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2019-08-19
+Hidalgo,Huichapan,1.0,0.0,1.0,0.0,2019-08-19
+Jalisco,Guadalajara,2.0,0.0,2.0,0.0,2019-08-19
+Jalisco,San Pedro Tlaquepaque,5.0,4.0,1.0,0.0,2019-08-19
+Michoacán,Buenavista,4.0,4.0,0.0,0.0,2019-08-19
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-08-19
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-19
+Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2019-08-19
+Michoacán,Villamar,1.0,1.0,0.0,0.0,2019-08-19
+Michoacán,Zamora,7.0,5.0,2.0,0.0,2019-08-19
+Morelos,Amacuzac,1.0,1.0,0.0,0.0,2019-08-19
+Morelos,Coatlán Del Río,1.0,1.0,0.0,0.0,2019-08-19
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-08-19
+Morelos,Jojutla,1.0,1.0,0.0,0.0,2019-08-19
+Nuevo León,Salinas Victoria,1.0,1.0,0.0,0.0,2019-08-19
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2019-08-19
+Oaxaca,Santa Lucía Del Camino,2.0,2.0,0.0,0.0,2019-08-19
+Puebla,Ajalpan,1.0,1.0,0.0,0.0,2019-08-19
+Puebla,Chiconcuautla,1.0,1.0,0.0,0.0,2019-08-19
+Puebla,Chignahuapan,1.0,1.0,0.0,0.0,2019-08-19
+Puebla,General Felipe Ángeles,1.0,1.0,0.0,0.0,2019-08-19
+Puebla,Puebla,1.0,1.0,0.0,0.0,2019-08-19
+Puebla,Tlacuilotepec,2.0,2.0,0.0,0.0,2019-08-19
+Quintana Roo,Isla Mujeres,3.0,3.0,0.0,0.0,2019-08-19
+Quintana Roo,Othón P. Blanco,2.0,2.0,0.0,0.0,2019-08-19
+San Luis Potosí,Ciudad Valles,1.0,1.0,0.0,0.0,2019-08-19
+San Luis Potosí,San Luis Potosí,2.0,0.0,2.0,0.0,2019-08-19
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-19
+Sinaloa,Mazatlán,5.0,4.0,0.0,1.0,2019-08-19
+Sinaloa,Navolato,1.0,1.0,0.0,0.0,2019-08-19
+Sonora,Hermosillo,4.0,4.0,0.0,0.0,2019-08-19
+Sonora,Navojoa,1.0,1.0,0.0,0.0,2019-08-19
+Sonora,Nogales,1.0,1.0,0.0,0.0,2019-08-19
+Sonora,San Luis Río Colorado,1.0,1.0,0.0,0.0,2019-08-19
+Tabasco,Centro,1.0,1.0,0.0,0.0,2019-08-19
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-08-19
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-08-19
+Veracruz,Acayucan,1.0,1.0,0.0,0.0,2019-08-19
+Veracruz,Coatzacoalcos,2.0,2.0,0.0,0.0,2019-08-19
+Veracruz,Ixhuatlán De Madero,1.0,1.0,0.0,0.0,2019-08-19
+Veracruz,Oluta,1.0,1.0,0.0,0.0,2019-08-19
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-08-19
+Zacatecas,Sombrerete,2.0,2.0,0.0,0.0,2019-08-19
+Baja California,Tijuana,4.0,3.0,0.0,1.0,2019-08-20
+Baja California Sur,La Paz,1.0,1.0,0.0,0.0,2019-08-20
+Chiapas,Cacahoatán,1.0,1.0,0.0,0.0,2019-08-20
+Chiapas,Pueblo Nuevo Solistahuacán,1.0,1.0,0.0,0.0,2019-08-20
+Chihuahua,Cuauhtémoc,5.0,3.0,2.0,0.0,2019-08-20
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-08-20
+Ciudad de México,Miguel Hidalgo,1.0,0.0,1.0,0.0,2019-08-20
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2019-08-20
+Durango,Súchil,1.0,1.0,0.0,0.0,2019-08-20
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-08-20
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2019-08-20
+Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2019-08-20
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2019-08-20
+Guanajuato,San Luis De La Paz,4.0,2.0,2.0,0.0,2019-08-20
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-08-20
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2019-08-20
+Guerrero,Atenango Del Río,2.0,2.0,0.0,0.0,2019-08-20
+Guerrero,Rincón De Romos,2.0,2.0,0.0,0.0,2019-08-20
+Jalisco,San Pedro Tlaquepaque,3.0,3.0,0.0,0.0,2019-08-20
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-08-20
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2019-08-20
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2019-08-20
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-08-20
+Morelos,Cuautla,1.0,1.0,0.0,0.0,2019-08-20
+Morelos,Cuernavaca,1.0,0.0,0.0,1.0,2019-08-20
+Estado de México,Chimalhuacán,2.0,2.0,0.0,0.0,2019-08-20
+Estado de México,La Paz,4.0,0.0,1.0,3.0,2019-08-20
+Estado de México,Nicolás Romero,3.0,2.0,1.0,0.0,2019-08-20
+Nayarit,Acaponeta,1.0,1.0,0.0,0.0,2019-08-20
+Nuevo León,Escobedo,3.0,3.0,0.0,0.0,2019-08-20
+Nuevo León,Montemorelos,1.0,0.0,1.0,0.0,2019-08-20
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-08-20
+Oaxaca,San Agustín Chayuco,1.0,0.0,1.0,0.0,2019-08-20
+Oaxaca,San Juan Bautista Tuxtepec,2.0,2.0,0.0,0.0,2019-08-20
+Puebla,San Felipe Teotlalcingo,1.0,0.0,0.0,1.0,2019-08-20
+Puebla,Tehuacán,1.0,1.0,0.0,0.0,2019-08-20
+Puebla,Tlahuapan,1.0,1.0,0.0,0.0,2019-08-20
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-08-20
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-08-20
+Sinaloa,Ahome,1.0,1.0,0.0,0.0,2019-08-20
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-20
+Sinaloa,Mazatlán,1.0,1.0,0.0,0.0,2019-08-20
+Sonora,Empalme,1.0,1.0,0.0,0.0,2019-08-20
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-08-20
+Tabasco,Comalcalco,1.0,1.0,0.0,0.0,2019-08-20
+Tamaulipas,San Fernando,2.0,2.0,0.0,0.0,2019-08-20
+Tlaxcala,La Magdalena Tlaltelulco,1.0,1.0,0.0,0.0,2019-08-20
+Tlaxcala,Santa Ana Nopalucan,1.0,0.0,0.0,1.0,2019-08-20
+Veracruz,Coatzacoalcos,1.0,0.0,0.0,1.0,2019-08-20
+Veracruz,Fortín,2.0,2.0,0.0,0.0,2019-08-20
+Veracruz,Ixhuatlán De Madero,1.0,1.0,0.0,0.0,2019-08-20
+Veracruz,Tihuatlán,1.0,1.0,0.0,0.0,2019-08-20
+Baja California,Tijuana,11.0,11.0,0.0,0.0,2019-08-21
+Chiapas,Palenque,1.0,0.0,1.0,0.0,2019-08-21
+Chihuahua,Juárez,4.0,4.0,0.0,0.0,2019-08-21
+Ciudad de México,Cuajimalpa De Morelos,1.0,1.0,0.0,0.0,2019-08-21
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-21
+Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2019-08-21
+Ciudad de México,Iztapalapa,1.0,0.0,0.0,1.0,2019-08-21
+Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2019-08-21
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2019-08-21
+Colima,Armería,2.0,2.0,0.0,0.0,2019-08-21
+Guanajuato,Celaya,3.0,3.0,0.0,0.0,2019-08-21
+Guanajuato,Irapuato,6.0,2.0,0.0,4.0,2019-08-21
+Guanajuato,León,2.0,2.0,0.0,0.0,2019-08-21
+Guanajuato,Salamanca,5.0,2.0,3.0,0.0,2019-08-21
+Guanajuato,San Francisco Del Rincón,4.0,0.0,0.0,4.0,2019-08-21
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-08-21
+Guerrero,Chilapa De Álvarez,2.0,2.0,0.0,0.0,2019-08-21
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2019-08-21
+Hidalgo,Nopala De Villagrán,1.0,0.0,0.0,1.0,2019-08-21
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-08-21
+Jalisco,Puerto Vallarta,1.0,0.0,1.0,0.0,2019-08-21
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,1.0,0.0,2019-08-21
+Jalisco,Zapopan,3.0,0.0,0.0,3.0,2019-08-21
+Michoacán,Cotija,1.0,0.0,1.0,0.0,2019-08-21
+Michoacán,Cuitzeo,1.0,1.0,0.0,0.0,2019-08-21
+Michoacán,Morelia,3.0,3.0,0.0,0.0,2019-08-21
+Michoacán,Tarímbaro,3.0,3.0,0.0,0.0,2019-08-21
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-08-21
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-08-21
+Morelos,Jantetelco,1.0,1.0,0.0,0.0,2019-08-21
+Morelos,Jojutla,3.0,3.0,0.0,0.0,2019-08-21
+Estado de México,Chimalhuacán,1.0,1.0,0.0,0.0,2019-08-21
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-08-21
+Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2019-08-21
+Nuevo León,Monterrey,2.0,0.0,2.0,0.0,2019-08-21
+Nuevo León,San Pedro Garza García,1.0,1.0,0.0,0.0,2019-08-21
+Oaxaca,Heroica Ciudad De Huajuapan De León,1.0,1.0,0.0,0.0,2019-08-21
+Oaxaca,San Francisco Ixhuatán,1.0,1.0,0.0,0.0,2019-08-21
+Oaxaca,Santiago Jamiltepec,1.0,1.0,0.0,0.0,2019-08-21
+Puebla,Palmar De Bravo,1.0,1.0,0.0,0.0,2019-08-21
+Puebla,San Felipe Teotlalcingo,1.0,0.0,0.0,1.0,2019-08-21
+Puebla,Tochimilco,1.0,1.0,0.0,0.0,2019-08-21
+Querétaro,Querétaro,1.0,0.0,1.0,0.0,2019-08-21
+Quintana Roo,Solidaridad,2.0,1.0,1.0,0.0,2019-08-21
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-08-21
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2019-08-21
+Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2019-08-21
+Tlaxcala,Ixtacuixtla De Mariano Matamoros,1.0,1.0,0.0,0.0,2019-08-21
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-21
+Veracruz,Emiliano Zapata,2.0,1.0,1.0,0.0,2019-08-21
+Veracruz,Fortín,1.0,1.0,0.0,0.0,2019-08-21
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2019-08-21
+Veracruz,Sayula De Alemán,1.0,1.0,0.0,0.0,2019-08-21
+Veracruz,Tihuatlán,1.0,0.0,0.0,1.0,2019-08-21
+Veracruz,Xico,3.0,0.0,0.0,3.0,2019-08-21
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2019-08-21
+Zacatecas,Valparaíso,2.0,2.0,0.0,0.0,2019-08-21
+Baja California,Mexicali,1.0,0.0,0.0,1.0,2019-08-22
+Baja California,Tijuana,4.0,4.0,0.0,0.0,2019-08-22
+Chihuahua,Chihuahua,4.0,4.0,0.0,0.0,2019-08-22
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-08-22
+Ciudad de México,Gustavo A. Madero,1.0,0.0,0.0,1.0,2019-08-22
+Colima,Colima,1.0,1.0,0.0,0.0,2019-08-22
+Guanajuato,Abasolo,1.0,1.0,0.0,0.0,2019-08-22
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,1.0,1.0,0.0,0.0,2019-08-22
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-08-22
+Guanajuato,Salamanca,4.0,4.0,0.0,0.0,2019-08-22
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2019-08-22
+Guanajuato,San Felipe,1.0,1.0,0.0,0.0,2019-08-22
+Guanajuato,Yuriria,1.0,1.0,0.0,0.0,2019-08-22
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-08-22
+Guerrero,Chilapa De Álvarez,1.0,1.0,0.0,0.0,2019-08-22
+Guerrero,Zihuatanejo De Azueta,2.0,2.0,0.0,0.0,2019-08-22
+Jalisco,Jocotepec,1.0,1.0,0.0,0.0,2019-08-22
+Jalisco,San Pedro Tlaquepaque,2.0,2.0,0.0,0.0,2019-08-22
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,1.0,0.0,2019-08-22
+Michoacán,Apatzingán,1.0,1.0,0.0,0.0,2019-08-22
+Michoacán,Huandacareo,2.0,2.0,0.0,0.0,2019-08-22
+Michoacán,Tarímbaro,2.0,1.0,1.0,0.0,2019-08-22
+Morelos,Cuautla,1.0,1.0,0.0,0.0,2019-08-22
+Morelos,Cuernavaca,1.0,0.0,1.0,0.0,2019-08-22
+Morelos,Miacatlán,1.0,1.0,0.0,0.0,2019-08-22
+Morelos,Puente De Ixtla,1.0,0.0,1.0,0.0,2019-08-22
+Morelos,Temoac,1.0,1.0,0.0,0.0,2019-08-22
+Morelos,Tepoztlán,1.0,0.0,0.0,1.0,2019-08-22
+Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2019-08-22
+Estado de México,Naucalpan De Juárez,2.0,2.0,0.0,0.0,2019-08-22
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2019-08-22
+Nuevo León,García,1.0,1.0,0.0,0.0,2019-08-22
+Nuevo León,General Zuazua,1.0,1.0,0.0,0.0,2019-08-22
+Oaxaca,San Juan Bautista Tuxtepec,2.0,2.0,0.0,0.0,2019-08-22
+Oaxaca,Santa Cruz Xoxocotlán,1.0,1.0,0.0,0.0,2019-08-22
+Puebla,Ayotoxco De Guerrero,1.0,1.0,0.0,0.0,2019-08-22
+Puebla,Puebla,4.0,2.0,2.0,0.0,2019-08-22
+Puebla,San Martín Texmelucan,1.0,1.0,0.0,0.0,2019-08-22
+Puebla,Tehuacán,1.0,1.0,0.0,0.0,2019-08-22
+Puebla,Tlaola,2.0,1.0,1.0,0.0,2019-08-22
+Puebla,Zacatlán,1.0,1.0,0.0,0.0,2019-08-22
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2019-08-22
+San Luis Potosí,Ebano,1.0,0.0,1.0,0.0,2019-08-22
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2019-08-22
+Sonora,Hermosillo,6.0,1.0,0.0,5.0,2019-08-22
+Tabasco,Jalapa,1.0,1.0,0.0,0.0,2019-08-22
+Veracruz,Acayucan,1.0,1.0,0.0,0.0,2019-08-22
+Veracruz,Coatzacoalcos,2.0,1.0,1.0,0.0,2019-08-22
+Veracruz,Omealca,1.0,1.0,0.0,0.0,2019-08-22
+Veracruz,Río Blanco,2.0,0.0,1.0,1.0,2019-08-22
+Veracruz,Villa Aldama,1.0,1.0,0.0,0.0,2019-08-22
+Zacatecas,Calera,1.0,1.0,0.0,0.0,2019-08-22
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-08-22
+Baja California,Tijuana,4.0,3.0,1.0,0.0,2019-08-23
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-08-23
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-23
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2019-08-23
+Coahuila,Torreón,1.0,1.0,0.0,0.0,2019-08-23
+Coahuila,Zaragoza,1.0,0.0,0.0,1.0,2019-08-23
+Colima,Armería,1.0,1.0,0.0,0.0,2019-08-23
+Colima,Tecomán,1.0,1.0,0.0,0.0,2019-08-23
+Durango,Nuevo Ideal,1.0,1.0,0.0,0.0,2019-08-23
+Guanajuato,Abasolo,2.0,2.0,0.0,0.0,2019-08-23
+Guanajuato,Apaseo El Alto,2.0,2.0,0.0,0.0,2019-08-23
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-08-23
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-08-23
+Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-23
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-08-23
+Guanajuato,San Luis De La Paz,4.0,4.0,0.0,0.0,2019-08-23
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-08-23
+Guerrero,Acapulco De Juárez,1.0,0.0,1.0,0.0,2019-08-23
+Guerrero,Coyuca De Benítez,1.0,1.0,0.0,0.0,2019-08-23
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-08-23
+Michoacán,Cotija,1.0,1.0,0.0,0.0,2019-08-23
+Michoacán,Tangancícuaro,1.0,1.0,0.0,0.0,2019-08-23
+Michoacán,Uruapan,1.0,0.0,1.0,0.0,2019-08-23
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-08-23
+Morelos,Amacuzac,1.0,0.0,0.0,1.0,2019-08-23
+Morelos,Cuautla,1.0,1.0,0.0,0.0,2019-08-23
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2019-08-23
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2019-08-23
+Estado de México,Tecámac,1.0,0.0,1.0,0.0,2019-08-23
+Estado de México,Tepetlaoxtoc,1.0,1.0,0.0,0.0,2019-08-23
+Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2019-08-23
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2019-08-23
+Oaxaca,San Juan Bautista Tuxtepec,1.0,0.0,1.0,0.0,2019-08-23
+Oaxaca,San Marcial Ozolotepec,3.0,0.0,0.0,3.0,2019-08-23
+Oaxaca,San Pedro Pochutla,2.0,2.0,0.0,0.0,2019-08-23
+Oaxaca,San Pedro Totolápam,1.0,1.0,0.0,0.0,2019-08-23
+Puebla,Atlixco,2.0,2.0,0.0,0.0,2019-08-23
+Puebla,Tlaola,1.0,1.0,0.0,0.0,2019-08-23
+Querétaro,Corregidora,1.0,1.0,0.0,0.0,2019-08-23
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2019-08-23
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2019-08-23
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2019-08-23
+Sonora,Hermosillo,4.0,4.0,0.0,0.0,2019-08-23
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-08-23
+Tamaulipas,El Mante,1.0,1.0,0.0,0.0,2019-08-23
+Tamaulipas,Güémez,1.0,0.0,0.0,1.0,2019-08-23
+Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2019-08-23
+Tamaulipas,Nuevo Laredo,1.0,1.0,0.0,0.0,2019-08-23
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-23
+Veracruz,Nogales,1.0,1.0,0.0,0.0,2019-08-23
+Veracruz,San Juan Evangelista,1.0,1.0,0.0,0.0,2019-08-23
+Veracruz,Tierra Blanca,2.0,2.0,0.0,0.0,2019-08-23
+Veracruz,Tres Valles,1.0,1.0,0.0,0.0,2019-08-23
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-08-23
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2019-08-23
+Baja California,Playas De Rosarito,1.0,1.0,0.0,0.0,2019-08-24
+Baja California,Tijuana,4.0,4.0,0.0,0.0,2019-08-24
+Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2019-08-24
+Chihuahua,Delicias,1.0,1.0,0.0,0.0,2019-08-24
+Chihuahua,Juárez,3.0,3.0,0.0,0.0,2019-08-24
+Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2019-08-24
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-08-24
+Ciudad de México,Venustiano Carranza,1.0,0.0,1.0,0.0,2019-08-24
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-08-24
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-08-24
+Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-24
+Guanajuato,Yuriria,2.0,2.0,0.0,0.0,2019-08-24
+Guerrero,Acapulco De Juárez,4.0,4.0,0.0,0.0,2019-08-24
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2019-08-24
+Michoacán,Jacona,2.0,2.0,0.0,0.0,2019-08-24
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-24
+Michoacán,Ziracuaretiro,1.0,1.0,0.0,0.0,2019-08-24
+Morelos,Cuautla,1.0,1.0,0.0,0.0,2019-08-24
+Estado de México,Tejupilco,1.0,1.0,0.0,0.0,2019-08-24
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2019-08-24
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-08-24
+Oaxaca,San Felipe Jalapa De Díaz,2.0,2.0,0.0,0.0,2019-08-24
+Oaxaca,San Miguel Soyaltepec,1.0,1.0,0.0,0.0,2019-08-24
+Oaxaca,Santo Domingo Tehuantepec,1.0,0.0,1.0,0.0,2019-08-24
+Oaxaca,Santo Domingo De Morelos,2.0,1.0,1.0,0.0,2019-08-24
+San Luis Potosí,Tamasopo,1.0,1.0,0.0,0.0,2019-08-24
+Sinaloa,Culiacán,1.0,0.0,0.0,1.0,2019-08-24
+Sinaloa,Navolato,1.0,1.0,0.0,0.0,2019-08-24
+Sonora,Caborca,1.0,1.0,0.0,0.0,2019-08-24
+Sonora,Cajeme,1.0,0.0,0.0,1.0,2019-08-24
+Tabasco,Centro,1.0,1.0,0.0,0.0,2019-08-24
+Tlaxcala,Ixtacuixtla De Mariano Matamoros,1.0,1.0,0.0,0.0,2019-08-24
+Veracruz,Acayucan,1.0,1.0,0.0,0.0,2019-08-24
+Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2019-08-24
+Veracruz,San Juan Evangelista,1.0,1.0,0.0,0.0,2019-08-24
+Veracruz,Xalapa,1.0,0.0,1.0,0.0,2019-08-24
+Zacatecas,Guadalupe,2.0,2.0,0.0,0.0,2019-08-24
+Baja California,Tijuana,10.0,6.0,0.0,4.0,2019-08-25
+Chihuahua,Camargo,1.0,1.0,0.0,0.0,2019-08-25
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-08-25
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2019-08-25
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-25
+Coahuila,Saltillo,1.0,0.0,1.0,0.0,2019-08-25
+Colima,Minatitlán,3.0,3.0,0.0,0.0,2019-08-25
+Guanajuato,Celaya,2.0,2.0,0.0,0.0,2019-08-25
+Guanajuato,Irapuato,5.0,2.0,3.0,0.0,2019-08-25
+Guanajuato,León,4.0,2.0,0.0,2.0,2019-08-25
+Guanajuato,Moroleón,2.0,2.0,0.0,0.0,2019-08-25
+Guanajuato,Salvatierra,1.0,0.0,0.0,1.0,2019-08-25
+Guanajuato,San José Iturbide,1.0,0.0,1.0,0.0,2019-08-25
+Guerrero,Acapulco De Juárez,4.0,4.0,0.0,0.0,2019-08-25
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2019-08-25
+Guerrero,Ometepec,2.0,2.0,0.0,0.0,2019-08-25
+Hidalgo,Tula De Allende,1.0,1.0,0.0,0.0,2019-08-25
+Jalisco,Acatlán De Juárez,1.0,1.0,0.0,0.0,2019-08-25
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,0.0,1.0,2019-08-25
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-25
+Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2019-08-25
+Michoacán,Uruapan,3.0,1.0,1.0,1.0,2019-08-25
+Estado de México,Naucalpan De Juárez,1.0,0.0,1.0,0.0,2019-08-25
+Estado de México,Tecámac,2.0,1.0,1.0,0.0,2019-08-25
+Nuevo León,Pesquería,1.0,1.0,0.0,0.0,2019-08-25
+Puebla,Chiautla,1.0,1.0,0.0,0.0,2019-08-25
+Puebla,Puebla,1.0,1.0,0.0,0.0,2019-08-25
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2019-08-25
+San Luis Potosí,Matehuala,1.0,0.0,0.0,1.0,2019-08-25
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-25
+Sonora,Guaymas,2.0,1.0,1.0,0.0,2019-08-25
+Sonora,Nogales,1.0,1.0,0.0,0.0,2019-08-25
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-08-25
+Tlaxcala,Calpulalpan,1.0,0.0,0.0,1.0,2019-08-25
+Veracruz,Martínez De La Torre,1.0,0.0,1.0,0.0,2019-08-25
+Baja California,Tijuana,15.0,12.0,2.0,1.0,2019-08-26
+Chihuahua,Juárez,4.0,1.0,3.0,0.0,2019-08-26
+Ciudad de México,Iztacalco,1.0,0.0,1.0,0.0,2019-08-26
+Coahuila,Torreón,1.0,1.0,0.0,0.0,2019-08-26
+Colima,Colima,1.0,1.0,0.0,0.0,2019-08-26
+Durango,Durango,1.0,1.0,0.0,0.0,2019-08-26
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2019-08-26
+Guanajuato,Apaseo El Alto,2.0,2.0,0.0,0.0,2019-08-26
+Guanajuato,Celaya,3.0,3.0,0.0,0.0,2019-08-26
+Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2019-08-26
+Guanajuato,León,4.0,3.0,1.0,0.0,2019-08-26
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-08-26
+Guanajuato,San Luis De La Paz,1.0,1.0,0.0,0.0,2019-08-26
+Guanajuato,San Miguel De Allende,2.0,2.0,0.0,0.0,2019-08-26
+Guanajuato,Valle De Santiago,2.0,2.0,0.0,0.0,2019-08-26
+Guerrero,Tepecoacuilco De Trujano,1.0,1.0,0.0,0.0,2019-08-26
+Guerrero,Técpan De Galeana,1.0,1.0,0.0,0.0,2019-08-26
+Jalisco,El Salto,1.0,1.0,0.0,0.0,2019-08-26
+Jalisco,Guadalajara,2.0,1.0,1.0,0.0,2019-08-26
+Jalisco,San Pedro Tlaquepaque,1.0,0.0,1.0,0.0,2019-08-26
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2019-08-26
+Michoacán,Chavinda,2.0,2.0,0.0,0.0,2019-08-26
+Michoacán,Jacona,2.0,2.0,0.0,0.0,2019-08-26
+Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2019-08-26
+Morelos,Puente De Ixtla,2.0,0.0,0.0,2.0,2019-08-26
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2019-08-26
+Estado de México,Sultepec,1.0,1.0,0.0,0.0,2019-08-26
+Nuevo León,Ciénega De Flores,2.0,0.0,2.0,0.0,2019-08-26
+Nuevo León,García,1.0,1.0,0.0,0.0,2019-08-26
+Oaxaca,Matías Romero Avendaño,1.0,1.0,0.0,0.0,2019-08-26
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-08-26
+Puebla,Atlixco,1.0,1.0,0.0,0.0,2019-08-26
+Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2019-08-26
+Puebla,Tlapanalá,1.0,1.0,0.0,0.0,2019-08-26
+Puebla,Tochtepec,1.0,1.0,0.0,0.0,2019-08-26
+Quintana Roo,Benito Juárez,3.0,3.0,0.0,0.0,2019-08-26
+Quintana Roo,Solidaridad,2.0,1.0,1.0,0.0,2019-08-26
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-26
+Sonora,Cajeme,1.0,0.0,0.0,1.0,2019-08-26
+Sonora,Empalme,6.0,6.0,0.0,0.0,2019-08-26
+Sonora,Hermosillo,2.0,2.0,0.0,0.0,2019-08-26
+Sonora,San Luis Río Colorado,1.0,1.0,0.0,0.0,2019-08-26
+Tabasco,Centro,2.0,2.0,0.0,0.0,2019-08-26
+Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2019-08-26
+Tamaulipas,Nuevo Laredo,2.0,0.0,2.0,0.0,2019-08-26
+Tamaulipas,Victoria,1.0,0.0,1.0,0.0,2019-08-26
+Tlaxcala,Santa Ana Nopalucan,1.0,1.0,0.0,0.0,2019-08-26
+Veracruz,Coatepec,1.0,0.0,1.0,0.0,2019-08-26
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-26
+Veracruz,Hueyapan De Ocampo,1.0,1.0,0.0,0.0,2019-08-26
+Veracruz,Minatitlán,2.0,1.0,1.0,0.0,2019-08-26
+Veracruz,Poza Rica De Hidalgo,1.0,1.0,0.0,0.0,2019-08-26
+Veracruz,San Juan Evangelista,1.0,1.0,0.0,0.0,2019-08-26
+Veracruz,Veracruz,1.0,1.0,0.0,0.0,2019-08-26
+Zacatecas,General Pánfilo Natera,1.0,1.0,0.0,0.0,2019-08-26
+Baja California,Playas De Rosarito,2.0,2.0,0.0,0.0,2019-08-27
+Baja California,Tijuana,4.0,2.0,0.0,2.0,2019-08-27
+Campeche,Carmen,1.0,1.0,0.0,0.0,2019-08-27
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-08-27
+Chihuahua,Juárez,3.0,3.0,0.0,0.0,2019-08-27
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-27
+Durango,Gómez Palacio,2.0,2.0,0.0,0.0,2019-08-27
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-08-27
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-08-27
+Guanajuato,León,2.0,2.0,0.0,0.0,2019-08-27
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-08-27
+Guanajuato,Tarimoro,1.0,0.0,0.0,1.0,2019-08-27
+Guerrero,Acapulco De Juárez,3.0,2.0,0.0,1.0,2019-08-27
+Hidalgo,Pachuca De Soto,1.0,0.0,1.0,0.0,2019-08-27
+Jalisco,Guadalajara,1.0,0.0,1.0,0.0,2019-08-27
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-08-27
+Michoacán,Cotija,1.0,1.0,0.0,0.0,2019-08-27
+Michoacán,Hidalgo,2.0,2.0,0.0,0.0,2019-08-27
+Michoacán,Morelia,4.0,3.0,0.0,1.0,2019-08-27
+Michoacán,Peribán,1.0,1.0,0.0,0.0,2019-08-27
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-08-27
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-08-27
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-08-27
+Morelos,Xochitepec,2.0,1.0,0.0,1.0,2019-08-27
+Morelos,Yecapixtla,2.0,2.0,0.0,0.0,2019-08-27
+Estado de México,Calimaya,1.0,1.0,0.0,0.0,2019-08-27
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-08-27
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2019-08-27
+Nuevo León,Monterrey,1.0,0.0,0.0,1.0,2019-08-27
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-08-27
+Puebla,Ayotoxco De Guerrero,1.0,0.0,1.0,0.0,2019-08-27
+Puebla,Puebla,2.0,2.0,0.0,0.0,2019-08-27
+Querétaro,El Marqués,1.0,1.0,0.0,0.0,2019-08-27
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-08-27
+Quintana Roo,Benito Juárez,3.0,1.0,0.0,2.0,2019-08-27
+Quintana Roo,Isla Mujeres,1.0,0.0,0.0,1.0,2019-08-27
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-08-27
+Sinaloa,Ahome,2.0,2.0,0.0,0.0,2019-08-27
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-27
+Sonora,Bácum,1.0,1.0,0.0,0.0,2019-08-27
+Sonora,Empalme,1.0,1.0,0.0,0.0,2019-08-27
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-08-27
+Tabasco,Balancán,3.0,3.0,0.0,0.0,2019-08-27
+Tabasco,Centla,1.0,1.0,0.0,0.0,2019-08-27
+Tabasco,Centro,2.0,1.0,1.0,0.0,2019-08-27
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-08-27
+Tamaulipas,Nuevo Laredo,7.0,7.0,0.0,0.0,2019-08-27
+Tamaulipas,Victoria,3.0,2.0,1.0,0.0,2019-08-27
+Veracruz,Coatzacoalcos,2.0,2.0,0.0,0.0,2019-08-27
+Veracruz,Río Blanco,1.0,0.0,1.0,0.0,2019-08-27
+Veracruz,Tihuatlán,2.0,1.0,1.0,0.0,2019-08-27
+Veracruz,Xalapa,1.0,0.0,1.0,0.0,2019-08-27
+Zacatecas,Calera,1.0,1.0,0.0,0.0,2019-08-27
+Baja California,Tijuana,9.0,9.0,0.0,0.0,2019-08-28
+Chihuahua,Chihuahua,1.0,0.0,0.0,1.0,2019-08-28
+Chihuahua,Juárez,2.0,0.0,0.0,2.0,2019-08-28
+Ciudad de México,Álvaro Obregón,1.0,0.0,0.0,1.0,2019-08-28
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-08-28
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-08-28
+Ciudad de México,Tláhuac,1.0,0.0,1.0,0.0,2019-08-28
+Colima,Tecomán,1.0,1.0,0.0,0.0,2019-08-28
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2019-08-28
+Guanajuato,Irapuato,5.0,4.0,1.0,0.0,2019-08-28
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-08-28
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2019-08-28
+Guerrero,Acapulco De Juárez,1.0,0.0,1.0,0.0,2019-08-28
+Guerrero,Chilpancingo De Los Bravo,2.0,2.0,0.0,0.0,2019-08-28
+Guerrero,Eduardo Neri,2.0,2.0,0.0,0.0,2019-08-28
+Guerrero,Tlapa De Comonfort,2.0,2.0,0.0,0.0,2019-08-28
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2019-08-28
+Jalisco,Tala,2.0,0.0,0.0,2.0,2019-08-28
+Estado de México,Acambay De Ruíz Castañeda,1.0,1.0,0.0,0.0,2019-08-28
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2019-08-28
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2019-08-28
+Estado de México,Nicolás Romero,1.0,1.0,0.0,0.0,2019-08-28
+Michoacán,Uruapan,4.0,2.0,1.0,1.0,2019-08-28
+Morelos,Jiutepec,2.0,0.0,0.0,2.0,2019-08-28
+Morelos,Tetecala,1.0,1.0,0.0,0.0,2019-08-28
+Nuevo León,García,2.0,1.0,1.0,0.0,2019-08-28
+Oaxaca,San Juan Bautista Tuxtepec,2.0,2.0,0.0,0.0,2019-08-28
+Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2019-08-28
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-08-28
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-08-28
+San Luis Potosí,Tierra Nueva,1.0,1.0,0.0,0.0,2019-08-28
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-28
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2019-08-28
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-08-28
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-08-28
+Tamaulipas,Nuevo Laredo,5.0,5.0,0.0,0.0,2019-08-28
+Tamaulipas,Victoria,1.0,0.0,0.0,1.0,2019-08-28
+Tlaxcala,Acuamanala De Miguel Hidalgo,1.0,1.0,0.0,0.0,2019-08-28
+Tlaxcala,Santa Catarina Ayometla,1.0,1.0,0.0,0.0,2019-08-28
+Tlaxcala,Tlaxco,2.0,2.0,0.0,0.0,2019-08-28
+Veracruz,Agua Dulce,2.0,1.0,1.0,0.0,2019-08-28
+Veracruz,Coatepec,1.0,1.0,0.0,0.0,2019-08-28
+Veracruz,Coatzacoalcos,28.0,18.0,10.0,0.0,2019-08-28
+Veracruz,Cosoleacaque,2.0,2.0,1.0,0.0,2019-08-28
+Veracruz,Ignacio De La Llave,2.0,2.0,0.0,0.0,2019-08-28
+Veracruz,Jáltipan,1.0,1.0,0.0,0.0,2019-08-28
+Veracruz,Magdalena,1.0,0.0,1.0,0.0,2019-08-28
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2019-08-29
+Baja California,Tijuana,7.0,5.0,0.0,2.0,2019-08-29
+Chiapas,San Cristóbal De Las Casas,1.0,0.0,0.0,1.0,2019-08-29
+Chihuahua,Chihuahua,3.0,2.0,0.0,1.0,2019-08-29
+Chihuahua,Juárez,6.0,5.0,1.0,0.0,2019-08-29
+Chihuahua,Madera,4.0,1.0,3.0,0.0,2019-08-29
+Colima,Cuauhtémoc,2.0,0.0,2.0,0.0,2019-08-29
+Guanajuato,Huanímaro,1.0,1.0,0.0,0.0,2019-08-29
+Guanajuato,Irapuato,1.0,0.0,0.0,1.0,2019-08-29
+Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-29
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-08-29
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-08-29
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-08-29
+Michoacán,Purépero,1.0,1.0,0.0,0.0,2019-08-29
+Michoacán,Quiroga,1.0,1.0,0.0,0.0,2019-08-29
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-08-29
+Estado de México,Atlautla,1.0,1.0,0.0,0.0,2019-08-29
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2019-08-29
+Estado de México,Ecatepec De Morelos,1.0,0.0,0.0,1.0,2019-08-29
+Estado de México,Teoloyucan,1.0,0.0,1.0,0.0,2019-08-29
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2019-08-29
+Oaxaca,Cuilápam De Guerrero,1.0,0.0,1.0,0.0,2019-08-29
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2019-08-29
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-08-29
+Oaxaca,Santiago Pinotepa Nacional,1.0,1.0,0.0,0.0,2019-08-29
+Puebla,Chietla,1.0,1.0,0.0,0.0,2019-08-29
+Puebla,Puebla,2.0,1.0,1.0,0.0,2019-08-29
+Quintana Roo,Benito Juárez,1.0,0.0,0.0,1.0,2019-08-29
+Sinaloa,Navolato,1.0,1.0,0.0,0.0,2019-08-29
+Sonora,Hermosillo,4.0,4.0,0.0,0.0,2019-08-29
+Tabasco,Macuspana,1.0,1.0,0.0,0.0,2019-08-29
+Veracruz,Coatzacoalcos,3.0,2.0,1.0,0.0,2019-08-29
+Veracruz,Cuitláhuac,1.0,1.0,0.0,0.0,2019-08-29
+Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2019-08-29
+Veracruz,Misantla,1.0,1.0,0.0,0.0,2019-08-29
+Veracruz,Tuxpan,1.0,1.0,0.0,0.0,2019-08-29
+Veracruz,Xico,1.0,1.0,0.0,0.0,2019-08-29
+Yucatán,Mérida,1.0,1.0,0.0,0.0,2019-08-29
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-08-29
+Baja California,Tijuana,6.0,5.0,1.0,0.0,2019-08-30
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-08-30
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-08-30
+Ciudad de México,Iztapalapa,2.0,1.0,0.0,1.0,2019-08-30
+Colima,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-08-30
+Durango,Gómez Palacio,2.0,2.0,0.0,0.0,2019-08-30
+Guanajuato,Acámbaro,1.0,0.0,1.0,0.0,2019-08-30
+Guanajuato,Celaya,6.0,0.0,0.0,6.0,2019-08-30
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-08-30
+Guanajuato,Moroleón,1.0,1.0,0.0,0.0,2019-08-30
+Guanajuato,Valle De Santiago,1.0,0.0,0.0,1.0,2019-08-30
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-08-30
+Guerrero,Petatlán,1.0,1.0,0.0,0.0,2019-08-30
+Hidalgo,Huichapan,2.0,0.0,0.0,2.0,2019-08-30
+Hidalgo,Tasquillo,1.0,1.0,0.0,0.0,2019-08-30
+Jalisco,Chapala,1.0,1.0,0.0,0.0,2019-08-30
+Jalisco,San Pedro Tlaquepaque,2.0,2.0,0.0,0.0,2019-08-30
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-08-30
+Michoacán,Morelia,4.0,2.0,0.0,2.0,2019-08-30
+Michoacán,Tepalcatepec,9.0,9.0,0.0,0.0,2019-08-30
+Michoacán,Uruapan,3.0,3.0,0.0,0.0,2019-08-30
+Morelos,Cuernavaca,1.0,0.0,0.0,1.0,2019-08-30
+Morelos,Jiutepec,2.0,2.0,0.0,0.0,2019-08-30
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2019-08-30
+Estado de México,Tlalnepantla,1.0,1.0,0.0,0.0,2019-08-30
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2019-08-30
+Nuevo León,Escobedo,1.0,0.0,1.0,0.0,2019-08-30
+Nuevo León,Guadalupe,2.0,1.0,1.0,0.0,2019-08-30
+Nuevo León,Pesquería,1.0,0.0,0.0,1.0,2019-08-30
+Oaxaca,El Espinal,1.0,1.0,0.0,0.0,2019-08-30
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-08-30
+Oaxaca,San Mateo Del Mar,1.0,1.0,0.0,0.0,2019-08-30
+Oaxaca,Santa María Tonameca,3.0,0.0,0.0,3.0,2019-08-30
+Puebla,Amozoc,1.0,1.0,0.0,0.0,2019-08-30
+Puebla,San Martín Texmelucan,2.0,1.0,1.0,0.0,2019-08-30
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-08-30
+Quintana Roo,Bacalar,1.0,1.0,0.0,0.0,2019-08-30
+Quintana Roo,Benito Juárez,1.0,0.0,0.0,1.0,2019-08-30
+Sinaloa,Rosario,2.0,0.0,0.0,2.0,2019-08-30
+Tabasco,Centro,2.0,2.0,0.0,0.0,2019-08-30
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-08-30
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-08-30
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2019-08-30
+Veracruz,Veracruz,1.0,1.0,0.0,0.0,2019-08-30
+Baja California,Tijuana,8.0,7.0,1.0,0.0,2019-08-31
+Chihuahua,Juárez,2.0,1.0,1.0,0.0,2019-08-31
+Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2019-08-31
+Colima,Armería,3.0,2.0,1.0,0.0,2019-08-31
+Guanajuato,Celaya,3.0,2.0,1.0,0.0,2019-08-31
+Guanajuato,Irapuato,3.0,0.0,0.0,3.0,2019-08-31
+Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-31
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-08-31
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2019-08-31
+Guanajuato,Santiago Maravatío,1.0,1.0,0.0,0.0,2019-08-31
+Guanajuato,Yuriria,1.0,1.0,0.0,0.0,2019-08-31
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2019-08-31
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2019-08-31
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2019-08-31
+Guerrero,Tlalixtaquilla De Maldonado,1.0,1.0,0.0,0.0,2019-08-31
+Guerrero,Tlapa De Comonfort,2.0,2.0,0.0,0.0,2019-08-31
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2019-08-31
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-08-31
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-08-31
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2019-08-31
+Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2019-08-31
+Michoacán,Zamora,3.0,3.0,0.0,0.0,2019-08-31
+Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2019-08-31
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2019-08-31
+Oaxaca,El Espinal,1.0,1.0,0.0,0.0,2019-08-31
+Puebla,Juan Galindo,1.0,1.0,0.0,0.0,2019-08-31
+Puebla,San Martín Texmelucan,1.0,0.0,1.0,0.0,2019-08-31
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-08-31
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2019-08-31
+Quintana Roo,Puerto Morelos,1.0,1.0,0.0,0.0,2019-08-31
+Sinaloa,Rosario,1.0,1.0,0.0,0.0,2019-08-31
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-31
+Zacatecas,Jerez,1.0,1.0,0.0,0.0,2019-08-31

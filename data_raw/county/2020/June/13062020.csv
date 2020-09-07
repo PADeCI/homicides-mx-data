@@ -2,8 +2,7 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2020-06-13
 Baja California,Tijuana,2.0,1.0,1.0,0.0,2020-06-13
 Chiapas,Mazatán,1.0,1.0,0.0,0.0,2020-06-13
-Chiapas,"Tuxtla 
-Gutiérrez",1.0,1.0,0.0,0.0,2020-06-13
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2020-06-13
 Chihuahua,Chihuahua,3.0,3.0,0.0,0.0,2020-06-13
 Chihuahua,Juárez,3.0,2.0,0.0,1.0,2020-06-13
 Coahuila,Piedras Negras,1.0,0.0,1.0,0.0,2020-06-13
@@ -13,8 +12,7 @@ Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2020-06-13
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-06-13
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-06-13
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-06-13
-Jalisco,"Tlajomulco de 
-Zúñiga",3.0,3.0,0.0,0.0,2020-06-13
+Jalisco,Tlajomulco De Zúñiga,3.0,3.0,0.0,0.0,2020-06-13
 Jalisco,Zapopan,2.0,2.0,0.0,0.0,2020-06-13
 Michoacán,Morelia,2.0,1.0,1.0,0.0,2020-06-13
 Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2020-06-13
@@ -22,23 +20,16 @@ Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-06-13
 Morelos,Temixco,1.0,1.0,0.0,0.0,2020-06-13
 Morelos,Xochitepec,1.0,0.0,0.0,1.0,2020-06-13
 Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-06-13
-Estado de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0,2020-06-13
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2020-06-13
 Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-06-13
-Estado de México,"Valle de 
-Chalco 
-Solidaridad",1.0,1.0,0.0,0.0,2020-06-13
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",3.0,1.0,2.0,0.0,2020-06-13
+Estado de México,Valle De Chalco Solidaridad,1.0,1.0,0.0,0.0,2020-06-13
+Oaxaca,San Juan Bautista Tuxtepec,3.0,1.0,2.0,0.0,2020-06-13
 Puebla,Puebla,1.0,0.0,1.0,0.0,2020-06-13
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-06-13
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-06-13
 Tabasco,Comalcalco,1.0,1.0,0.0,0.0,2020-06-13
 Veracruz,Acayucan,1.0,1.0,0.0,0.0,2020-06-13
 Veracruz,Las Choapas,1.0,1.0,0.0,0.0,2020-06-13
-Veracruz,"Paso del 
-Macho",2.0,0.0,0.0,2.0,2020-06-13
-Veracruz,"San Andrés 
-Tuxtla",1.0,1.0,0.0,0.0,2020-06-13
+Veracruz,Paso Del Macho,2.0,0.0,0.0,2.0,2020-06-13
+Veracruz,San Andrés Tuxtla,1.0,1.0,0.0,0.0,2020-06-13
 Zacatecas,Fresnillo,1.0,0.0,0.0,1.0,2020-06-13

@@ -1,44 +1,37 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Ensenada,1.0,1.0,0.0,0.0,2019-12-22
-Baja California,Tijuana,3.0,3.0,0.0,0.0,2019-12-22
-Chiapas,"Tuxtla 
-Gutiérrez",2.0,0.0,2.0,0.0,2019-12-22
-Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-12-22
-Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-12-22
-Ciudad de México,Cuauhtémoc,1.0,0.0,1.0,0.0,2019-12-22
-Ciudad de México,"Álvaro 
-Obregón",1.0,1.0,0.0,0.0,2019-12-22
-Coahuila,Torreón,1.0,0.0,1.0,0.0,2019-12-22
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0,2019-12-22
-Guanajuato,Celaya,3.0,3.0,0.0,0.0,2019-12-22
-Guanajuato,Comonfort,1.0,1.0,0.0,0.0,2019-12-22
-Guanajuato,León,4.0,4.0,0.0,0.0,2019-12-22
-Guanajuato,Uriangato,1.0,1.0,0.0,0.0,2019-12-22
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2019-12-22
-Guerrero,"Tepecoacuilco 
-de Trujano",1.0,0.0,1.0,0.0,2019-12-22
-Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-12-22
-Michoacán,Turicato,1.0,1.0,0.0,0.0,2019-12-22
-Michoacán,Zamora,2.0,2.0,0.0,0.0,2019-12-22
-Morelos,Cuautla,1.0,1.0,0.0,0.0,2019-12-22
-Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-12-22
-Estado de México,La Paz,1.0,0.0,1.0,0.0,2019-12-22
-Nuevo León,Gral. Escobedo,1.0,1.0,0.0,0.0,2019-12-22
-Oaxaca,"Ciudad de 
-Tlaxiaco",1.0,1.0,0.0,0.0,2019-12-22
-Oaxaca,Heroica,1.0,1.0,0.0,0.0,2019-12-22
-Puebla,Tehuacán,1.0,1.0,0.0,0.0,2019-12-22
-Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-12-22
-Quintana Roo,"Othón P. 
-Blanco",2.0,2.0,0.0,0.0,2019-12-22
-Quintana Roo,San Luis Potosí (1)  San Luis Potosí,1.0,1.0,0.0,0.0,2019-12-22
-Sinaloa,Mocorito,1.0,1.0,0.0,0.0,2019-12-22
-Tabasco,Tenosique,1.0,1.0,0.0,0.0,2019-12-22
-Tlaxcala,Calpulalpan,1.0,1.0,0.0,0.0,2019-12-22
-Veracruz,Acayucan,1.0,1.0,0.0,0.0,2019-12-22
-Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-12-22
-Veracruz,Omealca,1.0,1.0,0.0,0.0,2019-12-22
-Veracruz,Xalapa,1.0,0.0,1.0,0.0,2019-12-22
-Zacatecas,Guadalupe,1.0,0.0,1.0,0.0,2019-12-22
+Baja California,Ensenada,1,1,0,0,2019-12-22
+Baja California,Tijuana,3,3,0,0,2019-12-22
+Chiapas,Tuxtla Gutiérrez,2,0,2,0,2019-12-22
+Chihuahua,Chihuahua,1,1,0,0,2019-12-22
+Chihuahua,Juárez,2,2,0,0,2019-12-22
+Ciudad de México,Cuauhtémoc,1,0,1,0,2019-12-22
+Ciudad de México,Álvaro Obregón,1,1,0,0,2019-12-22
+Coahuila,Torreón,1,0,1,0,2019-12-22
+Guanajuato,Apaseo El Grande,1,1,0,0,2019-12-22
+Guanajuato,Celaya,3,3,0,0,2019-12-22
+Guanajuato,Comonfort,1,1,0,0,2019-12-22
+Guanajuato,León,4,4,0,0,2019-12-22
+Guanajuato,Uriangato,1,1,0,0,2019-12-22
+Guerrero,Acapulco De Juárez,1,1,0,0,2019-12-22
+Guerrero,Tepecoacuilco De Trujano,1,0,1,0,2019-12-22
+Jalisco,Guadalajara,1,1,0,0,2019-12-22
+Michoacán,Turicato,1,1,0,0,2019-12-22
+Michoacán,Zamora,2,2,0,0,2019-12-22
+Morelos,Cuautla,1,1,0,0,2019-12-22
+Morelos,Cuernavaca,1,1,0,0,2019-12-22
+Estado de México,La Paz,1,0,1,0,2019-12-22
+Nuevo León,Escobedo,1,1,0,0,2019-12-22
+Oaxaca,Heroica Ciudad De Tlaxiaco,1,1,0,0,2019-12-22
+Oaxaca,Heroica Ciudad De Ejutla De Crespo,1,1,0,0,2019-12-22
+Puebla,Tehuacán,1,1,0,0,2019-12-22
+Quintana Roo,Benito Juárez,1,1,0,0,2019-12-22
+Quintana Roo,Othón P. Blanco,2,2,0,0,2019-12-22
+San Luis Potosí,San Luis Potosí,1,1,0,0,2019-12-22
+Sinaloa,Mocorito,1,1,0,0,2019-12-22
+Tabasco,Tenosique,1,1,0,0,2019-12-22
+Tlaxcala,Calpulalpan,1,1,0,0,2019-12-22
+Veracruz,Acayucan,1,1,0,0,2019-12-22
+Veracruz,Coatzacoalcos,1,1,0,0,2019-12-22
+Veracruz,Omealca,1,1,0,0,2019-12-22
+Veracruz,Xalapa,1,0,1,0,2019-12-22
+Zacatecas,Guadalupe,1,0,1,0,2019-12-22

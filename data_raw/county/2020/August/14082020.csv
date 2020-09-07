@@ -1,51 +1,40 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,Aguascalientes,1,1.0,0.0,0.0,2020-08-14
-Baja California,Tijuana,7,7.0,0.0,0.0,2020-08-14
-Chihuahua,Chihuahua,1,0.0,1.0,0.0,2020-08-14
-Chihuahua,Juárez,5,5.0,0.0,0.0,2020-08-14
-Ciudad de México,Iztapalapa,1,1.0,0.0,0.0,2020-08-14
-Coahuila,Saltillo,1,1.0,0.0,0.0,2020-08-14
-Guanajuato,Abasolo,1,0.0,1.0,0.0,2020-08-14
-Guanajuato,León,1,1.0,0.0,0.0,2020-08-14
-Guanajuato,Pénjamo,1,1.0,0.0,0.0,2020-08-14
-Guerrero,"Iguala de la 
-Independencia",2,2.0,0.0,0.0,2020-08-14
-Guerrero,"Taxco de 
-Alarcón",1,1.0,0.0,0.0,2020-08-14
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0,2020-08-14
-Jalisco,"Tlajomulco de 
-Zúñiga",1,1.0,0.0,0.0,2020-08-14
-Michoacán,Apatzingán,1,1.0,0.0,0.0,2020-08-14
-Michoacán,Jacona,1,1.0,0.0,0.0,2020-08-14
-Michoacán,Tacámbaro,1,1.0,0.0,0.0,2020-08-14
-Michoacán,Zamora,2,2.0,0.0,0.0,2020-08-14
-Michoacán,Zitácuaro,1,1.0,0.0,0.0,2020-08-14
-Morelos,Amacuzac,1,1.0,0.0,0.0,2020-08-14
-Morelos,Cuernavaca,6,6.0,0.0,0.0,2020-08-14
-Morelos,Jiutepec,1,1.0,0.0,0.0,2020-08-14
-Morelos,Ocuituco,1,1.0,0.0,0.0,2020-08-14
-Estado de México,"Almoloya de 
-Juárez",3,1.0,0.0,2.0,2020-08-14
-Estado de México,"Ecatepec de 
-Morelos",2,2.0,0.0,0.0,2020-08-14
-Estado de México,Joquicingo,1,1.0,0.0,0.0,2020-08-14
-Estado de México,Toluca,5,5.0,0.0,0.0,2020-08-14
-Nuevo León,Monterrey,1,0.0,1.0,0.0,2020-08-14
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2020-08-14
-Oaxaca,"Villa de 
-Tututepec de 
-Melchor 
-Ocampo",2,2.0,0.0,0.0,2020-08-14
-Puebla,Puebla,2,1.0,0.0,1.0,2020-08-14
-Puebla,Querétaro (4)  San Juan del Río,4,4.0,0.0,0.0,2020-08-14
-Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2020-08-14
-Quintana Roo,Othón P. Blanco,1,1.0,0.0,0.0,2020-08-14
-Quintana Roo,Tulum,1,1.0,0.0,0.0,2020-08-14
-Sinaloa,Navolato,1,1.0,0.0,0.0,2020-08-14
-Sonora,Hermosillo,3,0.0,0.0,3.0,2020-08-14
-Sonora,Nogales,1,1.0,0.0,0.0,2020-08-14
-Veracruz,Rafael Delgado,1,1.0,0.0,0.0,2020-08-14
-Zacatecas,Zacatecas,1,0.0,0.0,1.0,2020-08-14
+Aguascalientes,Aguascalientes,1,1,0,0,2020-08-14
+Baja California,Tijuana,7,7,0,0,2020-08-14
+Chihuahua,Chihuahua,1,0,1,0,2020-08-14
+Chihuahua,Juárez,5,5,0,0,2020-08-14
+Ciudad de México,Iztapalapa,1,1,0,0,2020-08-14
+Coahuila,Saltillo,1,1,0,0,2020-08-14
+Guanajuato,Abasolo,1,0,1,0,2020-08-14
+Guanajuato,León,1,1,0,0,2020-08-14
+Guanajuato,Pénjamo,1,1,0,0,2020-08-14
+Guerrero,Iguala De La Independencia,2,2,0,0,2020-08-14
+Guerrero,Taxco De Alarcón,1,1,0,0,2020-08-14
+Jalisco,San Pedro Tlaquepaque,1,1,0,0,2020-08-14
+Jalisco,Tlajomulco De Zúñiga,1,1,0,0,2020-08-14
+Michoacán,Apatzingán,1,1,0,0,2020-08-14
+Michoacán,Jacona,1,1,0,0,2020-08-14
+Michoacán,Tacámbaro,1,1,0,0,2020-08-14
+Michoacán,Zamora,2,2,0,0,2020-08-14
+Michoacán,Zitácuaro,1,1,0,0,2020-08-14
+Morelos,Amacuzac,1,1,0,0,2020-08-14
+Morelos,Cuernavaca,6,6,0,0,2020-08-14
+Morelos,Jiutepec,1,1,0,0,2020-08-14
+Morelos,Ocuituco,1,1,0,0,2020-08-14
+Estado de México,Almoloya De Juárez,3,1,0,2,2020-08-14
+Estado de México,Ecatepec De Morelos,2,2,0,0,2020-08-14
+Estado de México,Joquicingo,1,1,0,0,2020-08-14
+Estado de México,Toluca,5,5,0,0,2020-08-14
+Nuevo León,Monterrey,1,0,1,0,2020-08-14
+Oaxaca,San Juan Bautista Tuxtepec,1,1,0,0,2020-08-14
+Oaxaca,Ocampo,2,2,0,0,2020-08-14
+Puebla,Puebla,2,1,0,1,2020-08-14
+Querétaro,San Juan Del Río,4,4,0,0,2020-08-14
+Quintana Roo,Benito Juárez,1,1,0,0,2020-08-14
+Quintana Roo,Othón P. Blanco,1,1,0,0,2020-08-14
+Quintana Roo,Tulum,1,1,0,0,2020-08-14
+Sinaloa,Navolato,1,1,0,0,2020-08-14
+Sonora,Hermosillo,3,0,0,3,2020-08-14
+Sonora,Nogales,1,1,0,0,2020-08-14
+Veracruz,Rafael Delgado,1,1,0,0,2020-08-14
+Zacatecas,Zacatecas,1,0,0,1,2020-08-14

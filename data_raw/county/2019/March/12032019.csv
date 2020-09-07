@@ -1,50 +1,37 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,Aguascalientes (2)  Aguascalientes,2.0,1.0,0.0,1.0,2019-03-12
+Aguascalientes,Aguascalientes,2.0,1.0,0.0,1.0,2019-03-12
 Chiapas,Tapachula,1.0,1.0,0.0,0.0,2019-03-12
 Chihuahua,Chihuahua,5.0,4.0,1.0,0.0,2019-03-12
 Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-03-12
-Ciudad de México,"Venustiano 
-Carranza",1.0,1.0,0.0,0.0,2019-03-12
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2019-03-12
 Coahuila,Acuña,1.0,1.0,0.0,0.0,2019-03-12
 Colima,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-03-12
 Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2019-03-12
 Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2019-03-12
 Guanajuato,León,1.0,0.0,0.0,1.0,2019-03-12
 Guanajuato,Salvatierra,1.0,0.0,0.0,1.0,2019-03-12
-Guanajuato,"Silao de la 
-Victoria",1.0,1.0,0.0,0.0,2019-03-12
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2019-03-12
 Guanajuato,Uriangato,1.0,1.0,0.0,0.0,2019-03-12
-Guerrero,"Acapulco de 
-Juárez",2.0,1.0,1.0,0.0,2019-03-12
-Guerrero,"Buenavista de 
-Cuéllar",2.0,2.0,0.0,0.0,2019-03-12
-Guerrero,"Chilapa de 
-Álvarez",1.0,1.0,0.0,0.0,2019-03-12
-Guerrero,"Iguala de la 
-Independencia",2.0,2.0,0.0,0.0,2019-03-12
-Guerrero,"Tlapa de 
-Comonfort",1.0,1.0,0.0,0.0,2019-03-12
-Hidalgo,"Progreso de 
-Obregón",1.0,1.0,0.0,0.0,2019-03-12
+Guerrero,Acapulco De Juárez,2.0,1.0,1.0,0.0,2019-03-12
+Guerrero,Buenavista De Cuéllar,2.0,2.0,0.0,0.0,2019-03-12
+Guerrero,Chilapa De Álvarez,1.0,1.0,0.0,0.0,2019-03-12
+Guerrero,Iguala De La Independencia,2.0,2.0,0.0,0.0,2019-03-12
+Guerrero,Tlapa De Comonfort,1.0,1.0,0.0,0.0,2019-03-12
+Hidalgo,Progreso De Obregón,1.0,1.0,0.0,0.0,2019-03-12
 Jalisco,Guadalajara,2.0,1.0,0.0,1.0,2019-03-12
 Jalisco,Zapopan,2.0,0.0,0.0,2.0,2019-03-12
 Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-03-12
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-03-12
-Morelos,"Emiliano 
-Zapata",2.0,2.0,0.0,0.0,2019-03-12
+Morelos,Emiliano Zapata,2.0,2.0,0.0,0.0,2019-03-12
 Morelos,Jiutepec,1.0,1.0,0.0,0.0,2019-03-12
 Morelos,Jojutla,1.0,1.0,0.0,0.0,2019-03-12
-Estado de México,"Almoloya de 
-Alquisiras",1.0,1.0,0.0,0.0,2019-03-12
+Estado de México,Almoloya De Alquisiras,1.0,1.0,0.0,0.0,2019-03-12
 Estado de México,Atizapán,1.0,0.0,1.0,0.0,2019-03-12
 Estado de México,Chimalhuacán,1.0,0.0,0.0,1.0,2019-03-12
-Oaxaca,"Santo 
-Domingo 
-Tehuantepec",1.0,1.0,0.0,0.0,2019-03-12
+Oaxaca,Santo Domingo Tehuantepec,1.0,1.0,0.0,0.0,2019-03-12
 Puebla,Huauchinango,1.0,0.0,1.0,0.0,2019-03-12
 Puebla,Puebla,3.0,3.0,0.0,0.0,2019-03-12
-Puebla,"San Martín 
-Texmelucan",2.0,2.0,0.0,0.0,2019-03-12
+Puebla,San Martín Texmelucan,2.0,2.0,0.0,0.0,2019-03-12
 Querétaro,Querétaro,3.0,1.0,0.0,2.0,2019-03-12
 Quintana Roo,Benito Juárez,3.0,3.0,0.0,0.0,2019-03-12
 Quintana Roo,Solidaridad,2.0,0.0,0.0,2.0,2019-03-12

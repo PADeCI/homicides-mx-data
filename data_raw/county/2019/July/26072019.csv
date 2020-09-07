@@ -1,63 +1,47 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Ensenada,1.0,0.0,1.0,0.0,2019-07-26
 Baja California,Tijuana,3.0,3.0,0.0,0.0,2019-07-26
-Chiapas,"San Cristóbal 
-de las Casas",1.0,1.0,0.0,0.0,2019-07-26
+Chiapas,San Cristóbal De Las Casas,1.0,1.0,0.0,0.0,2019-07-26
 Chihuahua,Guerrero,2.0,0.0,0.0,2.0,2019-07-26
 Chihuahua,Juárez,3.0,2.0,0.0,1.0,2019-07-26
 Ciudad de México,Benito Juárez,1.0,1.0,0.0,0.0,2019-07-26
-Ciudad de México,"Gustavo A. 
-Madero",2.0,1.0,1.0,0.0,2019-07-26
+Ciudad de México,Gustavo A. Madero,2.0,1.0,1.0,0.0,2019-07-26
 Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-07-26
 Ciudad de México,Tlalpan,4.0,4.0,0.0,0.0,2019-07-26
 Colima,Ixtlahuacán,1.0,1.0,0.0,0.0,2019-07-26
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-07-26
 Colima,Tecomán,1.0,1.0,0.0,0.0,2019-07-26
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0,2019-07-26
-Guanajuato,"San Diego de la 
-Unión",2.0,2.0,0.0,0.0,2019-07-26
-Guanajuato,"Valle de 
-Santiago",6.0,6.0,0.0,0.0,2019-07-26
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2019-07-26
+Guanajuato,San Diego De La Unión,2.0,2.0,0.0,0.0,2019-07-26
+Guanajuato,Valle De Santiago,6.0,6.0,0.0,0.0,2019-07-26
 Guanajuato,Villagrán,2.0,2.0,0.0,0.0,2019-07-26
-Guerrero,"Acapulco de 
-Juárez",3.0,3.0,0.0,0.0,2019-07-26
+Guerrero,Acapulco De Juárez,3.0,3.0,0.0,0.0,2019-07-26
 Hidalgo,Chilcuautla,1.0,1.0,0.0,0.0,2019-07-26
 Hidalgo,Tecozautla,3.0,3.0,0.0,0.0,2019-07-26
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-07-26
 Jalisco,Poncitlán,1.0,1.0,0.0,0.0,2019-07-26
 Jalisco,Tala,1.0,0.0,0.0,1.0,2019-07-26
 Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-07-26
-Jalisco,"Zapotitlán de 
-Vadillo",2.0,0.0,0.0,2.0,2019-07-26
+Jalisco,Zapotitlán De Vadillo,2.0,0.0,0.0,2.0,2019-07-26
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-07-26
 Michoacán,Uruapan,2.0,1.0,1.0,0.0,2019-07-26
-Michoacán,"Álvaro 
-Obregón",1.0,1.0,0.0,0.0,2019-07-26
+Michoacán,Álvaro Obregón,1.0,1.0,0.0,0.0,2019-07-26
 Morelos,Ayala,1.0,1.0,0.0,0.0,2019-07-26
-Morelos,Puente de Ixtla,1.0,1.0,0.0,0.0,2019-07-26
-Estado de México,"San Martín de 
-las Pirámides",1.0,1.0,0.0,0.0,2019-07-26
+Morelos,Puente De Ixtla,1.0,1.0,0.0,0.0,2019-07-26
+Estado de México,San Martín De Las Pirámides,1.0,1.0,0.0,0.0,2019-07-26
 Estado de México,Zumpango,2.0,2.0,0.0,0.0,2019-07-26
 Nayarit,Xalisco,2.0,2.0,0.0,0.0,2019-07-26
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-07-26
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0,2019-07-26
-Oaxaca,"Teotitlán de 
-Flores Magón",1.0,1.0,0.0,0.0,2019-07-26
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2019-07-26
+Oaxaca,Teotitlán De Flores Magón,1.0,1.0,0.0,0.0,2019-07-26
 Puebla,Cuautlancingo,1.0,1.0,0.0,0.0,2019-07-26
 Puebla,Puebla,2.0,2.0,0.0,0.0,2019-07-26
-Puebla,"San Martín 
-Texmelucan",1.0,1.0,0.0,0.0,2019-07-26
+Puebla,San Martín Texmelucan,1.0,1.0,0.0,0.0,2019-07-26
 Querétaro,Huimilpan,2.0,2.0,0.0,0.0,2019-07-26
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-07-26
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1.0,1.0,0.0,0.0,2019-07-26
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2019-07-26
 Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2019-07-26
-Sonora,"San Luis Río 
-Colorado",1.0,1.0,0.0,0.0,2019-07-26
+Sonora,San Luis Río Colorado,1.0,1.0,0.0,0.0,2019-07-26
 Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-07-26
 Tlaxcala,Tzompantepec,1.0,0.0,1.0,0.0,2019-07-26
 Veracruz,El Higo,1.0,1.0,0.0,0.0,2019-07-26

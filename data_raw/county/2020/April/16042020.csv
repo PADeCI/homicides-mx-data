@@ -3,53 +3,35 @@ Baja California,Tijuana,7.0,6.0,1.0,0.0,2020-04-16
 Chihuahua,Chihuahua,6.0,3.0,2.0,1.0,2020-04-16
 Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-04-16
 Chihuahua,Juárez,2.0,1.0,1.0,0.0,2020-04-16
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2020-04-16
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-04-16
 Ciudad de México,Tláhuac,1.0,1.0,0.0,0.0,2020-04-16
 Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-04-16
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0,2020-04-16
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2020-04-16
 Guanajuato,Celaya,3.0,3.0,0.0,0.0,2020-04-16
 Guanajuato,Comonfort,2.0,2.0,0.0,0.0,2020-04-16
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-04-16
 Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-04-16
-Guanajuato,"San Francisco 
-del Rincón",3.0,3.0,0.0,0.0,2020-04-16
-Guanajuato,"Santa Cruz de 
-Juventino 
-Rosas",1.0,1.0,0.0,0.0,2020-04-16
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2020-04-16
-Guerrero,"Chilapa de 
-Álvarez",1.0,0.0,0.0,1.0,2020-04-16
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,1.0,0.0,0.0,2020-04-16
-Guerrero,"Taxco de 
-Alarcón",1.0,1.0,0.0,0.0,2020-04-16
+Guanajuato,San Francisco Del Rincón,3.0,3.0,0.0,0.0,2020-04-16
+Guanajuato,Santa Cruz De Juventino Rosas,1.0,1.0,0.0,0.0,2020-04-16
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2020-04-16
+Guerrero,Chilapa De Álvarez,1.0,0.0,0.0,1.0,2020-04-16
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-04-16
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2020-04-16
 Jalisco,Guadalajara,2.0,0.0,0.0,2.0,2020-04-16
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,0.0,1.0,0.0,2020-04-16
+Jalisco,San Pedro Tlaquepaque,1.0,0.0,1.0,0.0,2020-04-16
 Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-04-16
 Michoacán,Uruapan,3.0,2.0,1.0,0.0,2020-04-16
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-04-16
 Morelos,Temixco,1.0,1.0,0.0,0.0,2020-04-16
-Morelos,"Tlaltizapán de 
-Zapata",1.0,1.0,0.0,0.0,2020-04-16
-Estado de México,"Ecatepec de 
-Morelos",2.0,2.0,0.0,0.0,2020-04-16
+Morelos,Tlaltizapán De Zapata,1.0,1.0,0.0,0.0,2020-04-16
+Estado de México,Ecatepec De Morelos,2.0,2.0,0.0,0.0,2020-04-16
 Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-04-16
-Oaxaca,"San Pedro 
-Ixtlahuaca",1.0,1.0,0.0,0.0,2020-04-16
-Oaxaca,"Santiago 
-Pinotepa 
-Nacional",1.0,1.0,0.0,0.0,2020-04-16
-Oaxaca,"Santo 
-Domingo 
-Tehuantepec",1.0,0.0,1.0,0.0,2020-04-16
+Oaxaca,San Pedro Ixtlahuaca,1.0,1.0,0.0,0.0,2020-04-16
+Oaxaca,Santiago Pinotepa Nacional,1.0,1.0,0.0,0.0,2020-04-16
+Oaxaca,Santo Domingo Tehuantepec,1.0,0.0,1.0,0.0,2020-04-16
 Puebla,Acatzingo,3.0,3.0,0.0,0.0,2020-04-16
 Puebla,Chignahuapan,4.0,4.0,0.0,0.0,2020-04-16
-Puebla,"Santa Inés 
-Ahuatempan",1.0,1.0,0.0,0.0,2020-04-16
+Puebla,Santa Inés Ahuatempan,1.0,1.0,0.0,0.0,2020-04-16
 Puebla,Tecomatlán,2.0,2.0,0.0,0.0,2020-04-16
 Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2020-04-16
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-04-16

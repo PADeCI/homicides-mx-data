@@ -5,28 +5,22 @@ Chihuahua,Juárez,1,1.0,0.0,0.0,2019-12-07
 Ciudad de México,Cuauhtémoc,5,0.0,0.0,5.0,2019-12-07
 Ciudad de México,Iztapalapa,1,1.0,0.0,0.0,2019-12-07
 Ciudad de México,Miguel Hidalgo,2,2.0,0.0,0.0,2019-12-07
-Ciudad de México,"Venustiano 
-Carranza",1,1.0,0.0,0.0,2019-12-07
+Ciudad de México,Venustiano Carranza,1,1.0,0.0,0.0,2019-12-07
 Colima,Manzanillo,1,1.0,0.0,0.0,2019-12-07
 Colima,Tecomán,1,1.0,0.0,0.0,2019-12-07
-Guanajuato,"Apaseo el 
-Grande",1,0.0,0.0,1.0,2019-12-07
-Guanajuato,Apaseo el Alto,1,1.0,0.0,0.0,2019-12-07
+Guanajuato,Apaseo El Grande,1,0.0,0.0,1.0,2019-12-07
+Guanajuato,Apaseo El Alto,1,1.0,0.0,0.0,2019-12-07
 Guanajuato,Celaya,1,1.0,0.0,0.0,2019-12-07
 Guanajuato,Irapuato,15,0.0,0.0,15.0,2019-12-07
 Guanajuato,León,2,1.0,0.0,1.0,2019-12-07
 Guanajuato,Moroleón,1,1.0,0.0,0.0,2019-12-07
 Guanajuato,Pénjamo,1,1.0,0.0,0.0,2019-12-07
-Guerrero,"Acapulco de 
-Juárez",1,1.0,0.0,0.0,2019-12-07
-Guerrero,"Zihuatanejo de 
-Azueta",2,2.0,0.0,0.0,2019-12-07
-Hidalgo,"Tezontepec de 
-Aldama",2,1.0,1.0,0.0,2019-12-07
+Guerrero,Acapulco De Juárez,1,1.0,0.0,0.0,2019-12-07
+Guerrero,Zihuatanejo De Azueta,2,2.0,0.0,0.0,2019-12-07
+Hidalgo,Tezontepec De Aldama,2,1.0,1.0,0.0,2019-12-07
 Jalisco,El Salto,1,1.0,0.0,0.0,2019-12-07
 Jalisco,Guadalajara,2,2.0,0.0,0.0,2019-12-07
-Jalisco,"Tlajomulco de 
-Zúñiga",2,0.0,2.0,0.0,2019-12-07
+Jalisco,Tlajomulco De Zúñiga,2,0.0,2.0,0.0,2019-12-07
 Jalisco,Zapopan,1,1.0,0.0,0.0,2019-12-07
 Michoacán,Hidalgo,1,1.0,0.0,0.0,2019-12-07
 Michoacán,Zamora,1,1.0,0.0,0.0,2019-12-07
@@ -37,14 +31,10 @@ Morelos,Xochitepec,1,1.0,0.0,0.0,2019-12-07
 Estado de México,Nezahualcóyotl,3,3.0,0.0,0.0,2019-12-07
 Estado de México,Ocuilan,1,1.0,0.0,0.0,2019-12-07
 Estado de México,Temoaya,1,1.0,0.0,0.0,2019-12-07
-Nuevo León,"San Nicolás de 
-los Garza",1,1.0,0.0,0.0,2019-12-07
+Nuevo León,San Nicolás De Los Garza,1,1.0,0.0,0.0,2019-12-07
 Oaxaca,Salina Cruz,1,1.0,0.0,0.0,2019-12-07
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2019-12-07
-Oaxaca,"Santa Cruz 
-Xoxocotlán",1,0.0,0.0,1.0,2019-12-07
+Oaxaca,San Juan Bautista Tuxtepec,1,1.0,0.0,0.0,2019-12-07
+Oaxaca,Santa Cruz Xoxocotlán,1,0.0,0.0,1.0,2019-12-07
 Oaxaca,Yogana,1,1.0,0.0,0.0,2019-12-07
 Puebla,Tepeaca,2,2.0,0.0,0.0,2019-12-07
 Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2019-12-07

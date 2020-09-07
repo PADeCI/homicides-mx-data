@@ -1,29 +1,23 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,4.0,3.0,1.0,0.0,2019-08-23
 Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-08-23
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2019-08-23
-Ciudad de México,"Venustiano 
-Carranza",1.0,1.0,0.0,0.0,2019-08-23
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-23
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2019-08-23
 Coahuila,Torreón,1.0,1.0,0.0,0.0,2019-08-23
 Coahuila,Zaragoza,1.0,0.0,0.0,1.0,2019-08-23
 Colima,Armería,1.0,1.0,0.0,0.0,2019-08-23
 Colima,Tecomán,1.0,1.0,0.0,0.0,2019-08-23
 Durango,Nuevo Ideal,1.0,1.0,0.0,0.0,2019-08-23
 Guanajuato,Abasolo,2.0,2.0,0.0,0.0,2019-08-23
-Guanajuato,Apaseo el Alto,2.0,2.0,0.0,0.0,2019-08-23
+Guanajuato,Apaseo El Alto,2.0,2.0,0.0,0.0,2019-08-23
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-08-23
 Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-08-23
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-23
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-08-23
-Guanajuato,"San Luis de la 
-Paz",4.0,4.0,0.0,0.0,2019-08-23
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2019-08-23
-Guerrero,"Acapulco de 
-Juárez",1.0,0.0,1.0,0.0,2019-08-23
-Guerrero,"Coyuca de 
-Benítez",1.0,1.0,0.0,0.0,2019-08-23
+Guanajuato,San Luis De La Paz,4.0,4.0,0.0,0.0,2019-08-23
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-08-23
+Guerrero,Acapulco De Juárez,1.0,0.0,1.0,0.0,2019-08-23
+Guerrero,Coyuca De Benítez,1.0,1.0,0.0,0.0,2019-08-23
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-08-23
 Michoacán,Cotija,1.0,1.0,0.0,0.0,2019-08-23
 Michoacán,Tangancícuaro,1.0,1.0,0.0,0.0,2019-08-23
@@ -32,26 +26,19 @@ Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-08-23
 Morelos,Amacuzac,1.0,0.0,0.0,1.0,2019-08-23
 Morelos,Cuautla,1.0,1.0,0.0,0.0,2019-08-23
 Morelos,Jiutepec,1.0,1.0,0.0,0.0,2019-08-23
-Estado de México,"Cuautitlán 
-Izcalli",1.0,1.0,0.0,0.0,2019-08-23
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2019-08-23
 Estado de México,Tecámac,1.0,0.0,1.0,0.0,2019-08-23
 Estado de México,Tepetlaoxtoc,1.0,1.0,0.0,0.0,2019-08-23
 Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2019-08-23
 Nuevo León,Juárez,1.0,1.0,0.0,0.0,2019-08-23
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1.0,0.0,1.0,0.0,2019-08-23
-Oaxaca,"San Marcial 
-Ozolotepec",3.0,0.0,0.0,3.0,2019-08-23
-Oaxaca,"San Pedro 
-Pochutla",2.0,2.0,0.0,0.0,2019-08-23
-Oaxaca,"San Pedro 
-Totolápam",1.0,1.0,0.0,0.0,2019-08-23
+Oaxaca,San Juan Bautista Tuxtepec,1.0,0.0,1.0,0.0,2019-08-23
+Oaxaca,San Marcial Ozolotepec,3.0,0.0,0.0,3.0,2019-08-23
+Oaxaca,San Pedro Pochutla,2.0,2.0,0.0,0.0,2019-08-23
+Oaxaca,San Pedro Totolápam,1.0,1.0,0.0,0.0,2019-08-23
 Puebla,Atlixco,2.0,2.0,0.0,0.0,2019-08-23
 Puebla,Tlaola,1.0,1.0,0.0,0.0,2019-08-23
 Querétaro,Corregidora,1.0,1.0,0.0,0.0,2019-08-23
-Querétaro,"San Juan del 
-Río",1.0,1.0,0.0,0.0,2019-08-23
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2019-08-23
 Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2019-08-23
 Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2019-08-23
 Sonora,Hermosillo,4.0,4.0,0.0,0.0,2019-08-23
@@ -62,8 +49,7 @@ Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2019-08-23
 Tamaulipas,Nuevo Laredo,1.0,1.0,0.0,0.0,2019-08-23
 Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-23
 Veracruz,Nogales,1.0,1.0,0.0,0.0,2019-08-23
-Veracruz,"San Juan 
-Evangelista",1.0,1.0,0.0,0.0,2019-08-23
+Veracruz,San Juan Evangelista,1.0,1.0,0.0,0.0,2019-08-23
 Veracruz,Tierra Blanca,2.0,2.0,0.0,0.0,2019-08-23
 Veracruz,Tres Valles,1.0,1.0,0.0,0.0,2019-08-23
 Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-08-23

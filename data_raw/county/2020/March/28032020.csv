@@ -1,55 +1,43 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Tijuana,5.0,4.0,1.0,0.0,2020-03-28
-Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2020-03-28
-Chihuahua,Juárez,6.0,6.0,0.0,0.0,2020-03-28
-Chihuahua,Madera,3.0,3.0,0.0,0.0,2020-03-28
-Ciudad de México,Azcapotzalco,1.0,1.0,0.0,0.0,2020-03-28
-Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2020-03-28
-Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-03-28
-Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-03-28
-Guanajuato,"Dolores 
-Hidalgo Cuna 
-de la 
-Independencia 
-Nacional",2.0,2.0,0.0,0.0,2020-03-28
-Guanajuato,León,3.0,3.0,0.0,0.0,2020-03-28
-Guerrero,"Acapulco de 
-Juárez",2.0,1.0,0.0,1.0,2020-03-28
-Guerrero,"Chilapa de 
-Álvarez",1.0,1.0,0.0,0.0,2020-03-28
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,1.0,0.0,0.0,2020-03-28
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,2.0,0.0,0.0,2020-03-28
-Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-03-28
-Michoacán,Morelia,2.0,2.0,0.0,0.0,2020-03-28
-Michoacán,Queréndaro,1.0,1.0,0.0,0.0,2020-03-28
-Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2020-03-28
-Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-03-28
-Michoacán,"Álvaro 
-Obregón",1.0,1.0,0.0,0.0,2020-03-28
-Estado de México,La Paz,1.0,0.0,0.0,1.0,2020-03-28
-Estado de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0,2020-03-28
-Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-03-28
-Estado de México,Otzolotepec,1.0,1.0,0.0,0.0,2020-03-28
-Estado de México,Temascalapa,1.0,0.0,1.0,0.0,2020-03-28
-Estado de México,Tultitlán,7.0,7.0,0.0,0.0,2020-03-28
-Nuevo León,Hidalgo,3.0,3.0,0.0,0.0,2020-03-28
-Oaxaca,"Santa María 
-Huatulco",1.0,0.0,0.0,1.0,2020-03-28
-Oaxaca,"Santiago 
-Cacaloxtepec",1.0,1.0,0.0,0.0,2020-03-28
-Puebla,Puebla,3.0,3.0,0.0,0.0,2020-03-28
-Puebla,Querétaro (1)  Tequisquiapan,1.0,1.0,0.0,0.0,2020-03-28
-Quintana Roo,Benito Juárez,2.0,0.0,0.0,2.0,2020-03-28
-San Luis Potosí,Venado,2.0,0.0,0.0,2.0,2020-03-28
-Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-03-28
-Sinaloa,Escuinapa,1.0,1.0,0.0,0.0,2020-03-28
-Sonora,Nogales,1.0,1.0,0.0,0.0,2020-03-28
-Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-03-28
-Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-03-28
-Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2020-03-28
-Tlaxcala,Huamantla,1.0,1.0,0.0,0.0,2020-03-28
-Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2020-03-28
-Veracruz,Oteapan,1.0,1.0,0.0,0.0,2020-03-28
+Baja California,Tijuana,5,4,1,0,2020-03-28
+Chihuahua,Chihuahua,2,2,0,0,2020-03-28
+Chihuahua,Juárez,6,6,0,0,2020-03-28
+Chihuahua,Madera,3,3,0,0,2020-03-28
+Ciudad de México,Azcapotzalco,1,1,0,0,2020-03-28
+Ciudad de México,Iztacalco,1,1,0,0,2020-03-28
+Ciudad de México,Iztapalapa,1,1,0,0,2020-03-28
+Colima,Manzanillo,1,1,0,0,2020-03-28
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,2,2,0,0,2020-03-28
+Guanajuato,León,3,3,0,0,2020-03-28
+Guerrero,Acapulco De Juárez,2,1,0,1,2020-03-28
+Guerrero,Chilapa De Álvarez,1,1,0,0,2020-03-28
+Guerrero,Chilpancingo De Los Bravo,1,1,0,0,2020-03-28
+Jalisco,Tlajomulco De Zúñiga,2,2,0,0,2020-03-28
+Jalisco,Zapopan,1,1,0,0,2020-03-28
+Michoacán,Morelia,2,2,0,0,2020-03-28
+Michoacán,Queréndaro,1,1,0,0,2020-03-28
+Michoacán,Tarímbaro,1,1,0,0,2020-03-28
+Michoacán,Zamora,1,1,0,0,2020-03-28
+Michoacán,Álvaro Obregón,1,1,0,0,2020-03-28
+Estado de México,La Paz,1,0,0,1,2020-03-28
+Estado de México,Naucalpan De Juárez,1,1,0,0,2020-03-28
+Estado de México,Nezahualcóyotl,1,1,0,0,2020-03-28
+Estado de México,Otzolotepec,1,1,0,0,2020-03-28
+Estado de México,Temascalapa,1,0,1,0,2020-03-28
+Estado de México,Tultitlán,7,7,0,0,2020-03-28
+Nuevo León,Hidalgo,3,3,0,0,2020-03-28
+Oaxaca,Santa María Huatulco,1,0,0,1,2020-03-28
+Oaxaca,Santiago Cacaloxtepec,1,1,0,0,2020-03-28
+Puebla,Puebla,3,3,0,0,2020-03-28
+Querétaro,Tequisquiapan,1,1,0,0,2020-03-28
+Quintana Roo,Benito Juárez,2,0,0,2,2020-03-28
+San Luis Potosí,Venado,2,0,0,2,2020-03-28
+Sinaloa,Culiacán,1,1,0,0,2020-03-28
+Sinaloa,Escuinapa,1,1,0,0,2020-03-28
+Sonora,Nogales,1,1,0,0,2020-03-28
+Tabasco,Cárdenas,1,1,0,0,2020-03-28
+Tamaulipas,Reynosa,1,1,0,0,2020-03-28
+Tamaulipas,Victoria,1,1,0,0,2020-03-28
+Tlaxcala,Huamantla,1,1,0,0,2020-03-28
+Veracruz,Minatitlán,1,1,0,0,2020-03-28
+Veracruz,Oteapan,1,1,0,0,2020-03-28

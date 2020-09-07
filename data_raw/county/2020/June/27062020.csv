@@ -1,52 +1,41 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Tijuana,3.0,3.0,0.0,0.0,2020-06-27
-Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-06-27
-Chihuahua,Juárez,5.0,3.0,1.0,1.0,2020-06-27
-Ciudad de México,Xochimilco,1.0,1.0,0.0,0.0,2020-06-27
-Colima,Durango (1)  Gómez Palacio,1.0,1.0,0.0,0.0,2020-06-27
-Colima,Villa de Álvarez,1.0,1.0,0.0,0.0,2020-06-27
-Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-06-27
-Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-06-27
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2020-06-27
-Guerrero,Ometepec,1.0,0.0,1.0,0.0,2020-06-27
-Guerrero,"Tepecoacuilco 
-de Trujano",2.0,2.0,0.0,0.0,2020-06-27
-Hidalgo,"Mixquiahuala 
-de Juárez",1.0,0.0,1.0,0.0,2020-06-27
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,2.0,0.0,0.0,2020-06-27
-Coahuila,Cotaxtla,1.0,1.0,0.0,0.0,2020-06-27
-Coahuila,Ixtaczoquitlán,2.0,2.0,0.0,0.0,2020-06-27
-Coahuila,Las Choapas,1.0,0.0,1.0,0.0,2020-06-27
-Coahuila,Minatitlán,1.0,1.0,0.0,0.0,2020-06-27
-Coahuila,Tlapacoyan,1.0,1.0,0.0,0.0,2020-06-27
-Michoacán,"Lázaro 
-Cárdenas",1.0,1.0,0.0,0.0,2020-06-27
-Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-06-27
-Morelos,Cuernavaca,2.0,0.0,0.0,2.0,2020-06-27
-Morelos,Huitzilac,1.0,1.0,0.0,0.0,2020-06-27
-Morelos,Jiutepec,1.0,0.0,1.0,0.0,2020-06-27
-Estado de México,"Almoloya de 
-Juárez",1.0,1.0,0.0,0.0,2020-06-27
-Estado de México,"Coacalco de 
-Berriozábal",1.0,1.0,0.0,0.0,2020-06-27
-Estado de México,Temascalapa,1.0,0.0,1.0,0.0,2020-06-27
-Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2020-06-27
-Nuevo León,García,1.0,1.0,0.0,0.0,2020-06-27
-Oaxaca,"Heroica Ciudad 
-de Huajuapan 
-de León",2.0,1.0,1.0,0.0,2020-06-27
-Oaxaca,"Teotitlán de 
-Flores Magón",1.0,1.0,0.0,0.0,2020-06-27
-Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2020-06-27
-Sinaloa,Choix,2.0,2.0,0.0,0.0,2020-06-27
-Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2020-06-27
-Tabasco,Centro,1.0,0.0,0.0,1.0,2020-06-27
-Tamaulipas,Reynosa,2.0,1.0,1.0,0.0,2020-06-27
-Tlaxcala,Tlaxco,1.0,1.0,0.0,0.0,2020-06-27
-Veracruz,"Amatlán de los 
-Reyes",1.0,1.0,0.0,0.0,2020-06-27
-Yucatán,Progreso,1.0,1.0,0.0,0.0,2020-06-27
-Zacatecas,Calera,1.0,1.0,0.0,0.0,2020-06-27
-Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2020-06-27
+Baja California,Tijuana,3,3,0,0,2020-06-27
+Chihuahua,Chihuahua,1,1,0,0,2020-06-27
+Chihuahua,Juárez,5,3,1,1,2020-06-27
+Ciudad de México,Xochimilco,1,1,0,0,2020-06-27
+Durango,Gómez Palacio,1,1,0,0,2020-06-27
+Colima,Villa De Álvarez,1,1,0,0,2020-06-27
+Guanajuato,Celaya,1,1,0,0,2020-06-27
+Guanajuato,Salamanca,1,1,0,0,2020-06-27
+Guerrero,Acapulco De Juárez,2,2,0,0,2020-06-27
+Guerrero,Ometepec,1,0,1,0,2020-06-27
+Guerrero,Tepecoacuilco De Trujano,2,2,0,0,2020-06-27
+Hidalgo,Mixquiahuala De Juárez,1,0,1,0,2020-06-27
+Jalisco,Tlajomulco De Zúñiga,2,2,0,0,2020-06-27
+Coahuila,Cotaxtla,1,1,0,0,2020-06-27
+Coahuila,Ixtaczoquitlán,2,2,0,0,2020-06-27
+Coahuila,Las Choapas,1,0,1,0,2020-06-27
+Coahuila,Minatitlán,1,1,0,0,2020-06-27
+Coahuila,Tlapacoyan,1,1,0,0,2020-06-27
+Michoacán,Lázaro Cárdenas,1,1,0,0,2020-06-27
+Michoacán,Zamora,1,1,0,0,2020-06-27
+Morelos,Cuernavaca,2,0,0,2,2020-06-27
+Morelos,Huitzilac,1,1,0,0,2020-06-27
+Morelos,Jiutepec,1,0,1,0,2020-06-27
+Estado de México,Almoloya De Juárez,1,1,0,0,2020-06-27
+Estado de México,Coacalco De Berriozábal,1,1,0,0,2020-06-27
+Estado de México,Temascalapa,1,0,1,0,2020-06-27
+Nuevo León,Apodaca,1,1,0,0,2020-06-27
+Nuevo León,García,1,1,0,0,2020-06-27
+Oaxaca,Heroica Ciudad De Huajuapan De León,2,1,1,0,2020-06-27
+Oaxaca,Teotitlán De Flores Magón,1,1,0,0,2020-06-27
+Quintana Roo,Benito Juárez,2,2,0,0,2020-06-27
+Sinaloa,Choix,2,2,0,0,2020-06-27
+Sinaloa,Culiacán,3,3,0,0,2020-06-27
+Tabasco,Centro,1,0,0,1,2020-06-27
+Tamaulipas,Reynosa,2,1,1,0,2020-06-27
+Tlaxcala,Tlaxco,1,1,0,0,2020-06-27
+Veracruz,Amatlán De Los Reyes,1,1,0,0,2020-06-27
+Yucatán,Progreso,1,1,0,0,2020-06-27
+Zacatecas,Calera,1,1,0,0,2020-06-27
+Zacatecas,Guadalupe,1,1,0,0,2020-06-27

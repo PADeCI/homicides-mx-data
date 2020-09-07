@@ -4,32 +4,25 @@ Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-04-06
 Chihuahua,Juárez,2.0,1.0,1.0,0.0,2019-04-06
 Ciudad de México,Azcapotzalco,1.0,1.0,0.0,0.0,2019-04-06
 Ciudad de México,Coyoacán,1.0,1.0,0.0,0.0,2019-04-06
-Ciudad de México,"Gustavo A. 
-Madero",2.0,1.0,1.0,0.0,2019-04-06
+Ciudad de México,Gustavo A. Madero,2.0,1.0,1.0,0.0,2019-04-06
 Coahuila,Acuña,1.0,1.0,0.0,0.0,2019-04-06
-Guanajuato,Apaseo el Alto,8.0,0.0,0.0,8.0,2019-04-06
+Guanajuato,Apaseo El Alto,8.0,0.0,0.0,8.0,2019-04-06
 Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2019-04-06
 Guanajuato,Jerécuaro,1.0,0.0,0.0,1.0,2019-04-06
 Guanajuato,León,2.0,2.0,0.0,0.0,2019-04-06
 Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-04-06
 Guanajuato,Salvatierra,3.0,0.0,0.0,3.0,2019-04-06
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2019-04-06
-Guerrero,"Acapulco de 
-Juárez",5.0,4.0,1.0,0.0,2019-04-06
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,0.0,1.0,0.0,2019-04-06
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-04-06
+Guerrero,Acapulco De Juárez,5.0,4.0,1.0,0.0,2019-04-06
+Guerrero,Chilpancingo De Los Bravo,1.0,0.0,1.0,0.0,2019-04-06
 Guerrero,Ometepec,1.0,1.0,0.0,0.0,2019-04-06
 Jalisco,Guadalajara,4.0,4.0,0.0,0.0,2019-04-06
 Michoacán,Ziracuaretiro,1.0,1.0,0.0,0.0,2019-04-06
 Ciudad de México,Acolman,1.0,1.0,0.0,0.0,2019-04-06
 Ciudad de México,Ixtapaluca,1.0,1.0,0.0,0.0,2019-04-06
-Ciudad de México,"Tlalnepantla 
-de Baz",1.0,1.0,0.0,0.0,2019-04-06
-Nuevo León,"San Nicolás de 
-los Garza",3.0,1.0,2.0,0.0,2019-04-06
-Oaxaca,"Santiago 
-Juxtlahuaca",4.0,3.0,1.0,0.0,2019-04-06
+Ciudad de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2019-04-06
+Nuevo León,San Nicolás De Los Garza,3.0,1.0,2.0,0.0,2019-04-06
+Oaxaca,Santiago Juxtlahuaca,4.0,3.0,1.0,0.0,2019-04-06
 Puebla,Coronango,2.0,2.0,0.0,0.0,2019-04-06
 Querétaro,Querétaro,1.0,0.0,0.0,1.0,2019-04-06
 Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2019-04-06
@@ -40,8 +33,7 @@ Veracruz,Coetzala,1.0,0.0,0.0,1.0,2019-04-06
 Veracruz,Jalacingo,2.0,2.0,0.0,0.0,2019-04-06
 Veracruz,Minatitlán,2.0,2.0,0.0,0.0,2019-04-06
 Veracruz,Omealca,2.0,2.0,0.0,0.0,2019-04-06
-Veracruz,"Poza Rica de 
-Hidalgo",1.0,0.0,1.0,0.0,2019-04-06
+Veracruz,Poza Rica De Hidalgo,1.0,0.0,1.0,0.0,2019-04-06
 Veracruz,Tuxpan,2.0,2.0,0.0,0.0,2019-04-06
 Veracruz,Veracruz,1.0,0.0,1.0,0.0,2019-04-06
 Zacatecas,Zacatecas,1.0,0.0,0.0,1.0,2019-04-06

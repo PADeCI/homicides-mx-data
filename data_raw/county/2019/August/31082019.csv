@@ -1,44 +1,34 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Tijuana,8,7.0,1.0,0.0,2019-08-31
-Chihuahua,Juárez,2,1.0,1.0,0.0,2019-08-31
-Ciudad de México,Tlalpan,1,1.0,0.0,0.0,2019-08-31
-Colima,Armería,3,2.0,1.0,0.0,2019-08-31
-Guanajuato,Celaya,3,2.0,1.0,0.0,2019-08-31
-Guanajuato,Irapuato,3,0.0,0.0,3.0,2019-08-31
-Guanajuato,León,1,1.0,0.0,0.0,2019-08-31
-Guanajuato,Salamanca,1,1.0,0.0,0.0,2019-08-31
-Guanajuato,Salvatierra,1,1.0,0.0,0.0,2019-08-31
-Guanajuato,"Santiago 
-Maravatío",1,1.0,0.0,0.0,2019-08-31
-Guanajuato,Yuriria,1,1.0,0.0,0.0,2019-08-31
-Guerrero,"Acapulco de 
-Juárez",1,1.0,0.0,0.0,2019-08-31
-Guerrero,"Chilpancingo de 
-los Bravo",1,1.0,0.0,0.0,2019-08-31
-Guerrero,"Taxco de 
-Alarcón",1,1.0,0.0,0.0,2019-08-31
-Guerrero,"Tlalixtaquilla de 
-Maldonado",1,1.0,0.0,0.0,2019-08-31
-Guerrero,"Tlapa de 
-Comonfort",2,2.0,0.0,0.0,2019-08-31
-Guerrero,"Zihuatanejo de 
-Azueta",1,1.0,0.0,0.0,2019-08-31
-Jalisco,Guadalajara,2,2.0,0.0,0.0,2019-08-31
-Jalisco,"Tlajomulco de 
-Zúñiga",1,1.0,0.0,0.0,2019-08-31
-Michoacán,Morelia,2,2.0,0.0,0.0,2019-08-31
-Michoacán,Sahuayo,1,1.0,0.0,0.0,2019-08-31
-Michoacán,Zamora,3,3.0,0.0,0.0,2019-08-31
-Morelos,"Emiliano 
-Zapata",1,1.0,0.0,0.0,2019-08-31
-Morelos,Nuevo León (1)  Gral. Escobedo,1,1.0,0.0,0.0,2019-08-31
-Oaxaca,El Espinal,1,1.0,0.0,0.0,2019-08-31
-Puebla,Juan Galindo,1,1.0,0.0,0.0,2019-08-31
-Puebla,"San Martín 
-Texmelucan",1,0.0,1.0,0.0,2019-08-31
-Querétaro,Querétaro,1,1.0,0.0,0.0,2019-08-31
-Quintana Roo,Benito Juárez,2,2.0,0.0,0.0,2019-08-31
-Quintana Roo,Puerto Morelos,1,1.0,0.0,0.0,2019-08-31
-Sinaloa,Rosario,1,1.0,0.0,0.0,2019-08-31
-Veracruz,Coatzacoalcos,1,1.0,0.0,0.0,2019-08-31
-Zacatecas,Jerez,1,1.0,0.0,0.0,2019-08-31
+Baja California,Tijuana,8,7,1,0,2019-08-31
+Chihuahua,Juárez,2,1,1,0,2019-08-31
+Ciudad de México,Tlalpan,1,1,0,0,2019-08-31
+Colima,Armería,3,2,1,0,2019-08-31
+Guanajuato,Celaya,3,2,1,0,2019-08-31
+Guanajuato,Irapuato,3,0,0,3,2019-08-31
+Guanajuato,León,1,1,0,0,2019-08-31
+Guanajuato,Salamanca,1,1,0,0,2019-08-31
+Guanajuato,Salvatierra,1,1,0,0,2019-08-31
+Guanajuato,Santiago Maravatío,1,1,0,0,2019-08-31
+Guanajuato,Yuriria,1,1,0,0,2019-08-31
+Guerrero,Acapulco De Juárez,1,1,0,0,2019-08-31
+Guerrero,Chilpancingo De Los Bravo,1,1,0,0,2019-08-31
+Guerrero,Taxco De Alarcón,1,1,0,0,2019-08-31
+Guerrero,Tlalixtaquilla De Maldonado,1,1,0,0,2019-08-31
+Guerrero,Tlapa De Comonfort,2,2,0,0,2019-08-31
+Guerrero,Zihuatanejo De Azueta,1,1,0,0,2019-08-31
+Jalisco,Guadalajara,2,2,0,0,2019-08-31
+Jalisco,Tlajomulco De Zúñiga,1,1,0,0,2019-08-31
+Michoacán,Morelia,2,2,0,0,2019-08-31
+Michoacán,Sahuayo,1,1,0,0,2019-08-31
+Michoacán,Zamora,3,3,0,0,2019-08-31
+Morelos,Emiliano Zapata,1,1,0,0,2019-08-31
+Nuevo León,Escobedo,1,1,0,0,2019-08-31
+Oaxaca,El Espinal,1,1,0,0,2019-08-31
+Puebla,Juan Galindo,1,1,0,0,2019-08-31
+Puebla,San Martín Texmelucan,1,0,1,0,2019-08-31
+Querétaro,Querétaro,1,1,0,0,2019-08-31
+Quintana Roo,Benito Juárez,2,2,0,0,2019-08-31
+Quintana Roo,Puerto Morelos,1,1,0,0,2019-08-31
+Sinaloa,Rosario,1,1,0,0,2019-08-31
+Veracruz,Coatzacoalcos,1,1,0,0,2019-08-31
+Zacatecas,Jerez,1,1,0,0,2019-08-31

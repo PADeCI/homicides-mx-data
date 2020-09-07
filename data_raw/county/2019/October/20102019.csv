@@ -1,65 +1,49 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,"Rincón de 
-Romos",2.0,1.0,1.0,0.0,2019-10-20
-Baja California,Tijuana,2.0,1.0,1.0,0.0,2019-10-20
-Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2019-10-20
-Chihuahua,Guadalupe,2.0,2.0,0.0,0.0,2019-10-20
-Chihuahua,Juárez,3.0,2.0,1.0,0.0,2019-10-20
-Ciudad de México,"Cuajimalpa de 
-Morelos",1.0,1.0,0.0,0.0,2019-10-20
-Ciudad de México,Iztapalapa,1.0,0.0,0.0,1.0,2019-10-20
-Ciudad de México,Tláhuac,1.0,1.0,0.0,0.0,2019-10-20
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0,2019-10-20
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2019-10-20
-Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-10-20
-Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-10-20
-Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-10-20
-Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2019-10-20
-Guanajuato,"San José 
-Iturbide",1.0,1.0,0.0,0.0,2019-10-20
-Guanajuato,"San Luis de la 
-Paz",1.0,1.0,0.0,0.0,2019-10-20
-Guanajuato,Tarimoro,1.0,1.0,0.0,0.0,2019-10-20
-Guerrero,Cuajinicuilapa,4.0,4.0,0.0,0.0,2019-10-20
-Guerrero,Eduardo Neri,1.0,1.0,0.0,0.0,2019-10-20
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2019-10-20
-Jalisco,"Zapotlán el 
-Grande",1.0,0.0,1.0,0.0,2019-10-20
-Michoacán,"Gabriel 
-Zamora",1.0,1.0,0.0,0.0,2019-10-20
-Michoacán,Jacona,2.0,0.0,0.0,2.0,2019-10-20
-Michoacán,"Lázaro 
-Cárdenas",2.0,1.0,1.0,0.0,2019-10-20
-Michoacán,Morelia,3.0,1.0,0.0,2.0,2019-10-20
-Michoacán,Tanhuato,1.0,1.0,0.0,0.0,2019-10-20
-Morelos,Yecapixtla,1.0,1.0,0.0,0.0,2019-10-20
-Estado de México,Berriozábal,2.0,2.0,0.0,0.0,2019-10-20
-Estado de México,Coacalco de,2.0,2.0,0.0,0.0,2019-10-20
-Nuevo León,Monterrey,1.0,0.0,1.0,0.0,2019-10-20
-Nuevo León,Santa Catarina,1.0,1.0,0.0,0.0,2019-10-20
-Oaxaca,Loma Bonita,1.0,1.0,0.0,0.0,2019-10-20
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",3.0,2.0,1.0,0.0,2019-10-20
-Oaxaca,"San Vicente 
-Coatlán",2.0,2.0,0.0,0.0,2019-10-20
-Puebla,Atlixco,1.0,1.0,0.0,0.0,2019-10-20
-Puebla,Puebla,1.0,1.0,0.0,0.0,2019-10-20
-Puebla,Tehuacán,1.0,1.0,0.0,0.0,2019-10-20
-Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2019-10-20
-Quintana Roo,"Othón P. 
-Blanco",3.0,1.0,0.0,2.0,2019-10-20
-Quintana Roo,San Luis Potosí (1)  San Luis Potosí,1.0,1.0,0.0,0.0,2019-10-20
-Sinaloa,Ahome,1.0,0.0,0.0,1.0,2019-10-20
-Sinaloa,Culiacán,3.0,0.0,0.0,3.0,2019-10-20
-Sonora,Guaymas,1.0,1.0,0.0,0.0,2019-10-20
-Veracruz,"Martínez de la 
-Torre",2.0,2.0,0.0,0.0,2019-10-20
-Veracruz,"Paso del 
-Macho",1.0,1.0,0.0,0.0,2019-10-20
-Veracruz,"San Andrés 
-Tuxtla",1.0,1.0,0.0,0.0,2019-10-20
-Veracruz,Tierra Blanca,2.0,2.0,0.0,0.0,2019-10-20
-Zacatecas,Guadalupe,2.0,2.0,0.0,0.0,2019-10-20
+Aguascalientes,Rincón De Romos,2,1,1,0,2019-10-20
+Baja California,Tijuana,2,1,1,0,2019-10-20
+Chihuahua,Chihuahua,2,2,0,0,2019-10-20
+Chihuahua,Guadalupe,2,2,0,0,2019-10-20
+Chihuahua,Juárez,3,2,1,0,2019-10-20
+Ciudad de México,Cuajimalpa De Morelos,1,1,0,0,2019-10-20
+Ciudad de México,Iztapalapa,1,0,0,1,2019-10-20
+Ciudad de México,Tláhuac,1,1,0,0,2019-10-20
+Guanajuato,Apaseo El Grande,1,1,0,0,2019-10-20
+Guanajuato,Apaseo El Alto,1,1,0,0,2019-10-20
+Guanajuato,Irapuato,2,2,0,0,2019-10-20
+Guanajuato,Pénjamo,1,1,0,0,2019-10-20
+Guanajuato,Salamanca,1,1,0,0,2019-10-20
+Guanajuato,Salvatierra,1,1,0,0,2019-10-20
+Guanajuato,San José Iturbide,1,1,0,0,2019-10-20
+Guanajuato,San Luis De La Paz,1,1,0,0,2019-10-20
+Guanajuato,Tarimoro,1,1,0,0,2019-10-20
+Guerrero,Cuajinicuilapa,4,4,0,0,2019-10-20
+Guerrero,Eduardo Neri,1,1,0,0,2019-10-20
+Jalisco,Tlajomulco De Zúñiga,1,1,0,0,2019-10-20
+Jalisco,Zapotlán El Grande,1,0,1,0,2019-10-20
+Michoacán,Gabriel Zamora,1,1,0,0,2019-10-20
+Michoacán,Jacona,2,0,0,2,2019-10-20
+Michoacán,Lázaro Cárdenas,2,1,1,0,2019-10-20
+Michoacán,Morelia,3,1,0,2,2019-10-20
+Michoacán,Tanhuato,1,1,0,0,2019-10-20
+Morelos,Yecapixtla,1,1,0,0,2019-10-20
+Estado de México,Berriozábal,2,2,0,0,2019-10-20
+Estado de México,Coacalco De Berriozábal,2,2,0,0,2019-10-20
+Nuevo León,Monterrey,1,0,1,0,2019-10-20
+Nuevo León,Santa Catarina,1,1,0,0,2019-10-20
+Oaxaca,Loma Bonita,1,1,0,0,2019-10-20
+Oaxaca,San Juan Bautista Tuxtepec,3,2,1,0,2019-10-20
+Oaxaca,San Vicente Coatlán,2,2,0,0,2019-10-20
+Puebla,Atlixco,1,1,0,0,2019-10-20
+Puebla,Puebla,1,1,0,0,2019-10-20
+Puebla,Tehuacán,1,1,0,0,2019-10-20
+Quintana Roo,Benito Juárez,2,2,0,0,2019-10-20
+Quintana Roo,Othón P. Blanco,3,1,0,2,2019-10-20
+San Luis Potosí,San Luis Potosí,1,1,0,0,2019-10-20
+Sinaloa,Ahome,1,0,0,1,2019-10-20
+Sinaloa,Culiacán,3,0,0,3,2019-10-20
+Sonora,Guaymas,1,1,0,0,2019-10-20
+Veracruz,Martínez De La Torre,2,2,0,0,2019-10-20
+Veracruz,Paso Del Macho,1,1,0,0,2019-10-20
+Veracruz,San Andrés Tuxtla,1,1,0,0,2019-10-20
+Veracruz,Tierra Blanca,2,2,0,0,2019-10-20
+Zacatecas,Guadalupe,2,2,0,0,2019-10-20

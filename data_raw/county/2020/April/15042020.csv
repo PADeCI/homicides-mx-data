@@ -3,68 +3,46 @@ Baja California,Tijuana,9.0,6.0,1.0,2.0,2020-04-15
 Chihuahua,Bocoyna,1.0,1.0,0.0,0.0,2020-04-15
 Chihuahua,Delicias,1.0,1.0,0.0,0.0,2020-04-15
 Chihuahua,Juárez,3.0,2.0,1.0,0.0,2020-04-15
-Ciudad de México,"Miguel 
-Hidalgo",2.0,2.0,0.0,0.0,2020-04-15
+Ciudad de México,Miguel Hidalgo,2.0,2.0,0.0,0.0,2020-04-15
 Ciudad de México,Tlalpan,3.0,3.0,0.0,0.0,2020-04-15
 Ciudad de México,Tláhuac,1.0,1.0,0.0,0.0,2020-04-15
 Ciudad de México,Xochimilco,1.0,1.0,0.0,0.0,2020-04-15
 Colima,Manzanillo,2.0,2.0,0.0,0.0,2020-04-15
-Guanajuato,Apaseo el Alto,2.0,2.0,0.0,0.0,2020-04-15
+Guanajuato,Apaseo El Alto,2.0,2.0,0.0,0.0,2020-04-15
 Guanajuato,Celaya,7.0,7.0,0.0,0.0,2020-04-15
 Guanajuato,León,3.0,2.0,1.0,0.0,2020-04-15
 Guanajuato,Salamanca,4.0,3.0,1.0,0.0,2020-04-15
-Guanajuato,"San Miguel de 
-Allende",1.0,0.0,0.0,1.0,2020-04-15
-Guerrero,"Buenavista de 
-Cuéllar",1.0,1.0,0.0,0.0,2020-04-15
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,1.0,0.0,0.0,2020-04-15
-Guerrero,"Huitzuco de 
-los Figueroa",1.0,1.0,0.0,0.0,2020-04-15
-Guerrero,"Iguala de la 
-Independencia",1.0,1.0,0.0,0.0,2020-04-15
-Guerrero,"Taxco de 
-Alarcón",1.0,0.0,1.0,0.0,2020-04-15
-Guerrero,"Técpan de 
-Galeana",1.0,1.0,0.0,0.0,2020-04-15
+Guanajuato,San Miguel De Allende,1.0,0.0,0.0,1.0,2020-04-15
+Guerrero,Buenavista De Cuéllar,1.0,1.0,0.0,0.0,2020-04-15
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-04-15
+Guerrero,Huitzuco De Los Figueroa,1.0,1.0,0.0,0.0,2020-04-15
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2020-04-15
+Guerrero,Taxco De Alarcón,1.0,0.0,1.0,0.0,2020-04-15
+Guerrero,Técpan De Galeana,1.0,1.0,0.0,0.0,2020-04-15
 Hidalgo,Tlanalapa,1.0,1.0,0.0,0.0,2020-04-15
-Jalisco,"Lagos de 
-Moreno",1.0,1.0,0.0,0.0,2020-04-15
-Jalisco,"San Pedro 
-Tlaquepaque",3.0,2.0,1.0,0.0,2020-04-15
+Jalisco,Lagos De Moreno,1.0,1.0,0.0,0.0,2020-04-15
+Jalisco,San Pedro Tlaquepaque,3.0,2.0,1.0,0.0,2020-04-15
 Michoacán,Cuitzeo,1.0,1.0,0.0,0.0,2020-04-15
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-04-15
 Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-04-15
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-04-15
-Morelos,"Emiliano 
-Zapata",1.0,1.0,0.0,0.0,2020-04-15
+Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2020-04-15
 Morelos,Tlaquiltenango,1.0,1.0,0.0,0.0,2020-04-15
 Estado de México,Donato Guerra,2.0,2.0,0.0,0.0,2020-04-15
-Estado de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0,2020-04-15
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2020-04-15
 Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2020-04-15
-Estado de México,"Valle de 
-Chalco 
-Solidaridad",1.0,1.0,0.0,0.0,2020-04-15
-Nayarit,"Bahía de 
-Banderas",1.0,1.0,0.0,0.0,2020-04-15
+Estado de México,Valle De Chalco Solidaridad,1.0,1.0,0.0,0.0,2020-04-15
+Nayarit,Bahía De Banderas,1.0,1.0,0.0,0.0,2020-04-15
 Nuevo León,Apodaca,1.0,0.0,0.0,1.0,2020-04-15
 Nuevo León,Hidalgo,1.0,0.0,1.0,0.0,2020-04-15
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-04-15
-Oaxaca,"San Andrés 
-Huaxpaltepec",1.0,1.0,0.0,0.0,2020-04-15
-Oaxaca,"Santiago 
-Pinotepa 
-Nacional",1.0,1.0,0.0,0.0,2020-04-15
-Oaxaca,"Villa de 
-Tututepec de 
-Melchor 
-Ocampo",1.0,0.0,0.0,1.0,2020-04-15
+Oaxaca,San Andrés Huaxpaltepec,1.0,1.0,0.0,0.0,2020-04-15
+Oaxaca,Santiago Pinotepa Nacional,1.0,1.0,0.0,0.0,2020-04-15
+Oaxaca,Ocampo,1.0,0.0,0.0,1.0,2020-04-15
 Puebla,Atlixco,1.0,1.0,0.0,0.0,2020-04-15
 Puebla,Chiautla,1.0,0.0,1.0,0.0,2020-04-15
 Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2020-04-15
-Quintana Roo,"Felipe Carrillo 
-Puerto",1.0,1.0,0.0,0.0,2020-04-15
+Quintana Roo,Felipe Carrillo Puerto,1.0,1.0,0.0,0.0,2020-04-15
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-04-15
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-04-15
 Sonora,Guaymas,1.0,0.0,1.0,0.0,2020-04-15

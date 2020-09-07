@@ -4,66 +4,49 @@ Baja California,Tecate,2.0,0.0,0.0,2.0,2020-03-10
 Baja California,Tijuana,4.0,4.0,0.0,0.0,2020-03-10
 Chihuahua,Ascensión,1.0,1.0,0.0,0.0,2020-03-10
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-03-10
-Chihuahua,"Hidalgo del 
-Parral",1.0,1.0,0.0,0.0,2020-03-10
+Chihuahua,Hidalgo Del Parral,1.0,1.0,0.0,0.0,2020-03-10
 Chihuahua,Juárez,6.0,4.0,0.0,2.0,2020-03-10
 Ciudad de México,Azcapotzalco,1.0,1.0,0.0,0.0,2020-03-10
 Coahuila,Allende,1.0,1.0,0.0,0.0,2020-03-10
 Guanajuato,Celaya,4.0,3.0,0.0,1.0,2020-03-10
 Guanajuato,Guanajuato,1.0,0.0,1.0,0.0,2020-03-10
 Guanajuato,Irapuato,4.0,4.0,0.0,0.0,2020-03-10
-Guanajuato,"Silao de la 
-Victoria",1.0,0.0,0.0,1.0,2020-03-10
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2020-03-10
-Guerrero,"Taxco de 
-Alarcón",1.0,1.0,0.0,0.0,2020-03-10
+Guanajuato,Silao De La Victoria,1.0,0.0,0.0,1.0,2020-03-10
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-03-10
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2020-03-10
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-03-10
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-03-10
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,0.0,0.0,2.0,2020-03-10
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-03-10
+Jalisco,Tlajomulco De Zúñiga,2.0,0.0,0.0,2.0,2020-03-10
 Michoacán,Morelia,4.0,2.0,2.0,0.0,2020-03-10
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-03-10
-Michoacán,"Álvaro 
-Obregón",1.0,1.0,0.0,0.0,2020-03-10
+Michoacán,Álvaro Obregón,1.0,1.0,0.0,0.0,2020-03-10
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-03-10
-Estado de México,"Cuautitlán 
-Izcalli",1.0,1.0,0.0,0.0,2020-03-10
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2020-03-10
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2020-03-10
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-03-10
 Estado de México,Lerma,1.0,1.0,0.0,0.0,2020-03-10
 Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2020-03-10
 Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2020-03-10
-Oaxaca,"Heroica 
-Ciudad de 
-Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0,2020-03-10
-Oaxaca,Mixtepec,1.0,1.0,0.0,0.0,2020-03-10
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2020-03-10
+Oaxaca,Ixtepec,1.0,1.0,0.0,0.0,2020-03-10
 Oaxaca,San Gabriel,1.0,1.0,0.0,0.0,2020-03-10
 Puebla,Ahuazotepec,2.0,1.0,1.0,0.0,2020-03-10
-Puebla,"Izúcar de 
-Matamoros",1.0,1.0,0.0,0.0,2020-03-10
+Puebla,Izúcar De Matamoros,1.0,1.0,0.0,0.0,2020-03-10
 Puebla,Libres,1.0,1.0,0.0,0.0,2020-03-10
 Querétaro,Tequisquiapan,1.0,1.0,0.0,0.0,2020-03-10
 Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2020-03-10
-Quintana Roo,"Othón P. 
-Blanco",1.0,1.0,0.0,0.0,2020-03-10
-San Luis Potosí,"San Luis 
-Potosí",3.0,3.0,0.0,0.0,2020-03-10
-San Luis Potosí,"Santa María 
-del Río",1.0,1.0,0.0,0.0,2020-03-10
+Quintana Roo,Othón P. Blanco,1.0,1.0,0.0,0.0,2020-03-10
+San Luis Potosí,San Luis Potosí,3.0,3.0,0.0,0.0,2020-03-10
+San Luis Potosí,Santa María Del Río,1.0,1.0,0.0,0.0,2020-03-10
 Sinaloa,Ahome,1.0,1.0,0.0,0.0,2020-03-10
 Sinaloa,Angostura,1.0,1.0,0.0,0.0,2020-03-10
 Sinaloa,Culiacán,1.0,0.0,0.0,1.0,2020-03-10
 Sonora,Hermosillo,2.0,1.0,0.0,1.0,2020-03-10
 Tabasco,Centro,1.0,1.0,0.0,0.0,2020-03-10
 Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2020-03-10
-Tabasco,"Jalpa de 
-Méndez",2.0,2.0,0.0,0.0,2020-03-10
+Tabasco,Jalpa De Méndez,2.0,2.0,0.0,0.0,2020-03-10
 Tabasco,Macuspana,1.0,1.0,0.0,0.0,2020-03-10
 Tamaulipas,Nuevo Laredo,1.0,1.0,0.0,0.0,2020-03-10
-Veracruz,Boca del Río,1.0,1.0,0.0,0.0,2020-03-10
+Veracruz,Boca Del Río,1.0,1.0,0.0,0.0,2020-03-10
 Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2020-03-10
 Veracruz,Cuitláhuac,1.0,1.0,0.0,0.0,2020-03-10
 Veracruz,Córdoba,3.0,0.0,0.0,3.0,2020-03-10

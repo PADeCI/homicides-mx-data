@@ -10,16 +10,13 @@ Ciudad de México,Cuauhtémoc,2.0,1.0,1.0,0.0,2020-03-30
 Ciudad de México,Iztapalapa,3.0,2.0,1.0,0.0,2020-03-30
 Coahuila,Piedras Negras,1.0,1.0,0.0,0.0,2020-03-30
 Colima,Armería,2.0,2.0,0.0,0.0,2020-03-30
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0,2020-03-30
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2020-03-30
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-03-30
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-03-30
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,1.0,0.0,0.0,2020-03-30
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-03-30
 Guerrero,Eduardo Neri,2.0,2.0,0.0,0.0,2020-03-30
 Guerrero,Juchitán,2.0,2.0,0.0,0.0,2020-03-30
-Guerrero,"Tlapa de 
-Comonfort",3.0,3.0,0.0,0.0,2020-03-30
+Guerrero,Tlapa De Comonfort,3.0,3.0,0.0,0.0,2020-03-30
 Hidalgo,Actopan,1.0,1.0,0.0,0.0,2020-03-30
 Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2020-03-30
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-03-30
@@ -30,13 +27,10 @@ Michoacán,Zamora,5.0,3.0,2.0,0.0,2020-03-30
 Morelos,Amacuzac,2.0,2.0,0.0,0.0,2020-03-30
 Morelos,Cuautla,1.0,1.0,0.0,0.0,2020-03-30
 Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2020-03-30
-Estado de México,"Naucalpan de 
-Juárez",2.0,1.0,1.0,0.0,2020-03-30
+Estado de México,Naucalpan De Juárez,2.0,1.0,1.0,0.0,2020-03-30
 Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-03-30
-Nuevo León,Dr. Coss,1.0,1.0,0.0,0.0,2020-03-30
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0,2020-03-30
+Nuevo León,Dr. Belisario Domínguez,1.0,1.0,0.0,0.0,2020-03-30
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2020-03-30
 Puebla,Zinacatepec,2.0,2.0,0.0,0.0,2020-03-30
 Quintana Roo,Benito Juárez,4.0,4.0,0.0,0.0,2020-03-30
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-03-30
@@ -45,9 +39,7 @@ Sonora,Nogales,1.0,1.0,0.0,0.0,2020-03-30
 Tabasco,Centro,3.0,2.0,1.0,0.0,2020-03-30
 Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-03-30
 Tamaulipas,Río Bravo,1.0,1.0,0.0,0.0,2020-03-30
-Tlaxcala,"Nanacamilpa 
-de Mariano 
-Arista",1.0,1.0,0.0,0.0,2020-03-30
+Tlaxcala,Nanacamilpa De Mariano Arista,1.0,1.0,0.0,0.0,2020-03-30
 Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2020-03-30
 Veracruz,Papantla,1.0,0.0,1.0,0.0,2020-03-30
 Veracruz,Xalapa,1.0,1.0,0.0,0.0,2020-03-30

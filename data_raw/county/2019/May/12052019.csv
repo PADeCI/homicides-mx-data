@@ -1,46 +1,34 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,"Playas de 
-Rosarito",2.0,0.0,2.0,0.0,2019-05-12
+Baja California,Playas De Rosarito,2.0,0.0,2.0,0.0,2019-05-12
 Baja California,Tijuana,2.0,0.0,0.0,2.0,2019-05-12
 Chiapas,Palenque,1.0,1.0,0.0,0.0,2019-05-12
 Chiapas,Tonalá,2.0,2.0,0.0,0.0,2019-05-12
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-05-12
 Chihuahua,Juárez,1.0,1.0,0.0,0.0,2019-05-12
 Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-05-12
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2019-05-12
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-05-12
 Coahuila,Piedras Negras,1.0,0.0,1.0,0.0,2019-05-12
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-05-12
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-05-12
-Guanajuato,"Silao de la 
-Víctoria",1.0,1.0,0.0,0.0,2019-05-12
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2019-05-12
-Guerrero,"Chilapa de 
-Álvarez",1.0,1.0,0.0,0.0,2019-05-12
-Guerrero,"Huitzuco de los 
-Figueroa",2.0,2.0,0.0,0.0,2019-05-12
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-05-12
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2019-05-12
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-05-12
+Guerrero,Chilapa De Álvarez,1.0,1.0,0.0,0.0,2019-05-12
+Guerrero,Huitzuco De Los Figueroa,2.0,2.0,0.0,0.0,2019-05-12
 Guerrero,Zitlala,1.0,0.0,0.0,1.0,2019-05-12
-Hidalgo,"Tezontepec de 
-Aldama",1.0,1.0,0.0,0.0,2019-05-12
+Hidalgo,Tezontepec De Aldama,1.0,1.0,0.0,0.0,2019-05-12
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-05-12
 Jalisco,Zapopan,3.0,0.0,0.0,3.0,2019-05-12
-Michoacán,"Salvador 
-Escalante",1.0,1.0,0.0,0.0,2019-05-12
+Michoacán,Salvador Escalante,1.0,1.0,0.0,0.0,2019-05-12
 Morelos,Cuautla,1.0,1.0,0.0,0.0,2019-05-12
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-05-12
-Estado de México,"Almoloya de 
-Juárez",1.0,1.0,0.0,0.0,2019-05-12
+Estado de México,Almoloya De Juárez,1.0,1.0,0.0,0.0,2019-05-12
 Estado de México,Tecámac,3.0,2.0,1.0,0.0,2019-05-12
 Nayarit,Xalisco,34.0,0.0,0.0,34.0,2019-05-12
 Nuevo León,China,1.0,0.0,0.0,1.0,2019-05-12
 Nuevo León,Santa Catarina,2.0,1.0,1.0,0.0,2019-05-12
-Oaxaca,"Asunción 
-Ixtaltepec",2.0,1.0,1.0,0.0,2019-05-12
+Oaxaca,Asunción Ixtaltepec,2.0,1.0,1.0,0.0,2019-05-12
 Puebla,Huauchinango,2.0,2.0,0.0,0.0,2019-05-12
-Puebla,"Tlacotepec de 
-Benito Juárez",1.0,0.0,1.0,0.0,2019-05-12
+Puebla,Tlacotepec De Benito Juárez,1.0,0.0,1.0,0.0,2019-05-12
 Sinaloa,Culiacán,4.0,4.0,0.0,0.0,2019-05-12
 Sinaloa,Mazatlán,1.0,1.0,0.0,0.0,2019-05-12
 Tabasco,Cunduacán,2.0,0.0,2.0,0.0,2019-05-12

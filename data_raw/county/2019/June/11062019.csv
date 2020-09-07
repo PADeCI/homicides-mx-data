@@ -13,25 +13,23 @@ Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2019-06-11
 Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-06-11
 Guanajuato,León,5.0,5.0,0.0,0.0,2019-06-11
 Guanajuato,Salamanca,1.0,0.0,1.0,0.0,2019-06-11
-Guanajuato,"San Francisco del 
-Rincón",2.0,1.0,1.0,0.0,2019-06-11
-Guanajuato,Silao de la Víctoria,1.0,1.0,0.0,0.0,2019-06-11
-Guanajuato,Valle de Santiago,2.0,2.0,0.0,0.0,2019-06-11
+Guanajuato,San Francisco Del Rincón,2.0,1.0,1.0,0.0,2019-06-11
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2019-06-11
+Guanajuato,Valle De Santiago,2.0,2.0,0.0,0.0,2019-06-11
 Guanajuato,Villagrán,1.0,1.0,0.0,0.0,2019-06-11
-Guerrero,Atoyac de Álvarez,1.0,0.0,1.0,0.0,2019-06-11
+Guerrero,Atoyac De Álvarez,1.0,0.0,1.0,0.0,2019-06-11
 Guerrero,Marquelia,2.0,2.0,0.0,0.0,2019-06-11
 Guerrero,Ometepec,1.0,0.0,1.0,0.0,2019-06-11
 Guerrero,Pilcaya,1.0,1.0,0.0,0.0,2019-06-11
-Guerrero,Taxco de Alarcón,1.0,1.0,0.0,0.0,2019-06-11
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2019-06-11
 Hidalgo,Atitalaquia,1.0,0.0,1.0,0.0,2019-06-11
 Hidalgo,Ixmiquilpan,1.0,1.0,0.0,0.0,2019-06-11
-Hidalgo,Pachuca de Soto,1.0,1.0,0.0,0.0,2019-06-11
+Hidalgo,Pachuca De Soto,1.0,1.0,0.0,0.0,2019-06-11
 Jalisco,El Salto,1.0,0.0,0.0,1.0,2019-06-11
 Jalisco,Guadalajara,2.0,1.0,0.0,1.0,2019-06-11
 Jalisco,San Pedro,1.0,1.0,0.0,0.0,2019-06-11
-Jalisco,"Tlajomulco de 
-Zúñiga",3.0,3.0,0.0,0.0,2019-06-11
-Jalisco,Tlaquepaque,1.0,1.0,0.0,0.0,2019-06-11
+Jalisco,Tlajomulco De Zúñiga,3.0,3.0,0.0,0.0,2019-06-11
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-06-11
 Jalisco,Tonalá,3.0,1.0,2.0,0.0,2019-06-11
 Jalisco,Zapopan,1.0,0.0,0.0,1.0,2019-06-11
 Michoacán,Aguililla,2.0,2.0,0.0,0.0,2019-06-11
@@ -40,20 +38,15 @@ Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-06-11
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-06-11
 Morelos,Jantetelco,1.0,1.0,0.0,0.0,2019-06-11
 Estado de México,Chalco,1.0,1.0,0.0,0.0,2019-06-11
-Estado de México,"Ecatepec de 
-Morelos",3.0,3.0,0.0,0.0,2019-06-11
+Estado de México,Ecatepec De Morelos,3.0,3.0,0.0,0.0,2019-06-11
 Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2019-06-11
 Nuevo León,García,1.0,1.0,0.0,0.0,2019-06-11
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-06-11
 Nuevo León,Santa Catarina,1.0,0.0,0.0,1.0,2019-06-11
-Oaxaca,"Pinotepa de Don 
-Luis",1.0,1.0,0.0,0.0,2019-06-11
-Oaxaca,"San Miguel 
-Soyaltepec",1.0,1.0,0.0,0.0,2019-06-11
-Oaxaca,"Santa María 
-Huatulco",1.0,1.0,0.0,0.0,2019-06-11
-Oaxaca,"Santiago 
-Jamiltepec",1.0,1.0,0.0,0.0,2019-06-11
+Oaxaca,Pinotepa De Don Luis,1.0,1.0,0.0,0.0,2019-06-11
+Oaxaca,San Miguel Soyaltepec,1.0,1.0,0.0,0.0,2019-06-11
+Oaxaca,Santa María Huatulco,1.0,1.0,0.0,0.0,2019-06-11
+Oaxaca,Santiago Jamiltepec,1.0,1.0,0.0,0.0,2019-06-11
 Puebla,Puebla,2.0,0.0,1.0,1.0,2019-06-11
 Puebla,Quecholac,1.0,1.0,0.0,0.0,2019-06-11
 Puebla,Tehuacán,2.0,1.0,1.0,0.0,2019-06-11

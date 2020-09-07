@@ -1,66 +1,37 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-"Aguascalientes 
-(1)",Aguascalientes,1,1,-,-
-"Baja California 
-(4)",Tijuana,1,-,1,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-Chihuahua (5),Chihuahua,1,1,-,-
-,,1,1,-,-
-,Juárez,1,1,-,-
-,,1,1,-,-
-,,1,-,-,1
-Guanajuato (8),Celaya,1,1,-,-
-,,2,2,-,-
-,,3,3,-,-
-,,1,1,-,-
-,Jerécuaro,1,-,-,1
-Guerrero (5),"Acapulco de 
-Juárez",2,2,-,-
-,"Iguala de la 
-Independencia",1,1,-,-
-,,2,-,-,2
-Jalisco (4),Guadalajara,1,-,1,-
-,"San Pedro 
-Tlaquepaque",3,2,1,-
-México (4),"Cuautitlán 
-Izcalli",1,1,-,-
-,Ixtapaluca,1,1,-,-
-,Ocoyoacac,1,1,-,-
-,Tultitlán,1,1,-,-
-Michoacán de,Morelia,1,1,-,-
-Ocampo (3),,,,,
-,Zamora,1.0,1,-,-
-,,1.0,1,-,-
-Morelos (3),Axochiapan,1.0,1,-,-
-,Temixco,1.0,1,-,-
-,Xochitepec,1.0,1,-,-
-"Nuevo León 
-(4)",García,2.0,2,-,-
-,Guadalupe,1.0,1,-,-
-,Monterrey,1.0,1,-,-
-Oaxaca (1),"Santa María 
-Colotepec",1.0,1,-,-
-Puebla (3),Nopalucan,1.0,1,-,-
-,"San Martín 
-Texmelucan",1.0,-,-,1
-,Zacatlán,1.0,-,1,-
-"Quintana Roo 
-(1)",Benito Juárez,1.0,1,-,-
-"San Luis Potosí 
-(3)",Ciudad Valles,2.0,2,-,-
-,San Luis Potosí,1.0,1,-,-
-Sonora (2),Empalme,1.0,1,-,-
-,Guaymas,1.0,1,-,-
-Tabasco (1),Cárdenas,1.0,1,-,-
-"Veracruz de 
-Ignacio de la 
-Llave (1)",Isla,1.0,-,1,-
-Zacatecas (5),Fresnillo,1.0,-,-,1
-,,2.0,2,-,-
-,Zacatecas,1.0,1,-,-
-,,1.0,1,-,-
-Totales,,58.0,47,5,6
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2020-02-28
+Baja California,Tijuana,4.0,3.0,1.0,0.0,2020-02-28
+Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2020-02-28
+Chihuahua,Juárez,3.0,2.0,0.0,1.0,2020-02-28
+Guanajuato,Celaya,7.0,7.0,0.0,0.0,2020-02-28
+Guanajuato,Jerécuaro,1.0,0.0,0.0,1.0,2020-02-28
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-02-28
+Guerrero,Iguala De La Independencia,3.0,1.0,0.0,2.0,2020-02-28
+Jalisco,Guadalajara,1.0,0.0,1.0,0.0,2020-02-28
+Jalisco,San Pedro Tlaquepaque,3.0,2.0,1.0,0.0,2020-02-28
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-02-28
+Morelos,Axochiapan,1.0,1.0,0.0,0.0,2020-02-28
+Morelos,Temixco,1.0,1.0,0.0,0.0,2020-02-28
+Morelos,Xochitepec,1.0,1.0,0.0,0.0,2020-02-28
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2020-02-28
+Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2020-02-28
+Estado de México,Ocoyoacac,1.0,1.0,0.0,0.0,2020-02-28
+Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2020-02-28
+Nuevo León,García,2.0,2.0,0.0,0.0,2020-02-28
+Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2020-02-28
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-02-28
+Oaxaca,Santa María Colotepec,1.0,1.0,0.0,0.0,2020-02-28
+Campeche,Morelia,1.0,1.0,0.0,0.0,2020-02-28
+Campeche,Zamora,2.0,2.0,0.0,0.0,2020-02-28
+Puebla,Nopalucan,1.0,1.0,0.0,0.0,2020-02-28
+Puebla,San Martín Texmelucan,1.0,0.0,0.0,1.0,2020-02-28
+Puebla,Zacatlán,1.0,0.0,1.0,0.0,2020-02-28
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-02-28
+San Luis Potosí,Ciudad Valles,2.0,2.0,0.0,0.0,2020-02-28
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-02-28
+Sonora,Empalme,1.0,1.0,0.0,0.0,2020-02-28
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-02-28
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-02-28
+Veracruz,Isla,1.0,0.0,1.0,0.0,2020-02-28
+Zacatecas,Fresnillo,3.0,2.0,0.0,1.0,2020-02-28
+Zacatecas,Zacatecas,2.0,2.0,0.0,0.0,2020-02-28

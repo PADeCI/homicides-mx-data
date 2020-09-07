@@ -11,30 +11,22 @@ Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-04-29
 Guanajuato,León,2.0,2.0,0.0,0.0,2020-04-29
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-04-29
 Guanajuato,Salamanca,3.0,3.0,0.0,0.0,2020-04-29
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2020-04-29
-Guerrero,Atenango del Río,1.0,1.0,0.0,0.0,2020-04-29
-Guerrero,"Chilpancingo de 
-los Bravo",1.0,1.0,0.0,0.0,2020-04-29
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-04-29
+Guerrero,Atenango Del Río,1.0,1.0,0.0,0.0,2020-04-29
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-04-29
 Guerrero,Quechultenango,1.0,1.0,0.0,0.0,2020-04-29
-Guerrero,"Técpan de 
-Galeana",1.0,1.0,0.0,0.0,2020-04-29
+Guerrero,Técpan De Galeana,1.0,1.0,0.0,0.0,2020-04-29
 Hidalgo,Tlanalapa,1.0,1.0,0.0,0.0,2020-04-29
 Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2020-04-29
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-04-29
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,2.0,0.0,0.0,2020-04-29
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-04-29
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2020-04-29
 Michoacán,Aguililla,2.0,2.0,0.0,0.0,2020-04-29
 Michoacán,Morelia,2.0,1.0,1.0,0.0,2020-04-29
 Michoacán,Zamora,3.0,0.0,3.0,0.0,2020-04-29
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2020-04-29
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-04-29
 Estado de México,La Paz,1.0,0.0,1.0,0.0,2020-04-29
-Oaxaca,"San Miguel 
-Soyaltepec",1.0,1.0,0.0,0.0,2020-04-29
-Oaxaca,"Santiago 
-Tetepec",4.0,0.0,0.0,4.0,2020-04-29
+Oaxaca,San Miguel Soyaltepec,1.0,1.0,0.0,0.0,2020-04-29
+Oaxaca,Santiago Tetepec,4.0,0.0,0.0,4.0,2020-04-29
 Puebla,Coronango,1.0,1.0,0.0,0.0,2020-04-29
 Puebla,Esperanza,1.0,1.0,0.0,0.0,2020-04-29
 Puebla,Huauchinango,1.0,1.0,0.0,0.0,2020-04-29
@@ -42,12 +34,9 @@ Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2020-04-29
 Puebla,Tepeaca,1.0,1.0,0.0,0.0,2020-04-29
 Puebla,Teziutlán,1.0,1.0,0.0,0.0,2020-04-29
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-04-29
-San Luis Potosí,"Ciudad 
-Fernández",2.0,2.0,0.0,0.0,2020-04-29
+San Luis Potosí,Ciudad Fernández,2.0,2.0,0.0,0.0,2020-04-29
 San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2020-04-29
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1.0,1.0,0.0,0.0,2020-04-29
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2020-04-29
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-04-29
 Sonora,Guaymas,2.0,2.0,0.0,0.0,2020-04-29
 Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-04-29

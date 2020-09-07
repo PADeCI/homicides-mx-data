@@ -1,6 +1,5 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,"San Francisco 
-de los Romo",1,1.0,0.0,0.0,2020-05-21
+Aguascalientes,San Francisco De Los Romo,1,1.0,0.0,0.0,2020-05-21
 Baja California,Tijuana,7,6.0,0.0,1.0,2020-05-21
 Chiapas,Cintalapa,1,1.0,0.0,0.0,2020-05-21
 Chihuahua,Chihuahua,1,1.0,0.0,0.0,2020-05-21
@@ -13,17 +12,11 @@ Guanajuato,Celaya,3,2.0,0.0,1.0,2020-05-21
 Guanajuato,Irapuato,2,2.0,0.0,0.0,2020-05-21
 Guanajuato,León,2,2.0,0.0,0.0,2020-05-21
 Guanajuato,Salamanca,2,2.0,0.0,0.0,2020-05-21
-Guanajuato,"San José 
-Iturbide",1,0.0,1.0,0.0,2020-05-21
-Guanajuato,"Valle de 
-Santiago",1,0.0,1.0,0.0,2020-05-21
-Guerrero,"Acapulco de 
-Juárez",3,3.0,0.0,0.0,2020-05-21
-Guerrero,"Iguala de la 
-Independenci
-a",1,1.0,0.0,0.0,2020-05-21
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0,2020-05-21
+Guanajuato,San José Iturbide,1,0.0,1.0,0.0,2020-05-21
+Guanajuato,Valle De Santiago,1,0.0,1.0,0.0,2020-05-21
+Guerrero,Acapulco De Juárez,3,3.0,0.0,0.0,2020-05-21
+Guerrero,Iguala De La Independencia,1,1.0,0.0,0.0,2020-05-21
+Jalisco,San Pedro Tlaquepaque,1,1.0,0.0,0.0,2020-05-21
 Jalisco,Zapopan,3,3.0,0.0,0.0,2020-05-21
 Michoacán,Cuitzeo,2,1.0,1.0,0.0,2020-05-21
 Michoacán,Morelia,1,1.0,0.0,0.0,2020-05-21
@@ -34,15 +27,11 @@ Morelos,Cuernavaca,1,1.0,0.0,0.0,2020-05-21
 Morelos,Temixco,6,5.0,1.0,0.0,2020-05-21
 Estado de México,Chimalhuacán,2,2.0,0.0,0.0,2020-05-21
 Estado de México,Santo Tomás,1,1.0,0.0,0.0,2020-05-21
-Oaxaca,"Santo 
-Domingo 
-Tehuantepec",1,1.0,0.0,0.0,2020-05-21
+Oaxaca,Santo Domingo Tehuantepec,1,1.0,0.0,0.0,2020-05-21
 Puebla,Chila,1,1.0,0.0,0.0,2020-05-21
-Puebla,"Los Reyes de 
-Juárez",1,1.0,0.0,0.0,2020-05-21
+Puebla,Los Reyes De Juárez,1,1.0,0.0,0.0,2020-05-21
 Puebla,Yehualtepec,1,0.0,1.0,0.0,2020-05-21
-San Luis Potosí,"San Luis 
-Potosí",1,1.0,0.0,0.0,2020-05-21
+San Luis Potosí,San Luis Potosí,1,1.0,0.0,0.0,2020-05-21
 Veracruz,Acayucan,2,2.0,0.0,0.0,2020-05-21
 Veracruz,Orizaba,1,1.0,0.0,0.0,2020-05-21
 Zacatecas,Calera,1,1.0,0.0,0.0,2020-05-21

@@ -2,12 +2,11 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,8,5.0,3.0,0.0,2019-07-25
 Chiapas,Tapachula,1,1.0,0.0,0.0,2019-07-25
 Chihuahua,Cuauhtémoc,2,2.0,0.0,0.0,2019-07-25
-Chihuahua,"Hidalgo del 
-Parral",1,1.0,0.0,0.0,2019-07-25
+Chihuahua,Hidalgo Del Parral,1,1.0,0.0,0.0,2019-07-25
 Chihuahua,Juárez,1,0.0,1.0,0.0,2019-07-25
 Ciudad de México,Benito Juárez,1,1.0,0.0,0.0,2019-07-25
 Colima,Tecomán,1,0.0,1.0,0.0,2019-07-25
-Colima,Villa de Álvarez,1,1.0,0.0,0.0,2019-07-25
+Colima,Villa De Álvarez,1,1.0,0.0,0.0,2019-07-25
 Durango,Cuencamé,2,2.0,0.0,0.0,2019-07-25
 Durango,Lerdo,1,1.0,0.0,0.0,2019-07-25
 Durango,Pueblo Nuevo,1,1.0,0.0,0.0,2019-07-25
@@ -15,34 +14,27 @@ Guanajuato,Acámbaro,1,1.0,0.0,0.0,2019-07-25
 Guanajuato,Celaya,3,3.0,0.0,0.0,2019-07-25
 Guanajuato,León,2,2.0,0.0,0.0,2019-07-25
 Guanajuato,Pénjamo,1,0.0,0.0,1.0,2019-07-25
-Guerrero,"Acapulco de 
-Juárez",1,1.0,0.0,0.0,2019-07-25
-Guerrero,"Chilpancingo de 
-los Bravo",2,0.0,2.0,0.0,2019-07-25
+Guerrero,Acapulco De Juárez,1,1.0,0.0,0.0,2019-07-25
+Guerrero,Chilpancingo De Los Bravo,2,0.0,2.0,0.0,2019-07-25
 Guerrero,Cualác,3,3.0,0.0,0.0,2019-07-25
 Guerrero,Cuautepec,1,1.0,0.0,0.0,2019-07-25
 Guerrero,Huamuxtitlán,1,1.0,0.0,0.0,2019-07-25
-Jalisco,"Autlán de 
-Navarro",1,0.0,0.0,1.0,2019-07-25
+Jalisco,Autlán De Navarro,1,0.0,0.0,1.0,2019-07-25
 Jalisco,Guadalajara,2,1.0,0.0,1.0,2019-07-25
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0,2019-07-25
+Jalisco,San Pedro Tlaquepaque,1,1.0,0.0,0.0,2019-07-25
 Michoacán,Cuitzeo,1,1.0,0.0,0.0,2019-07-25
 Michoacán,Morelia,3,3.0,0.0,0.0,2019-07-25
 Michoacán,Uruapan,2,0.0,2.0,0.0,2019-07-25
 Morelos,Cuernavaca,1,1.0,0.0,0.0,2019-07-25
-Morelos,Jonacatepec,1,1.0,0.0,0.0,2019-07-25
+Morelos,Jonacatepec De Leandro Valle,1,1.0,0.0,0.0,2019-07-25
 Estado de México,Atizapán,1,1.0,0.0,0.0,2019-07-25
 Estado de México,Tezoyuca,1,1.0,0.0,0.0,2019-07-25
 Estado de México,Zinacantepec,1,1.0,0.0,0.0,2019-07-25
 Nuevo León,Sabinas Hidalgo,1,1.0,0.0,0.0,2019-07-25
-Oaxaca,Oaxaca de Juárez,1,0.0,0.0,1.0,2019-07-25
-Oaxaca,"San Juan Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2019-07-25
-Oaxaca,"San Pedro 
-Atoyac",1,0.0,0.0,1.0,2019-07-25
-Oaxaca,"Santiago 
-Tamazola",1,1.0,0.0,0.0,2019-07-25
+Oaxaca,Oaxaca De Juárez,1,0.0,0.0,1.0,2019-07-25
+Oaxaca,San Juan Bautista Tuxtepec,1,1.0,0.0,0.0,2019-07-25
+Oaxaca,San Pedro Atoyac,1,0.0,0.0,1.0,2019-07-25
+Oaxaca,Santiago Tamazola,1,1.0,0.0,0.0,2019-07-25
 Puebla,Atzitzintla,1,0.0,1.0,0.0,2019-07-25
 Puebla,Nicolás Bravo,1,0.0,1.0,0.0,2019-07-25
 Puebla,Tecamachalco,1,1.0,0.0,0.0,2019-07-25
@@ -56,8 +48,7 @@ Sonora,Nogales,1,1.0,0.0,0.0,2019-07-25
 Tabasco,Centro,1,1.0,0.0,0.0,2019-07-25
 Tabasco,Cárdenas,1,1.0,0.0,0.0,2019-07-25
 Tamaulipas,Matamoros,1,1.0,0.0,0.0,2019-07-25
-Veracruz,"Gutiérrez 
-Zamora",1,0.0,1.0,0.0,2019-07-25
+Veracruz,Gutiérrez Zamora,1,0.0,1.0,0.0,2019-07-25
 Zacatecas,Juan Aldama,2,0.0,0.0,2.0,2019-07-25
 Zacatecas,Pinos,1,1.0,0.0,0.0,2019-07-25
 Zacatecas,Zacatecas,1,1.0,0.0,0.0,2019-07-25

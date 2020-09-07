@@ -1,85 +1,39 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-,,,,,
-"Baja 
-California 
-(5)",Mexicali,1,1,-,-
-,Tecate,1,1,-,-
-,Tijuana,1,-,-,1
-,,1,1,-,-
-,,1,1,-,-
-"Chihuahua 
-(4)",Chihuahua,1,-,-,1
-,,1,1,-,-
-,Juárez,1,1,-,-
-,,1,-,1,-
-"Ciudad de 
-México (2)","Gustavo A. 
-Madero",2,2,-,-
-Durango (6),Pueblo Nuevo,6,6,-,-
-"Guanajuato 
-(16)","Apaseo el 
-Grande",1,1,-,-
-,Guanajuato,1,-,1,-
-,Irapuato,5,4,1,-
-,León,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,,,,
-,Salamanca,1.0,1.0,-,-
-,,1.0,1.0,-,-
-,,1.0,1.0,-,-
-,"San Miguel de 
-Allende",1.0,1.0,-,-
-,"Santa Cruz de 
-Juventino 
-Rosas",2.0,1.0,1,-
-Guerrero (2),"Iguala de la 
-Independencia",1.0,1.0,-,-
-,"Tlapa de 
-Comonfort",1.0,1.0,-,-
-Hidalgo (1),Huichapan,1.0,1.0,-,-
-Jalisco (3),"San Pedro 
-Tlaquepaque",3.0,3.0,-,-
-México (1),"Ecatepec de 
-Morelos",1.0,1.0,-,-
-"Michoacán 
-de Ocampo 
-(3)",Morelia,1.0,1.0,-,-
-,Tarímbaro,1.0,1.0,-,-
-,Zamora,1.0,1.0,-,-
-Morelos (5),Axochiapan,1.0,1.0,-,-
-,Cuernavaca,1.0,1.0,-,-
-,,1.0,1.0,-,-
-,,1.0,1.0,-,-
-,,,,,
-,Jiutepec,1.0,1,-,-
-Puebla (1),"Izúcar de 
-Matamoros",1.0,1,-,-
-"Querétaro 
-(1)","San Juan del 
-Río",1.0,-,1,-
-"Quintana 
-Roo (1)",Benito Juárez,1.0,1,-,-
-"San Luis 
-Potosí (10)","Ciudad del 
-Maíz",2.0,2,-,-
-,,8.0,-,-,8
-Sinaloa (1),Culiacán,1.0,1,-,-
-Tabasco (1),Macuspana,1.0,1,-,-
-"Tamaulipas 
-(1)",Victoria,1.0,-,-,1
-"Veracruz de 
-Ignacio de 
-la Llave (3)",Atoyac,1.0,1,-,-
-,"Martínez de la 
-Torre",1.0,1,-,-
-,Tlapacoyan,1.0,1,-,-
-"Zacatecas 
-(3)","General 
-Enrique 
-Estrada",1.0,1,-,-
-,Jerez,1.0,-,1,-
-,Zacatecas,1.0,1,-,-
-Totales,,70.0,53,6,11
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2020-02-06
+Baja California,Tecate,1.0,1.0,0.0,0.0,2020-02-06
+Baja California,Tijuana,3.0,2.0,0.0,1.0,2020-02-06
+Chihuahua,Chihuahua,2.0,1.0,0.0,1.0,2020-02-06
+Chihuahua,Juárez,2.0,1.0,1.0,0.0,2020-02-06
+Ciudad de México,Gustavo A. Madero,2.0,2.0,0.0,0.0,2020-02-06
+Durango,Pueblo Nuevo,6.0,6.0,0.0,0.0,2020-02-06
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2020-02-06
+Guanajuato,Guanajuato,1.0,0.0,1.0,0.0,2020-02-06
+Guanajuato,Irapuato,5.0,4.0,1.0,0.0,2020-02-06
+Guanajuato,León,4.0,4.0,0.0,0.0,2020-02-06
+Guanajuato,Salamanca,3.0,3.0,0.0,0.0,2020-02-06
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2020-02-06
+Guanajuato,Santa Cruz De Juventino Rosas,2.0,1.0,1.0,0.0,2020-02-06
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2020-02-06
+Guerrero,Tlapa De Comonfort,1.0,1.0,0.0,0.0,2020-02-06
+Hidalgo,Huichapan,1.0,1.0,0.0,0.0,2020-02-06
+Jalisco,San Pedro Tlaquepaque,3.0,3.0,0.0,0.0,2020-02-06
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-02-06
+Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2020-02-06
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-02-06
+Morelos,Axochiapan,1.0,1.0,0.0,0.0,2020-02-06
+Morelos,Cuernavaca,4.0,4.0,0.0,0.0,2020-02-06
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-02-06
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-02-06
+Puebla,Izúcar De Matamoros,1.0,1.0,0.0,0.0,2020-02-06
+Querétaro,San Juan Del Río,1.0,0.0,1.0,0.0,2020-02-06
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-02-06
+San Luis Potosí,Ciudad Del Maíz,10.0,2.0,0.0,8.0,2020-02-06
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-02-06
+Tabasco,Macuspana,1.0,1.0,0.0,0.0,2020-02-06
+Tamaulipas,Victoria,1.0,0.0,0.0,1.0,2020-02-06
+Veracruz,Atoyac,1.0,1.0,0.0,0.0,2020-02-06
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2020-02-06
+Veracruz,Tlapacoyan,1.0,1.0,0.0,0.0,2020-02-06
+Zacatecas,General Enrique Estrada,1.0,1.0,0.0,0.0,2020-02-06
+Zacatecas,Jerez,1.0,0.0,1.0,0.0,2020-02-06
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2020-02-06

@@ -5,24 +5,19 @@ Chiapas,Tuxtla Gutiérrez,1,1.0,0.0,0.0,2019-03-19
 Chihuahua,Chihuahua,1,1.0,0.0,0.0,2019-03-19
 Chihuahua,Cuauhtémoc,1,0.0,0.0,1.0,2019-03-19
 Chihuahua,Juárez,2,1.0,1.0,0.0,2019-03-19
-Ciudad de México,"Gustavo A. 
-Madero",1,1.0,0.0,0.0,2019-03-19
+Ciudad de México,Gustavo A. Madero,1,1.0,0.0,0.0,2019-03-19
 Ciudad de México,Álvaro Obregón,1,1.0,0.0,0.0,2019-03-19
 Coahuila,Allende,1,1.0,0.0,0.0,2019-03-19
 Guanajuato,Guanajuato,1,1.0,0.0,0.0,2019-03-19
 Guanajuato,León,2,2.0,0.0,0.0,2019-03-19
 Guanajuato,Salamanca,1,0.0,1.0,0.0,2019-03-19
 Guanajuato,Salvatierra,2,2.0,0.0,0.0,2019-03-19
-Guanajuato,"Silao de la 
-Victoria",1,1.0,0.0,0.0,2019-03-19
-Guerrero,"Acapulco de 
-Juárez",3,3.0,0.0,0.0,2019-03-19
-Hidalgo,"Atotonilco de 
-Tula",3,3.0,0.0,0.0,2019-03-19
+Guanajuato,Silao De La Victoria,1,1.0,0.0,0.0,2019-03-19
+Guerrero,Acapulco De Juárez,3,3.0,0.0,0.0,2019-03-19
+Hidalgo,Atotonilco De Tula,3,3.0,0.0,0.0,2019-03-19
 Hidalgo,Tlaxcoapan,1,1.0,0.0,0.0,2019-03-19
 Jalisco,El Arenal,1,1.0,0.0,0.0,2019-03-19
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0,2019-03-19
+Jalisco,San Pedro Tlaquepaque,1,1.0,0.0,0.0,2019-03-19
 Jalisco,Tonalá,1,1.0,0.0,0.0,2019-03-19
 Michoacán,San Lucas,1,1.0,0.0,0.0,2019-03-19
 Michoacán,Uruapan,1,1.0,0.0,0.0,2019-03-19
@@ -35,30 +30,23 @@ Morelos,Tlaquiltenango,1,1.0,0.0,0.0,2019-03-19
 Estado de México,La Paz,2,1.0,1.0,0.0,2019-03-19
 Estado de México,Tultitlán,1,0.0,1.0,0.0,2019-03-19
 Nuevo León,Monterrey,2,2.0,0.0,0.0,2019-03-19
-Oaxaca,"Huautla de 
-Jiménez",3,1.0,2.0,0.0,2019-03-19
-Oaxaca,"Matías Romero 
-Avendaño",1,0.0,0.0,1.0,2019-03-19
-Oaxaca,"San Miguel 
-Soyaltepec",1,1.0,0.0,0.0,2019-03-19
+Oaxaca,Huautla De Jiménez,3,1.0,2.0,0.0,2019-03-19
+Oaxaca,Matías Romero Avendaño,1,0.0,0.0,1.0,2019-03-19
+Oaxaca,San Miguel Soyaltepec,1,1.0,0.0,0.0,2019-03-19
 Puebla,Tianguismanalco,1,1.0,0.0,0.0,2019-03-19
 Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2019-03-19
 Quintana Roo,Othón P. Blanco,1,1.0,0.0,0.0,2019-03-19
 San Luis Potosí,Matehuala,1,1.0,0.0,0.0,2019-03-19
 San Luis Potosí,San Luis Potosí,1,1.0,0.0,0.0,2019-03-19
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1,1.0,0.0,0.0,2019-03-19
+San Luis Potosí,Soledad De Graciano Sánchez,1,1.0,0.0,0.0,2019-03-19
 Sinaloa,Culiacán,1,1.0,0.0,0.0,2019-03-19
 Sonora,Cajeme,1,1.0,0.0,0.0,2019-03-19
-Sonora,"San Luis Río 
-Colorado",1,0.0,1.0,0.0,2019-03-19
+Sonora,San Luis Río Colorado,1,0.0,1.0,0.0,2019-03-19
 Tamaulipas,Reynosa,2,2.0,0.0,0.0,2019-03-19
 Tamaulipas,Victoria,3,1.0,0.0,2.0,2019-03-19
 Veracruz,Fortín,1,1.0,0.0,0.0,2019-03-19
 Veracruz,Jáltipan,1,1.0,0.0,0.0,2019-03-19
-Veracruz,"Poza Rica de 
-Hidalgo",1,1.0,0.0,0.0,2019-03-19
+Veracruz,Poza Rica De Hidalgo,1,1.0,0.0,0.0,2019-03-19
 Veracruz,Xalapa,2,0.0,0.0,2.0,2019-03-19
 Yucatán,Tzucacab,1,1.0,0.0,0.0,2019-03-19
 Zacatecas,Pinos,1,1.0,0.0,0.0,2019-03-19

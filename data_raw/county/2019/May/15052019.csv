@@ -1,69 +1,51 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,"Playas de 
-Rosarito",1.0,1.0,0.0,0.0,2019-05-15
-Baja California,Tijuana,5.0,4.0,0.0,1.0,2019-05-15
-Chihuahua,Chihuahua,7.0,6.0,0.0,1.0,2019-05-15
-Chihuahua,Guachochi,2.0,0.0,0.0,2.0,2019-05-15
-Chihuahua,Juárez,4.0,3.0,0.0,1.0,2019-05-15
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2019-05-15
-Ciudad de México,Iztapalapa,3.0,3.0,0.0,0.0,2019-05-15
-Ciudad de México,Tlalpan,2.0,2.0,0.0,0.0,2019-05-15
-Ciudad de México,Tláhuac,1.0,1.0,0.0,0.0,2019-05-15
-Coahuila,Matamoros,1.0,0.0,1.0,0.0,2019-05-15
-Colima,Armería,1.0,0.0,0.0,1.0,2019-05-15
-Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-05-15
-Colima,Tecomán,1.0,1.0,0.0,0.0,2019-05-15
-Colima,"Villa de 
-Álvarez",1.0,1.0,0.0,0.0,2019-05-15
-Guanajuato,Acámbaro,4.0,3.0,1.0,0.0,2019-05-15
-Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-05-15
-Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-05-15
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-05-15
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2019-05-15
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,0.0,1.0,0.0,2019-05-15
-Guerrero,"Zihuatanejo 
-de Azueta",1.0,1.0,0.0,0.0,2019-05-15
-Jalisco,El Salto,1.0,1.0,0.0,0.0,2019-05-15
-Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-05-15
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2019-05-15
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2019-05-15
-Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-05-15
-Michoacán,Uruapan,2.0,2.0,0.0,0.0,2019-05-15
-Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-05-15
-Morelos,Cuernavaca,3.0,3.0,0.0,0.0,2019-05-15
-Morelos,Tetecala,1.0,1.0,0.0,0.0,2019-05-15
-Estado de México,"Ecatepec de 
-Morelos",1.0,0.0,1.0,0.0,2019-05-15
-Oaxaca,Avendaño,1.0,1.0,0.0,0.0,2019-05-15
-Oaxaca,"Matías 
-Romero",1.0,1.0,0.0,0.0,2019-05-15
-Oaxaca,"San Jerónimo 
-Tlacochahuaya",1.0,0.0,1.0,0.0,2019-05-15
-Oaxaca,"Santa Cruz 
-Xoxocotlán",1.0,1.0,0.0,0.0,2019-05-15
-Puebla,Huejotzingo,1.0,1.0,0.0,0.0,2019-05-15
-Puebla,"Huitzilan de 
-Serdán",1.0,1.0,0.0,0.0,2019-05-15
-Puebla,"Izúcar de 
-Matamoros",1.0,1.0,0.0,0.0,2019-05-15
-Puebla,Puebla,1.0,1.0,0.0,0.0,2019-05-15
-Puebla,"San Andrés 
-Cholula",1.0,0.0,1.0,0.0,2019-05-15
-Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-05-15
-Sinaloa,Mazatlán,2.0,0.0,0.0,2.0,2019-05-15
-Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-05-15
-Veracruz,Acayucan,1.0,0.0,0.0,1.0,2019-05-15
-Veracruz,"Amatlán de 
-los Reyes",1.0,1.0,0.0,0.0,2019-05-15
-Veracruz,Papantla,1.0,1.0,0.0,0.0,2019-05-15
-Yucatán,Mérida,1.0,1.0,0.0,0.0,2019-05-15
-Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-05-15
-Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2019-05-15
-Zacatecas,Ojocaliente,1.0,1.0,0.0,0.0,2019-05-15
-Durango,Torreón,2.0,2.0,0.0,0.0,2019-05-15
+Baja California,Playas De Rosarito,1,1,0,0,2019-05-15
+Baja California,Tijuana,5,4,0,1,2019-05-15
+Chihuahua,Chihuahua,7,6,0,1,2019-05-15
+Chihuahua,Guachochi,2,0,0,2,2019-05-15
+Chihuahua,Juárez,4,3,0,1,2019-05-15
+Ciudad de México,Gustavo A. Madero,1,1,0,0,2019-05-15
+Ciudad de México,Iztapalapa,3,3,0,0,2019-05-15
+Ciudad de México,Tlalpan,2,2,0,0,2019-05-15
+Ciudad de México,Tláhuac,1,1,0,0,2019-05-15
+Coahuila,Matamoros,1,0,1,0,2019-05-15
+Coahuila,Torreón,2,2,0,0,2019-05-15
+Colima,Armería,1,0,0,1,2019-05-15
+Colima,Manzanillo,1,1,0,0,2019-05-15
+Colima,Tecomán,1,1,0,0,2019-05-15
+Colima,Villa De Álvarez,1,1,0,0,2019-05-15
+Guanajuato,Acámbaro,4,3,1,0,2019-05-15
+Guanajuato,Irapuato,2,2,0,0,2019-05-15
+Guanajuato,Salamanca,1,1,0,0,2019-05-15
+Guanajuato,San Miguel De Allende,1,1,0,0,2019-05-15
+Guerrero,Acapulco De Juárez,2,2,0,0,2019-05-15
+Guerrero,Chilpancingo De Los Bravo,1,0,1,0,2019-05-15
+Guerrero,Zihuatanejo De Azueta,1,1,0,0,2019-05-15
+Jalisco,El Salto,1,1,0,0,2019-05-15
+Jalisco,Guadalajara,1,1,0,0,2019-05-15
+Jalisco,San Pedro Tlaquepaque,1,1,0,0,2019-05-15
+Jalisco,Tlajomulco De Zúñiga,1,1,0,0,2019-05-15
+Michoacán,Morelia,1,1,0,0,2019-05-15
+Michoacán,Uruapan,2,2,0,0,2019-05-15
+Michoacán,Zamora,1,1,0,0,2019-05-15
+Morelos,Cuernavaca,3,3,0,0,2019-05-15
+Morelos,Tetecala,1,1,0,0,2019-05-15
+Estado de México,Ecatepec De Morelos,1,0,1,0,2019-05-15
+Oaxaca,Matías Romero Avendaño,1,1,0,0,2019-05-15
+Oaxaca,San Jerónimo Tlacochahuaya,1,0,1,0,2019-05-15
+Oaxaca,Santa Cruz Xoxocotlán,1,1,0,0,2019-05-15
+Puebla,Huejotzingo,1,1,0,0,2019-05-15
+Puebla,Huitzilan De Serdán,1,1,0,0,2019-05-15
+Puebla,Izúcar De Matamoros,1,1,0,0,2019-05-15
+Puebla,Puebla,1,1,0,0,2019-05-15
+Puebla,San Andrés Cholula,1,0,1,0,2019-05-15
+Quintana Roo,Benito Juárez,1,1,0,0,2019-05-15
+Sinaloa,Mazatlán,2,0,0,2,2019-05-15
+Sonora,Hermosillo,1,1,0,0,2019-05-15
+Veracruz,Acayucan,1,0,0,1,2019-05-15
+Veracruz,Amatlán De Los Reyes,1,1,0,0,2019-05-15
+Veracruz,Papantla,1,1,0,0,2019-05-15
+Yucatán,Mérida,1,1,0,0,2019-05-15
+Zacatecas,Fresnillo,1,1,0,0,2019-05-15
+Zacatecas,Guadalupe,1,1,0,0,2019-05-15
+Zacatecas,Ojocaliente,1,1,0,0,2019-05-15

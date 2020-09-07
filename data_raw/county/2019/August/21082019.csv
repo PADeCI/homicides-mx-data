@@ -2,34 +2,25 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,11.0,11.0,0.0,0.0,2019-08-21
 Chiapas,Palenque,1.0,0.0,1.0,0.0,2019-08-21
 Chihuahua,Juárez,4.0,4.0,0.0,0.0,2019-08-21
-Ciudad de México,"Cuajimalpa de 
-Morelos",1.0,1.0,0.0,0.0,2019-08-21
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2019-08-21
+Ciudad de México,Cuajimalpa De Morelos,1.0,1.0,0.0,0.0,2019-08-21
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-21
 Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2019-08-21
 Ciudad de México,Iztapalapa,1.0,0.0,0.0,1.0,2019-08-21
 Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2019-08-21
-Ciudad de México,"Álvaro 
-Obregón",1.0,1.0,0.0,0.0,2019-08-21
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2019-08-21
 Colima,Armería,2.0,2.0,0.0,0.0,2019-08-21
 Guanajuato,Celaya,3.0,3.0,0.0,0.0,2019-08-21
 Guanajuato,Irapuato,6.0,2.0,0.0,4.0,2019-08-21
 Guanajuato,León,2.0,2.0,0.0,0.0,2019-08-21
 Guanajuato,Salamanca,5.0,2.0,3.0,0.0,2019-08-21
-Guanajuato,"San Francisco 
-del Rincón",4.0,0.0,0.0,4.0,2019-08-21
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2019-08-21
-Guerrero,"Chilapa de 
-Álvarez",2.0,2.0,0.0,0.0,2019-08-21
-Guerrero,"Zihuatanejo de 
-Azueta",1.0,1.0,0.0,0.0,2019-08-21
-Hidalgo,"Nopala de 
-Villagrán",1.0,0.0,0.0,1.0,2019-08-21
+Guanajuato,San Francisco Del Rincón,4.0,0.0,0.0,4.0,2019-08-21
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-08-21
+Guerrero,Chilapa De Álvarez,2.0,2.0,0.0,0.0,2019-08-21
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2019-08-21
+Hidalgo,Nopala De Villagrán,1.0,0.0,0.0,1.0,2019-08-21
 Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-08-21
 Jalisco,Puerto Vallarta,1.0,0.0,1.0,0.0,2019-08-21
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,0.0,1.0,0.0,2019-08-21
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,1.0,0.0,2019-08-21
 Jalisco,Zapopan,3.0,0.0,0.0,3.0,2019-08-21
 Michoacán,Cotija,1.0,0.0,1.0,0.0,2019-08-21
 Michoacán,Cuitzeo,1.0,1.0,0.0,0.0,2019-08-21
@@ -40,40 +31,27 @@ Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-08-21
 Morelos,Jantetelco,1.0,1.0,0.0,0.0,2019-08-21
 Morelos,Jojutla,3.0,3.0,0.0,0.0,2019-08-21
 Estado de México,Chimalhuacán,1.0,1.0,0.0,0.0,2019-08-21
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2019-08-21
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-08-21
 Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2019-08-21
 Nuevo León,Monterrey,2.0,0.0,2.0,0.0,2019-08-21
-Nuevo León,"San Pedro 
-Garza García",1.0,1.0,0.0,0.0,2019-08-21
-Oaxaca,"Heroica Ciudad 
-de Huajuapan 
-de León",1.0,1.0,0.0,0.0,2019-08-21
-Oaxaca,"San Francisco 
-Ixhuatán",1.0,1.0,0.0,0.0,2019-08-21
-Oaxaca,"Santiago 
-Jamiltepec",1.0,1.0,0.0,0.0,2019-08-21
-Puebla,"Palmar de 
-Bravo",1.0,1.0,0.0,0.0,2019-08-21
-Puebla,"San Felipe 
-Teotlalcingo",1.0,0.0,0.0,1.0,2019-08-21
+Nuevo León,San Pedro Garza García,1.0,1.0,0.0,0.0,2019-08-21
+Oaxaca,Heroica Ciudad De Huajuapan De León,1.0,1.0,0.0,0.0,2019-08-21
+Oaxaca,San Francisco Ixhuatán,1.0,1.0,0.0,0.0,2019-08-21
+Oaxaca,Santiago Jamiltepec,1.0,1.0,0.0,0.0,2019-08-21
+Puebla,Palmar De Bravo,1.0,1.0,0.0,0.0,2019-08-21
+Puebla,San Felipe Teotlalcingo,1.0,0.0,0.0,1.0,2019-08-21
 Puebla,Tochimilco,1.0,1.0,0.0,0.0,2019-08-21
 Querétaro,Querétaro,1.0,0.0,1.0,0.0,2019-08-21
 Quintana Roo,Solidaridad,2.0,1.0,1.0,0.0,2019-08-21
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-08-21
 Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2019-08-21
 Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2019-08-21
-Tlaxcala,"Ixtacuixtla de 
-Mariano 
-Matamoros",1.0,1.0,0.0,0.0,2019-08-21
+Tlaxcala,Ixtacuixtla De Mariano Matamoros,1.0,1.0,0.0,0.0,2019-08-21
 Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-21
-Veracruz,"Emiliano 
-Zapata",2.0,1.0,1.0,0.0,2019-08-21
+Veracruz,Emiliano Zapata,2.0,1.0,1.0,0.0,2019-08-21
 Veracruz,Fortín,1.0,1.0,0.0,0.0,2019-08-21
-Veracruz,"Martínez de la 
-Torre",1.0,1.0,0.0,0.0,2019-08-21
-Veracruz,"Sayula de 
-Alemán",1.0,1.0,0.0,0.0,2019-08-21
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2019-08-21
+Veracruz,Sayula De Alemán,1.0,1.0,0.0,0.0,2019-08-21
 Veracruz,Tihuatlán,1.0,0.0,0.0,1.0,2019-08-21
 Veracruz,Xico,3.0,0.0,0.0,3.0,2019-08-21
 Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2019-08-21

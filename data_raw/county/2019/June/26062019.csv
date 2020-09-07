@@ -11,48 +11,37 @@ Coahuila,Ramos Arizpe,1.0,0.0,1.0,0.0,2019-06-26
 Colima,Cuauhtémoc,1.0,0.0,1.0,0.0,2019-06-26
 Colima,Manzanillo,2.0,2.0,0.0,0.0,2019-06-26
 Durango,Lerdo,1.0,1.0,0.0,0.0,2019-06-26
-Guanajuato,Apaseo el Grande,1.0,1.0,0.0,0.0,2019-06-26
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2019-06-26
 Guanajuato,Huanímaro,1.0,1.0,0.0,0.0,2019-06-26
 Guanajuato,Moroleón,1.0,1.0,0.0,0.0,2019-06-26
 Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-06-26
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-06-26
-Guanajuato,Valle de Santiago,1.0,1.0,0.0,0.0,2019-06-26
-Guerrero,"Chilapa de 
-Álvarez",1.0,1.0,0.0,0.0,2019-06-26
-Guerrero,"Coyuca de 
-Benítez",1.0,1.0,0.0,0.0,2019-06-26
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-06-26
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-06-26
+Guerrero,Chilapa De Álvarez,1.0,1.0,0.0,0.0,2019-06-26
+Guerrero,Coyuca De Benítez,1.0,1.0,0.0,0.0,2019-06-26
 Guerrero,Ometepec,1.0,1.0,0.0,0.0,2019-06-26
-Guerrero,Taxco de Alarcón,2.0,2.0,0.0,0.0,2019-06-26
+Guerrero,Taxco De Alarcón,2.0,2.0,0.0,0.0,2019-06-26
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-06-26
 Michoacán,Cotija,1.0,1.0,0.0,0.0,2019-06-26
 Michoacán,Morelia,1.0,0.0,0.0,1.0,2019-06-26
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-06-26
 Morelos,Cuautla,2.0,2.0,0.0,0.0,2019-06-26
 Morelos,Huitzilac,1.0,1.0,0.0,0.0,2019-06-26
-Estado de México,"Coacalco de 
-Berriozábal",1.0,1.0,0.0,0.0,2019-06-26
+Estado de México,Coacalco De Berriozábal,1.0,1.0,0.0,0.0,2019-06-26
 Estado de México,La Paz,1.0,1.0,0.0,0.0,2019-06-26
 Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2019-06-26
 Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2019-06-26
 Nuevo León,Guadalupe,3.0,2.0,1.0,0.0,2019-06-26
 Oaxaca,Cosolapa,1.0,1.0,0.0,0.0,2019-06-26
-Oaxaca,"San Juan 
-Guichicovi",1.0,1.0,0.0,0.0,2019-06-26
-Oaxaca,"San Juan Bautista 
-Tuxtepec",1.0,1.0,0.0,0.0,2019-06-26
-Oaxaca,"Santa Cruz 
-Xoxocotlán",1.0,0.0,1.0,0.0,2019-06-26
-Oaxaca,"Santa María 
-Petapa",1.0,1.0,0.0,0.0,2019-06-26
-Oaxaca,"Santiago 
-Jamiltepec",1.0,1.0,0.0,0.0,2019-06-26
-Oaxaca,"Tlacolula de 
-Matamoros",1.0,1.0,0.0,0.0,2019-06-26
+Oaxaca,San Juan Guichicovi,1.0,1.0,0.0,0.0,2019-06-26
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-06-26
+Oaxaca,Santa Cruz Xoxocotlán,1.0,0.0,1.0,0.0,2019-06-26
+Oaxaca,Santa María Petapa,1.0,1.0,0.0,0.0,2019-06-26
+Oaxaca,Santiago Jamiltepec,1.0,1.0,0.0,0.0,2019-06-26
+Oaxaca,Tlacolula De Matamoros,1.0,1.0,0.0,0.0,2019-06-26
 Puebla,Atlixco,1.0,1.0,0.0,0.0,2019-06-26
 Puebla,Puebla,1.0,1.0,0.0,0.0,2019-06-26
-Puebla,"San Martín 
-Texmelucan",1.0,1.0,0.0,0.0,2019-06-26
+Puebla,San Martín Texmelucan,1.0,1.0,0.0,0.0,2019-06-26
 Puebla,San Miguel Xoxtla,1.0,1.0,0.0,0.0,2019-06-26
 Puebla,Tehuacán,1.0,1.0,0.0,0.0,2019-06-26
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-06-26
@@ -62,14 +51,13 @@ Sonora,Cajeme,1.0,1.0,0.0,0.0,2019-06-26
 Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-06-26
 Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-06-26
 Tabasco,Jalapa,1.0,1.0,0.0,0.0,2019-06-26
-Tlaxcala,"Santa Catarina 
-Ayometla",1.0,1.0,0.0,0.0,2019-06-26
+Tlaxcala,Santa Catarina Ayometla,1.0,1.0,0.0,0.0,2019-06-26
 Tlaxcala,Tlaxcala,1.0,0.0,1.0,0.0,2019-06-26
 Tlaxcala,Xaloztoc,1.0,1.0,0.0,0.0,2019-06-26
 Veracruz,Atoyac,1.0,1.0,0.0,0.0,2019-06-26
 Veracruz,Coatepec,1.0,1.0,0.0,0.0,2019-06-26
 Veracruz,Córdoba,1.0,1.0,0.0,0.0,2019-06-26
 Veracruz,Omealca,1.0,1.0,0.0,0.0,2019-06-26
-Veracruz,Sayula de Alemán,2.0,2.0,0.0,0.0,2019-06-26
+Veracruz,Sayula De Alemán,2.0,2.0,0.0,0.0,2019-06-26
 Veracruz,Xalapa,1.0,1.0,0.0,0.0,2019-06-26
 Zacatecas,Zacatecas,2.0,2.0,0.0,0.0,2019-06-26

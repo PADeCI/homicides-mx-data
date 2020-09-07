@@ -1,62 +1,50 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado
-Baja California,Tijuana,2,2.0,0.0,0.0
-Baja California Sur,La Paz,2,2.0,0.0,0.0
-Chihuahua,Bocoyna,1,1.0,0.0,0.0
-Chihuahua,Cuauhtémoc,2,1.0,0.0,1.0
-Chihuahua,Juárez,9,7.0,1.0,1.0
-Ciudad de México,"Gustavo A. 
-Madero",2,2.0,0.0,0.0
-Ciudad de México,Iztapalapa,1,1.0,0.0,0.0
-Ciudad de México,Álvaro Obregón,4,4.0,0.0,0.0
-Coahuila,Piedras Negras,1,1.0,0.0,0.0
-Coahuila,Torreón,1,1.0,0.0,0.0
-Colima,Armería,1,1.0,0.0,0.0
-Colima,Villa de Álvarez,1,1.0,0.0,0.0
-Guanajuato,Acámbaro,5,4.0,1.0,0.0
-Guanajuato,León,2,2.0,0.0,0.0
-Guanajuato,"San Miguel de 
-Allende",3,2.0,1.0,0.0
-Guerrero,"Acapulco de 
-Juárez",1,1.0,0.0,0.0
-Guerrero,Eduardo Neri,1,1.0,0.0,0.0
-Guerrero,San Marcos,1,1.0,0.0,0.0
-Jalisco,Guadalajara,1,1.0,0.0,0.0
-Jalisco,"Tlajomulco de 
-Zúñiga",14,1.0,0.0,13.0
-Michoacán,Coeneo,1,1.0,0.0,0.0
-Michoacán,Lázaro Cárdenas,4,4.0,0.0,0.0
-Michoacán,Morelia,8,5.0,2.0,1.0
-Michoacán,Sahuayo,1,1.0,0.0,0.0
-Michoacán,Tepalcatepec,1,1.0,0.0,0.0
-Morelos,Cuernavaca,4,3.0,1.0,0.0
-Morelos,Emiliano Zapata,1,1.0,0.0,0.0
-Morelos,Jiutepec,1,1.0,0.0,0.0
-Morelos,Zacatepec,1,1.0,0.0,0.0
-Ciudad de México,Chimalhuacán,1,1.0,0.0,0.0
-Ciudad de México,"Naucalpan de 
-Juárez",1,1.0,0.0,0.0
-Ciudad de México,Nezahualcóyotl,1,1.0,0.0,0.0
-Ciudad de México,Zinacantepec,1,1.0,0.0,0.0
-Nayarit,Tepic,1,0.0,0.0,1.0
-Nuevo León,"Cadereyta 
-Jiménez",1,1.0,0.0,0.0
-Nuevo León,Juárez,1,1.0,0.0,0.0
-Nuevo León,Monterrey,1,1.0,0.0,0.0
-Oaxaca,"Matías Romero 
-Avendaño",1,1.0,0.0,0.0
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,1.0,0.0,0.0
-Oaxaca,"Santiago 
-Pinotepa 
-Nacional",1,0.0,1.0,0.0
-Puebla,Chietla,1,1.0,0.0,0.0
-Puebla,Puebla,4,4.0,0.0,0.0
-Quintana Roo,Benito Juárez,1,1.0,0.0,0.0
-Sinaloa,Choix,1,1.0,0.0,0.0
-Sinaloa,Culiacán,3,2.0,1.0,0.0
-Tamaulipas,Reynosa,1,1.0,0.0,0.0
-Tlaxcala,Yauhquemecan,2,1.0,1.0,0.0
-Veracruz,Cosoleacaque,1,1.0,0.0,0.0
-Veracruz,"Manlio Fabio 
-Altamirano",2,2.0,0.0,0.0
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,2,2,0,0,2019-09-01
+Baja California Sur,La Paz,2,2,0,0,2019-09-01
+Chihuahua,Bocoyna,1,1,0,0,2019-09-01
+Chihuahua,Cuauhtémoc,2,1,0,1,2019-09-01
+Chihuahua,Juárez,9,7,1,1,2019-09-01
+Ciudad de México,Gustavo A. Madero,2,2,0,0,2019-09-01
+Ciudad de México,Iztapalapa,1,1,0,0,2019-09-01
+Ciudad de México,Álvaro Obregón,4,4,0,0,2019-09-01
+Coahuila,Piedras Negras,1,1,0,0,2019-09-01
+Coahuila,Torreón,1,1,0,0,2019-09-01
+Colima,Armería,1,1,0,0,2019-09-01
+Colima,Villa De Álvarez,1,1,0,0,2019-09-01
+Guanajuato,Acámbaro,5,4,1,0,2019-09-01
+Guanajuato,León,2,2,0,0,2019-09-01
+Guanajuato,San Miguel De Allende,3,2,1,0,2019-09-01
+Guerrero,Acapulco De Juárez,1,1,0,0,2019-09-01
+Guerrero,Eduardo Neri,1,1,0,0,2019-09-01
+Guerrero,San Marcos,1,1,0,0,2019-09-01
+Jalisco,Guadalajara,1,1,0,0,2019-09-01
+Jalisco,Tlajomulco De Zúñiga,14,1,0,13,2019-09-01
+Michoacán,Coeneo,1,1,0,0,2019-09-01
+Michoacán,Lázaro Cárdenas,4,4,0,0,2019-09-01
+Michoacán,Morelia,8,5,2,1,2019-09-01
+Michoacán,Sahuayo,1,1,0,0,2019-09-01
+Michoacán,Tepalcatepec,1,1,0,0,2019-09-01
+Morelos,Cuernavaca,4,3,1,0,2019-09-01
+Morelos,Emiliano Zapata,1,1,0,0,2019-09-01
+Morelos,Jiutepec,1,1,0,0,2019-09-01
+Morelos,Zacatepec,1,1,0,0,2019-09-01
+Estado de México,Chimalhuacán,1,1,0,0,2019-09-01
+Estado de México,Naucalpan De Juárez,1,1,0,0,2019-09-01
+Estado de México,Nezahualcóyotl,1,1,0,0,2019-09-01
+Estado de México,Zinacantepec,1,1,0,0,2019-09-01
+Nayarit,Tepic,1,0,0,1,2019-09-01
+Nuevo León,Cadereyta Jiménez,1,1,0,0,2019-09-01
+Nuevo León,Juárez,1,1,0,0,2019-09-01
+Nuevo León,Monterrey,1,1,0,0,2019-09-01
+Oaxaca,Matías Romero Avendaño,1,1,0,0,2019-09-01
+Oaxaca,San Juan Bautista Tuxtepec,1,1,0,0,2019-09-01
+Oaxaca,Santiago Pinotepa Nacional,1,0,1,0,2019-09-01
+Puebla,Chietla,1,1,0,0,2019-09-01
+Puebla,Puebla,4,4,0,0,2019-09-01
+Quintana Roo,Benito Juárez,1,1,0,0,2019-09-01
+Sinaloa,Choix,1,1,0,0,2019-09-01
+Sinaloa,Culiacán,3,2,1,0,2019-09-01
+Tamaulipas,Reynosa,1,1,0,0,2019-09-01
+Tlaxcala,Yauhquemehcan,2,1,1,0,2019-09-01
+Veracruz,Cosoleacaque,1,1,0,0,2019-09-01
+Veracruz,Manlio Fabio Altamirano,2,2,0,0,2019-09-01

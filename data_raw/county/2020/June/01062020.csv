@@ -3,8 +3,7 @@ Baja California,Tijuana,11.0,11.0,0.0,0.0,2020-06-01
 Chihuahua,Chihuahua,4.0,4.0,0.0,0.0,2020-06-01
 Chihuahua,Juárez,4.0,4.0,0.0,0.0,2020-06-01
 Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2020-06-01
-Ciudad de México,"Venustiano 
-Carranza",1.0,1.0,0.0,0.0,2020-06-01
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2020-06-01
 Ciudad de México,Xochimilco,1.0,1.0,0.0,0.0,2020-06-01
 Colima,Colima,1.0,1.0,0.0,0.0,2020-06-01
 Colima,Manzanillo,7.0,7.0,0.0,0.0,2020-06-01
@@ -14,49 +13,37 @@ Guanajuato,Jerécuaro,1.0,1.0,0.0,0.0,2020-06-01
 Guanajuato,León,2.0,2.0,0.0,0.0,2020-06-01
 Guanajuato,Tarandacuao,1.0,1.0,0.0,0.0,2020-06-01
 Guanajuato,Uriangato,1.0,1.0,0.0,0.0,2020-06-01
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2020-06-01
-Guerrero,"Buenavista de 
-Cuéllar",1.0,1.0,0.0,0.0,2020-06-01
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-06-01
+Guerrero,Buenavista De Cuéllar,1.0,1.0,0.0,0.0,2020-06-01
 Guerrero,Ometepec,1.0,1.0,0.0,0.0,2020-06-01
-Guerrero,"Zihuatanejo de 
-Azueta",1.0,0.0,1.0,0.0,2020-06-01
-Hidalgo,"Tezontepec de 
-Aldama",1.0,1.0,0.0,0.0,2020-06-01
+Guerrero,Zihuatanejo De Azueta,1.0,0.0,1.0,0.0,2020-06-01
+Hidalgo,Tezontepec De Aldama,1.0,1.0,0.0,0.0,2020-06-01
 Jalisco,Guadalajara,1.0,0.0,1.0,0.0,2020-06-01
 Michoacán,Zamora,3.0,2.0,0.0,1.0,2020-06-01
 Morelos,Cuautla,1.0,0.0,0.0,1.0,2020-06-01
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-06-01
 Morelos,Jiutepec,2.0,2.0,0.0,0.0,2020-06-01
 Morelos,Xochitepec,1.0,1.0,0.0,0.0,2020-06-01
-Estado de México,"Coacalco de 
-Berriozábal",2.0,0.0,0.0,2.0,2020-06-01
-Estado de México,"Ecatepec de 
-Morelos",1.0,0.0,0.0,1.0,2020-06-01
+Estado de México,Coacalco De Berriozábal,2.0,0.0,0.0,2.0,2020-06-01
+Estado de México,Ecatepec De Morelos,1.0,0.0,0.0,1.0,2020-06-01
 Estado de México,Tepotzotlán,1.0,1.0,0.0,0.0,2020-06-01
 Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-06-01
 Nuevo León,Vallecillo,3.0,3.0,0.0,0.0,2020-06-01
-Oaxaca,"Santiago 
-Jamiltepec",1.0,1.0,0.0,0.0,2020-06-01
+Oaxaca,Santiago Jamiltepec,1.0,1.0,0.0,0.0,2020-06-01
 Puebla,Acatlán,1.0,0.0,1.0,0.0,2020-06-01
 Puebla,Huejotzingo,1.0,1.0,0.0,0.0,2020-06-01
-Puebla,"Izúcar de 
-Matamoros",1.0,1.0,0.0,0.0,2020-06-01
-Puebla,"Palmar de 
-Bravo",2.0,2.0,0.0,0.0,2020-06-01
+Puebla,Izúcar De Matamoros,1.0,1.0,0.0,0.0,2020-06-01
+Puebla,Palmar De Bravo,2.0,2.0,0.0,0.0,2020-06-01
 Puebla,Puebla,1.0,0.0,1.0,0.0,2020-06-01
 Querétaro,Corregidora,1.0,0.0,1.0,0.0,2020-06-01
 Quintana Roo,Bacalar,2.0,0.0,0.0,2.0,2020-06-01
 Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2020-06-01
 San Luis Potosí,San Luis Potosí,1.0,0.0,1.0,0.0,2020-06-01
-San Luis Potosí,"Tanquián de 
-Escobedo",1.0,1.0,0.0,0.0,2020-06-01
+San Luis Potosí,Tanquián De Escobedo,1.0,1.0,0.0,0.0,2020-06-01
 Veracruz,Agua Dulce,1.0,1.0,0.0,0.0,2020-06-01
 Veracruz,Fortín,1.0,1.0,0.0,0.0,2020-06-01
-Veracruz,"Martínez de la 
-Torre",1.0,1.0,0.0,0.0,2020-06-01
-Veracruz,"Sayula de 
-Alemán",1.0,1.0,0.0,0.0,2020-06-01
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2020-06-01
+Veracruz,Sayula De Alemán,1.0,1.0,0.0,0.0,2020-06-01
 Veracruz,Tecolutla,2.0,2.0,0.0,0.0,2020-06-01
 Zacatecas,Fresnillo,2.0,2.0,0.0,0.0,2020-06-01
 Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2020-06-01

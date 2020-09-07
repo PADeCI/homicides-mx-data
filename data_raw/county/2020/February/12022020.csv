@@ -1,106 +1,50 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-"Baja 
-California 
-(5)",Tijuana,1,-,-,1
-,,1,1,-,-
-,,2,-,-,2
-,,1,1,-,-
-"Chihuahua 
-(3)",Chihuahua,1,1,-,-
-,Cuauhtémoc,1,1,-,-
-,Juárez,1,1,-,-
-"Ciudad de 
-México (2)",Cuauhtémoc,1,1,-,-
-,Tláhuac,1,-,-,1
-"Guanajuato 
-(13)",Celaya,1,1,-,-
-,Irapuato,2,2,-,-
-,,1,1,-,-
-,León,1,1,-,-
-,,2,2,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,Pénjamo,1,-,-,1
-,Salamanca,1,1,-,-
-,,,,,
-,"San Francisco 
-del Rincón",1.0,1,-,-
-"Guerrero 
-(10)","Acapulco de 
-Juárez",1.0,-,1,-
-,Azoyú,3.0,3,-,-
-,"Coyuca de 
-Benítez",1.0,1,-,-
-,,1.0,1,-,-
-,"La Unión de 
-Isidoro 
-Montes de 
-Oca",3.0,-,-,3
-,"Taxco de 
-Alarcón",1.0,1,-,-
-Hidalgo (3),Huichapan,1.0,1,-,-
-,"Santiago 
-Tulantepec de 
-Lugo 
-Guerrero",1.0,1,-,-
-,"Tula de 
-Allende",1.0,1,-,-
-Jalisco (6),El Salto,1.0,1,-,-
-,Guadalajara,1.0,1,-,-
-,,1.0,-,-,1
-,,1.0,1,-,-
-,"Lagos de 
-Moreno",1.0,1,-,-
-,Tonalá,1.0,1,-,-
-México (5),"Almoloya del 
-Río",1.0,-,1,-
-,Chalco,1.0,1,-,-
-,"Ecatepec de 
-Morelos",2.0,2,-,-
-,Ocoyoacac,1.0,1,-,-
-"Michoacán 
-de Ocampo 
-(6)",Angamacutiro,2.0,2,-,-
-,Huandacareo,1.0,1,-,-
-,Uruapan,1,1,-,-
-,,1,-,-,1
-,Zamora,1,1,-,-
-Morelos (1),Cuernavaca,1,1,-,-
-"Nuevo León 
-(2)","Ciénega de 
-Flores",1,1,-,-
-,Monterrey,1,1,-,-
-Oaxaca (1),"San Felipe 
-Jalapa de Díaz",1,1,-,-
-Puebla (1),Puebla,1,-,1,-
-"Quintana 
-Roo (1)",Benito Juárez,1,1,-,-
-"San Luis 
-Potosí (1)","San Luis 
-Potosí",1,1,-,-
-Sinaloa (6),Culiacán,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-Sonora (1),Guaymas,1,1,-,-
-"Tamaulipas 
-(3)",Reynosa,1,1,-,-
-,Tampico,1,1,-,-
-,Victoria,1,1,-,-
-"Veracruz de 
-Ignacio de 
-la Llave (6)",Córdoba,1,1,-,-
-,"Ixhuatlán del 
-Sureste",1,-,-,1
-,Las Choapas,2,2,-,-
-,,1,1,-,-
-,Minatitlán,1,1,-,-
-Zacatecas,Fresnillo,1,1,-,-
-(2),,,,,
-,Río Grande,1.0,1.0,-,-
-Totales,,78.0,64.0,3,11
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,5.0,2.0,0.0,3.0,2020-02-12
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-02-12
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-02-12
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-02-12
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-02-12
+Ciudad de México,Tláhuac,1.0,0.0,0.0,1.0,2020-02-12
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-02-12
+Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2020-02-12
+Guanajuato,León,6.0,6.0,0.0,0.0,2020-02-12
+Guanajuato,Pénjamo,1.0,0.0,0.0,1.0,2020-02-12
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-02-12
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2020-02-12
+Guerrero,Acapulco De Juárez,1.0,0.0,1.0,0.0,2020-02-12
+Guerrero,Azoyú,3.0,3.0,0.0,0.0,2020-02-12
+Guerrero,Coyuca De Benítez,2.0,2.0,0.0,0.0,2020-02-12
+Guerrero,La Unión De Isidoro Montes De Oca,3.0,0.0,0.0,3.0,2020-02-12
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2020-02-12
+Hidalgo,Huichapan,1.0,1.0,0.0,0.0,2020-02-12
+Hidalgo,Santiago Tulantepec De Lugo Guerrero,1.0,1.0,0.0,0.0,2020-02-12
+Hidalgo,Tula De Allende,1.0,1.0,0.0,0.0,2020-02-12
+Jalisco,El Salto,1.0,1.0,0.0,0.0,2020-02-12
+Jalisco,Guadalajara,3.0,2.0,0.0,1.0,2020-02-12
+Jalisco,Lagos De Moreno,1.0,1.0,0.0,0.0,2020-02-12
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-02-12
+Michoacán,Angamacutiro,2.0,2.0,0.0,0.0,2020-02-12
+Michoacán,Huandacareo,1.0,1.0,0.0,0.0,2020-02-12
+Michoacán,Uruapan,2.0,1.0,0.0,1.0,2020-02-12
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-02-12
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-02-12
+Estado de México,Almoloya Del Río,1.0,0.0,1.0,0.0,2020-02-12
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2020-02-12
+Estado de México,Ecatepec De Morelos,2.0,2.0,0.0,0.0,2020-02-12
+Estado de México,Ocoyoacac,1.0,1.0,0.0,0.0,2020-02-12
+Nuevo León,Ciénega De Flores,1.0,1.0,0.0,0.0,2020-02-12
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-02-12
+Oaxaca,San Felipe Jalapa De Díaz,1.0,1.0,0.0,0.0,2020-02-12
+Puebla,Puebla,1.0,0.0,1.0,0.0,2020-02-12
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-02-12
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-02-12
+Sinaloa,Culiacán,6.0,6.0,0.0,0.0,2020-02-12
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-02-12
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-02-12
+Tamaulipas,Tampico,1.0,1.0,0.0,0.0,2020-02-12
+Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2020-02-12
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2020-02-12
+Veracruz,Ixhuatlán Del Sureste,1.0,0.0,0.0,1.0,2020-02-12
+Veracruz,Las Choapas,3.0,3.0,0.0,0.0,2020-02-12
+Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2020-02-12
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-02-12

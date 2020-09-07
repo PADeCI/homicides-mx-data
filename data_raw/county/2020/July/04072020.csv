@@ -1,42 +1,35 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,Aguascalientes,4.0,2.0,0.0,2.0,2020-07-04
-Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2020-07-04
-Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-07-04
-Colima,Armería,1.0,1.0,0.0,0.0,2020-07-04
-Durango,Lerdo,1.0,1.0,0.0,0.0,2020-07-04
-Guanajuato,Acámbaro,3.0,3.0,0.0,0.0,2020-07-04
-Guanajuato,Celaya,5.0,5.0,0.0,0.0,2020-07-04
-Guanajuato,Comonfort,1.0,1.0,0.0,0.0,2020-07-04
-Guanajuato,León,5.0,5.0,0.0,0.0,2020-07-04
-Guanajuato,Tarimoro,1.0,0.0,1.0,0.0,2020-07-04
-Hidalgo,Zimapán,1.0,1.0,0.0,0.0,2020-07-04
-Colima,Tecolutla,1.0,1.0,0.0,0.0,2020-07-04
-Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-07-04
-Jalisco,Zapopan,2.0,1.0,0.0,1.0,2020-07-04
-Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-07-04
-Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-07-04
-Michoacán,Ziracuaretiro,2.0,2.0,0.0,0.0,2020-07-04
-Michoacán,Zitácuaro,1.0,1.0,0.0,0.0,2020-07-04
-Morelos,Nuevo León (1)  Gral. Escobedo,1.0,1.0,0.0,0.0,2020-07-04
-Morelos,Temixco,1.0,1.0,0.0,0.0,2020-07-04
-Estado de México,Chalco,1.0,0.0,1.0,0.0,2020-07-04
-Estado de México,"Valle de Chalco 
-Solidaridad",1.0,1.0,0.0,0.0,2020-07-04
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1.0,0.0,1.0,0.0,2020-07-04
-Oaxaca,"Oaxaca de 
-Juárez",1.0,1.0,0.0,0.0,2020-07-04
-Oaxaca,"Santo 
-Domingo 
-Tehuantepec",1.0,1.0,0.0,0.0,2020-07-04
-Oaxaca,"Santo Tomás 
-Tamazulapan",1.0,1.0,0.0,0.0,2020-07-04
-Puebla,Chigmecatitlán,1.0,0.0,1.0,0.0,2020-07-04
-Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-07-04
-Sinaloa,Ahome,1.0,1.0,0.0,0.0,2020-07-04
-Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-07-04
-Tabasco,Centro,1.0,1.0,0.0,0.0,2020-07-04
-Tabasco,Cárdenas,1.0,0.0,1.0,0.0,2020-07-04
-Tamaulipas,Victoria,3.0,2.0,1.0,0.0,2020-07-04
-Veracruz,Tecolutla,1.0,1.0,0.0,0.0,2020-07-04
+Aguascalientes,Aguascalientes,4,2,0,2,2020-07-04
+Chihuahua,Chihuahua,2,2,0,0,2020-07-04
+Chihuahua,Juárez,2,2,0,0,2020-07-04
+Colima,Armería,1,1,0,0,2020-07-04
+Durango,Lerdo,1,1,0,0,2020-07-04
+Guanajuato,Acámbaro,3,3,0,0,2020-07-04
+Guanajuato,Celaya,5,5,0,0,2020-07-04
+Guanajuato,Comonfort,1,1,0,0,2020-07-04
+Guanajuato,León,5,5,0,0,2020-07-04
+Guanajuato,Tarimoro,1,0,1,0,2020-07-04
+Hidalgo,Zimapán,1,1,0,0,2020-07-04
+Colima,Tecolutla,1,1,0,0,2020-07-04
+Jalisco,Guadalajara,1,1,0,0,2020-07-04
+Jalisco,Zapopan,2,1,0,1,2020-07-04
+Michoacán,Uruapan,1,1,0,0,2020-07-04
+Michoacán,Zamora,2,2,0,0,2020-07-04
+Michoacán,Ziracuaretiro,2,2,0,0,2020-07-04
+Michoacán,Zitácuaro,1,1,0,0,2020-07-04
+Nuevo León,Escobedo,1,1,0,0,2020-07-04
+Morelos,Temixco,1,1,0,0,2020-07-04
+Estado de México,Chalco,1,0,1,0,2020-07-04
+Estado de México,Valle De Chalco Solidaridad,1,1,0,0,2020-07-04
+Oaxaca,Zaragoza,1,0,1,0,2020-07-04
+Oaxaca,Oaxaca De Juárez,1,1,0,0,2020-07-04
+Oaxaca,Santo Domingo Tehuantepec,1,1,0,0,2020-07-04
+Oaxaca,Santo Tomás Tamazulapan,1,1,0,0,2020-07-04
+Puebla,Chigmecatitlán,1,0,1,0,2020-07-04
+Querétaro,Querétaro,1,1,0,0,2020-07-04
+Sinaloa,Ahome,1,1,0,0,2020-07-04
+Sinaloa,Culiacán,2,2,0,0,2020-07-04
+Tabasco,Centro,1,1,0,0,2020-07-04
+Tabasco,Cárdenas,1,0,1,0,2020-07-04
+Tamaulipas,Victoria,3,2,1,0,2020-07-04
+Veracruz,Tecolutla,1,1,0,0,2020-07-04

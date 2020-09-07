@@ -1,6 +1,5 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,"Aguascaliente
-s",1.0,1.0,0.0,0.0,2020-05-23
+Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2020-05-23
 Baja California,Tijuana,6.0,6.0,0.0,0.0,2020-05-23
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-05-23
 Chihuahua,Juárez,4.0,3.0,1.0,0.0,2020-05-23
@@ -9,28 +8,19 @@ Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-05-23
 Guanajuato,León,4.0,3.0,0.0,1.0,2020-05-23
 Guanajuato,Pueblo Nuevo,1.0,1.0,0.0,0.0,2020-05-23
 Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-05-23
-Guerrero,"Coyuca de 
-Benítez",1.0,1.0,0.0,0.0,2020-05-23
+Guerrero,Coyuca De Benítez,1.0,1.0,0.0,0.0,2020-05-23
 Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2020-05-23
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-05-23
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-23
 Michoacán,Huetamo,12.0,12.0,0.0,0.0,2020-05-23
-Michoacán,"Lázaro 
-Cárdenas",2.0,2.0,0.0,0.0,2020-05-23
+Michoacán,Lázaro Cárdenas,2.0,2.0,0.0,0.0,2020-05-23
 Michoacán,Panindícuaro,5.0,1.0,4.0,0.0,2020-05-23
 Michoacán,Zamora,2.0,1.0,1.0,0.0,2020-05-23
-Oaxaca,"Miahuatlán de 
-Porfirio Díaz",1.0,1.0,0.0,0.0,2020-05-23
-Oaxaca,"Santiago 
-Pinotepa 
-Nacional",1.0,0.0,1.0,0.0,2020-05-23
+Oaxaca,Miahuatlán De Porfirio Díaz,1.0,1.0,0.0,0.0,2020-05-23
+Oaxaca,Santiago Pinotepa Nacional,1.0,0.0,1.0,0.0,2020-05-23
 Puebla,Yehualtepec,1.0,0.0,0.0,1.0,2020-05-23
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-23
-San Luis Potosí,"San Luis 
-Potosí",1.0,1.0,0.0,0.0,2020-05-23
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",2.0,2.0,0.0,0.0,2020-05-23
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-05-23
+San Luis Potosí,Soledad De Graciano Sánchez,2.0,2.0,0.0,0.0,2020-05-23
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-05-23
 Tabasco,Cunduacán,1.0,1.0,0.0,0.0,2020-05-23
 Veracruz,Acultzingo,2.0,2.0,0.0,0.0,2020-05-23

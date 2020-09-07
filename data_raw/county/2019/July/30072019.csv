@@ -1,30 +1,23 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,"San Francisco 
-de los Romo",1,1.0,0.0,0.0,2019-07-30
+Aguascalientes,San Francisco De Los Romo,1,1.0,0.0,0.0,2019-07-30
 Baja California,Tijuana,8,8.0,0.0,0.0,2019-07-30
 Chiapas,Tapachula,1,1.0,0.0,0.0,2019-07-30
 Chihuahua,Guerrero,2,2.0,0.0,0.0,2019-07-30
-Chihuahua,"Hidalgo del 
-Parral",1,0.0,1.0,0.0,2019-07-30
+Chihuahua,Hidalgo Del Parral,1,0.0,1.0,0.0,2019-07-30
 Chihuahua,Juárez,1,1.0,0.0,0.0,2019-07-30
 Colima,Colima,1,1.0,0.0,0.0,2019-07-30
 Colima,Manzanillo,1,1.0,0.0,0.0,2019-07-30
 Guanajuato,Acámbaro,1,1.0,0.0,0.0,2019-07-30
 Guanajuato,Celaya,1,1.0,0.0,0.0,2019-07-30
 Guanajuato,León,1,1.0,0.0,0.0,2019-07-30
-Guanajuato,"San Luis de la 
-Paz",1,1.0,0.0,0.0,2019-07-30
-Guerrero,"Acapulco de 
-Juárez",2,0.0,0.0,2.0,2019-07-30
+Guanajuato,San Luis De La Paz,1,1.0,0.0,0.0,2019-07-30
+Guerrero,Acapulco De Juárez,2,0.0,0.0,2.0,2019-07-30
 Guerrero,Juchitán,1,1.0,0.0,0.0,2019-07-30
-Guerrero,"Zihuatanejo de 
-Azueta",1,1.0,0.0,0.0,2019-07-30
+Guerrero,Zihuatanejo De Azueta,1,1.0,0.0,0.0,2019-07-30
 Hidalgo,Huichapan,2,2.0,0.0,0.0,2019-07-30
 Jalisco,Guadalajara,3,3.0,0.0,0.0,2019-07-30
-Jalisco,"Lagos de 
-Moreno",3,3.0,0.0,0.0,2019-07-30
-Jalisco,"Tlajomulco de 
-Zúñiga",3,0.0,0.0,3.0,2019-07-30
+Jalisco,Lagos De Moreno,3,3.0,0.0,0.0,2019-07-30
+Jalisco,Tlajomulco De Zúñiga,3,0.0,0.0,3.0,2019-07-30
 Michoacán,La Piedad,1,1.0,0.0,0.0,2019-07-30
 Michoacán,Morelia,1,1.0,0.0,0.0,2019-07-30
 Michoacán,Uruapan,2,2.0,0.0,0.0,2019-07-30
@@ -38,15 +31,9 @@ Estado de México,Tecámac,1,1.0,0.0,0.0,2019-07-30
 Estado de México,Tianguistenco,1,1.0,0.0,0.0,2019-07-30
 Estado de México,Zumpango,1,1.0,0.0,0.0,2019-07-30
 Nuevo León,Guadalupe,1,1.0,0.0,0.0,2019-07-30
-Oaxaca,"Heroica 
-Ciudad de 
-Juchitán de 
-Zaragoza",1,1.0,0.0,0.0,2019-07-30
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2019-07-30
-Oaxaca,"Santa Lucía del 
-Camino",1,0.0,0.0,1.0,2019-07-30
+Oaxaca,Zaragoza,1,1.0,0.0,0.0,2019-07-30
+Oaxaca,San Juan Bautista Tuxtepec,1,1.0,0.0,0.0,2019-07-30
+Oaxaca,Santa Lucía Del Camino,1,0.0,0.0,1.0,2019-07-30
 Puebla,Tehuacán,1,1.0,0.0,0.0,2019-07-30
 Quintana Roo,Benito Juárez,2,1.0,1.0,0.0,2019-07-30
 Sinaloa,Ahome,2,2.0,0.0,0.0,2019-07-30
@@ -57,6 +44,5 @@ Sonora,Hermosillo,2,2.0,0.0,0.0,2019-07-30
 Tabasco,Huimanguillo,1,1.0,0.0,0.0,2019-07-30
 Tamaulipas,Reynosa,2,2.0,0.0,0.0,2019-07-30
 Veracruz,Minatitlán,1,1.0,0.0,0.0,2019-07-30
-Veracruz,"Soledad de 
-Doblado",2,1.0,1.0,0.0,2019-07-30
+Veracruz,Soledad De Doblado,2,1.0,1.0,0.0,2019-07-30
 Zacatecas,Fresnillo,1,1.0,0.0,0.0,2019-07-30

@@ -1,50 +1,37 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Mexicali,1,1.0,0.0,0.0,2019-12-25
-Baja California,Tecate,1,1.0,0.0,0.0,2019-12-25
-Baja California,Tijuana,2,2.0,0.0,0.0,2019-12-25
-Chiapas,Ocosingo,1,1.0,0.0,0.0,2019-12-25
-Chihuahua,Chihuahua,1,0.0,0.0,1.0,2019-12-25
-Ciudad de México,"Gustavo A. 
-Madero",1,1.0,0.0,0.0,2019-12-25
-Ciudad de México,Iztapalapa,1,0.0,1.0,0.0,2019-12-25
-Coahuila,Matamoros,1,1.0,0.0,0.0,2019-12-25
-Coahuila,San Pedro,1,1.0,0.0,0.0,2019-12-25
-Guanajuato,"Apaseo el 
-Grande",2,0.0,0.0,2.0,2019-12-25
-Guanajuato,Celaya,2,1.0,1.0,0.0,2019-12-25
-Guanajuato,Comonfort,1,0.0,0.0,1.0,2019-12-25
-Guanajuato,Irapuato,1,1.0,0.0,0.0,2019-12-25
-Guanajuato,León,3,3.0,0.0,0.0,2019-12-25
-Guanajuato,Pénjamo,2,2.0,0.0,0.0,2019-12-25
-Guerrero,"Acapulco de 
-Juárez",3,3.0,0.0,0.0,2019-12-25
-Guerrero,"Coyuca de 
-Benítez",1,1.0,0.0,0.0,2019-12-25
-Jalisco,Guadalajara,1,1.0,0.0,0.0,2019-12-25
-Michoacán,Uruapan,1,1.0,0.0,0.0,2019-12-25
-Morelos,Jiutepec,1,1.0,0.0,0.0,2019-12-25
-Estado de México,"Coatepec 
-Harinas",2,2.0,0.0,0.0,2019-12-25
-Estado de México,Temoaya,1,1.0,0.0,0.0,2019-12-25
-Oaxaca,"Heroica 
-Ciudad de 
-Juchitán de 
-Zaragoza",2,2.0,0.0,0.0,2019-12-25
-Oaxaca,"Huautla de 
-Jiménez",1,1.0,0.0,0.0,2019-12-25
-Oaxaca,"Santo 
-Domingo 
-Petapa",1,1.0,0.0,0.0,2019-12-25
-Campeche,Uruapan,2,0.0,0.0,2.0,2019-12-25
-Puebla,Atzala,1,1.0,0.0,0.0,2019-12-25
-Puebla,Juan Galindo,1,1.0,0.0,0.0,2019-12-25
-Puebla,Puebla,1,1.0,0.0,0.0,2019-12-25
-Quintana Roo,Bacalar,2,2.0,0.0,0.0,2019-12-25
-Quintana Roo,San Luis Potosí (2)  San Luis Potosí,2,2.0,0.0,0.0,2019-12-25
-Sinaloa,Culiacán,1,1.0,0.0,0.0,2019-12-25
-Sonora,Hermosillo,3,3.0,0.0,0.0,2019-12-25
-Tabasco,"Emiliano 
-Zapata",1,1.0,0.0,0.0,2019-12-25
-Tlaxcala,"Santa Cruz 
-Tlaxcala",1,1.0,0.0,0.0,2019-12-25
-Veracruz,Coatzacoalcos,1,1.0,0.0,0.0,2019-12-25
+Baja California,Mexicali,1,1,0,0,2019-12-25
+Baja California,Tecate,1,1,0,0,2019-12-25
+Baja California,Tijuana,2,2,0,0,2019-12-25
+Chiapas,Ocosingo,1,1,0,0,2019-12-25
+Chihuahua,Chihuahua,1,0,0,1,2019-12-25
+Ciudad de México,Gustavo A. Madero,1,1,0,0,2019-12-25
+Ciudad de México,Iztapalapa,1,0,1,0,2019-12-25
+Coahuila,Matamoros,1,1,0,0,2019-12-25
+Coahuila,San Pedro,1,1,0,0,2019-12-25
+Guanajuato,Apaseo El Grande,2,0,0,2,2019-12-25
+Guanajuato,Celaya,2,1,1,0,2019-12-25
+Guanajuato,Comonfort,1,0,0,1,2019-12-25
+Guanajuato,Irapuato,1,1,0,0,2019-12-25
+Guanajuato,León,3,3,0,0,2019-12-25
+Guanajuato,Pénjamo,2,2,0,0,2019-12-25
+Guerrero,Acapulco De Juárez,3,3,0,0,2019-12-25
+Guerrero,Coyuca De Benítez,1,1,0,0,2019-12-25
+Jalisco,Guadalajara,1,1,0,0,2019-12-25
+Michoacán,Uruapan,1,1,0,0,2019-12-25
+Morelos,Jiutepec,1,1,0,0,2019-12-25
+Estado de México,Coatepec Harinas,2,2,0,0,2019-12-25
+Estado de México,Temoaya,1,1,0,0,2019-12-25
+Oaxaca,Zaragoza,2,2,0,0,2019-12-25
+Oaxaca,Huautla De Jiménez,1,1,0,0,2019-12-25
+Oaxaca,Santo Domingo Petapa,1,1,0,0,2019-12-25
+Campeche,Uruapan,2,0,0,2,2019-12-25
+Puebla,Atzala,1,1,0,0,2019-12-25
+Puebla,Juan Galindo,1,1,0,0,2019-12-25
+Puebla,Puebla,1,1,0,0,2019-12-25
+Quintana Roo,Bacalar,2,2,0,0,2019-12-25
+San Luis Potosí,San Luis Potosí,2,2,0,0,2019-12-25
+Sinaloa,Culiacán,1,1,0,0,2019-12-25
+Sonora,Hermosillo,3,3,0,0,2019-12-25
+Tabasco,Emiliano Zapata,1,1,0,0,2019-12-25
+Tlaxcala,Santa Cruz Tlaxcala,1,1,0,0,2019-12-25
+Veracruz,Coatzacoalcos,1,1,0,0,2019-12-25

@@ -1,90 +1,44 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-"Aguascalientes 
-(1)","Aguascaliente
-s",1,1,-,-
-"Baja California 
-(1)",Tijuana,1,-,1,-
-Chihuahua (3),Bocoyna,1,1,-,-
-,Chihuahua,1,-,-,1
-,Juárez,1,1,-,-
-"Ciudad de 
-México (2)",Cuauhtémoc,1,1,-,-
-,Tláhuac,1,1,-,-
-Colima (1),Colima,1,1,-,-
-"Guanajuato 
-(10)","Apaseo el 
-Grande",1,1,-,-
-,Celaya,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,"Dolores 
-Hidalgo Cuna 
-de la 
-Independenci
-a Nacional",1,1,-,-
-,Irapuato,2,1,1,-
-,Salamanca,2,2,-,-
-Guerrero (3),"Iguala de la 
-Independenci
-a",2,-,-,2
-,,1,1,-,-
-Hidalgo (2),Huichapan,2,2,-,-
-Jalisco (1),"Tlajomulco de 
-Zúñiga",1,1,-,-
-México (4),"Ecatepec de 
-Morelos",3,1,2,-
-,"Ixtapan de la 
-Sal",1,1,-,-
-"Michoacán de 
-Ocampo (6)",Morelia,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,Tarímbaro,1,1,-,-
-,Zacapu,1,1,-,-
-Morelos (1),Cuernavaca,1,1,-,-
-Nuevo León (5),Guadalupe,2,2,-,-
-,,1,1,-,-
-,,1,1,-,-
-,Monterrey,1,-,1,-
-Oaxaca (6),"Matías 
-Romero 
-Avendaño",3,-,-,3
-,"Santa María 
-Chimalapa",3,-,-,3
-Puebla (4),Ocoyucan,1,1,-,-
-,"San Andrés 
-Cholula",1,-,1,-
-,"Tecali de 
-Herrera",1,1,-,-
-,Tepexco,1,1,-,-
-"Quintana Roo 
-(6)",Benito Juárez,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,-,-,1
-,Tulum,2,2,-,-
-"San Luis Potosí 
-(1)","Soledad de 
-Graciano 
-Sánchez",1,1,-,-
-Sinaloa (2),Culiacán,1,1,-,-
-,,1,1,-,-
-Sonora (3),Guaymas,1,1,-,-
-,,1,1,-,-
-,Hermosillo,1,1,-,-
-Tabasco (1),Huimanguillo,1,1,-,-
-Tamaulipas (2),Matamoros,1,1,-,-
-,Reynosa,1,-,-,1
-Tlaxcala (1),"Sanctórum de 
-Lázaro 
-Cárdenas",1,1,-,-
-"Veracruz de 
-Ignacio de la 
-Llave (2)",Atoyac,1,1,-,-
-,Córdoba,1,1,-,-
-Zacatecas (2),Ojocaliente,2,1,1,-
-Totales,,70,52,7,11
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1,1.0,0.0,0.0,2020-02-26
+Baja California,Tijuana,1,0.0,1.0,0.0,2020-02-26
+Chihuahua,Bocoyna,1,1.0,0.0,0.0,2020-02-26
+Chihuahua,Chihuahua,1,0.0,0.0,1.0,2020-02-26
+Chihuahua,Juárez,1,1.0,0.0,0.0,2020-02-26
+Ciudad de México,Cuauhtémoc,1,1.0,0.0,0.0,2020-02-26
+Ciudad de México,Tláhuac,1,1.0,0.0,0.0,2020-02-26
+Colima,Colima,1,1.0,0.0,0.0,2020-02-26
+Guanajuato,Apaseo El Grande,1,1.0,0.0,0.0,2020-02-26
+Guanajuato,Celaya,4,4.0,0.0,0.0,2020-02-26
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,1,1.0,0.0,0.0,2020-02-26
+Guanajuato,Irapuato,2,1.0,1.0,0.0,2020-02-26
+Guanajuato,Salamanca,2,2.0,0.0,0.0,2020-02-26
+Guerrero,Iguala De La Independencia,3,1.0,0.0,2.0,2020-02-26
+Hidalgo,Huichapan,2,2.0,0.0,0.0,2020-02-26
+Jalisco,Tlajomulco De Zúñiga,1,1.0,0.0,0.0,2020-02-26
+Michoacán,Morelia,4,4.0,0.0,0.0,2020-02-26
+Michoacán,Tarímbaro,1,1.0,0.0,0.0,2020-02-26
+Michoacán,Zacapu,1,1.0,0.0,0.0,2020-02-26
+Morelos,Cuernavaca,1,1.0,0.0,0.0,2020-02-26
+Estado de México,Ecatepec De Morelos,3,1.0,2.0,0.0,2020-02-26
+Estado de México,Ixtapan De La Sal,1,1.0,0.0,0.0,2020-02-26
+Nuevo León,Guadalupe,4,4.0,0.0,0.0,2020-02-26
+Nuevo León,Monterrey,1,0.0,1.0,0.0,2020-02-26
+Oaxaca,Matías Romero Avendaño,3,0.0,0.0,3.0,2020-02-26
+Oaxaca,Santa María Chimalapa,3,0.0,0.0,3.0,2020-02-26
+Puebla,Ocoyucan,1,1.0,0.0,0.0,2020-02-26
+Puebla,San Andrés Cholula,1,0.0,1.0,0.0,2020-02-26
+Puebla,Tecali De Herrera,1,1.0,0.0,0.0,2020-02-26
+Puebla,Tepexco,1,1.0,0.0,0.0,2020-02-26
+Quintana Roo,Benito Juárez,4,3.0,0.0,1.0,2020-02-26
+Quintana Roo,Tulum,2,2.0,0.0,0.0,2020-02-26
+San Luis Potosí,Soledad De Graciano Sánchez,1,1.0,0.0,0.0,2020-02-26
+Sinaloa,Culiacán,2,2.0,0.0,0.0,2020-02-26
+Sonora,Guaymas,2,2.0,0.0,0.0,2020-02-26
+Sonora,Hermosillo,1,1.0,0.0,0.0,2020-02-26
+Tabasco,Huimanguillo,1,1.0,0.0,0.0,2020-02-26
+Tamaulipas,Matamoros,1,1.0,0.0,0.0,2020-02-26
+Tamaulipas,Reynosa,1,0.0,0.0,1.0,2020-02-26
+Tlaxcala,Sanctórum De Lázaro Cárdenas,1,1.0,0.0,0.0,2020-02-26
+Veracruz,Atoyac,1,1.0,0.0,0.0,2020-02-26
+Veracruz,Córdoba,1,1.0,0.0,0.0,2020-02-26
+Zacatecas,Ojocaliente,2,1.0,1.0,0.0,2020-02-26

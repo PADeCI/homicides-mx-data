@@ -1,97 +1,50 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-"Baja California 
-(12)",Tijuana,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,-,1,-
-,,2,1,1,-
-,,1,-,-,1
-,,1,-,-,1
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-Campeche (1),Escárcega,1,1,-,-
-Chiapas (1),Suchiate,1,1,-,-
-Chihuahua (2),Cuauhtémoc,2,-,-,2
-"Ciudad de 
-México (4)",Benito Juárez,1,-,-,1
-,Cuauhtémoc,1,1,-,-
-,"Gustavo A. 
-Madero",1,1,-,-
-,Iztapalapa,1,-,1,-
-Colima (5),Colima,2,1,1,-
-,,1,1,-,-
-,Manzanillo,1,1,-,-
-,Villa de Álvarez,1,1,-,-
-,,,,,
-"Guanajuato 
-(11)",Acámbaro,1.0,1,-,-
-,Celaya,1.0,-,1,-
-,,1.0,-,-,1
-,León,1.0,1,-,-
-,,4.0,4,-,-
-,Salvatierra,1.0,1,-,-
-,Yuriria,2.0,2,-,-
-Guerrero (2),"Coyuca de 
-Benítez",1.0,-,1,-
-,Tecoanapa,1.0,1,-,-
-Jalisco (5),"San Pedro 
-Tlaquepaque",1.0,1,-,-
-,,1.0,1,-,-
-,,1.0,1,-,-
-,,1.0,1,-,-
-,Tonalá,1.0,-,-,1
-México (5),"Ecatepec de 
-Morelos",2.0,-,2,-
-,Toluca,1.0,-,1,-
-,Tultitlán,1.0,1,-,-
-,Zinacantepec,1.0,1,-,-
-"Michoacán de 
-Ocampo (14)",Contepec,1.0,1,-,-
-,Hidalgo,1.0,1,-,-
-,Morelia,2.0,-,-,2
-,,1.0,1,-,-
-,,1.0,1,-,-
-,Parácuaro,1.0,1,-,-
-,"Tangamandapi
-o",1.0,1,-,-
-,Zamora,1,1,-,-
-,,2,2,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-"Nuevo León 
-(2)",Monterrey,2,2,-,-
-Oaxaca (1),"Putla Villa de 
-Guerrero",1,1,-,-
-Puebla (5),Huejotzingo,1,1,-,-
-,,4,3,1,-
-Querétaro (2),El Marqués,2,1,1,-
-"Quintana Roo 
-(4)",Benito Juárez,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,Isla Mujeres,1,1,-,-
-"San Luis 
-Potosí (3)",Moctezuma,1,-,-,1
-,San Luis Potosí,1,1,-,-
-,,1,1,-,-
-Sinaloa (1),Guasave,1,1,-,-
-Sonora (5),Cajeme,1,1,-,-
-,,1,1,-,-
-,,1,-,-,1
-,Hermosillo,2,2,-,-
-Tabasco (2),Cárdenas,2,2,-,-
-Tamaulipas (5),Matamoros,1,1,-,-
-,Reynosa,1,1,-,-
-,,3,-,-,3
-Veracruz de,La Perla,1,1,-,-
-"Ignacio de la 
-Llave (3)",,,,,
-,Oteapan,1.0,1.0,-,-
-,Xalapa,1.0,1.0,-,-
-Zacatecas (1),Calera,1.0,1.0,-,-
-Totales,,96.0,71.0,11,14
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,12.0,8.0,2.0,2.0,2020-02-24
+Campeche,Escárcega,1.0,1.0,0.0,0.0,2020-02-24
+Chiapas,Suchiate,1.0,1.0,0.0,0.0,2020-02-24
+Chihuahua,Cuauhtémoc,2.0,0.0,0.0,2.0,2020-02-24
+Ciudad de México,Benito Juárez,1.0,0.0,0.0,1.0,2020-02-24
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-02-24
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-02-24
+Ciudad de México,Iztapalapa,1.0,0.0,1.0,0.0,2020-02-24
+Colima,Colima,3.0,2.0,1.0,0.0,2020-02-24
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-02-24
+Colima,Villa De Álvarez,2.0,2.0,0.0,0.0,2020-02-24
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-02-24
+Guanajuato,Celaya,2.0,0.0,1.0,1.0,2020-02-24
+Guanajuato,León,5.0,5.0,0.0,0.0,2020-02-24
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-02-24
+Guanajuato,Yuriria,2.0,2.0,0.0,0.0,2020-02-24
+Guerrero,Coyuca De Benítez,1.0,0.0,1.0,0.0,2020-02-24
+Guerrero,Tecoanapa,1.0,1.0,0.0,0.0,2020-02-24
+Colima,La Perla,1.0,1.0,0.0,0.0,2020-02-24
+Colima,Oteapan,1.0,1.0,0.0,0.0,2020-02-24
+Colima,Xalapa,1.0,1.0,0.0,0.0,2020-02-24
+Jalisco,San Pedro Tlaquepaque,4.0,4.0,0.0,0.0,2020-02-24
+Jalisco,Tonalá,1.0,0.0,0.0,1.0,2020-02-24
+Michoacán,Contepec,1.0,1.0,0.0,0.0,2020-02-24
+Michoacán,Hidalgo,1.0,1.0,0.0,0.0,2020-02-24
+Michoacán,Morelia,4.0,2.0,0.0,2.0,2020-02-24
+Michoacán,Parácuaro,1.0,1.0,0.0,0.0,2020-02-24
+Michoacán,Tangamandapio,1.0,1.0,0.0,0.0,2020-02-24
+Michoacán,Zamora,6.0,6.0,0.0,0.0,2020-02-24
+Estado de México,Ecatepec De Morelos,2.0,0.0,2.0,0.0,2020-02-24
+Estado de México,Toluca,1.0,0.0,1.0,0.0,2020-02-24
+Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2020-02-24
+Estado de México,Zinacantepec,1.0,1.0,0.0,0.0,2020-02-24
+Nuevo León,Monterrey,2.0,2.0,0.0,0.0,2020-02-24
+Oaxaca,Putla Villa De Guerrero,1.0,1.0,0.0,0.0,2020-02-24
+Puebla,Huejotzingo,5.0,4.0,1.0,0.0,2020-02-24
+Querétaro,El Marqués,2.0,1.0,1.0,0.0,2020-02-24
+Quintana Roo,Benito Juárez,3.0,3.0,0.0,0.0,2020-02-24
+Quintana Roo,Isla Mujeres,1.0,1.0,0.0,0.0,2020-02-24
+San Luis Potosí,Moctezuma,1.0,0.0,0.0,1.0,2020-02-24
+San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2020-02-24
+Sinaloa,Guasave,1.0,1.0,0.0,0.0,2020-02-24
+Sonora,Cajeme,3.0,2.0,0.0,1.0,2020-02-24
+Sonora,Hermosillo,2.0,2.0,0.0,0.0,2020-02-24
+Tabasco,Cárdenas,2.0,2.0,0.0,0.0,2020-02-24
+Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2020-02-24
+Tamaulipas,Reynosa,4.0,1.0,0.0,3.0,2020-02-24
+Veracruz,La Perla,1.0,1.0,0.0,0.0,2020-02-24
+Zacatecas,Calera,1.0,1.0,0.0,0.0,2020-02-24

@@ -2,41 +2,33 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,2.0,2.0,0.0,0.0,2019-04-08
 Chiapas,Palenque,2.0,2.0,0.0,0.0,2019-04-08
 Chihuahua,Bocoyna,3.0,3.0,0.0,0.0,2019-04-08
-Chihuahua,"Guadalupe y 
-Calvo",4.0,4.0,0.0,0.0,2019-04-08
+Chihuahua,Guadalupe Y Calvo,4.0,4.0,0.0,0.0,2019-04-08
 Chihuahua,Gómez Farías,1.0,1.0,0.0,0.0,2019-04-08
 Ciudad de México,Iztapalapa,2.0,2.0,0.0,0.0,2019-04-08
 Ciudad de México,Xochimilco,1.0,1.0,0.0,0.0,2019-04-08
 Durango,Gómez Palacio,1.0,1.0,0.0,0.0,2019-04-08
 Durango,Mezquital,1.0,1.0,0.0,0.0,2019-04-08
-Guanajuato,Apaseo el Alto,2.0,0.0,0.0,2.0,2019-04-08
+Guanajuato,Apaseo El Alto,2.0,0.0,0.0,2.0,2019-04-08
 Guanajuato,Celaya,3.0,2.0,1.0,0.0,2019-04-08
-Guanajuato,Cortázar,1.0,1.0,0.0,0.0,2019-04-08
+Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2019-04-08
 Guanajuato,Irapuato,2.0,1.0,1.0,0.0,2019-04-08
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-04-08
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-04-08
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-04-08
-Guanajuato,"San José 
-Iturbide",1.0,1.0,0.0,0.0,2019-04-08
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,1.0,0.0,0.0,2019-04-08
-Guerrero,"Iguala de la 
-Independencia",1.0,1.0,0.0,0.0,2019-04-08
+Guanajuato,San José Iturbide,1.0,1.0,0.0,0.0,2019-04-08
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2019-04-08
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2019-04-08
 Hidalgo,Ixmiquilpan,1.0,1.0,0.0,0.0,2019-04-08
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2019-04-08
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-04-08
 Jalisco,Tonalá,1.0,0.0,0.0,1.0,2019-04-08
 Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-04-08
 Michoacán,Jacona,2.0,2.0,0.0,0.0,2019-04-08
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-04-08
-Estado de México,"Naucalpan de 
-Juárez",1.0,0.0,1.0,0.0,2019-04-08
+Estado de México,Naucalpan De Juárez,1.0,0.0,1.0,0.0,2019-04-08
 Estado de México,Zinacantepec,1.0,1.0,0.0,0.0,2019-04-08
 Nuevo León,Apodaca,1.0,0.0,1.0,0.0,2019-04-08
 Oaxaca,Reyes Etla,3.0,2.0,0.0,1.0,2019-04-08
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1.0,1.0,0.0,0.0,2019-04-08
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-04-08
 Puebla,Cuautlancingo,1.0,0.0,1.0,0.0,2019-04-08
 Puebla,Huaquechula,1.0,1.0,0.0,0.0,2019-04-08
 Puebla,Puebla,2.0,1.0,1.0,0.0,2019-04-08
@@ -47,11 +39,9 @@ Quintana Roo,Benito Juárez,3.0,3.0,0.0,0.0,2019-04-08
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-04-08
 Sinaloa,Escuinapa,1.0,0.0,1.0,0.0,2019-04-08
 Sonora,Nogales,4.0,4.0,0.0,0.0,2019-04-08
-Sonora,"San Luis Río 
-Colorado",1.0,1.0,0.0,0.0,2019-04-08
+Sonora,San Luis Río Colorado,1.0,1.0,0.0,0.0,2019-04-08
 Tabasco,Centro,2.0,2.0,0.0,0.0,2019-04-08
-Veracruz,"Martínez de la 
-Torre",1.0,1.0,0.0,0.0,2019-04-08
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2019-04-08
 Veracruz,Omealca,1.0,1.0,0.0,0.0,2019-04-08
 Veracruz,Xalapa,1.0,1.0,0.0,0.0,2019-04-08
 Zacatecas,Trancoso,1.0,1.0,0.0,0.0,2019-04-08

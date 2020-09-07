@@ -1,8 +1,7 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,2.0,1.0,1.0,0.0,2019-07-21
 Chihuahua,Juárez,1.0,0.0,1.0,0.0,2019-07-21
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2019-07-21
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-07-21
 Ciudad de México,Iztapalapa,5.0,5.0,0.0,0.0,2019-07-21
 Ciudad de México,Tlalpan,2.0,2.0,0.0,0.0,2019-07-21
 Guanajuato,Celaya,2.0,1.0,1.0,0.0,2019-07-21
@@ -12,34 +11,27 @@ Guanajuato,Pueblo Nuevo,1.0,0.0,1.0,0.0,2019-07-21
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-07-21
 Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2019-07-21
 Guanajuato,Tarimoro,1.0,1.0,0.0,0.0,2019-07-21
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2019-07-21
-Guerrero,"Acapulco de 
-Juárez",5.0,0.0,0.0,5.0,2019-07-21
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-07-21
+Guerrero,Acapulco De Juárez,5.0,0.0,0.0,5.0,2019-07-21
 Guerrero,Acatepec,1.0,1.0,0.0,0.0,2019-07-21
-Guerrero,"Tlapa de 
-Comonfort",1.0,0.0,1.0,0.0,2019-07-21
+Guerrero,Tlapa De Comonfort,1.0,0.0,1.0,0.0,2019-07-21
 Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-07-21
 Michoacán,Aquila,1.0,0.0,1.0,0.0,2019-07-21
 Michoacán,Morelia,2.0,2.0,0.0,0.0,2019-07-21
-Morelos,"Tlaltizapán de 
-Zapata",1.0,1.0,0.0,0.0,2019-07-21
+Morelos,Tlaltizapán De Zapata,1.0,1.0,0.0,0.0,2019-07-21
 Morelos,Yecapixtla,1.0,1.0,0.0,0.0,2019-07-21
 Estado de México,Acolman,1.0,1.0,0.0,0.0,2019-07-21
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2019-07-21
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-07-21
 Nuevo León,Monterrey,2.0,1.0,1.0,0.0,2019-07-21
-Oaxaca,"Asunción 
-Ixtaltepec",1.0,1.0,0.0,0.0,2019-07-21
+Oaxaca,Asunción Ixtaltepec,1.0,1.0,0.0,0.0,2019-07-21
 Puebla,Puebla,3.0,3.0,0.0,0.0,2019-07-21
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-07-21
 San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2019-07-21
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-07-21
 Sonora,Bácum,2.0,0.0,0.0,2.0,2019-07-21
 Sonora,Guaymas,1.0,1.0,0.0,0.0,2019-07-21
-Tabasco,"Emiliano 
-Zapata",1.0,1.0,0.0,0.0,2019-07-21
-Tlaxcala,Altzayanca,1.0,1.0,0.0,0.0,2019-07-21
+Tabasco,Emiliano Zapata,1.0,1.0,0.0,0.0,2019-07-21
+Tlaxcala,Atltzayanca,1.0,1.0,0.0,0.0,2019-07-21
 Veracruz,Coatepec,1.0,1.0,0.0,0.0,2019-07-21
 Veracruz,Fortín,2.0,2.0,0.0,0.0,2019-07-21
 Veracruz,Oluta,1.0,1.0,0.0,0.0,2019-07-21

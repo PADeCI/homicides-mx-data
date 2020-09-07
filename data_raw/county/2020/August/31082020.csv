@@ -1,40 +1,26 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,8.0,6.0,2.0,0.0,2020-08-31
 Chiapas,Copainalá,1.0,1.0,0.0,0.0,2020-08-31
-Chiapas,"San Cristóbal 
-de las Casas",1.0,1.0,0.0,0.0,2020-08-31
+Chiapas,San Cristóbal De Las Casas,1.0,1.0,0.0,0.0,2020-08-31
 Chiapas,Tonalá,1.0,1.0,0.0,0.0,2020-08-31
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-08-31
 Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-08-31
 Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-08-31
 Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-08-31
-Durango,"Gómez 
-Palacio",1.0,1.0,0.0,0.0,2020-08-31
+Durango,Gómez Palacio,1.0,1.0,0.0,0.0,2020-08-31
 Guanajuato,Abasolo,1.0,1.0,0.0,0.0,2020-08-31
-Guanajuato,"Apaseo el 
-Alto",2.0,2.0,0.0,0.0,2020-08-31
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0,2020-08-31
-Guanajuato,"Dolores 
-Hidalgo 
-Cuna de la",1.0,1.0,0.0,0.0,2020-08-31
+Guanajuato,Apaseo El Alto,2.0,2.0,0.0,0.0,2020-08-31
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2020-08-31
+Guanajuato,Hidalgo,1.0,1.0,0.0,0.0,2020-08-31
 Guanajuato,Huanímaro,1.0,1.0,0.0,0.0,2020-08-31
-Guanajuato,"Independenc
-ia Nacional",1.0,1.0,0.0,0.0,2020-08-31
+Guanajuato,Indé,1.0,1.0,0.0,0.0,2020-08-31
 Guanajuato,León,4.0,1.0,0.0,3.0,2020-08-31
-Guanajuato,"San Miguel 
-de Allende",1.0,1.0,0.0,0.0,2020-08-31
-Guerrero,"Acapulco de 
-Juárez",3.0,3.0,0.0,0.0,2020-08-31
-Guerrero,"Chilpancingo 
-de los Bravo",2.0,2.0,0.0,0.0,2020-08-31
-Guerrero,"Cuetzala del 
-Progreso",2.0,0.0,2.0,0.0,2020-08-31
-Guerrero,"Iguala de la 
-Independenc
-ia",1.0,1.0,0.0,0.0,2020-08-31
-Hidalgo,"Tezontepec 
-de Aldama",1.0,1.0,0.0,0.0,2020-08-31
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2020-08-31
+Guerrero,Acapulco De Juárez,3.0,3.0,0.0,0.0,2020-08-31
+Guerrero,Chilpancingo De Los Bravo,2.0,2.0,0.0,0.0,2020-08-31
+Guerrero,Cuetzala Del Progreso,2.0,0.0,2.0,0.0,2020-08-31
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2020-08-31
+Hidalgo,Tezontepec De Aldama,1.0,1.0,0.0,0.0,2020-08-31
 Jalisco,El Salto,1.0,1.0,0.0,0.0,2020-08-31
 Michoacán,Apatzingán,1.0,1.0,0.0,0.0,2020-08-31
 Michoacán,Queréndaro,1.0,1.0,0.0,0.0,2020-08-31
@@ -45,34 +31,21 @@ Morelos,Cuautla,2.0,0.0,2.0,0.0,2020-08-31
 Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-08-31
 Morelos,Tlayacapan,1.0,1.0,0.0,0.0,2020-08-31
 Morelos,Xochitepec,1.0,1.0,0.0,0.0,2020-08-31
-Estado de México,"Naucalpan 
-de Juárez",1.0,1.0,0.0,0.0,2020-08-31
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2020-08-31
 Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-08-31
 Estado de México,Tonanitla,1.0,1.0,0.0,0.0,2020-08-31
 Nuevo León,Anáhuac,1.0,1.0,0.0,0.0,2020-08-31
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-08-31
-Nuevo León,"San Nicolás 
-de los Garza",1.0,1.0,0.0,0.0,2020-08-31
-Oaxaca,"Matías 
-Romero 
-Avendaño",1.0,1.0,0.0,0.0,2020-08-31
-Oaxaca,"San Felipe 
-Jalapa de 
-Díaz",1.0,1.0,0.0,0.0,2020-08-31
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1.0,1.0,0.0,0.0,2020-08-31
-Oaxaca,"San Luis 
-Amatlán",3.0,3.0,0.0,0.0,2020-08-31
-Oaxaca,"San Miguel 
-Soyaltepec",1.0,1.0,0.0,0.0,2020-08-31
+Nuevo León,San Nicolás De Los Garza,1.0,1.0,0.0,0.0,2020-08-31
+Oaxaca,Matías Romero Avendaño,1.0,1.0,0.0,0.0,2020-08-31
+Oaxaca,San Felipe Jalapa De Díaz,1.0,1.0,0.0,0.0,2020-08-31
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2020-08-31
+Oaxaca,San Luis Amatlán,3.0,3.0,0.0,0.0,2020-08-31
+Oaxaca,San Miguel Soyaltepec,1.0,1.0,0.0,0.0,2020-08-31
 Puebla,Chignautla,1.0,0.0,1.0,0.0,2020-08-31
-Puebla,"Huauchinan
-go",1.0,1.0,0.0,0.0,2020-08-31
-Puebla,"Juan N. 
-Méndez",1.0,1.0,0.0,0.0,2020-08-31
-Quintana Roo,"Benito 
-Juárez",1.0,0.0,0.0,1.0,2020-08-31
+Puebla,Huauchinango,1.0,1.0,0.0,0.0,2020-08-31
+Puebla,Juan N. Méndez,1.0,1.0,0.0,0.0,2020-08-31
+Quintana Roo,Benito Juárez,1.0,0.0,0.0,1.0,2020-08-31
 Sinaloa,Culiacán,4.0,4.0,0.0,0.0,2020-08-31
 Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-08-31
 Sonora,Empalme,1.0,0.0,1.0,0.0,2020-08-31
@@ -82,13 +55,11 @@ Sonora,Nogales,1.0,1.0,0.0,0.0,2020-08-31
 Tabasco,Nacajuca,1.0,0.0,1.0,0.0,2020-08-31
 Tamaulipas,El Mante,1.0,1.0,0.0,0.0,2020-08-31
 Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-08-31
-Tamaulipas,"San 
-Fernando",1.0,1.0,0.0,0.0,2020-08-31
-Veracruz,Boca del Río,1.0,1.0,0.0,0.0,2020-08-31
+Tamaulipas,San Fernando,1.0,1.0,0.0,0.0,2020-08-31
+Veracruz,Boca Del Río,1.0,1.0,0.0,0.0,2020-08-31
 Veracruz,Isla,1.0,1.0,0.0,0.0,2020-08-31
 Veracruz,La Perla,1.0,1.0,0.0,0.0,2020-08-31
 Veracruz,Minatitlán,1.0,0.0,0.0,1.0,2020-08-31
-Veracruz,"San Andrés 
-Tuxtla",1.0,1.0,0.0,0.0,2020-08-31
+Veracruz,San Andrés Tuxtla,1.0,1.0,0.0,0.0,2020-08-31
 Veracruz,Veracruz,1.0,1.0,0.0,0.0,2020-08-31
 Zacatecas,Zacatecas,2.0,2.0,0.0,0.0,2020-08-31

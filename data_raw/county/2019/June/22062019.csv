@@ -10,20 +10,14 @@ Guanajuato,Celaya,3,2.0,1.0,0.0,2019-06-22
 Guanajuato,Irapuato,1,1.0,0.0,0.0,2019-06-22
 Guanajuato,León,2,2.0,0.0,0.0,2019-06-22
 Guanajuato,Salamanca,1,1.0,0.0,0.0,2019-06-22
-Guanajuato,"Valle de 
-Santiago",1,1.0,0.0,0.0,2019-06-22
-Guerrero,"Acapulco de 
-Juárez",1,1.0,0.0,0.0,2019-06-22
-Guerrero,"Chilpancingo 
-de los Bravo",1,1.0,0.0,0.0,2019-06-22
-Guerrero,"Taxco de 
-Alarcón",1,1.0,0.0,0.0,2019-06-22
-Guerrero,"Zihuatanejo de 
-Azueta",2,2.0,0.0,0.0,2019-06-22
+Guanajuato,Valle De Santiago,1,1.0,0.0,0.0,2019-06-22
+Guerrero,Acapulco De Juárez,1,1.0,0.0,0.0,2019-06-22
+Guerrero,Chilpancingo De Los Bravo,1,1.0,0.0,0.0,2019-06-22
+Guerrero,Taxco De Alarcón,1,1.0,0.0,0.0,2019-06-22
+Guerrero,Zihuatanejo De Azueta,2,2.0,0.0,0.0,2019-06-22
 Colima,Coatzacoalcos,1,1.0,0.0,0.0,2019-06-22
 Colima,Papantla,2,2.0,0.0,0.0,2019-06-22
-Jalisco,"San Pedro 
-Tlaquepaque",7,0.0,5.0,2.0,2019-06-22
+Jalisco,San Pedro Tlaquepaque,7,0.0,5.0,2.0,2019-06-22
 Jalisco,Tonalá,1,0.0,1.0,0.0,2019-06-22
 Jalisco,Zapopan,1,1.0,0.0,0.0,2019-06-22
 Michoacán,Morelia,3,3.0,0.0,0.0,2019-06-22
@@ -31,30 +25,23 @@ Michoacán,Uruapan,1,1.0,0.0,0.0,2019-06-22
 Michoacán,Zamora,1,1.0,0.0,0.0,2019-06-22
 Morelos,Jiutepec,3,3.0,0.0,0.0,2019-06-22
 Estado de México,Acolman,1,1.0,0.0,0.0,2019-06-22
-Estado de México,"Nicolás 
-Romero",1,1.0,0.0,0.0,2019-06-22
+Estado de México,Nicolás Romero,1,1.0,0.0,0.0,2019-06-22
 Estado de México,Toluca,1,0.0,1.0,0.0,2019-06-22
-Nuevo León,"Cadereyta 
-Jiménez",1,1.0,0.0,0.0,2019-06-22
+Nuevo León,Cadereyta Jiménez,1,1.0,0.0,0.0,2019-06-22
 Oaxaca,Loma Bonita,2,2.0,0.0,0.0,2019-06-22
-Oaxaca,"Oaxaca de 
-Juárez",2,1.0,0.0,1.0,2019-06-22
+Oaxaca,Oaxaca De Juárez,2,1.0,0.0,1.0,2019-06-22
 Puebla,Altepexi,1,1.0,0.0,0.0,2019-06-22
 Puebla,Puebla,2,1.0,1.0,0.0,2019-06-22
-Querétaro,"San Juan del 
-Río",1,0.0,1.0,0.0,2019-06-22
+Querétaro,San Juan Del Río,1,0.0,1.0,0.0,2019-06-22
 San Luis Potosí,San Luis Potosí,1,1.0,0.0,0.0,2019-06-22
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1,0.0,1.0,0.0,2019-06-22
+San Luis Potosí,Soledad De Graciano Sánchez,1,0.0,1.0,0.0,2019-06-22
 Sinaloa,Culiacán,3,3.0,0.0,0.0,2019-06-22
 Sinaloa,Mazatlán,1,1.0,0.0,0.0,2019-06-22
 Sinaloa,Navolato,1,1.0,0.0,0.0,2019-06-22
 Sinaloa,Rosario,1,1.0,0.0,0.0,2019-06-22
 Sonora,Hermosillo,2,2.0,0.0,0.0,2019-06-22
 Sonora,Rosario,3,3.0,0.0,0.0,2019-06-22
-Sonora,"San Luis Río 
-Colorado",1,1.0,0.0,0.0,2019-06-22
+Sonora,San Luis Río Colorado,1,1.0,0.0,0.0,2019-06-22
 Tabasco,Centro,2,2.0,0.0,0.0,2019-06-22
 Tabasco,Comalcalco,2,2.0,0.0,0.0,2019-06-22
 Veracruz,Coatzacoalcos,1,1.0,0.0,0.0,2019-06-22

@@ -2,38 +2,28 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,Aguascalientes,1,1.0,0.0,0.0,2020-08-02
 Baja California,Tecate,1,1.0,0.0,0.0,2020-08-02
 Baja California,Tijuana,5,3.0,1.0,1.0,2020-08-02
-Chiapas,"Comitán de 
-Domínguez",1,1.0,0.0,0.0,2020-08-02
+Chiapas,Comitán De Domínguez,1,1.0,0.0,0.0,2020-08-02
 Chihuahua,Juárez,7,6.0,0.0,1.0,2020-08-02
 Colima,Manzanillo,1,0.0,1.0,0.0,2020-08-02
 Durango,Poanas,1,1.0,0.0,0.0,2020-08-02
 Guanajuato,Celaya,1,1.0,0.0,0.0,2020-08-02
 Guanajuato,Cortazar,1,1.0,0.0,0.0,2020-08-02
-Guanajuato,"Jaral del 
-Progreso",4,4.0,0.0,0.0,2020-08-02
+Guanajuato,Jaral Del Progreso,4,4.0,0.0,0.0,2020-08-02
 Guanajuato,León,4,1.0,2.0,1.0,2020-08-02
 Guanajuato,Salamanca,2,2.0,0.0,0.0,2020-08-02
 Guanajuato,Yuriria,1,1.0,0.0,0.0,2020-08-02
-Guerrero,"Acapulco de 
-Juárez",3,3.0,0.0,0.0,2020-08-02
-Guerrero,"Chilpancingo 
-de los Bravo",1,1.0,0.0,0.0,2020-08-02
-Guerrero,"Iguala de la 
-Independencia",2,2.0,0.0,0.0,2020-08-02
+Guerrero,Acapulco De Juárez,3,3.0,0.0,0.0,2020-08-02
+Guerrero,Chilpancingo De Los Bravo,1,1.0,0.0,0.0,2020-08-02
+Guerrero,Iguala De La Independencia,2,2.0,0.0,0.0,2020-08-02
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2020-08-02
 Jalisco,Zapopan,1,1.0,0.0,0.0,2020-08-02
-Michoacán,"José Sixto 
-Verduzco",4,4.0,0.0,0.0,2020-08-02
+Michoacán,José Sixto Verduzco,4,4.0,0.0,0.0,2020-08-02
 Michoacán,Morelia,1,0.0,0.0,1.0,2020-08-02
 Estado de México,Tultitlán,1,1.0,0.0,0.0,2020-08-02
-Oaxaca,"Mazatlán Villa 
-de Flores",1,0.0,1.0,0.0,2020-08-02
-Oaxaca,"San Juan 
-Colorado",1,1.0,0.0,0.0,2020-08-02
-Oaxaca,"Santa Cruz 
-Xoxocotlán",1,1.0,0.0,0.0,2020-08-02
-Puebla,"Palmar de 
-Bravo",1,1.0,0.0,0.0,2020-08-02
+Oaxaca,Mazatlán Villa De Flores,1,0.0,1.0,0.0,2020-08-02
+Oaxaca,San Juan Colorado,1,1.0,0.0,0.0,2020-08-02
+Oaxaca,Santa Cruz Xoxocotlán,1,1.0,0.0,0.0,2020-08-02
+Puebla,Palmar De Bravo,1,1.0,0.0,0.0,2020-08-02
 Puebla,Puebla,1,1.0,0.0,0.0,2020-08-02
 Quintana Roo,Benito Juárez,4,3.0,0.0,1.0,2020-08-02
 San Luis Potosí,San Luis Potosí,1,1.0,0.0,0.0,2020-08-02
@@ -44,13 +34,11 @@ Sinaloa,Choix,1,1.0,0.0,0.0,2020-08-02
 Sonora,Hermosillo,1,1.0,0.0,0.0,2020-08-02
 Sonora,Pitiquito,1,1.0,0.0,0.0,2020-08-02
 Tabasco,Centro,1,1.0,0.0,0.0,2020-08-02
-Tlaxcala,"San Pablo del 
-Monte",1,1.0,0.0,0.0,2020-08-02
+Tlaxcala,San Pablo Del Monte,1,1.0,0.0,0.0,2020-08-02
 Veracruz,Acayucan,1,1.0,0.0,0.0,2020-08-02
 Veracruz,Coatzacoalcos,1,0.0,0.0,1.0,2020-08-02
 Veracruz,Minatitlán,1,1.0,0.0,0.0,2020-08-02
 Veracruz,Papantla,2,2.0,0.0,0.0,2020-08-02
 Veracruz,Veracruz,1,1.0,0.0,0.0,2020-08-02
 Zacatecas,Fresnillo,2,2.0,0.0,0.0,2020-08-02
-Zacatecas,"General 
-Pánfilo Natera",1,1.0,0.0,0.0,2020-08-02
+Zacatecas,General Pánfilo Natera,1,1.0,0.0,0.0,2020-08-02

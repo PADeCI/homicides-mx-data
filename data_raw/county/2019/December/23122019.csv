@@ -1,10 +1,8 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Mexicali,1,1.0,0.0,0.0,2019-12-23
 Baja California,Tijuana,9,8.0,1.0,0.0,2019-12-23
-Chiapas,"Ocozocoautla 
-de Espinosa",2,1.0,1.0,0.0,2019-12-23
-Chiapas,"San Cristóbal 
-de las Casas",1,1.0,0.0,0.0,2019-12-23
+Chiapas,Ocozocoautla De Espinosa,2,1.0,1.0,0.0,2019-12-23
+Chiapas,San Cristóbal De Las Casas,1,1.0,0.0,0.0,2019-12-23
 Chiapas,Suchiate,1,1.0,0.0,0.0,2019-12-23
 Ciudad de México,Cuauhtémoc,1,1.0,0.0,0.0,2019-12-23
 Ciudad de México,Miguel Hidalgo,1,1.0,0.0,0.0,2019-12-23
@@ -14,24 +12,18 @@ Colima,Coquimatlán,1,1.0,0.0,0.0,2019-12-23
 Colima,Manzanillo,1,1.0,0.0,0.0,2019-12-23
 Guanajuato,Guanajuato,1,0.0,0.0,1.0,2019-12-23
 Guanajuato,Irapuato,3,2.0,0.0,1.0,2019-12-23
-Guanajuato,"Purísima del 
-Rincón",1,1.0,0.0,0.0,2019-12-23
-Guanajuato,"Silao de la 
-Víctoria",1,1.0,0.0,0.0,2019-12-23
-Guanajuato,"Valle de 
-Santiago",1,1.0,0.0,0.0,2019-12-23
+Guanajuato,Purísima Del Rincón,1,1.0,0.0,0.0,2019-12-23
+Guanajuato,Silao De La Victoria,1,1.0,0.0,0.0,2019-12-23
+Guanajuato,Valle De Santiago,1,1.0,0.0,0.0,2019-12-23
 Guanajuato,Yuriria,1,1.0,0.0,0.0,2019-12-23
-Guerrero,Acapulco de,1,1.0,0.0,0.0,2019-12-23
-Guerrero,"Chilpancingo 
-de los Bravo",1,1.0,0.0,0.0,2019-12-23
-Guerrero,"Huitzuco de los 
-Figueroa",1,1.0,0.0,0.0,2019-12-23
+Guerrero,Acapulco De Juárez,1,1.0,0.0,0.0,2019-12-23
+Guerrero,Chilpancingo De Los Bravo,1,1.0,0.0,0.0,2019-12-23
+Guerrero,Huitzuco De Los Figueroa,1,1.0,0.0,0.0,2019-12-23
 Guerrero,Juárez,2,2.0,0.0,0.0,2019-12-23
 Hidalgo,Atitalaquia,2,2.0,0.0,0.0,2019-12-23
 Jalisco,Guadalajara,8,6.0,2.0,0.0,2019-12-23
 Jalisco,Tala,1,1.0,0.0,0.0,2019-12-23
-Jalisco,"Tlajomulco de 
-Zúñiga",3,2.0,0.0,1.0,2019-12-23
+Jalisco,Tlajomulco De Zúñiga,3,2.0,0.0,1.0,2019-12-23
 Jalisco,Zapopan,1,1.0,0.0,0.0,2019-12-23
 Michoacán,Apatzingán,2,2.0,0.0,0.0,2019-12-23
 Michoacán,Ario,1,1.0,0.0,0.0,2019-12-23
@@ -41,29 +33,21 @@ Michoacán,Zamora,2,2.0,0.0,0.0,2019-12-23
 Morelos,Jiutepec,1,1.0,0.0,0.0,2019-12-23
 Estado de México,Chimalhuacán,1,0.0,1.0,0.0,2019-12-23
 Estado de México,Nezahualcóyotl,1,1.0,0.0,0.0,2019-12-23
-Estado de México,"Tlalnepantla de 
-Baz",2,2.0,0.0,0.0,2019-12-23
-Estado de México,"Valle de Chalco 
-Solidaridad",1,1.0,0.0,0.0,2019-12-23
+Estado de México,Tlalnepantla De Baz,2,2.0,0.0,0.0,2019-12-23
+Estado de México,Valle De Chalco Solidaridad,1,1.0,0.0,0.0,2019-12-23
 Nayarit,Tepic,1,1.0,0.0,0.0,2019-12-23
 Oaxaca,Ciudad Ixtepec,1,1.0,0.0,0.0,2019-12-23
-Oaxaca,"El Barrio de la 
-Soledad",1,1.0,0.0,0.0,2019-12-23
-Oaxaca,"Matías Romero 
-Avendaño",1,1.0,0.0,0.0,2019-12-23
-Oaxaca,"San Felipe 
-Jalapa de Díaz",2,2.0,0.0,0.0,2019-12-23
-Oaxaca,"Villa de 
-Zaachila",2,2.0,0.0,0.0,2019-12-23
-Puebla,"San Salvador el 
-Verde",1,1.0,0.0,0.0,2019-12-23
+Oaxaca,El Barrio De La Soledad,1,1.0,0.0,0.0,2019-12-23
+Oaxaca,Matías Romero Avendaño,1,1.0,0.0,0.0,2019-12-23
+Oaxaca,San Felipe Jalapa De Díaz,2,2.0,0.0,0.0,2019-12-23
+Oaxaca,Villa De Zaachila,2,2.0,0.0,0.0,2019-12-23
+Puebla,San Salvador El Verde,1,1.0,0.0,0.0,2019-12-23
 Quintana Roo,Benito Juárez,2,0.0,0.0,2.0,2019-12-23
 Quintana Roo,Solidaridad,1,1.0,0.0,0.0,2019-12-23
 San Luis Potosí,Matehuala,1,1.0,0.0,0.0,2019-12-23
 San Luis Potosí,San Luis Potosí,1,0.0,1.0,0.0,2019-12-23
 Sinaloa,Culiacán,1,1.0,0.0,0.0,2019-12-23
-Sinaloa,"Salvador 
-Alvarado",1,1.0,0.0,0.0,2019-12-23
+Sinaloa,Salvador Alvarado,1,1.0,0.0,0.0,2019-12-23
 Sonora,Guaymas,1,1.0,0.0,0.0,2019-12-23
 Sonora,Hermosillo,1,1.0,0.0,0.0,2019-12-23
 Tamaulipas,Reynosa,1,1.0,0.0,0.0,2019-12-23

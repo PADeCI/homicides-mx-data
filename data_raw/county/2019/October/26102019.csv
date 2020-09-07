@@ -1,11 +1,9 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Ensenada,1,1.0,0.0,0.0,2019-10-26
-Baja California,"Playas de 
-Rosarito",1,1.0,0.0,0.0,2019-10-26
+Baja California,Playas De Rosarito,1,1.0,0.0,0.0,2019-10-26
 Baja California,Tijuana,4,4.0,0.0,0.0,2019-10-26
 Baja California Sur,Los Cabos,1,1.0,0.0,0.0,2019-10-26
-Chihuahua,"Hidalgo del 
-Parral",2,2.0,0.0,0.0,2019-10-26
+Chihuahua,Hidalgo Del Parral,2,2.0,0.0,0.0,2019-10-26
 Chihuahua,Juárez,4,4.0,0.0,0.0,2019-10-26
 Chihuahua,Riva Palacio,1,0.0,1.0,0.0,2019-10-26
 Ciudad de México,Iztapalapa,1,1.0,0.0,0.0,2019-10-26
@@ -15,32 +13,25 @@ Colima,Manzanillo,1,1.0,0.0,0.0,2019-10-26
 Colima,Tecomán,1,1.0,0.0,0.0,2019-10-26
 Guanajuato,León,4,3.0,0.0,1.0,2019-10-26
 Guanajuato,Salamanca,3,2.0,0.0,1.0,2019-10-26
-Guerrero,"Acapulco de 
-Juárez",2,2.0,0.0,0.0,2019-10-26
+Guerrero,Acapulco De Juárez,2,2.0,0.0,0.0,2019-10-26
 Jalisco,Guadalajara,2,2.0,0.0,0.0,2019-10-26
-Jalisco,Tlajomulco de,1,1.0,0.0,0.0,2019-10-26
+Jalisco,Tlajomulco De Zúñiga,1,1.0,0.0,0.0,2019-10-26
 Jalisco,Zapopan,1,1.0,0.0,0.0,2019-10-26
-Jalisco,Zúñiga,1,0.0,0.0,1.0,2019-10-26
+Jalisco,Tlajomulco De Zúñiga,1,0.0,0.0,1.0,2019-10-26
 Michoacán,Morelia,9,9.0,0.0,0.0,2019-10-26
 Michoacán,Uruapan,4,0.0,0.0,4.0,2019-10-26
 Morelos,Jiutepec,1,1.0,0.0,0.0,2019-10-26
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2019-10-26
-Oaxaca,"Santa Cruz 
-Xoxocotlán",4,2.0,0.0,2.0,2019-10-26
-Oaxaca,"Santiago 
-Juxtlahuaca",1,1.0,0.0,0.0,2019-10-26
+Oaxaca,San Juan Bautista Tuxtepec,1,1.0,0.0,0.0,2019-10-26
+Oaxaca,Santa Cruz Xoxocotlán,4,2.0,0.0,2.0,2019-10-26
+Oaxaca,Santiago Juxtlahuaca,1,1.0,0.0,0.0,2019-10-26
 Puebla,Acatlán,2,1.0,1.0,0.0,2019-10-26
 Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2019-10-26
 Quintana Roo,Solidaridad,1,1.0,0.0,0.0,2019-10-26
-Sonora,"Puerto 
-Peñasco",28,0.0,0.0,28.0,2019-10-26
+Sonora,Puerto Peñasco,28,0.0,0.0,28.0,2019-10-26
 Tabasco,Centro,3,3.0,0.0,0.0,2019-10-26
 Tabasco,Cunduacán,1,1.0,0.0,0.0,2019-10-26
 Tabasco,Macuspana,1,1.0,0.0,0.0,2019-10-26
 Tamaulipas,Reynosa,1,1.0,0.0,0.0,2019-10-26
 Tlaxcala,Apizaco,1,1.0,0.0,0.0,2019-10-26
 Veracruz,Coatepec,1,0.0,1.0,0.0,2019-10-26
-Veracruz,"San Juan 
-Evangelista",1,0.0,0.0,1.0,2019-10-26
+Veracruz,San Juan Evangelista,1,0.0,0.0,1.0,2019-10-26

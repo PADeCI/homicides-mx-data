@@ -1,4 +1,4 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No identificado,Fecha
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,10,,,,2019-01-30
 Chiapas,Tuxtla Gutiérrez,1,,,,2019-01-30
 Chihuahua,Balleza,2,,,,2019-01-30
@@ -7,19 +7,18 @@ Chihuahua,Juárez,1,,,,2019-01-30
 Ciudad de México,Venustiano Carranza,1,,,,2019-01-30
 Colima,Manzanillo,1,,,,2019-01-30
 Estado de México,Chimalhuacán,1,,,,2019-01-30
-Estado de México,Ecatepec de Morelos,1,,,,2019-01-30
+Estado de México,Ecatepec De Morelos,1,,,,2019-01-30
 Estado de México,Nezahualcóyotl,1,,,,2019-01-30
 Estado de México,Toluca,2,,,,2019-01-30
-Guanajuato,Apaseo el Grande,1,,,,2019-01-30
+Guanajuato,Apaseo El Grande,1,,,,2019-01-30
 Guanajuato,Celaya,1,,,,2019-01-30
 Guanajuato,Irapuato,3,,,,2019-01-30
 Guanajuato,Salamanca,1,,,,2019-01-30
-Guanajuato,Valle de Santiago,7,,,,2019-01-30
-Guerrero,Acapulco de Juárez,2,,,,2019-01-30
-Guerrero,"Zihuatanejo de 
-Azueta",1,,,,2019-01-30
+Guanajuato,Valle De Santiago,7,,,,2019-01-30
+Guerrero,Acapulco De Juárez,2,,,,2019-01-30
+Guerrero,Zihuatanejo De Azueta,1,,,,2019-01-30
 Jalisco,Guadalajara,7,,,,2019-01-30
-Jalisco,Tlajomulco de Zúñiga,1,,,,2019-01-30
+Jalisco,Tlajomulco De Zúñiga,1,,,,2019-01-30
 Jalisco,Zapopan,2,,,,2019-01-30
 Michoacán,Contepec,1,,,,2019-01-30
 Morelos,Cuernavaca,1,,,,2019-01-30
@@ -27,8 +26,7 @@ Nayarit,Tepic,1,,,,2019-01-30
 Nuevo León,García,1,,,,2019-01-30
 Nuevo León,General Escobedo,1,,,,2019-01-30
 Nuevo León,Santa Catarina,1,,,,2019-01-30
-Puebla,"Tlacotepec de Benito 
-Juárez",1,,,,2019-01-30
+Puebla,Tlacotepec De Benito Juárez,1,,,,2019-01-30
 Querétaro,El Marqués,1,,,,2019-01-30
 Querétaro,Querétaro,1,,,,2019-01-30
 Quintana Roo,Benito Juárez,2,,,,2019-01-30

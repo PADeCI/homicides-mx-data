@@ -2,40 +2,26 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Ensenada,1.0,1.0,0.0,0.0,2019-07-15
 Baja California,Tijuana,4.0,4.0,0.0,0.0,2019-07-15
 Chiapas,Cacahoatán,1.0,1.0,0.0,0.0,2019-07-15
-Chiapas,"La 
-Independenci
-a",1.0,1.0,0.0,0.0,2019-07-15
-Chiapas,"Tuxtla 
-Gutiérrez",1.0,1.0,0.0,0.0,2019-07-15
+Chiapas,La Independencia,1.0,1.0,0.0,0.0,2019-07-15
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2019-07-15
 Chihuahua,Chihuahua,1.0,0.0,0.0,1.0,2019-07-15
 Chihuahua,Juárez,5.0,4.0,1.0,0.0,2019-07-15
-Ciudad de México,"Miguel 
-Hidalgo",1.0,1.0,0.0,0.0,2019-07-15
-Ciudad de México,"Venustiano 
-Carranza",1.0,0.0,1.0,0.0,2019-07-15
+Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2019-07-15
+Ciudad de México,Venustiano Carranza,1.0,0.0,1.0,0.0,2019-07-15
 Colima,Armería,1.0,1.0,0.0,0.0,2019-07-15
 Guanajuato,Celaya,1.0,0.0,0.0,1.0,2019-07-15
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-07-15
-Guanajuato,"Manuel 
-Doblado",1.0,1.0,0.0,0.0,2019-07-15
+Guanajuato,Manuel Doblado,1.0,1.0,0.0,0.0,2019-07-15
 Guanajuato,Salamanca,3.0,3.0,0.0,0.0,2019-07-15
-Guanajuato,"San Luis de la 
-Paz",1.0,0.0,1.0,0.0,2019-07-15
-Guanajuato,"Silao de la 
-Víctoria",1.0,1.0,0.0,0.0,2019-07-15
-Guerrero,"Acapulco de 
-Juárez",5.0,5.0,0.0,0.0,2019-07-15
-Guerrero,"Coyuca de 
-Benítez",1.0,1.0,0.0,0.0,2019-07-15
-Guerrero,"Silao de la 
-Víctoria",1.0,1.0,0.0,0.0,2019-07-15
-Hidalgo,"Cuautepec de 
-Hinojosa",1.0,1.0,0.0,0.0,2019-07-15
-Hidalgo,"Tula de 
-Allende",1.0,0.0,1.0,0.0,2019-07-15
+Guanajuato,San Luis De La Paz,1.0,0.0,1.0,0.0,2019-07-15
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2019-07-15
+Guerrero,Acapulco De Juárez,5.0,5.0,0.0,0.0,2019-07-15
+Guerrero,Coyuca De Benítez,1.0,1.0,0.0,0.0,2019-07-15
+Guerrero,Silao De La Victoria,1.0,1.0,0.0,0.0,2019-07-15
+Hidalgo,Cuautepec De Hinojosa,1.0,1.0,0.0,0.0,2019-07-15
+Hidalgo,Tula De Allende,1.0,0.0,1.0,0.0,2019-07-15
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-07-15
-Jalisco,"Puerto 
-Vallarta",1.0,1.0,0.0,0.0,2019-07-15
+Jalisco,Puerto Vallarta,1.0,1.0,0.0,0.0,2019-07-15
 Jalisco,Tonalá,1.0,0.0,0.0,1.0,2019-07-15
 Michoacán,Apatzingán,2.0,2.0,0.0,0.0,2019-07-15
 Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-07-15
@@ -45,38 +31,27 @@ Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-07-15
 Morelos,Mazatepec,1.0,1.0,0.0,0.0,2019-07-15
 Morelos,Xochitepec,1.0,1.0,0.0,0.0,2019-07-15
 Estado de México,Chalco,4.0,4.0,0.0,0.0,2019-07-15
-Estado de México,"Nezahualcóy
-otl",3.0,3.0,0.0,0.0,2019-07-15
+Estado de México,Nezahualcóyotl,3.0,3.0,0.0,0.0,2019-07-15
 Estado de México,Tecámac,1.0,1.0,0.0,0.0,2019-07-15
 Estado de México,Toluca,1.0,1.0,0.0,0.0,2019-07-15
 Nuevo León,Aramberri,2.0,2.0,0.0,0.0,2019-07-15
-Nuevo León,"Cadereyta 
-Jiménez",1.0,0.0,1.0,0.0,2019-07-15
-Nuevo León,"Salinas 
-Victoria",1.0,1.0,0.0,0.0,2019-07-15
-Oaxaca,"Heroica 
-Ciudad de 
-Juchitán de 
-Zaragoza",4.0,4.0,0.0,0.0,2019-07-15
-Oaxaca,"Oaxaca de 
-Juárez",1.0,1.0,0.0,0.0,2019-07-15
+Nuevo León,Cadereyta Jiménez,1.0,0.0,1.0,0.0,2019-07-15
+Nuevo León,Salinas Victoria,1.0,1.0,0.0,0.0,2019-07-15
+Oaxaca,Zaragoza,4.0,4.0,0.0,0.0,2019-07-15
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2019-07-15
 Oaxaca,Salina Cruz,4.0,4.0,0.0,0.0,2019-07-15
-Oaxaca,"San Miguel 
-Quetzaltepec",3.0,3.0,0.0,0.0,2019-07-15
-Oaxaca,"San Pedro 
-Tapanatepec",1.0,1.0,0.0,0.0,2019-07-15
+Oaxaca,San Miguel Quetzaltepec,3.0,3.0,0.0,0.0,2019-07-15
+Oaxaca,San Pedro Tapanatepec,1.0,1.0,0.0,0.0,2019-07-15
 Puebla,Puebla,1.0,1.0,0.0,0.0,2019-07-15
 Puebla,Tepexco,1.0,1.0,0.0,0.0,2019-07-15
 Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2019-07-15
-San Luis Potosí,"San Luis 
-Potosí",1.0,1.0,0.0,0.0,2019-07-15
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-07-15
 Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2019-07-15
 Sonora,Cajeme,1.0,1.0,0.0,0.0,2019-07-15
 Sonora,Empalme,1.0,1.0,0.0,0.0,2019-07-15
 Sonora,Guaymas,1.0,1.0,0.0,0.0,2019-07-15
 Sonora,Hermosillo,3.0,2.0,0.0,1.0,2019-07-15
-Sonora,"San Luis Río 
-Colorado",2.0,1.0,1.0,0.0,2019-07-15
+Sonora,San Luis Río Colorado,2.0,1.0,1.0,0.0,2019-07-15
 Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-07-15
 Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-07-15
 Tlaxcala,Chiautempan,1.0,1.0,0.0,0.0,2019-07-15

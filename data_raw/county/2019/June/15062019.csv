@@ -2,8 +2,7 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,1.0,0.0,0.0,1.0,2019-06-15
 Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2019-06-15
 Chihuahua,Juárez,6.0,6.0,0.0,0.0,2019-06-15
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2019-06-15
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-06-15
 Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2019-06-15
 Coahuila,Monclova,3.0,3.0,0.0,0.0,2019-06-15
 Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-06-15
@@ -11,46 +10,34 @@ Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-06-15
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-06-15
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-06-15
 Guanajuato,San Felipe,2.0,2.0,0.0,0.0,2019-06-15
-Guanajuato,"Silao de la 
-Víctoria",3.0,3.0,0.0,0.0,2019-06-15
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2019-06-15
-Guerrero,"Acapulco de 
-Juárez",4.0,2.0,2.0,0.0,2019-06-15
-Guerrero,Castillo,2.0,2.0,0.0,0.0,2019-06-15
-Guerrero,"Chilapa de 
-Álvarez",1.0,1.0,0.0,0.0,2019-06-15
-Guerrero,"General 
-Heliodoro",2.0,2.0,0.0,0.0,2019-06-15
-Guerrero,"Zihuatanejo de 
-Azueta",2.0,0.0,2.0,0.0,2019-06-15
+Guanajuato,Silao De La Victoria,3.0,3.0,0.0,0.0,2019-06-15
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-06-15
+Guerrero,Acapulco De Juárez,4.0,2.0,2.0,0.0,2019-06-15
+Guerrero,General Heliodoro Castillo,2.0,2.0,0.0,0.0,2019-06-15
+Guerrero,Chilapa De Álvarez,1.0,1.0,0.0,0.0,2019-06-15
+Guerrero,General Heliodoro Castillo,2.0,2.0,0.0,0.0,2019-06-15
+Guerrero,Zihuatanejo De Azueta,2.0,0.0,2.0,0.0,2019-06-15
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-06-15
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2019-06-15
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-06-15
 Michoacán,Taretan,1.0,1.0,0.0,0.0,2019-06-15
 Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2019-06-15
-Estado de México,Villa del Carbón,2.0,2.0,0.0,0.0,2019-06-15
-Nuevo León,Gral. Treviño,1.0,1.0,0.0,0.0,2019-06-15
+Estado de México,Villa Del Carbón,2.0,2.0,0.0,0.0,2019-06-15
+Nuevo León,General Treviño,1.0,1.0,0.0,0.0,2019-06-15
 Nuevo León,Juárez,2.0,2.0,0.0,0.0,2019-06-15
 Nuevo León,Montemorelos,1.0,1.0,0.0,0.0,2019-06-15
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-06-15
 Nuevo León,Santa Catarina,3.0,3.0,0.0,0.0,2019-06-15
-Oaxaca,"Putla Villa de 
-Guerrero",1.0,1.0,0.0,0.0,2019-06-15
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1.0,1.0,0.0,0.0,2019-06-15
-Puebla,"Francisco Z. 
-Mena",2.0,2.0,0.0,0.0,2019-06-15
-Puebla,Palmar de Bravo,1.0,0.0,1.0,0.0,2019-06-15
+Oaxaca,Putla Villa De Guerrero,1.0,1.0,0.0,0.0,2019-06-15
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-06-15
+Puebla,Francisco Z. Mena,2.0,2.0,0.0,0.0,2019-06-15
+Puebla,Palmar De Bravo,1.0,0.0,1.0,0.0,2019-06-15
 Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-06-15
 Quintana Roo,Tulum,1.0,1.0,0.0,0.0,2019-06-15
 San Luis Potosí,San Luis Potosí,2.0,1.0,1.0,0.0,2019-06-15
 Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2019-06-15
 Sonora,Cajeme,5.0,4.0,1.0,0.0,2019-06-15
 Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-06-15
-Tlaxcala,"Tetla de la 
-Solidaridad",1.0,0.0,0.0,1.0,2019-06-15
+Tlaxcala,Tetla De La Solidaridad,1.0,0.0,0.0,1.0,2019-06-15
 Tlaxcala,Tlaxcala,1.0,1.0,0.0,0.0,2019-06-15
 Veracruz,Coatzacoalcos,1.0,0.0,0.0,1.0,2019-06-15
 Veracruz,Fortín,1.0,1.0,0.0,0.0,2019-06-15

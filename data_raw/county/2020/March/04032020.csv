@@ -4,24 +4,18 @@ Chihuahua,Juárez,4.0,4.0,0.0,0.0,2020-03-04
 Chihuahua,Temósachic,1.0,1.0,0.0,0.0,2020-03-04
 Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2020-03-04
 Ciudad de México,Iztapalapa,2.0,1.0,1.0,0.0,2020-03-04
-Ciudad de México,"La Magdalena 
-Contreras",2.0,2.0,0.0,0.0,2020-03-04
+Ciudad de México,La Magdalena Contreras,2.0,2.0,0.0,0.0,2020-03-04
 Colima,Manzanillo,2.0,1.0,1.0,0.0,2020-03-04
 Durango,Lerdo,3.0,3.0,0.0,0.0,2020-03-04
 Guanajuato,Celaya,4.0,4.0,0.0,0.0,2020-03-04
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-03-04
 Guanajuato,Moroleón,1.0,1.0,0.0,0.0,2020-03-04
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-03-04
-Guanajuato,"Silao de la 
-Victoria",1.0,1.0,0.0,0.0,2020-03-04
-Guerrero,"Atoyac de 
-Álvarez",1.0,1.0,0.0,0.0,2020-03-04
-Guerrero,"Chilpancingo 
-de los Bravo",2.0,2.0,0.0,0.0,2020-03-04
-Guerrero,"Iguala de la 
-Independencia",2.0,2.0,0.0,0.0,2020-03-04
-Guerrero,"Tlapa de 
-Comonfort",1.0,1.0,0.0,0.0,2020-03-04
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2020-03-04
+Guerrero,Atoyac De Álvarez,1.0,1.0,0.0,0.0,2020-03-04
+Guerrero,Chilpancingo De Los Bravo,2.0,2.0,0.0,0.0,2020-03-04
+Guerrero,Iguala De La Independencia,2.0,2.0,0.0,0.0,2020-03-04
+Guerrero,Tlapa De Comonfort,1.0,1.0,0.0,0.0,2020-03-04
 Hidalgo,Tecozautla,1.0,0.0,0.0,1.0,2020-03-04
 Jalisco,Guadalajara,1.0,0.0,1.0,0.0,2020-03-04
 Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-03-04
@@ -31,14 +25,12 @@ Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-03-04
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-03-04
 Morelos,Amacuzac,1.0,1.0,0.0,0.0,2020-03-04
 Estado de México,Atizapán,1.0,0.0,1.0,0.0,2020-03-04
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2020-03-04
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-03-04
 Estado de México,Huixquilucan,1.0,0.0,1.0,0.0,2020-03-04
 Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2020-03-04
 Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-03-04
 Nuevo León,Guadalupe,1.0,0.0,1.0,0.0,2020-03-04
-Oaxaca,"San Miguel 
-Soyaltepec",3.0,3.0,0.0,0.0,2020-03-04
+Oaxaca,San Miguel Soyaltepec,3.0,3.0,0.0,0.0,2020-03-04
 Puebla,Puebla,1.0,1.0,0.0,0.0,2020-03-04
 Quintana Roo,Benito Juárez,2.0,1.0,1.0,0.0,2020-03-04
 San Luis Potosí,Tamuín,1.0,1.0,0.0,0.0,2020-03-04
@@ -48,7 +40,6 @@ Sinaloa,Mazatlán,2.0,0.0,0.0,2.0,2020-03-04
 Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-03-04
 Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2020-03-04
 Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-03-04
-Veracruz,"Sayula de 
-Alemán",1.0,1.0,0.0,0.0,2020-03-04
+Veracruz,Sayula De Alemán,1.0,1.0,0.0,0.0,2020-03-04
 Zacatecas,Fresnillo,1.0,0.0,1.0,0.0,2020-03-04
 Zacatecas,Sombrerete,1.0,1.0,0.0,0.0,2020-03-04

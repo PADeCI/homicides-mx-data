@@ -1,29 +1,24 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Ensenada,2.0,0.0,2.0,0.0,2019-06-27
 Baja California,Mexicali,1.0,0.0,1.0,0.0,2019-06-27
-Baja California,Playas de Rosarito,1.0,1.0,0.0,0.0,2019-06-27
+Baja California,Playas De Rosarito,1.0,1.0,0.0,0.0,2019-06-27
 Baja California,Tijuana,3.0,3.0,0.0,0.0,2019-06-27
 Chiapas,Frontera Hidalgo,1.0,1.0,0.0,0.0,2019-06-27
 Chiapas,Tapachula,1.0,1.0,0.0,0.0,2019-06-27
 Chihuahua,Chihuahua,2.0,1.0,1.0,0.0,2019-06-27
 Chihuahua,Juárez,4.0,4.0,0.0,0.0,2019-06-27
 Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-06-27
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2019-06-27
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-06-27
 Coahuila,Arteaga,1.0,1.0,0.0,0.0,2019-06-27
 Durango,Mezquital,1.0,1.0,0.0,0.0,2019-06-27
 Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-06-27
 Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2019-06-27
 Guanajuato,Moroleón,1.0,1.0,0.0,0.0,2019-06-27
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-06-27
-Guerrero,"Acapulco de 
-Juárez",3.0,2.0,0.0,1.0,2019-06-27
-Guerrero,"Chilpancingo de 
-los Bravo",2.0,2.0,0.0,0.0,2019-06-27
-Guerrero,"Iguala de la 
-Independencia",1.0,1.0,0.0,0.0,2019-06-27
-Guerrero,Taxco de Alarcón,1.0,1.0,0.0,0.0,2019-06-27
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-06-27
+Guerrero,Acapulco De Juárez,3.0,2.0,0.0,1.0,2019-06-27
+Guerrero,Chilpancingo De Los Bravo,2.0,2.0,0.0,0.0,2019-06-27
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2019-06-27
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2019-06-27
 Hidalgo,Ixmiquilpan,1.0,1.0,0.0,0.0,2019-06-27
 Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-06-27
 Michoacán,Jacona,2.0,0.0,2.0,0.0,2019-06-27
@@ -31,44 +26,34 @@ Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-06-27
 Michoacán,Zamora,3.0,3.0,0.0,0.0,2019-06-27
 Morelos,Cuernavaca,2.0,2.0,0.0,0.0,2019-06-27
 Morelos,Yautepec,1.0,1.0,0.0,0.0,2019-06-27
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2019-06-27
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-06-27
 Estado de México,Xonacatlán,1.0,0.0,0.0,1.0,2019-06-27
 Nuevo León,Juárez,3.0,3.0,0.0,0.0,2019-06-27
 Nuevo León,Monterrey,4.0,4.0,0.0,0.0,2019-06-27
-Oaxaca,"Heroica Ciudad de 
-Huajuapan de 
-León",2.0,1.0,1.0,0.0,2019-06-27
-Oaxaca,Oaxaca de Juárez,1.0,0.0,1.0,0.0,2019-06-27
-Oaxaca,"San Juan Bautista 
-Tuxtepec",2.0,0.0,0.0,2.0,2019-06-27
-Oaxaca,"San Pedro 
-Pochutla",1.0,1.0,0.0,0.0,2019-06-27
-Oaxaca,"Villa de Tututepec 
-de Melchor 
-Ocampo",1.0,1.0,0.0,0.0,2019-06-27
-Puebla,"Chalchicomula de 
-Sesma",1.0,1.0,0.0,0.0,2019-06-27
+Oaxaca,Heroica Ciudad De Huajuapan De León,2.0,1.0,1.0,0.0,2019-06-27
+Oaxaca,Oaxaca De Juárez,1.0,0.0,1.0,0.0,2019-06-27
+Oaxaca,San Juan Bautista Tuxtepec,2.0,0.0,0.0,2.0,2019-06-27
+Oaxaca,San Pedro Pochutla,1.0,1.0,0.0,0.0,2019-06-27
+Oaxaca,Ocampo,1.0,1.0,0.0,0.0,2019-06-27
+Puebla,Chalchicomula De Sesma,1.0,1.0,0.0,0.0,2019-06-27
 Puebla,Cuautlancingo,1.0,1.0,0.0,0.0,2019-06-27
 Puebla,Nicolás Bravo,1.0,1.0,0.0,0.0,2019-06-27
 Quintana Roo,Benito Juárez,3.0,2.0,0.0,1.0,2019-06-27
 Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-06-27
-San Luis Potosí,Ríoverde,2.0,2.0,0.0,0.0,2019-06-27
+San Luis Potosí,Rioverde,2.0,2.0,0.0,0.0,2019-06-27
 San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2019-06-27
-San Luis Potosí,"Soledad de 
-Graciano Sánchez",2.0,2.0,0.0,0.0,2019-06-27
-San Luis Potosí,Ébano,1.0,1.0,0.0,0.0,2019-06-27
+San Luis Potosí,Soledad De Graciano Sánchez,2.0,2.0,0.0,0.0,2019-06-27
+San Luis Potosí,Ebano,1.0,1.0,0.0,0.0,2019-06-27
 Sonora,Cajeme,7.0,6.0,1.0,0.0,2019-06-27
 Tabasco,Centro,1.0,0.0,1.0,0.0,2019-06-27
 Tabasco,Cunduacán,1.0,1.0,0.0,0.0,2019-06-27
 Tabasco,Tenosique,1.0,1.0,0.0,0.0,2019-06-27
 Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-06-27
-Veracruz,"Alto Lucero de 
-Gutiérrez Barrios",1.0,1.0,0.0,0.0,2019-06-27
+Veracruz,Alto Lucero De Gutiérrez Barrios,1.0,1.0,0.0,0.0,2019-06-27
 Veracruz,Córdoba,1.0,1.0,0.0,0.0,2019-06-27
 Veracruz,Pánuco,1.0,1.0,0.0,0.0,2019-06-27
 Veracruz,San Rafael,1.0,0.0,1.0,0.0,2019-06-27
 Veracruz,Santiago Tuxtla,1.0,1.0,0.0,0.0,2019-06-27
-Veracruz,Sayula de Alemán,1.0,1.0,0.0,0.0,2019-06-27
+Veracruz,Sayula De Alemán,1.0,1.0,0.0,0.0,2019-06-27
 Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-06-27
 Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2019-06-27

@@ -4,11 +4,9 @@ Baja California,Tijuana,6.0,5.0,0.0,1.0,2020-07-23
 Baja California Sur,Los Cabos,2.0,2.0,0.0,0.0,2020-07-23
 Campeche,Carmen,1.0,1.0,0.0,0.0,2020-07-23
 Chiapas,Tapachula,1.0,1.0,0.0,0.0,2020-07-23
-Chihuahua,"Hidalgo del 
-Parral",1.0,1.0,0.0,0.0,2020-07-23
+Chihuahua,Hidalgo Del Parral,1.0,1.0,0.0,0.0,2020-07-23
 Chihuahua,Juárez,4.0,4.0,0.0,0.0,2020-07-23
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2020-07-23
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-07-23
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-07-23
 Guanajuato,Celaya,2.0,1.0,0.0,1.0,2020-07-23
 Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2020-07-23
@@ -16,59 +14,42 @@ Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2020-07-23
 Guanajuato,León,5.0,2.0,0.0,3.0,2020-07-23
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-07-23
 Guanajuato,Salvatierra,3.0,3.0,0.0,0.0,2020-07-23
-Guanajuato,"Silao de la 
-Víctoria",1.0,1.0,0.0,0.0,2020-07-23
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2020-07-23
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2020-07-23
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-07-23
 Guerrero,Cuajinicuilapa,1.0,1.0,0.0,0.0,2020-07-23
 Guerrero,Malinaltepec,1.0,0.0,1.0,0.0,2020-07-23
-Hidalgo,"Mineral del 
-Monte",5.0,4.0,0.0,1.0,2020-07-23
-Hidalgo,"Tezontepec de 
-Aldama",2.0,1.0,1.0,0.0,2020-07-23
-Jalisco,"Encarnación de 
-Díaz",2.0,0.0,2.0,0.0,2020-07-23
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,2.0,0.0,0.0,2020-07-23
-Jalisco,"Unión de San 
-Antonio",1.0,1.0,0.0,0.0,2020-07-23
+Hidalgo,Mineral Del Monte,5.0,4.0,0.0,1.0,2020-07-23
+Hidalgo,Tezontepec De Aldama,2.0,1.0,1.0,0.0,2020-07-23
+Jalisco,Encarnación De Díaz,2.0,0.0,2.0,0.0,2020-07-23
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2020-07-23
+Jalisco,Unión De San Antonio,1.0,1.0,0.0,0.0,2020-07-23
 Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-07-23
-Michoacán,"Lázaro 
-Cárdenas",2.0,2.0,0.0,0.0,2020-07-23
+Michoacán,Lázaro Cárdenas,2.0,2.0,0.0,0.0,2020-07-23
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-07-23
 Michoacán,Zamora,3.0,1.0,0.0,2.0,2020-07-23
 Morelos,Atlatlahucan,2.0,2.0,0.0,0.0,2020-07-23
 Morelos,Jiutepec,1.0,0.0,0.0,1.0,2020-07-23
 Morelos,Temixco,1.0,1.0,0.0,0.0,2020-07-23
-Morelos,"Tlaltizapán de 
-Zapata",2.0,2.0,0.0,0.0,2020-07-23
-Estado de México,"Cuautitlán 
-Izcalli",1.0,1.0,0.0,0.0,2020-07-23
+Morelos,Tlaltizapán De Zapata,2.0,2.0,0.0,0.0,2020-07-23
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2020-07-23
 Nuevo León,Monterrey,1.0,0.0,1.0,0.0,2020-07-23
-Oaxaca,"Santa María 
-Colotepec",1.0,1.0,0.0,0.0,2020-07-23
-Oaxaca,"Santo Domingo 
-Tehuantepec",1.0,1.0,0.0,0.0,2020-07-23
-Puebla,"San Martín 
-Texmelucan",1.0,1.0,0.0,0.0,2020-07-23
+Oaxaca,Santa María Colotepec,1.0,1.0,0.0,0.0,2020-07-23
+Oaxaca,Santo Domingo Tehuantepec,1.0,1.0,0.0,0.0,2020-07-23
+Puebla,San Martín Texmelucan,1.0,1.0,0.0,0.0,2020-07-23
 Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2020-07-23
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-07-23
 San Luis Potosí,Matehuala,1.0,1.0,0.0,0.0,2020-07-23
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-07-23
 Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-07-23
-Tabasco,"Emiliano 
-Zapata",1.0,1.0,0.0,0.0,2020-07-23
+Tabasco,Emiliano Zapata,1.0,1.0,0.0,0.0,2020-07-23
 Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-07-23
 Tamaulipas,Victoria,1.0,0.0,0.0,1.0,2020-07-23
 Tlaxcala,Acayucan,1.0,1.0,0.0,0.0,2020-07-23
-Tlaxcala,"Tepetitla de 
-Lardizábal",1.0,1.0,0.0,0.0,2020-07-23
-Tlaxcala,Yauhquemecan,1.0,1.0,0.0,0.0,2020-07-23
+Tlaxcala,Tepetitla De Lardizábal,1.0,1.0,0.0,0.0,2020-07-23
+Tlaxcala,Yauhquemehcan,1.0,1.0,0.0,0.0,2020-07-23
 Veracruz,Agua Dulce,1.0,1.0,0.0,0.0,2020-07-23
-Veracruz,"Alamo 
-Temapache",1.0,1.0,0.0,0.0,2020-07-23
-Veracruz,"Martínez de la 
-Torre",2.0,2.0,0.0,0.0,2020-07-23
+Veracruz,Álamo Temapache,1.0,1.0,0.0,0.0,2020-07-23
+Veracruz,Martínez De La Torre,2.0,2.0,0.0,0.0,2020-07-23
 Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2020-07-23
 Veracruz,Misantla,2.0,2.0,0.0,0.0,2020-07-23
 Veracruz,Tihuatlán,1.0,1.0,0.0,0.0,2020-07-23

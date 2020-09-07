@@ -5,8 +5,7 @@ Chihuahua,Juárez,4,3.0,0.0,1.0,2019-07-14
 Ciudad de México,Coyoacán,1,1.0,0.0,0.0,2019-07-14
 Ciudad de México,Cuauhtémoc,1,0.0,1.0,0.0,2019-07-14
 Ciudad de México,Iztapalapa,1,1.0,0.0,0.0,2019-07-14
-Ciudad de México,"Venustiano 
-Carranza",1,0.0,0.0,1.0,2019-07-14
+Ciudad de México,Venustiano Carranza,1,0.0,0.0,1.0,2019-07-14
 Colima,Colima,1,1.0,0.0,0.0,2019-07-14
 Guanajuato,Abasolo,1,1.0,0.0,0.0,2019-07-14
 Guanajuato,Acámbaro,3,3.0,0.0,0.0,2019-07-14
@@ -14,38 +13,28 @@ Guanajuato,Celaya,1,0.0,1.0,0.0,2019-07-14
 Guanajuato,Guanajuato,2,2.0,0.0,0.0,2019-07-14
 Guanajuato,Irapuato,1,1.0,0.0,0.0,2019-07-14
 Guanajuato,Romita,2,2.0,0.0,0.0,2019-07-14
-Guanajuato,"Valle de 
-Santiago",1,1.0,0.0,0.0,2019-07-14
-Guerrero,"Acapulco de 
-Juárez",4,4.0,0.0,0.0,2019-07-14
-Guerrero,"Chilpancingo 
-de los Bravo",1,1.0,0.0,0.0,2019-07-14
+Guanajuato,Valle De Santiago,1,1.0,0.0,0.0,2019-07-14
+Guerrero,Acapulco De Juárez,4,4.0,0.0,0.0,2019-07-14
+Guerrero,Chilpancingo De Los Bravo,1,1.0,0.0,0.0,2019-07-14
 Guerrero,Huamuxtitlán,2,2.0,0.0,0.0,2019-07-14
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2019-07-14
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0,2019-07-14
-Jalisco,"Tlajomulco de 
-Zúñiga",1,1.0,0.0,0.0,2019-07-14
+Jalisco,San Pedro Tlaquepaque,1,1.0,0.0,0.0,2019-07-14
+Jalisco,Tlajomulco De Zúñiga,1,1.0,0.0,0.0,2019-07-14
 Jalisco,Tonalá,3,0.0,0.0,3.0,2019-07-14
 Michoacán,La Piedad,1,1.0,0.0,0.0,2019-07-14
 Michoacán,Zamora,3,0.0,0.0,3.0,2019-07-14
 Estado de México,Atizapán,1,0.0,1.0,0.0,2019-07-14
-Estado de México,"Ecatepec de 
-Morelos",1,1.0,0.0,0.0,2019-07-14
+Estado de México,Ecatepec De Morelos,1,1.0,0.0,0.0,2019-07-14
 Estado de México,Ixtapaluca,1,1.0,0.0,0.0,2019-07-14
-Estado de México,"Nezahualcóyo
-tl",1,1.0,0.0,0.0,2019-07-14
+Estado de México,Nezahualcóyotl,1,1.0,0.0,0.0,2019-07-14
 Estado de México,Tultitlán,1,1.0,0.0,0.0,2019-07-14
-Nuevo León,"Ciénega de 
-Flores",1,1.0,0.0,0.0,2019-07-14
+Nuevo León,Ciénega De Flores,1,1.0,0.0,0.0,2019-07-14
 Nuevo León,Juárez,1,1.0,0.0,0.0,2019-07-14
 Nuevo León,Monterrey,1,1.0,0.0,0.0,2019-07-14
-Nuevo León,"Salinas 
-Victoria",1,1.0,0.0,0.0,2019-07-14
+Nuevo León,Salinas Victoria,1,1.0,0.0,0.0,2019-07-14
 Puebla,Xicotepec,1,1.0,0.0,0.0,2019-07-14
 Quintana Roo,Benito Juárez,1,0.0,0.0,1.0,2019-07-14
-San Luis Potosí,"San Luis 
-Potosí",1,1.0,0.0,0.0,2019-07-14
+San Luis Potosí,San Luis Potosí,1,1.0,0.0,0.0,2019-07-14
 Sonora,Cajeme,1,1.0,0.0,0.0,2019-07-14
 Sonora,Empalme,2,2.0,0.0,0.0,2019-07-14
 Sonora,Hermosillo,1,1.0,0.0,0.0,2019-07-14

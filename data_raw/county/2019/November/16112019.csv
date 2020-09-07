@@ -1,0 +1,46 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tecate,1.0,1.0,0.0,0.0,2019-11-16
+Baja California,Tijuana,6.0,5.0,1.0,0.0,2019-11-16
+Chihuahua,Chihuahua,3.0,3.0,0.0,0.0,2019-11-16
+Chihuahua,Guachochi,1.0,1.0,0.0,0.0,2019-11-16
+Chihuahua,Juárez,4.0,4.0,0.0,0.0,2019-11-16
+Chihuahua,Satevó,1.0,1.0,0.0,0.0,2019-11-16
+Ciudad de México,Benito Juárez,1.0,1.0,0.0,0.0,2019-11-16
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-11-16
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-11-16
+Coahuila,Monclova,1.0,1.0,0.0,0.0,2019-11-16
+Coahuila,Ocampo,2.0,2.0,0.0,0.0,2019-11-16
+Colima,Tecomán,3.0,3.0,0.0,0.0,2019-11-16
+Durango,Ocampo,2.0,2.0,0.0,0.0,2019-11-16
+Guanajuato,Abasolo,2.0,2.0,0.0,0.0,2019-11-16
+Guanajuato,Celaya,1.0,0.0,1.0,0.0,2019-11-16
+Guanajuato,Santa Cruz De Juventino Rosas,2.0,1.0,1.0,0.0,2019-11-16
+Guanajuato,León,1.0,1.0,0.0,0.0,2019-11-16
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-11-16
+Guanajuato,Santa Cruz De Bravo,2.0,1.0,1.0,0.0,2019-11-16
+Guanajuato,Valle De Santiago,1.0,0.0,0.0,1.0,2019-11-16
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2019-11-16
+Guerrero,Cuajinicuilapa,1.0,1.0,0.0,0.0,2019-11-16
+Guerrero,Zihuatanejo De Azueta,1.0,0.0,0.0,1.0,2019-11-16
+Guerrero,Zirándaro,1.0,0.0,0.0,1.0,2019-11-16
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-11-16
+Jalisco,Tlajomulco De Zúñiga,2.0,0.0,0.0,2.0,2019-11-16
+Coahuila,Boca Del Río,1.0,1.0,0.0,0.0,2019-11-16
+Coahuila,Chocamán,1.0,1.0,0.0,0.0,2019-11-16
+Michoacán,Lázaro Cárdenas,1.0,1.0,0.0,0.0,2019-11-16
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-11-16
+Morelos,Axochiapan,2.0,2.0,0.0,0.0,2019-11-16
+Morelos,Coatlán Del Río,2.0,2.0,0.0,0.0,2019-11-16
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-11-16
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2019-11-16
+Nayarit,Tepic,1.0,1.0,0.0,0.0,2019-11-16
+Oaxaca,Miahuatlán De Porfirio Díaz,1.0,1.0,0.0,0.0,2019-11-16
+Oaxaca,San Juan Bautista Tuxtepec,2.0,0.0,0.0,2.0,2019-11-16
+Puebla,Huauchinango,2.0,2.0,0.0,0.0,2019-11-16
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-11-16
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2019-11-16
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2019-11-16
+Tlaxcala,Huamantla,2.0,2.0,0.0,0.0,2019-11-16
+Veracruz,Álamo Temapache,1.0,1.0,0.0,0.0,2019-11-16
+Zacatecas,Río Grande,4.0,4.0,0.0,0.0,2019-11-16
+Zacatecas,Valparaíso,2.0,2.0,0.0,0.0,2019-11-16

@@ -1,63 +1,46 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado
-Baja California,Ensenada,3.0,3.0,0.0,0.0
-Baja California,Tijuana,2.0,2.0,0.0,0.0
-Chihuahua,Juárez,4.0,4.0,0.0,0.0
-Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0
-Coahuila,Matamoros,1.0,1.0,0.0,0.0
-Durango,Gómez Palacio,1.0,0.0,1.0,0.0
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0
-Guanajuato,Celaya,1.0,1.0,0.0,0.0
-Guanajuato,Irapuato,1.0,1.0,0.0,0.0
-Guanajuato,León,1.0,1.0,0.0,0.0
-Guanajuato,Salamanca,1.0,0.0,1.0,0.0
-Guanajuato,Tarimoro,3.0,0.0,0.0,3.0
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0
-Guerrero,"Chilpancingo 
-de los Bravo",2.0,2.0,0.0,0.0
-Guerrero,"Coyuca de 
-Benítez",1.0,1.0,0.0,0.0
-Guerrero,"José Joaquin de 
-Herrera",1.0,1.0,0.0,0.0
-Guerrero,"Taxco de 
-Alarcón",1.0,1.0,0.0,0.0
-Jalisco,Guadalajara,1.0,1.0,0.0,0.0
-Michoacán,Arteaga,3.0,3.0,0.0,0.0
-Michoacán,"Lázaro 
-Cárdenas",4.0,4.0,0.0,0.0
-Michoacán,Morelia,1.0,1.0,0.0,0.0
-Michoacán,Uruapan,4.0,1.0,0.0,3.0
-Morelos,Amacuzac,1.0,1.0,0.0,0.0
-Morelos,Axochiapan,1.0,1.0,0.0,0.0
-Ciudad de México,"Atizapán de 
-Zaragoza",1.0,0.0,0.0,1.0
-Ciudad de México,"Cuautitlán 
-Izcalli",1.0,1.0,0.0,0.0
-Ciudad de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0
-Ciudad de México,Tecámac,2.0,2.0,0.0,0.0
-Nuevo León,Gral. Escobedo,1.0,1.0,0.0,0.0
-Nuevo León,Salinas Victoria,2.0,2.0,0.0,0.0
-Oaxaca,"Miahuatlán de 
-Porfirio Díaz",1.0,1.0,0.0,0.0
-Puebla,"Izúcar de 
-Matamoros",1.0,1.0,0.0,0.0
-Quintana Roo,"Felipe Carrillo 
-Puerto",1.0,0.0,1.0,0.0
-San Luis Potosí,Xilitla,1.0,1.0,0.0,0.0
-Sinaloa,Badiraguato,1.0,1.0,0.0,0.0
-Sinaloa,Culiacán,1.0,1.0,0.0,0.0
-Sinaloa,Mazatlán,1.0,1.0,0.0,0.0
-Sinaloa,Mocorito,1.0,1.0,0.0,0.0
-Tabasco,"Jalpa de 
-Méndez",1.0,1.0,0.0,0.0
-Tamaulipas,San Fernando,5.0,5.0,0.0,0.0
-Tlaxcala,Tenancingo,1.0,1.0,0.0,0.0
-Veracruz,1,1.0,0.0,0.0,0.0
-Veracruz,Coatepec,2.0,2.0,0.0,0.0
-Veracruz,"Mariano 
-Escobedo",1.0,1.0,0.0,0.0
-Veracruz,"Poza Rica de 
-Hidalgo",2.0,2.0,0.0,0.0
-Veracruz,Río Blanco,1.0,1.0,0.0,0.0
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,3,3,0,0,2019-09-08
+Baja California,Tijuana,2,2,0,0,2019-09-08
+Chihuahua,Juárez,4,4,0,0,2019-09-08
+Ciudad de México,Álvaro Obregón,1,1,0,0,2019-09-08
+Coahuila,Matamoros,1,1,0,0,2019-09-08
+Durango,Gómez Palacio,1,0,1,0,2019-09-08
+Guanajuato,Apaseo El Grande,1,1,0,0,2019-09-08
+Guanajuato,Celaya,1,1,0,0,2019-09-08
+Guanajuato,Irapuato,1,1,0,0,2019-09-08
+Guanajuato,León,1,1,0,0,2019-09-08
+Guanajuato,Salamanca,1,0,1,0,2019-09-08
+Guanajuato,Tarimoro,3,0,0,3,2019-09-08
+Guerrero,Acapulco De Juárez,1,1,0,0,2019-09-08
+Guerrero,Chilpancingo De Los Bravo,2,2,0,0,2019-09-08
+Guerrero,Coyuca De Benítez,1,1,0,0,2019-09-08
+Guerrero,José Joaquín De Herrera,1,1,0,0,2019-09-08
+Guerrero,Taxco De Alarcón,1,1,0,0,2019-09-08
+Jalisco,Guadalajara,1,1,0,0,2019-09-08
+Michoacán,Arteaga,3,3,0,0,2019-09-08
+Michoacán,Lázaro Cárdenas,4,4,0,0,2019-09-08
+Michoacán,Morelia,1,1,0,0,2019-09-08
+Michoacán,Uruapan,4,1,0,3,2019-09-08
+Morelos,Amacuzac,1,1,0,0,2019-09-08
+Morelos,Axochiapan,1,1,0,0,2019-09-08
+Estado de México,Atizapán De Zaragoza,1,0,0,1,2019-09-08
+Estado de México,Cuautitlán Izcalli,1,1,0,0,2019-09-08
+Estado de México,Naucalpan De Juárez,1,1,0,0,2019-09-08
+Estado de México,Tecámac,2,2,0,0,2019-09-08
+Nuevo León,Escobedo,1,1,0,0,2019-09-08
+Nuevo León,Salinas Victoria,2,2,0,0,2019-09-08
+Oaxaca,Miahuatlán De Porfirio Díaz,1,1,0,0,2019-09-08
+Puebla,Izúcar De Matamoros,1,1,0,0,2019-09-08
+Quintana Roo,Felipe Carrillo Puerto,1,0,1,0,2019-09-08
+San Luis Potosí,Xilitla,1,1,0,0,2019-09-08
+Sinaloa,Badiraguato,1,1,0,0,2019-09-08
+Sinaloa,Culiacán,1,1,0,0,2019-09-08
+Sinaloa,Mazatlán,1,1,0,0,2019-09-08
+Sinaloa,Mocorito,1,1,0,0,2019-09-08
+Tabasco,Jalpa De Méndez,1,1,0,0,2019-09-08
+Tamaulipas,San Fernando,5,5,0,0,2019-09-08
+Tlaxcala,Tenancingo,1,1,0,0,2019-09-08
+Veracruz,Coatepec,2,2,0,0,2019-09-08
+Veracruz,Mariano Escobedo,1,1,0,0,2019-09-08
+Veracruz,Poza Rica De Hidalgo,2,2,0,0,2019-09-08
+Veracruz,Río Blanco,2,2,0,0,2019-09-08

@@ -1,82 +1,50 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-,,,,,
-,,,,,Identificado
-,,,,,
-"Aguascalientes 
-(1)",Aguascalientes,1,1,-,-
-"Baja California 
-(3)",Tijuana,1,1,-,-
-,,1,-,-,1
-,,1,1,-,-
-Chihuahua (5),Chihuahua,1,1,-,-
-,,1,1,-,-
-,,1,-,-,1
-,Juárez,1,-,1,-
-,,1,1,-,-
-"Coahuila de 
-Zaragoza (1)",Saltillo,1,1,-,-
-Colima (2),Manzanillo,1,1,-,-
-,Tecomán,1,1,-,-
-Guanajuato (9),Celaya,2,2,-,-
-,León,2,-,-,2
-,,1,1,-,-
-,"San Diego de 
-la Unión",2,2,-,-
-,"Silao de la 
-Víctoria",1,1,-,-
-,"Valle de 
-Santiago",1,1,-,-
-Guerrero (2),"Cochoapa el 
-Grande",1,-,-,1
-,"Coyuca de 
-Benítez",1,-,1,-
-Jalisco (3),Tonalá,1,-,1,-
-,Zapopan,1,1,-,-
-,,1,1,-,-
-México (7),"Coacalco de 
-Berriozábal",1,-,1,-
-,Lerma,1,1,-,-
-,"Naucalpan de 
-Juárez",2,2,-,-
-,Nezahualcóyotl,1,1,-,-
-,Texcoco,1,1,-,-
-,Toluca,1,1,-,-
-"Michoacán de 
-Ocampo (8)",Apatzingán,1,1,-,-
-,Morelia,4,3,1,-
-,Tlazazalca,1,1,-,-
-,Uruapan,1,1,-,-
-,Zitácuaro,1,1,-,-
-Morelos (2),Ayala,1,-,-,1
-,Jantetelco,1,1,-,-
-Nuevo León (1),"Cadereyta 
-Jiménez",1,1,-,-
-Puebla (6),Cuautinchán,2,-,-,2
-,Puebla,1,-,-,1
-,Tlahuapan,1,1,-,-
-,Tochimilco,2,2,-,-
-Querétaro (1),Corregidora,1,1,-,-
-"Quintana Roo 
-(1)",Tulum,1,1,-,-
-"San Luis Potosí 
-(1)",San Luis Potosí,1,-,1,-
-Sinaloa (3),Culiacán,1,1,-,-
-,,1,1,-,-
-,"Salvador 
-Alvarado",1,1,-,-
-Sonora (1),"San Luis Río 
-Colorado",1,1,-,-
-Tabasco (1),Centro,1,1,-,-
-Tamaulipas (6),Hidalgo,1,1,-,-
-,Reynosa,1,1,-,-
-,Río Bravo,4,4,-,-
-Tlaxcala (1),"Ixtacuixtla de 
-Mariano 
-Matamoros",1,1,-,-
-Yucatán (1),Hoctún,1,1,-,-
-Zacatecas (7),Fresnillo,1,1,-,-
-,Río Grande,2,2,-,-
-,Sain Alto,4,3,1,-
-Totales,,73,57,7,9
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2020-02-18
+Baja California,Tijuana,3.0,2.0,0.0,1.0,2020-02-18
+Chihuahua,Chihuahua,3.0,2.0,0.0,1.0,2020-02-18
+Chihuahua,Juárez,2.0,1.0,1.0,0.0,2020-02-18
+Coahuila,Saltillo,1.0,1.0,0.0,0.0,2020-02-18
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-02-18
+Colima,Tecomán,1.0,1.0,0.0,0.0,2020-02-18
+Guanajuato,Celaya,2.0,2.0,0.0,0.0,2020-02-18
+Guanajuato,León,3.0,1.0,0.0,2.0,2020-02-18
+Guanajuato,San Diego De La Unión,2.0,2.0,0.0,0.0,2020-02-18
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2020-02-18
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2020-02-18
+Guerrero,Cochoapa El Grande,1.0,0.0,0.0,1.0,2020-02-18
+Guerrero,Coyuca De Benítez,1.0,0.0,1.0,0.0,2020-02-18
+Jalisco,Tonalá,1.0,0.0,1.0,0.0,2020-02-18
+Jalisco,Zapopan,2.0,2.0,0.0,0.0,2020-02-18
+Michoacán,Apatzingán,1.0,1.0,0.0,0.0,2020-02-18
+Michoacán,Morelia,4.0,3.0,1.0,0.0,2020-02-18
+Michoacán,Tlazazalca,1.0,1.0,0.0,0.0,2020-02-18
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-02-18
+Michoacán,Zitácuaro,1.0,1.0,0.0,0.0,2020-02-18
+Morelos,Ayala,1.0,0.0,0.0,1.0,2020-02-18
+Morelos,Jantetelco,1.0,1.0,0.0,0.0,2020-02-18
+Estado de México,Coacalco De Berriozábal,1.0,0.0,1.0,0.0,2020-02-18
+Estado de México,Lerma,1.0,1.0,0.0,0.0,2020-02-18
+Estado de México,Naucalpan De Juárez,2.0,2.0,0.0,0.0,2020-02-18
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-02-18
+Estado de México,Texcoco,1.0,1.0,0.0,0.0,2020-02-18
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-02-18
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2020-02-18
+Puebla,Cuautinchán,2.0,0.0,0.0,2.0,2020-02-18
+Puebla,Puebla,1.0,0.0,0.0,1.0,2020-02-18
+Puebla,Tlahuapan,1.0,1.0,0.0,0.0,2020-02-18
+Puebla,Tochimilco,2.0,2.0,0.0,0.0,2020-02-18
+Querétaro,Corregidora,1.0,1.0,0.0,0.0,2020-02-18
+Quintana Roo,Tulum,1.0,1.0,0.0,0.0,2020-02-18
+San Luis Potosí,San Luis Potosí,1.0,0.0,1.0,0.0,2020-02-18
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-02-18
+Sinaloa,Salvador Alvarado,1.0,1.0,0.0,0.0,2020-02-18
+Sonora,San Luis Río Colorado,1.0,1.0,0.0,0.0,2020-02-18
+Tabasco,Centro,1.0,1.0,0.0,0.0,2020-02-18
+Tamaulipas,Hidalgo,1.0,1.0,0.0,0.0,2020-02-18
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-02-18
+Tamaulipas,Río Bravo,4.0,4.0,0.0,0.0,2020-02-18
+Tlaxcala,Ixtacuixtla De Mariano Matamoros,1.0,1.0,0.0,0.0,2020-02-18
+Yucatán,Hoctún,1.0,1.0,0.0,0.0,2020-02-18
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-02-18
+Zacatecas,Río Grande,2.0,2.0,0.0,0.0,2020-02-18
+Zacatecas,Sain Alto,4.0,3.0,1.0,0.0,2020-02-18

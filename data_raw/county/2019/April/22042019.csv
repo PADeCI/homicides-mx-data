@@ -4,7 +4,7 @@ Chiapas,Metapa,1.0,1.0,0.0,0.0,2019-04-22
 Chiapas,Tuxtla Chico,3.0,3.0,0.0,0.0,2019-04-22
 Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2019-04-22
 Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-04-22
-Chihuahua,Guadalupe y Calvo,3.0,3.0,0.0,0.0,2019-04-22
+Chihuahua,Guadalupe Y Calvo,3.0,3.0,0.0,0.0,2019-04-22
 Chihuahua,Juárez,4.0,4.0,0.0,0.0,2019-04-22
 Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-04-22
 Coahuila,Parras,1.0,1.0,0.0,0.0,2019-04-22
@@ -16,10 +16,9 @@ Guanajuato,León,3.0,3.0,0.0,0.0,2019-04-22
 Guanajuato,Pueblo Nuevo,1.0,1.0,0.0,0.0,2019-04-22
 Guanajuato,Pénjamo,4.0,0.0,0.0,4.0,2019-04-22
 Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2019-04-22
-Guanajuato,Valle de Santiago,1.0,1.0,0.0,0.0,2019-04-22
-Guerrero,"Chilpancingo de los 
-Bravo",1.0,1.0,0.0,0.0,2019-04-22
-Guerrero,Coyuca de Benítez,1.0,1.0,0.0,0.0,2019-04-22
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-04-22
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2019-04-22
+Guerrero,Coyuca De Benítez,1.0,1.0,0.0,0.0,2019-04-22
 Guerrero,Cuajinicuilapa,1.0,1.0,0.0,0.0,2019-04-22
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-04-22
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-04-22
@@ -29,22 +28,16 @@ Michoacán,Tangancícuaro,1.0,1.0,0.0,0.0,2019-04-22
 Michoacán,Zamora,2.0,0.0,2.0,0.0,2019-04-22
 Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2019-04-22
 Morelos,Jiutepec,1.0,1.0,0.0,0.0,2019-04-22
-Estado de México,"Coacalco de 
-Berriozábal",2.0,1.0,1.0,0.0,2019-04-22
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2019-04-22
+Estado de México,Coacalco De Berriozábal,2.0,1.0,1.0,0.0,2019-04-22
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-04-22
 Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2019-04-22
 Estado de México,Toluca,1.0,1.0,0.0,0.0,2019-04-22
 Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2019-04-22
-Estado de México,"Valle de Chalco 
-Solidaridad",1.0,1.0,0.0,0.0,2019-04-22
+Estado de México,Valle De Chalco Solidaridad,1.0,1.0,0.0,0.0,2019-04-22
 Nuevo León,Montemorelos,1.0,1.0,0.0,0.0,2019-04-22
 Nuevo León,Pesquería,1.0,0.0,1.0,0.0,2019-04-22
-Oaxaca,"Heroica Ciudad de 
-Juchitán de 
-Zaragoza",1.0,0.0,0.0,1.0,2019-04-22
-Oaxaca,"San Juan Bautista 
-Tuxtepec",1.0,1.0,0.0,0.0,2019-04-22
+Oaxaca,Zaragoza,1.0,0.0,0.0,1.0,2019-04-22
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-04-22
 Puebla,Tilapa,1.0,1.0,0.0,0.0,2019-04-22
 Quintana Roo,Benito Juárez,2.0,1.0,0.0,1.0,2019-04-22
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-04-22

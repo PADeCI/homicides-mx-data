@@ -1,93 +1,77 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Mexicali,1.0,1.0,0.0,0.0,2020-08-24
-Baja California,Tijuana,4.0,2.0,2.0,0.0,2020-08-24
-Chiapas,Mapastepec,1.0,1.0,0.0,0.0,2020-08-24
-Chiapas,Reforma,1.0,1.0,0.0,0.0,2020-08-24
-Chihuahua,Ascensión,1.0,0.0,1.0,0.0,2020-08-24
-Chihuahua,Chihuahua,3.0,3.0,0.0,0.0,2020-08-24
-Chihuahua,Cuauhtémoc,2.0,2.0,0.0,0.0,2020-08-24
-Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-08-24
-Chihuahua,Temósachic,1.0,0.0,1.0,0.0,2020-08-24
-Ciudad de México,Azcapotzalco,1.0,1.0,0.0,0.0,2020-08-24
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2020-08-24
-Ciudad de México,Tlalpan,1.0,0.0,1.0,0.0,2020-08-24
-Colima,Colima,2.0,1.0,0.0,1.0,2020-08-24
-Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-08-24
-Colima,Tecomán,1.0,0.0,1.0,0.0,2020-08-24
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2020-08-24
-Guanajuato,Celaya,2.0,1.0,0.0,1.0,2020-08-24
-Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-08-24
-Guanajuato,Jerécuaro,1.0,1.0,0.0,0.0,2020-08-24
-Guanajuato,León,2.0,1.0,1.0,0.0,2020-08-24
-Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-08-24
-Guanajuato,"San Francisco 
-del Rincón",1.0,0.0,1.0,0.0,2020-08-24
-Guerrero,"Acapulco de 
-Juárez",6.0,6.0,0.0,0.0,2020-08-24
-Guerrero,"Atoyac de 
-Álvarez",1.0,1.0,0.0,0.0,2020-08-24
-Guerrero,"Iguala de la 
-Independencia",1.0,0.0,0.0,1.0,2020-08-24
-Guerrero,Teloloapan,1.0,1.0,0.0,0.0,2020-08-24
-Hidalgo,Ixmiquilpan,3.0,3.0,0.0,0.0,2020-08-24
-Hidalgo,"Progreso de 
-Obregón",1.0,0.0,1.0,0.0,2020-08-24
-Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-08-24
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-08-24
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,2.0,0.0,0.0,2020-08-24
-Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-08-24
-Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-08-24
-Michoacán,"Lázaro 
-Cárdenas",1.0,1.0,0.0,0.0,2020-08-24
-Michoacán,Morelia,2.0,0.0,2.0,0.0,2020-08-24
-Michoacán,Sahuayo,2.0,1.0,1.0,0.0,2020-08-24
-Michoacán,Zamora,2.0,1.0,1.0,0.0,2020-08-24
-Michoacán,Zitácuaro,1.0,1.0,0.0,0.0,2020-08-24
-Estado de México,"Almoloya de 
-Juárez",1.0,1.0,0.0,0.0,2020-08-24
-Estado de México,Jacona,1.0,1.0,0.0,0.0,2020-08-24
-Estado de México,La Paz,1.0,0.0,1.0,0.0,2020-08-24
-Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-08-24
-Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2020-08-24
-Nuevo León,Juárez,2.0,2.0,0.0,0.0,2020-08-24
-Nuevo León,Oaxaca (1)  Ánimas Trujano,1.0,1.0,0.0,0.0,2020-08-24
-Nuevo León,Salinas Victoria,1.0,1.0,0.0,0.0,2020-08-24
-Nuevo León,"San Nicolás de 
-los Garza",1.0,1.0,0.0,0.0,2020-08-24
-Puebla,Puebla,2.0,2.0,0.0,0.0,2020-08-24
-Puebla,Tlahuapan,1.0,1.0,0.0,0.0,2020-08-24
-Puebla,Yehualtepec,1.0,1.0,0.0,0.0,2020-08-24
-Querétaro,"Amealco de 
-Bonfil",1.0,0.0,1.0,0.0,2020-08-24
-Querétaro,"San Juan del 
-Río",1.0,1.0,0.0,0.0,2020-08-24
-Quintana Roo,Benito Juárez,4.0,4.0,0.0,0.0,2020-08-24
-Quintana Roo,Solidaridad,2.0,2.0,0.0,0.0,2020-08-24
-San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2020-08-24
-San Luis Potosí,San Luis Potosí,2.0,1.0,0.0,1.0,2020-08-24
-San Luis Potosí,Villa de Arriaga,1.0,0.0,1.0,0.0,2020-08-24
-San Luis Potosí,Villa de la Paz,2.0,2.0,0.0,0.0,2020-08-24
-Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-08-24
-Sonora,Altar,1.0,1.0,0.0,0.0,2020-08-24
-Sonora,Caborca,1.0,1.0,0.0,0.0,2020-08-24
-Sonora,"General 
-Plutarco Elías 
-Calles",1.0,1.0,0.0,0.0,2020-08-24
-Sonora,Guaymas,2.0,2.0,0.0,0.0,2020-08-24
-Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-08-24
-Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-08-24
-Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2020-08-24
-Tabasco,Jalapa,1.0,1.0,0.0,0.0,2020-08-24
-Tabasco,Macuspana,1.0,1.0,0.0,0.0,2020-08-24
-Veracruz,Coatzintla,1.0,1.0,0.0,0.0,2020-08-24
-Veracruz,Fortín,1.0,1.0,0.0,0.0,2020-08-24
-Veracruz,Nogales,1.0,0.0,0.0,1.0,2020-08-24
-Veracruz,Papantla,2.0,2.0,0.0,0.0,2020-08-24
-Veracruz,"Poza Rica de 
-Hidalgo",1.0,1.0,0.0,0.0,2020-08-24
-Veracruz,Soconusco,1.0,1.0,0.0,0.0,2020-08-24
-Veracruz,Tecolutla,1.0,1.0,0.0,0.0,2020-08-24
-Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-08-24
+Baja California,Mexicali,1,1,0,0,2020-08-24
+Baja California,Tijuana,4,2,2,0,2020-08-24
+Chiapas,Mapastepec,1,1,0,0,2020-08-24
+Chiapas,Reforma,1,1,0,0,2020-08-24
+Chihuahua,Ascensión,1,0,1,0,2020-08-24
+Chihuahua,Chihuahua,3,3,0,0,2020-08-24
+Chihuahua,Cuauhtémoc,2,2,0,0,2020-08-24
+Chihuahua,Juárez,2,2,0,0,2020-08-24
+Chihuahua,Temósachic,1,0,1,0,2020-08-24
+Ciudad de México,Azcapotzalco,1,1,0,0,2020-08-24
+Ciudad de México,Gustavo A. Madero,1,1,0,0,2020-08-24
+Ciudad de México,Tlalpan,1,0,1,0,2020-08-24
+Colima,Colima,2,1,0,1,2020-08-24
+Colima,Manzanillo,1,1,0,0,2020-08-24
+Colima,Tecomán,1,0,1,0,2020-08-24
+Guanajuato,Apaseo El Alto,1,1,0,0,2020-08-24
+Guanajuato,Celaya,2,1,0,1,2020-08-24
+Guanajuato,Irapuato,1,1,0,0,2020-08-24
+Guanajuato,Jerécuaro,1,1,0,0,2020-08-24
+Guanajuato,León,2,1,1,0,2020-08-24
+Guanajuato,Salamanca,2,2,0,0,2020-08-24
+Guanajuato,San Francisco Del Rincón,1,0,1,0,2020-08-24
+Guerrero,Acapulco De Juárez,6,6,0,0,2020-08-24
+Guerrero,Atoyac De Álvarez,1,1,0,0,2020-08-24
+Guerrero,Iguala De La Independencia,1,0,0,1,2020-08-24
+Guerrero,Teloloapan,1,1,0,0,2020-08-24
+Hidalgo,Ixmiquilpan,3,3,0,0,2020-08-24
+Hidalgo,Progreso De Obregón,1,0,1,0,2020-08-24
+Jalisco,Guadalajara,1,1,0,0,2020-08-24
+Jalisco,San Pedro Tlaquepaque,1,1,0,0,2020-08-24
+Jalisco,Tlajomulco De Zúñiga,2,2,0,0,2020-08-24
+Jalisco,Tonalá,1,1,0,0,2020-08-24
+Jalisco,Zapopan,1,1,0,0,2020-08-24
+Michoacán,Lázaro Cárdenas,1,1,0,0,2020-08-24
+Michoacán,Morelia,2,0,2,0,2020-08-24
+Michoacán,Sahuayo,2,1,1,0,2020-08-24
+Michoacán,Zamora,2,1,1,0,2020-08-24
+Michoacán,Zitácuaro,1,1,0,0,2020-08-24
+Estado de México,Almoloya De Juárez,1,1,0,0,2020-08-24
+Estado de México,Jacona,1,1,0,0,2020-08-24
+Estado de México,La Paz,1,0,1,0,2020-08-24
+Estado de México,Nezahualcóyotl,1,1,0,0,2020-08-24
+Nuevo León,Guadalupe,1,1,0,0,2020-08-24
+Nuevo León,Juárez,2,2,0,0,2020-08-24
+Oaxaca,Ánimas Trujano,1,1,0,0,2020-08-24
+Nuevo León,Salinas Victoria,1,1,0,0,2020-08-24
+Nuevo León,San Nicolás De Los Garza,1,1,0,0,2020-08-24
+Puebla,Puebla,2,2,0,0,2020-08-24
+Puebla,Tlahuapan,1,1,0,0,2020-08-24
+Puebla,Yehualtepec,1,1,0,0,2020-08-24
+Querétaro,Amealco De Bonfil,1,0,1,0,2020-08-24
+Querétaro,San Juan Del Río,1,1,0,0,2020-08-24
+Quintana Roo,Benito Juárez,4,4,0,0,2020-08-24
+Quintana Roo,Solidaridad,2,2,0,0,2020-08-24
+San Luis Potosí,Rioverde,1,1,0,0,2020-08-24
+San Luis Potosí,San Luis Potosí,2,1,0,1,2020-08-24
+San Luis Potosí,Villa De Arriaga,1,0,1,0,2020-08-24
+San Luis Potosí,Villa De La Paz,2,2,0,0,2020-08-24
+Sinaloa,Culiacán,2,2,0,0,2020-08-24
+Sonora,Altar,1,1,0,0,2020-08-24
+Sonora,Caborca,1,1,0,0,2020-08-24
+Sonora,General Plutarco Elías Calles,1,1,0,0,2020-08-24
+Sonora,Guaymas,2,2,0,0,2020-08-24
+Sonora,Hermosillo,1,1,0,0,2020-08-24
+Tabasco,Cárdenas,1,1,0,0,2020-08-24
+Tabasco,Huimanguillo,1,1,0,0,2020-08-24
+Tabasco,Jalapa,1,1,0,0,2020-08-24
+Tabasco,Macuspana,1,1,0,0,2020-08-24
+Veracruz,Coatzintla,1,1,0,0,2020-08-24
+Veracruz,Fortín,1,1,0,0,2020-08-24
+Veracruz,Nogales,1,0,0,1,2020-08-24
+Veracruz,Papantla,2,2,0,0,2020-08-24
+Veracruz,Poza Rica De Hidalgo,1,1,0,0,2020-08-24
+Veracruz,Soconusco,1,1,0,0,2020-08-24
+Veracruz,Tecolutla,1,1,0,0,2020-08-24
+Zacatecas,Fresnillo,1,1,0,0,2020-08-24

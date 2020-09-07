@@ -14,7 +14,7 @@ Durango,Lerdo,1,1.0,0.0,0.0,2019-07-03
 Guanajuato,Celaya,2,2.0,0.0,0.0,2019-07-03
 Guanajuato,Irapuato,2,2.0,0.0,0.0,2019-07-03
 Guanajuato,León,1,1.0,0.0,0.0,2019-07-03
-Guerrero,Chilapa de Álvarez,1,0.0,0.0,1.0,2019-07-03
+Guerrero,Chilapa De Álvarez,1,0.0,0.0,1.0,2019-07-03
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2019-07-03
 Jalisco,Puerto Vallarta,1,1.0,0.0,0.0,2019-07-03
 Jalisco,Tomatlán,1,1.0,0.0,0.0,2019-07-03
@@ -26,11 +26,8 @@ Estado de México,Otumba,1,1.0,0.0,0.0,2019-07-03
 Nayarit,Del Nayar,2,1.0,1.0,0.0,2019-07-03
 Nayarit,San Blas,2,2.0,0.0,0.0,2019-07-03
 Nuevo León,Guadalupe,1,1.0,0.0,0.0,2019-07-03
-Oaxaca,"Heroica Ciudad de 
-Juchitán de 
-Zaragoza",1,1.0,0.0,0.0,2019-07-03
-Oaxaca,"San Juan Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2019-07-03
+Oaxaca,Zaragoza,1,1.0,0.0,0.0,2019-07-03
+Oaxaca,San Juan Bautista Tuxtepec,1,1.0,0.0,0.0,2019-07-03
 Puebla,Amozoc,1,1.0,0.0,0.0,2019-07-03
 Puebla,Huauchinango,1,1.0,0.0,0.0,2019-07-03
 Puebla,Puebla,4,3.0,1.0,0.0,2019-07-03
@@ -45,6 +42,5 @@ Sonora,Hermosillo,1,1.0,0.0,0.0,2019-07-03
 Sonora,Nogales,1,1.0,0.0,0.0,2019-07-03
 Tabasco,Balancán,1,1.0,0.0,0.0,2019-07-03
 Tabasco,Huimanguillo,1,1.0,0.0,0.0,2019-07-03
-Veracruz,"Huiloapan de 
-Cuauhtémoc",1,1.0,0.0,0.0,2019-07-03
-Veracruz,Soledad de Doblado,1,1.0,0.0,0.0,2019-07-03
+Veracruz,Huiloapan De Cuauhtémoc,1,1.0,0.0,0.0,2019-07-03
+Veracruz,Soledad De Doblado,1,1.0,0.0,0.0,2019-07-03

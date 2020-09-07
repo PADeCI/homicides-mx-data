@@ -5,8 +5,7 @@ Baja California,Tijuana,4.0,4.0,0.0,0.0,2019-07-20
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-07-20
 Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-07-20
 Ciudad de México,Cuauhtémoc,1.0,0.0,1.0,0.0,2019-07-20
-Ciudad de México,"Venustiano 
-Carranza",4.0,4.0,0.0,0.0,2019-07-20
+Ciudad de México,Venustiano Carranza,4.0,4.0,0.0,0.0,2019-07-20
 Coahuila,Torreón,1.0,1.0,0.0,0.0,2019-07-20
 Colima,Colima,1.0,1.0,0.0,0.0,2019-07-20
 Colima,Tecomán,1.0,1.0,0.0,0.0,2019-07-20
@@ -15,25 +14,17 @@ Guanajuato,Abasolo,1.0,1.0,0.0,0.0,2019-07-20
 Guanajuato,Celaya,1.0,0.0,1.0,0.0,2019-07-20
 Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-07-20
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-07-20
-Guanajuato,"Purísima del 
-Rincón",2.0,2.0,0.0,0.0,2019-07-20
-Guanajuato,"Silao de la 
-Víctoria",1.0,1.0,0.0,0.0,2019-07-20
-Guanajuato,"Valle de 
-Santiago",3.0,3.0,0.0,0.0,2019-07-20
-Guerrero,"Acapulco de 
-Juárez",5.0,4.0,1.0,0.0,2019-07-20
-Guerrero,"Taxco de 
-Alarcón",1.0,1.0,0.0,0.0,2019-07-20
+Guanajuato,Purísima Del Rincón,2.0,2.0,0.0,0.0,2019-07-20
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2019-07-20
+Guanajuato,Valle De Santiago,3.0,3.0,0.0,0.0,2019-07-20
+Guerrero,Acapulco De Juárez,5.0,4.0,1.0,0.0,2019-07-20
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2019-07-20
 Hidalgo,Singuilucan,1.0,1.0,0.0,0.0,2019-07-20
-Colima,Cabada,1.0,1.0,0.0,0.0,2019-07-20
-Colima,"Gutiérrez 
-Zamora",1.0,1.0,0.0,0.0,2019-07-20
+Colima,Angel R. Cabada,1.0,1.0,0.0,0.0,2019-07-20
+Colima,Gutiérrez Zamora,1.0,1.0,0.0,0.0,2019-07-20
 Jalisco,El Salto,1.0,1.0,0.0,0.0,2019-07-20
-Jalisco,"San Pedro 
-Tlaquepaque",2.0,2.0,0.0,0.0,2019-07-20
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2019-07-20
+Jalisco,San Pedro Tlaquepaque,2.0,2.0,0.0,0.0,2019-07-20
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-07-20
 Jalisco,Tonalá,3.0,3.0,0.0,0.0,2019-07-20
 Michoacán,Jacona,2.0,2.0,0.0,0.0,2019-07-20
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-07-20
@@ -44,18 +35,15 @@ Morelos,Xochitepec,1.0,1.0,0.0,0.0,2019-07-20
 Estado de México,Aculco,1.0,1.0,0.0,0.0,2019-07-20
 Estado de México,Amecameca,1.0,1.0,0.0,0.0,2019-07-20
 Estado de México,Nezahualcóyotl,2.0,2.0,0.0,0.0,2019-07-20
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1.0,1.0,0.0,0.0,2019-07-20
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-07-20
 Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-07-20
 Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-07-20
 San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2019-07-20
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-07-20
 Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-07-20
 Tabasco,Tenosique,1.0,1.0,0.0,0.0,2019-07-20
-Tamaulipas,"Ciudad 
-Madero",1.0,1.0,0.0,0.0,2019-07-20
+Tamaulipas,Ciudad Madero,1.0,1.0,0.0,0.0,2019-07-20
 Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-07-20
-Veracruz,Angel R.,1.0,1.0,0.0,0.0,2019-07-20
+Veracruz,Angel R. Cabada,1.0,1.0,0.0,0.0,2019-07-20
 Zacatecas,Calera,1.0,1.0,0.0,0.0,2019-07-20
 Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-07-20

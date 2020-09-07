@@ -1,48 +1,41 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Ensenada,1,1.0,0.0,0.0,2019-12-29
-Baja California,Tecate,1,1.0,0.0,0.0,2019-12-29
-Baja California,Tijuana,6,3.0,3.0,0.0,2019-12-29
-Chihuahua,Bocoyna,1,1.0,0.0,0.0,2019-12-29
-Chihuahua,Juárez,3,3.0,0.0,0.0,2019-12-29
-Ciudad de México,"Venustiano 
-Carranza",1,1.0,0.0,0.0,2019-12-29
-Ciudad de México,"Álvaro 
-Obregón",1,1.0,0.0,0.0,2019-12-29
-Coahuila,Torreón,1,1.0,0.0,0.0,2019-12-29
-Durango,Gómez Palacio,1,1.0,0.0,0.0,2019-12-29
-Guanajuato,"Apaseo el 
-Grande",2,2.0,0.0,0.0,2019-12-29
-Guanajuato,León,1,1.0,0.0,0.0,2019-12-29
-Guanajuato,Pénjamo,1,1.0,0.0,0.0,2019-12-29
-Guanajuato,Salvatierra,2,0.0,0.0,2.0,2019-12-29
-Guanajuato,"San Francisco 
-del Rincón",2,2.0,0.0,0.0,2019-12-29
-Guanajuato,Tarimoro,3,3.0,0.0,0.0,2019-12-29
-Guanajuato,Yuriria,1,0.0,1.0,0.0,2019-12-29
-Guerrero,"Acapulco de 
-Juárez",4,3.0,1.0,0.0,2019-12-29
-Michoacán,Jacona,1,0.0,0.0,1.0,2019-12-29
-Michoacán,Uruapan,2,0.0,0.0,2.0,2019-12-29
-Michoacán,Zamora,1,1.0,0.0,0.0,2019-12-29
-Morelos,Cuernavaca,2,2.0,0.0,0.0,2019-12-29
-Morelos,Huitzilac,1,1.0,0.0,0.0,2019-12-29
-Morelos,Mazatepec,1,1.0,0.0,0.0,2019-12-29
-Morelos,Xochitepec,1,1.0,0.0,0.0,2019-12-29
-Morelos,Yautepec,1,1.0,0.0,0.0,2019-12-29
-Nuevo León,Juárez,1,1.0,0.0,0.0,2019-12-29
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,0.0,1.0,0.0,2019-12-29
-Puebla,Tecamachalco,2,2.0,0.0,0.0,2019-12-29
-Quintana Roo,Benito Juárez,2,2.0,0.0,0.0,2019-12-29
-Quintana Roo,San Luis Potosí (1)  San Luis Potosí,1,1.0,0.0,0.0,2019-12-29
-Sinaloa,Culiacán,1,1.0,0.0,0.0,2019-12-29
-Sinaloa,Guasave,1,1.0,0.0,0.0,2019-12-29
-Sinaloa,Mocorito,4,4.0,0.0,0.0,2019-12-29
-Sonora,Guaymas,1,1.0,0.0,0.0,2019-12-29
-Sonora,Hermosillo,3,0.0,3.0,0.0,2019-12-29
-Tabasco,Cunduacán,1,1.0,0.0,0.0,2019-12-29
-Tlaxcala,Tetlatlahuca,1,1.0,0.0,0.0,2019-12-29
-Veracruz,Acayucan,1,1.0,0.0,0.0,2019-12-29
-Veracruz,Las Choapas,1,0.0,0.0,1.0,2019-12-29
-Veracruz,Papantla,1,1.0,0.0,0.0,2019-12-29
+Baja California,Ensenada,1,1,0,0,2019-12-29
+Baja California,Tecate,1,1,0,0,2019-12-29
+Baja California,Tijuana,6,3,3,0,2019-12-29
+Chihuahua,Bocoyna,1,1,0,0,2019-12-29
+Chihuahua,Juárez,3,3,0,0,2019-12-29
+Ciudad de México,Venustiano Carranza,1,1,0,0,2019-12-29
+Ciudad de México,Álvaro Obregón,1,1,0,0,2019-12-29
+Coahuila,Torreón,1,1,0,0,2019-12-29
+Durango,Gómez Palacio,1,1,0,0,2019-12-29
+Guanajuato,Apaseo El Grande,2,2,0,0,2019-12-29
+Guanajuato,León,1,1,0,0,2019-12-29
+Guanajuato,Pénjamo,1,1,0,0,2019-12-29
+Guanajuato,Salvatierra,2,0,0,2,2019-12-29
+Guanajuato,San Francisco Del Rincón,2,2,0,0,2019-12-29
+Guanajuato,Tarimoro,3,3,0,0,2019-12-29
+Guanajuato,Yuriria,1,0,1,0,2019-12-29
+Guerrero,Acapulco De Juárez,4,3,1,0,2019-12-29
+Michoacán,Jacona,1,0,0,1,2019-12-29
+Michoacán,Uruapan,2,0,0,2,2019-12-29
+Michoacán,Zamora,1,1,0,0,2019-12-29
+Morelos,Cuernavaca,2,2,0,0,2019-12-29
+Morelos,Huitzilac,1,1,0,0,2019-12-29
+Morelos,Mazatepec,1,1,0,0,2019-12-29
+Morelos,Xochitepec,1,1,0,0,2019-12-29
+Morelos,Yautepec,1,1,0,0,2019-12-29
+Nuevo León,Juárez,1,1,0,0,2019-12-29
+Oaxaca,San Juan Bautista Tuxtepec,1,0,1,0,2019-12-29
+Puebla,Tecamachalco,2,2,0,0,2019-12-29
+Quintana Roo,Benito Juárez,2,2,0,0,2019-12-29
+San Luis Potosí,San Luis Potosí,1,1,0,0,2019-12-29
+Sinaloa,Culiacán,1,1,0,0,2019-12-29
+Sinaloa,Guasave,1,1,0,0,2019-12-29
+Sinaloa,Mocorito,4,4,0,0,2019-12-29
+Sonora,Guaymas,1,1,0,0,2019-12-29
+Sonora,Hermosillo,3,0,3,0,2019-12-29
+Tabasco,Cunduacán,1,1,0,0,2019-12-29
+Tlaxcala,Tetlatlahuca,1,1,0,0,2019-12-29
+Veracruz,Acayucan,1,1,0,0,2019-12-29
+Veracruz,Las Choapas,1,0,0,1,2019-12-29
+Veracruz,Papantla,1,1,0,0,2019-12-29

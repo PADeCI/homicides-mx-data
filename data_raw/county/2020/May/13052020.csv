@@ -1,68 +1,47 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,"Rincón de 
-Romos",1.0,1.0,0.0,0.0,2020-05-13
+Aguascalientes,Rincón De Romos,1.0,1.0,0.0,0.0,2020-05-13
 Baja California,Tijuana,6.0,2.0,1.0,3.0,2020-05-13
 Baja California Sur,La Paz,1.0,1.0,0.0,0.0,2020-05-13
 Chihuahua,Chihuahua,3.0,3.0,0.0,0.0,2020-05-13
 Chihuahua,Cuauhtémoc,4.0,4.0,0.0,0.0,2020-05-13
 Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-05-13
-Ciudad de México,Municipio,1.0,8.0,0.0,0.0,2020-05-13
-Ciudad de México,"Zihuatanejo de 
-Azueta",1.0,1.0,0.0,0.0,2020-05-13
+Ciudad de México,Muna,1.0,8.0,0.0,0.0,2020-05-13
+Ciudad de México,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2020-05-13
 Guanajuato,León,3.0,3.0,0.0,0.0,2020-05-13
-Guanajuato,"Purísima del 
-Rincón",1.0,1.0,0.0,0.0,2020-05-13
+Guanajuato,Purísima Del Rincón,1.0,1.0,0.0,0.0,2020-05-13
 Guanajuato,Romita,1.0,1.0,0.0,0.0,2020-05-13
-Guanajuato,"San José 
-Iturbide",2.0,2.0,0.0,0.0,2020-05-13
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2020-05-13
-Guerrero,"Iguala de la 
-Independencia",1.0,1.0,0.0,0.0,2020-05-13
+Guanajuato,San José Iturbide,2.0,2.0,0.0,0.0,2020-05-13
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-05-13
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2020-05-13
 Guerrero,Xochistlahuaca,1.0,1.0,0.0,0.0,2020-05-13
-Hidalgo,"Tepeji del Río 
-de Ocampo",1.0,1.0,0.0,0.0,2020-05-13
+Hidalgo,Tepeji Del Río De Ocampo,1.0,1.0,0.0,0.0,2020-05-13
 Morelos,Puebla,1.0,1.0,0.0,0.0,2020-05-13
 Morelos,Xochistlahuaca,1.0,1.0,0.0,0.0,2020-05-13
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-05-13
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,2.0,0.0,0.0,2020-05-13
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-13
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2020-05-13
 Jalisco,Zapopan,2.0,1.0,1.0,0.0,2020-05-13
-Michoacán,"Coalcomán de 
-Vázquez 
-Pallares",1.0,1.0,0.0,0.0,2020-05-13
+Michoacán,Coalcomán De Vázquez Pallares,1.0,1.0,0.0,0.0,2020-05-13
 Michoacán,Zamora,2.0,0.0,2.0,0.0,2020-05-13
 Morelos,Cuernavaca,2.0,1.0,0.0,1.0,2020-05-13
 Morelos,Temixco,1.0,1.0,0.0,0.0,2020-05-13
 Estado de México,Chalco,2.0,2.0,0.0,0.0,2020-05-13
-Estado de México,"Tlalnepantla 
-de Baz",1.0,1.0,0.0,0.0,2020-05-13
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2020-05-13
 Estado de México,Zumpango,1.0,1.0,0.0,0.0,2020-05-13
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-05-13
 Nuevo León,Santa Catarina,2.0,2.0,0.0,0.0,2020-05-13
-Oaxaca,"Oaxaca de 
-Juárez",1.0,1.0,0.0,0.0,2020-05-13
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2020-05-13
 Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2020-05-13
-Oaxaca,"Santa María 
-Zacatepec",1.0,1.0,0.0,0.0,2020-05-13
+Oaxaca,Santa María Zacatepec,1.0,1.0,0.0,0.0,2020-05-13
 Puebla,Chiconcuautla,1.0,0.0,1.0,0.0,2020-05-13
 Puebla,Puebla,1.0,1.0,0.0,0.0,2020-05-13
 Quintana Roo,Benito Juárez,1.0,0.0,0.0,1.0,2020-05-13
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1.0,1.0,0.0,0.0,2020-05-13
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2020-05-13
 San Luis Potosí,Villa Juárez,1.0,1.0,0.0,0.0,2020-05-13
 Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2020-05-13
 Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-05-13
 Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-05-13
-Tlaxcala,"Ixtacuixtla de 
-Mariano 
-Matamoros",1.0,0.0,1.0,0.0,2020-05-13
-Veracruz,"Nanchital de 
-Lázaro 
-Cárdenas del 
-Río",1.0,1.0,0.0,0.0,2020-05-13
+Tlaxcala,Ixtacuixtla De Mariano Matamoros,1.0,0.0,1.0,0.0,2020-05-13
+Veracruz,Nanchital De Lázaro Cárdenas Del Río,1.0,1.0,0.0,0.0,2020-05-13
 Veracruz,Tezonapa,2.0,2.0,0.0,0.0,2020-05-13
 Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-05-13
 Zacatecas,Villanueva,1.0,1.0,0.0,0.0,2020-05-13

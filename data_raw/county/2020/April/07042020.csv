@@ -2,8 +2,7 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,6.0,6.0,0.0,0.0,2020-04-07
 Chihuahua,Guachochi,2.0,2.0,0.0,0.0,2020-04-07
 Chihuahua,Juárez,4.0,3.0,1.0,0.0,2020-04-07
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2020-04-07
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-04-07
 Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2020-04-07
 Ciudad de México,Tláhuac,1.0,1.0,0.0,0.0,2020-04-07
 Colima,Manzanillo,2.0,1.0,1.0,0.0,2020-04-07
@@ -12,36 +11,25 @@ Guanajuato,Celaya,6.0,1.0,0.0,5.0,2020-04-07
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-04-07
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-04-07
 Guanajuato,Tarimoro,2.0,2.0,0.0,0.0,2020-04-07
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2020-04-07
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,1.0,0.0,0.0,2020-04-07
-Guerrero,"Leonardo 
-Bravo",2.0,2.0,0.0,0.0,2020-04-07
-Hidalgo,"Nopala de 
-Villagrán",3.0,3.0,0.0,0.0,2020-04-07
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-04-07
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-04-07
+Guerrero,Leonardo Bravo,2.0,2.0,0.0,0.0,2020-04-07
+Hidalgo,Nopala De Villagrán,3.0,3.0,0.0,0.0,2020-04-07
 Jalisco,Guadalajara,2.0,1.0,1.0,0.0,2020-04-07
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2020-04-07
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-04-07
 Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-04-07
 Michoacán,Zamora,3.0,3.0,0.0,0.0,2020-04-07
-Estado de México,"Coacalco de 
-Berriozábal",1.0,1.0,0.0,0.0,2020-04-07
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2020-04-07
-Estado de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0,2020-04-07
+Estado de México,Coacalco De Berriozábal,1.0,1.0,0.0,0.0,2020-04-07
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-04-07
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2020-04-07
 Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2020-04-07
 Nuevo León,García,2.0,1.0,1.0,0.0,2020-04-07
-Oaxaca,"San Francisco 
-del Mar",1.0,0.0,1.0,0.0,2020-04-07
+Oaxaca,San Francisco Del Mar,1.0,0.0,1.0,0.0,2020-04-07
 Puebla,Atlixco,1.0,1.0,0.0,0.0,2020-04-07
 Puebla,Tehuacán,1.0,1.0,0.0,0.0,2020-04-07
-Quintana Roo,"Othón P. 
-Blanco",1.0,1.0,0.0,0.0,2020-04-07
+Quintana Roo,Othón P. Blanco,1.0,1.0,0.0,0.0,2020-04-07
 San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2020-04-07
-San Luis Potosí,"San Luis 
-Potosí",2.0,2.0,0.0,0.0,2020-04-07
+San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2020-04-07
 Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2020-04-07
 Tamaulipas,Reynosa,2.0,2.0,0.0,0.0,2020-04-07
 Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2020-04-07

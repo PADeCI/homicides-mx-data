@@ -1,68 +1,49 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,"Aguascaliente
-s",3.0,3.0,0.0,0.0,2020-05-11
+Aguascalientes,Aguascalientes,3.0,3.0,0.0,0.0,2020-05-11
 Baja California,Tijuana,8.0,4.0,0.0,4.0,2020-05-11
 Chihuahua,Chihuahua,1.0,0.0,1.0,0.0,2020-05-11
 Chihuahua,Cuauhtémoc,2.0,2.0,0.0,0.0,2020-05-11
 Chihuahua,Juárez,2.0,0.0,1.0,1.0,2020-05-11
 Chihuahua,López,1.0,1.0,0.0,0.0,2020-05-11
 Ciudad de México,Azcapotzalco,1.0,1.0,0.0,0.0,2020-05-11
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2020-05-11
-Ciudad de México,"Venustiano 
-Carranza",2.0,2.0,0.0,0.0,2020-05-11
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-05-11
+Ciudad de México,Venustiano Carranza,2.0,2.0,0.0,0.0,2020-05-11
 Colima,Colima,1.0,0.0,0.0,1.0,2020-05-11
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-05-11
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2020-05-11
-Guerrero,"Chilapa de 
-Álvarez",1.0,0.0,0.0,1.0,2020-05-11
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,0.0,1.0,0.0,2020-05-11
-Guerrero,"Taxco de 
-Alarcón",1.0,1.0,0.0,0.0,2020-05-11
-Guerrero,"Tixtla de 
-Guerrero",1.0,1.0,0.0,0.0,2020-05-11
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-05-11
+Guerrero,Chilapa De Álvarez,1.0,0.0,0.0,1.0,2020-05-11
+Guerrero,Chilpancingo De Los Bravo,1.0,0.0,1.0,0.0,2020-05-11
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2020-05-11
+Guerrero,Tixtla De Guerrero,1.0,1.0,0.0,0.0,2020-05-11
 Hidalgo,Ixmiquilpan,1.0,0.0,1.0,0.0,2020-05-11
-Hidalgo,"Mixquiahuala 
-de Juárez",1.0,1.0,0.0,0.0,2020-05-11
+Hidalgo,Mixquiahuala De Juárez,1.0,1.0,0.0,0.0,2020-05-11
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-05-11
 Jalisco,Zapopan,1.0,0.0,0.0,1.0,2020-05-11
 Michoacán,Acuitzio,1.0,1.0,0.0,0.0,2020-05-11
 Michoacán,Madero,1.0,1.0,0.0,0.0,2020-05-11
 Michoacán,Morelia,1.0,0.0,0.0,1.0,2020-05-11
-Morelos,"Coatlán del 
-Río",1.0,1.0,0.0,0.0,2020-05-11
+Morelos,Coatlán Del Río,1.0,1.0,0.0,0.0,2020-05-11
 Morelos,Cuernavaca,2.0,2.0,0.0,0.0,2020-05-11
-Morelos,"Emiliano 
-Zapata",2.0,2.0,0.0,0.0,2020-05-11
+Morelos,Emiliano Zapata,2.0,2.0,0.0,0.0,2020-05-11
 Morelos,Huitzilac,2.0,2.0,0.0,0.0,2020-05-11
 Morelos,Tepoztlán,1.0,1.0,0.0,0.0,2020-05-11
 Morelos,Xochitepec,2.0,1.0,0.0,1.0,2020-05-11
 Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2020-05-11
 Estado de México,Luvianos,1.0,1.0,0.0,0.0,2020-05-11
-Estado de México,"Nicolás 
-Romero",1.0,1.0,0.0,0.0,2020-05-11
-Estado de México,"Tlalnepantla 
-de Baz",1.0,1.0,0.0,0.0,2020-05-11
+Estado de México,Nicolás Romero,1.0,1.0,0.0,0.0,2020-05-11
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2020-05-11
 Nuevo León,García,1.0,1.0,0.0,0.0,2020-05-11
 Nuevo León,Juárez,2.0,2.0,0.0,0.0,2020-05-11
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-05-11
-Nuevo León,"Salinas 
-Victoria",1.0,1.0,0.0,0.0,2020-05-11
-Oaxaca,"Santiago 
-Juxtlahuaca",1.0,1.0,0.0,0.0,2020-05-11
+Nuevo León,Salinas Victoria,1.0,1.0,0.0,0.0,2020-05-11
+Oaxaca,Santiago Juxtlahuaca,1.0,1.0,0.0,0.0,2020-05-11
 Puebla,Teotlalco,1.0,1.0,0.0,0.0,2020-05-11
 Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-05-11
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-11
-San Luis Potosí,"Ciudad 
-Fernández",1.0,1.0,0.0,0.0,2020-05-11
+San Luis Potosí,Ciudad Fernández,1.0,1.0,0.0,0.0,2020-05-11
 San Luis Potosí,Coxcatlán,1.0,1.0,0.0,0.0,2020-05-11
-San Luis Potosí,"San Luis 
-Potosí",1.0,1.0,0.0,0.0,2020-05-11
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1.0,1.0,0.0,0.0,2020-05-11
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-05-11
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2020-05-11
 San Luis Potosí,Tanlajás,1.0,0.0,1.0,0.0,2020-05-11
 Sinaloa,El Fuerte,1.0,1.0,0.0,0.0,2020-05-11
 Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-05-11

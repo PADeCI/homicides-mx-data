@@ -3,15 +3,13 @@ Baja California,Tijuana,5,3.0,2.0,0.0,2019-05-25
 Chihuahua,Chihuahua,1,1.0,0.0,0.0,2019-05-25
 Chihuahua,Madera,2,2.0,0.0,0.0,2019-05-25
 Ciudad de México,Azcapotzalco,1,1.0,0.0,0.0,2019-05-25
-Ciudad de México,"Gustavo A. 
-Madero",2,1.0,0.0,1.0,2019-05-25
+Ciudad de México,Gustavo A. Madero,2,1.0,0.0,1.0,2019-05-25
 Ciudad de México,Tlalpan,1,1.0,0.0,0.0,2019-05-25
 Ciudad de México,Tláhuac,1,1.0,0.0,0.0,2019-05-25
 Coahuila,Sabinas,1,0.0,1.0,0.0,2019-05-25
 Coahuila,Torreón,1,1.0,0.0,0.0,2019-05-25
 Durango,Gómez Palacio,1,1.0,0.0,0.0,2019-05-25
-Durango,"Santiago 
-Papasquiaro",2,2.0,0.0,0.0,2019-05-25
+Durango,Santiago Papasquiaro,2,2.0,0.0,0.0,2019-05-25
 Guanajuato,Celaya,3,0.0,0.0,3.0,2019-05-25
 Guanajuato,León,1,1.0,0.0,0.0,2019-05-25
 Guanajuato,Pueblo Nuevo,3,1.0,2.0,0.0,2019-05-25
@@ -19,37 +17,27 @@ Guanajuato,Pénjamo,1,1.0,0.0,0.0,2019-05-25
 Guanajuato,Romita,1,1.0,0.0,0.0,2019-05-25
 Guanajuato,Salvatierra,1,1.0,0.0,0.0,2019-05-25
 Guanajuato,Tarimoro,1,0.0,1.0,0.0,2019-05-25
-Guanajuato,"Valle de 
-Santiago",1,1.0,0.0,0.0,2019-05-25
-Guerrero,"Acapulco de 
-Juárez",2,2.0,0.0,0.0,2019-05-25
-Guerrero,"Iguala de la 
-Independencia",1,1.0,0.0,0.0,2019-05-25
-Hidalgo,"Tulancingo de 
-Bravo",1,1.0,0.0,0.0,2019-05-25
+Guanajuato,Valle De Santiago,1,1.0,0.0,0.0,2019-05-25
+Guerrero,Acapulco De Juárez,2,2.0,0.0,0.0,2019-05-25
+Guerrero,Iguala De La Independencia,1,1.0,0.0,0.0,2019-05-25
+Hidalgo,Tulancingo De Bravo,1,1.0,0.0,0.0,2019-05-25
 Jalisco,Guadalajara,2,2.0,0.0,0.0,2019-05-25
 Jalisco,Zapopan,1,0.0,0.0,1.0,2019-05-25
 Jalisco,Zapotlanejo,1,0.0,1.0,0.0,2019-05-25
 Michoacán,Morelia,2,1.0,0.0,1.0,2019-05-25
 Michoacán,Tarímbaro,2,0.0,0.0,2.0,2019-05-25
 Morelos,Yautepec,1,1.0,0.0,0.0,2019-05-25
-Estado de México,"Coacalco de 
-Berriozábal",3,2.0,1.0,0.0,2019-05-25
-Estado de México,"Ecatepec de 
-Morelos",2,2.0,0.0,0.0,2019-05-25
+Estado de México,Coacalco De Berriozábal,3,2.0,1.0,0.0,2019-05-25
+Estado de México,Ecatepec De Morelos,2,2.0,0.0,0.0,2019-05-25
 Estado de México,Metepec,1,1.0,0.0,0.0,2019-05-25
 Estado de México,Nezahualcóyotl,1,1.0,0.0,0.0,2019-05-25
 Nuevo León,Apodaca,1,1.0,0.0,0.0,2019-05-25
 Nuevo León,Monterrey,2,1.0,0.0,1.0,2019-05-25
-Oaxaca,"Oaxaca de 
-Juárez",2,2.0,0.0,0.0,2019-05-25
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,0.0,0.0,1.0,2019-05-25
+Oaxaca,Oaxaca De Juárez,2,2.0,0.0,0.0,2019-05-25
+Oaxaca,San Juan Bautista Tuxtepec,1,0.0,0.0,1.0,2019-05-25
 Sinaloa,Culiacán,2,2.0,0.0,0.0,2019-05-25
 Tabasco,Centro,1,1.0,0.0,0.0,2019-05-25
-Tabasco,"Jalpa de 
-Méndez",1,0.0,0.0,1.0,2019-05-25
+Tabasco,Jalpa De Méndez,1,0.0,0.0,1.0,2019-05-25
 Tamaulipas,Reynosa,1,0.0,1.0,0.0,2019-05-25
 Veracruz,Córdoba,1,1.0,0.0,0.0,2019-05-25
 Veracruz,Fortín,1,1.0,0.0,0.0,2019-05-25

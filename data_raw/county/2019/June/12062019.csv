@@ -1,79 +1,62 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Ensenada,2.0,1.0,0.0,1.0,2019-06-12
-Baja California,Tijuana,6.0,4.0,1.0,1.0,2019-06-12
-Campeche,Carmen,1.0,1.0,0.0,0.0,2019-06-12
-Chihuahua,Juárez,3.0,1.0,1.0,1.0,2019-06-12
-Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-06-12
-Ciudad de México,"Álvaro 
-Obregón",1.0,1.0,0.0,0.0,2019-06-12
-Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-06-12
-Colima,Tecomán,1.0,1.0,0.0,0.0,2019-06-12
-Guanajuato,Acámbaro,1.0,0.0,0.0,1.0,2019-06-12
-Guanajuato,León,1.0,1.0,0.0,0.0,2019-06-12
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2019-06-12
-Guerrero,"Acapulco de 
-Juárez",3.0,3.0,0.0,0.0,2019-06-12
-Guerrero,"Coyuca de 
-Benítez",1.0,1.0,0.0,0.0,2019-06-12
-Guerrero,"Taxco de 
-Alarcón",3.0,3.0,0.0,0.0,2019-06-12
-Jalisco,Guadalajara,1.0,0.0,0.0,1.0,2019-06-12
-Jalisco,"Puerto 
-Vallarta",1.0,1.0,0.0,0.0,2019-06-12
-Jalisco,San Pedro,1.0,1.0,0.0,0.0,2019-06-12
-Jalisco,Tlaquepaque,1.0,1.0,0.0,0.0,2019-06-12
-Michoacán,Cuitzeo,1.0,0.0,1.0,0.0,2019-06-12
-Michoacán,Pátzcuaro,3.0,3.0,0.0,0.0,2019-06-12
-Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2019-06-12
-Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-06-12
-Morelos,"Emiliano 
-Zapata",1.0,1.0,0.0,0.0,2019-06-12
-Morelos,Jiutepec,1.0,1.0,0.0,0.0,2019-06-12
-Morelos,Temixco,1.0,0.0,0.0,1.0,2019-06-12
-Estado de México,Metepec,2.0,2.0,0.0,0.0,2019-06-12
-Estado de México,Toluca,4.0,3.0,0.0,1.0,2019-06-12
-Estado de México,Zumpango,1.0,1.0,0.0,0.0,2019-06-12
-Nayarit,Tepic,1.0,1.0,0.0,0.0,2019-06-12
-Nuevo León,Allende,1.0,1.0,0.0,0.0,2019-06-12
-Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2019-06-12
-Nuevo León,"Gral. 
-Escobedo",2.0,1.0,1.0,0.0,2019-06-12
-Nuevo León,"Salinas 
-Victoria",2.0,2.0,0.0,0.0,2019-06-12
-Nuevo León,"Santa 
-Catarina",2.0,2.0,0.0,0.0,2019-06-12
-Oaxaca,"Oaxaca de 
-Juárez",1.0,0.0,1.0,0.0,2019-06-12
-Oaxaca,"Santa María 
-Huatulco",1.0,1.0,0.0,0.0,2019-06-12
-Oaxaca,"Santo 
-Domingo 
-Ingenio",3.0,3.0,0.0,0.0,2019-06-12
-Puebla,Acateno,1.0,1.0,0.0,0.0,2019-06-12
-Puebla,Puebla,2.0,2.0,0.0,0.0,2019-06-12
-Puebla,"San Martín 
-Texmelucan",2.0,1.0,1.0,0.0,2019-06-12
-Puebla,San Matías,2.0,0.0,0.0,2.0,2019-06-12
-Puebla,"San Pedro 
-Cholula",1.0,0.0,1.0,0.0,2019-06-12
-Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2019-06-12
-Puebla,Tlalancaleca,4.0,0.0,0.0,4.0,2019-06-12
-Puebla,Yehualtepec,3.0,0.0,0.0,3.0,2019-06-12
-Puebla,Zihuateutla,1.0,1.0,0.0,0.0,2019-06-12
-Quintana Roo,Benito Juárez,4.0,3.0,0.0,1.0,2019-06-12
-Quintana Roo,"Othón P. 
-Blanco",4.0,2.0,0.0,2.0,2019-06-12
-Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-06-12
-Sonora,Guaymas,1.0,1.0,0.0,0.0,2019-06-12
-Sonora,Nogales,1.0,0.0,0.0,1.0,2019-06-12
-Sonora,Tabasco (1)  Huimanguillo,1.0,0.0,1.0,0.0,2019-06-12
-Tamaulipas,El Mante,1.0,0.0,1.0,0.0,2019-06-12
-Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-06-12
-Tamaulipas,San Fernando,4.0,4.0,0.0,0.0,2019-06-12
-Tlaxcala,Terrenate,1.0,0.0,1.0,0.0,2019-06-12
-Veracruz,Espinal,1.0,1.0,0.0,0.0,2019-06-12
-Veracruz,Huatusco,1.0,0.0,1.0,0.0,2019-06-12
-Veracruz,Las Choapas,2.0,2.0,0.0,0.0,2019-06-12
-Veracruz,Río Blanco,1.0,1.0,0.0,0.0,2019-06-12
-Zacatecas,Juan Aldama,1.0,1.0,0.0,0.0,2019-06-12
+Baja California,Ensenada,2,1,0,1,2019-06-12
+Baja California,Tijuana,6,4,1,1,2019-06-12
+Campeche,Carmen,1,1,0,0,2019-06-12
+Chihuahua,Juárez,3,1,1,1,2019-06-12
+Ciudad de México,Cuauhtémoc,1,1,0,0,2019-06-12
+Ciudad de México,Álvaro Obregón,1,1,0,0,2019-06-12
+Colima,Manzanillo,1,1,0,0,2019-06-12
+Colima,Tecomán,1,1,0,0,2019-06-12
+Guanajuato,Acámbaro,1,0,0,1,2019-06-12
+Guanajuato,León,1,1,0,0,2019-06-12
+Guanajuato,Valle De Santiago,1,1,0,0,2019-06-12
+Guerrero,Acapulco De Juárez,3,3,0,0,2019-06-12
+Guerrero,Coyuca De Benítez,1,1,0,0,2019-06-12
+Guerrero,Taxco De Alarcón,3,3,0,0,2019-06-12
+Jalisco,Guadalajara,1,0,0,1,2019-06-12
+Jalisco,Puerto Vallarta,1,1,0,0,2019-06-12
+Jalisco,San Pedro,1,1,0,0,2019-06-12
+Jalisco,San Pedro Tlaquepaque,1,1,0,0,2019-06-12
+Michoacán,Cuitzeo,1,0,1,0,2019-06-12
+Michoacán,Pátzcuaro,3,3,0,0,2019-06-12
+Michoacán,Sahuayo,1,1,0,0,2019-06-12
+Morelos,Cuernavaca,1,1,0,0,2019-06-12
+Morelos,Emiliano Zapata,1,1,0,0,2019-06-12
+Morelos,Jiutepec,1,1,0,0,2019-06-12
+Morelos,Temixco,1,0,0,1,2019-06-12
+Estado de México,Metepec,2,2,0,0,2019-06-12
+Estado de México,Toluca,4,3,0,1,2019-06-12
+Estado de México,Zumpango,1,1,0,0,2019-06-12
+Nayarit,Tepic,1,1,0,0,2019-06-12
+Nuevo León,Allende,1,1,0,0,2019-06-12
+Nuevo León,Apodaca,1,1,0,0,2019-06-12
+Nuevo León,Escobedo,2,1,1,0,2019-06-12
+Nuevo León,Salinas Victoria,2,2,0,0,2019-06-12
+Nuevo León,Santa Catarina,2,2,0,0,2019-06-12
+Oaxaca,Oaxaca De Juárez,1,0,1,0,2019-06-12
+Oaxaca,Santa María Huatulco,1,1,0,0,2019-06-12
+Oaxaca,Santo Domingo Ingenio,3,3,0,0,2019-06-12
+Puebla,Acateno,1,1,0,0,2019-06-12
+Puebla,Puebla,2,2,0,0,2019-06-12
+Puebla,San Martín Texmelucan,2,1,1,0,2019-06-12
+Puebla,San Matías Tlalancaleca,2,0,0,2,2019-06-12
+Puebla,San Pedro Cholula,1,0,1,0,2019-06-12
+Puebla,Tecamachalco,1,1,0,0,2019-06-12
+Puebla,San Matías Tlalancaleca,4,0,0,4,2019-06-12
+Puebla,Yehualtepec,3,0,0,3,2019-06-12
+Puebla,Zihuateutla,1,1,0,0,2019-06-12
+Quintana Roo,Benito Juárez,4,3,0,1,2019-06-12
+Quintana Roo,Othón P. Blanco,4,2,0,2,2019-06-12
+Quintana Roo,Solidaridad,1,1,0,0,2019-06-12
+Sonora,Guaymas,1,1,0,0,2019-06-12
+Sonora,Nogales,1,0,0,1,2019-06-12
+Tabasco,Huimanguillo,1,0,1,0,2019-06-12
+Tamaulipas,El Mante,1,0,1,0,2019-06-12
+Tamaulipas,Reynosa,1,1,0,0,2019-06-12
+Tamaulipas,San Fernando,4,4,0,0,2019-06-12
+Tlaxcala,Terrenate,1,0,1,0,2019-06-12
+Veracruz,Espinal,1,1,0,0,2019-06-12
+Veracruz,Huatusco,1,0,1,0,2019-06-12
+Veracruz,Las Choapas,2,2,0,0,2019-06-12
+Veracruz,Río Blanco,1,1,0,0,2019-06-12
+Zacatecas,Juan Aldama,1,1,0,0,2019-06-12

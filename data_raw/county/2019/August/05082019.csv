@@ -1,73 +1,51 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,Aguascalientes,1,0.0,1.0,0.0,2019-08-05
-Baja California,"Playas de 
-Rosarito",1,1.0,0.0,0.0,2019-08-05
+Baja California,Playas De Rosarito,1,1.0,0.0,0.0,2019-08-05
 Baja California,Tijuana,10,8.0,0.0,2.0,2019-08-05
-Chiapas,"Comitán de 
-Domínguez",2,0.0,0.0,2.0,2019-08-05
+Chiapas,Comitán De Domínguez,2,0.0,0.0,2.0,2019-08-05
 Chihuahua,Chihuahua,1,1.0,0.0,0.0,2019-08-05
 Chihuahua,Cuauhtémoc,1,1.0,0.0,0.0,2019-08-05
 Chihuahua,Guachochi,4,4.0,0.0,0.0,2019-08-05
 Chihuahua,Juárez,5,3.0,0.0,2.0,2019-08-05
 Chihuahua,Urique,2,2.0,0.0,0.0,2019-08-05
 Ciudad de México,Coyoacán,1,0.0,0.0,1.0,2019-08-05
-Ciudad de México,"La Magdalena 
-Contreras",1,1.0,0.0,0.0,2019-08-05
+Ciudad de México,La Magdalena Contreras,1,1.0,0.0,0.0,2019-08-05
 Coahuila,Acuña,1,0.0,1.0,0.0,2019-08-05
 Colima,Manzanillo,3,3.0,0.0,0.0,2019-08-05
 Durango,Pueblo Nuevo,1,1.0,0.0,0.0,2019-08-05
-Guanajuato,"Apaseo el 
-Grande",3,1.0,0.0,2.0,2019-08-05
+Guanajuato,Apaseo El Grande,3,1.0,0.0,2.0,2019-08-05
 Guanajuato,Celaya,4,1.0,0.0,3.0,2019-08-05
 Guanajuato,Salamanca,1,1.0,0.0,0.0,2019-08-05
 Guanajuato,Salvatierra,2,0.0,0.0,2.0,2019-08-05
 Guanajuato,San Felipe,1,1.0,0.0,0.0,2019-08-05
-Guanajuato,"Valle de 
-Santiago",1,0.0,1.0,0.0,2019-08-05
-Guerrero,"Acapulco de 
-Juárez",4,4.0,0.0,0.0,2019-08-05
-Guerrero,"Atoyac de 
-Álvarez",1,1.0,0.0,0.0,2019-08-05
+Guanajuato,Valle De Santiago,1,0.0,1.0,0.0,2019-08-05
+Guerrero,Acapulco De Juárez,4,4.0,0.0,0.0,2019-08-05
+Guerrero,Atoyac De Álvarez,1,1.0,0.0,0.0,2019-08-05
 Guerrero,San Marcos,2,2.0,0.0,0.0,2019-08-05
-Guerrero,"Zihuatanejo de 
-Azueta",1,1.0,0.0,0.0,2019-08-05
-Hidalgo,"Pachuca de 
-Soto",1,0.0,1.0,0.0,2019-08-05
+Guerrero,Zihuatanejo De Azueta,1,1.0,0.0,0.0,2019-08-05
+Hidalgo,Pachuca De Soto,1,0.0,1.0,0.0,2019-08-05
 Hidalgo,Tlanalapa,1,1.0,0.0,0.0,2019-08-05
 Jalisco,El Salto,1,0.0,0.0,1.0,2019-08-05
 Jalisco,Guadalajara,1,0.0,1.0,0.0,2019-08-05
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0,2019-08-05
-Jalisco,"Tlajomulco de 
-Zúñiga",1,1.0,0.0,0.0,2019-08-05
+Jalisco,San Pedro Tlaquepaque,1,1.0,0.0,0.0,2019-08-05
+Jalisco,Tlajomulco De Zúñiga,1,1.0,0.0,0.0,2019-08-05
 Michoacán,Jacona,1,1.0,0.0,0.0,2019-08-05
 Michoacán,Morelia,3,2.0,0.0,1.0,2019-08-05
 Michoacán,Uruapan,2,2.0,0.0,0.0,2019-08-05
 Morelos,Jantetelco,1,1.0,0.0,0.0,2019-08-05
-Morelos,Puente de Ixtla,2,2.0,0.0,0.0,2019-08-05
-Estado de México,"Coacalco de 
-Berriozábal",1,0.0,1.0,0.0,2019-08-05
-Estado de México,"Cuautitlán 
-Izcalli",1,1.0,0.0,0.0,2019-08-05
+Morelos,Puente De Ixtla,2,2.0,0.0,0.0,2019-08-05
+Estado de México,Coacalco De Berriozábal,1,0.0,1.0,0.0,2019-08-05
+Estado de México,Cuautitlán Izcalli,1,1.0,0.0,0.0,2019-08-05
 Estado de México,Texcaltitlán,1,1.0,0.0,0.0,2019-08-05
-Estado de México,"Tlalnepantla 
-de Baz",2,2.0,0.0,0.0,2019-08-05
-Nuevo León,"Cadereyta 
-Jiménez",1,1.0,0.0,0.0,2019-08-05
+Estado de México,Tlalnepantla De Baz,2,2.0,0.0,0.0,2019-08-05
+Nuevo León,Cadereyta Jiménez,1,1.0,0.0,0.0,2019-08-05
 Nuevo León,Galeana,1,1.0,0.0,0.0,2019-08-05
 Nuevo León,Monterrey,1,1.0,0.0,0.0,2019-08-05
 Oaxaca,Ciudad Ixtepec,1,1.0,0.0,0.0,2019-08-05
-Oaxaca,"Heroica Ciudad 
-de Huajuapan 
-de León",1,0.0,1.0,0.0,2019-08-05
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2019-08-05
-Oaxaca,"Santo 
-Domingo 
-Tepuxtepec",1,1.0,0.0,0.0,2019-08-05
-Puebla,"General Felipe 
-Ángeles",3,0.0,0.0,3.0,2019-08-05
+Oaxaca,Heroica Ciudad De Huajuapan De León,1,0.0,1.0,0.0,2019-08-05
+Oaxaca,San Juan Bautista Tuxtepec,1,1.0,0.0,0.0,2019-08-05
+Oaxaca,Santo Domingo Tepuxtepec,1,1.0,0.0,0.0,2019-08-05
+Puebla,General Felipe Ángeles,3,0.0,0.0,3.0,2019-08-05
 Querétaro,Querétaro,1,1.0,0.0,0.0,2019-08-05
 Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2019-08-05
 Quintana Roo,Solidaridad,2,2.0,0.0,0.0,2019-08-05

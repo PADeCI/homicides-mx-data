@@ -9,26 +9,20 @@ Chihuahua,Chihuahua,4,2.0,1.0,1.0,2019-02-26
 Chihuahua,Juárez,13,10.0,3.0,0.0,2019-02-26
 Chihuahua,La Cruz,1,1.0,0.0,0.0,2019-02-26
 Ciudad de México,Miguel Hidalgo,1,1.0,0.0,0.0,2019-02-26
-Colima,Villa de Álvarez,1,1.0,0.0,0.0,2019-02-26
+Colima,Villa De Álvarez,1,1.0,0.0,0.0,2019-02-26
 Estado de México,Chimalhuacán,1,1.0,0.0,0.0,2019-02-26
-Estado de México,"Ecatepec de 
-Morelos",1,1.0,0.0,0.0,2019-02-26
-Estado de México,"Naucalpan de 
-Juárez",1,1.0,0.0,0.0,2019-02-26
+Estado de México,Ecatepec De Morelos,1,1.0,0.0,0.0,2019-02-26
+Estado de México,Naucalpan De Juárez,1,1.0,0.0,0.0,2019-02-26
 Estado de México,Nezahualcóyotl,2,2.0,0.0,0.0,2019-02-26
 Guanajuato,Celaya,2,2.0,0.0,0.0,2019-02-26
 Guanajuato,Irapuato,3,2.0,0.0,1.0,2019-02-26
 Guanajuato,León,1,1.0,0.0,0.0,2019-02-26
 Guanajuato,Salvatierra,1,1.0,0.0,0.0,2019-02-26
 Guanajuato,Yuriria,2,2.0,0.0,0.0,2019-02-26
-Guerrero,"Acapulco de 
-Juárez",2,2.0,0.0,0.0,2019-02-26
-Guerrero,"Chilapa de 
-Álvarez",1,1.0,0.0,0.0,2019-02-26
-Guerrero,"Chilpancingo 
-de los Bravo",1,1.0,0.0,0.0,2019-02-26
-Hidalgo,"Progreso de 
-Obregón",1,1.0,0.0,0.0,2019-02-26
+Guerrero,Acapulco De Juárez,2,2.0,0.0,0.0,2019-02-26
+Guerrero,Chilapa De Álvarez,1,1.0,0.0,0.0,2019-02-26
+Guerrero,Chilpancingo De Los Bravo,1,1.0,0.0,0.0,2019-02-26
+Hidalgo,Progreso De Obregón,1,1.0,0.0,0.0,2019-02-26
 Jalisco,Guadalajara,4,4.0,0.0,0.0,2019-02-26
 Jalisco,Zapopan,4,4.0,0.0,0.0,2019-02-26
 Michoacán,Apatzingán,1,1.0,0.0,0.0,2019-02-26
@@ -38,8 +32,7 @@ Morelos,Huitzilac,1,1.0,0.0,0.0,2019-02-26
 Morelos,Tepoztlán,1,1.0,0.0,0.0,2019-02-26
 Nuevo León,García,2,2.0,0.0,0.0,2019-02-26
 Nuevo León,Monterrey,1,1.0,0.0,0.0,2019-02-26
-Oaxaca,"Santa Lucía del 
-Camino",1,0.0,0.0,1.0,2019-02-26
+Oaxaca,Santa Lucía Del Camino,1,0.0,0.0,1.0,2019-02-26
 Puebla,Puebla,1,1.0,0.0,0.0,2019-02-26
 Quintana Roo,Benito Juárez,4,4.0,0.0,0.0,2019-02-26
 Quintana Roo,Solidaridad,1,1.0,0.0,0.0,2019-02-26
@@ -47,8 +40,7 @@ San Luis Potosí,Ciudad Valles,1,1.0,0.0,0.0,2019-02-26
 Sonora,Nogales,1,1.0,0.0,0.0,2019-02-26
 Tabasco,Centla,1,0.0,1.0,0.0,2019-02-26
 Tlaxcala,Zacatelco,2,2.0,0.0,0.0,2019-02-26
-Veracruz,"Poza Rica de 
-Hidalgo",1,1.0,0.0,0.0,2019-02-26
+Veracruz,Poza Rica De Hidalgo,1,1.0,0.0,0.0,2019-02-26
 Veracruz,Veracruz,1,0.0,0.0,1.0,2019-02-26
 Zacatecas,Loreto,1,0.0,1.0,0.0,2019-02-26
 Zacatecas,Pánuco,1,1.0,0.0,0.0,2019-02-26

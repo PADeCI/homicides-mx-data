@@ -1,8 +1,7 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No identificado,Fecha
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,Asientos,1,,,,2019-01-10
-Aguascalientes,Rincón de Romos,1,,,,2019-01-10
-Aguascalientes,"San Francisco de los 
-Romo",1,,,,2019-01-10
+Aguascalientes,Rincón De Romos,1,,,,2019-01-10
+Aguascalientes,San Francisco De Los Romo,1,,,,2019-01-10
 Baja California,Ensenada,1,,,,2019-01-10
 Baja California,Tecate,2,,,,2019-01-10
 Baja California,Tijuana,4,,,,2019-01-10
@@ -12,15 +11,14 @@ Ciudad de México,Cuauhtémoc,1,,,,2019-01-10
 Ciudad de México,Gustavo A. Madero,5,,,,2019-01-10
 Ciudad de México,Xochimilco,1,,,,2019-01-10
 Estado de México,Chicoloapan,1,,,,2019-01-10
-Estado de México,Naucalpan de Juárez,1,,,,2019-01-10
+Estado de México,Naucalpan De Juárez,1,,,,2019-01-10
 Estado de México,Tecámac,2,,,,2019-01-10
 Guanajuato,Acámbaro,1,,,,2019-01-10
 Guanajuato,Celaya,1,,,,2019-01-10
 Guanajuato,León,3,,,,2019-01-10
-Guanajuato,Silao,1,,,,2019-01-10
-Guerrero,Acapulco de Juárez,2,,,,2019-01-10
-Guerrero,"Iguala de la 
-Independencia",1,,,,2019-01-10
+Guanajuato,Silao De La Victoria,1,,,,2019-01-10
+Guerrero,Acapulco De Juárez,2,,,,2019-01-10
+Guerrero,Iguala De La Independencia,1,,,,2019-01-10
 Jalisco,Tototlán,1,,,,2019-01-10
 Jalisco,Zapopan,1,,,,2019-01-10
 Michoacán,Erongarícuaro,3,,,,2019-01-10
@@ -29,11 +27,10 @@ Michoacán,Zamora,2,,,,2019-01-10
 Morelos,Cuernavaca,1,,,,2019-01-10
 Nuevo León,Montemorelos,1,,,,2019-01-10
 Nuevo León,Monterrey,2,,,,2019-01-10
-Oaxaca,Oaxaca de Juárez,1,,,,2019-01-10
+Oaxaca,Oaxaca De Juárez,1,,,,2019-01-10
 Puebla,Cuautinchán,1,,,,2019-01-10
 Puebla,Puebla,3,,,,2019-01-10
-Puebla,"San Martín 
-Texmelucan",1,,,,2019-01-10
+Puebla,San Martín Texmelucan,1,,,,2019-01-10
 Puebla,Tepeaca,3,,,,2019-01-10
 Quintana Roo,Benito Juárez,1,,,,2019-01-10
 Sinaloa,Choix,2,,,,2019-01-10
@@ -44,13 +41,10 @@ Tabasco,Huimanguillo,1,,,,2019-01-10
 Tamaulipas,Guerrero,6,,,,2019-01-10
 Tamaulipas,Miguel Alemán,4,,,,2019-01-10
 Tamaulipas,Victoria,1,,,,2019-01-10
-Tlaxcala,"Tetla de la 
-Solidaridad",1,,,,2019-01-10
-Veracruz,"Hueyapan de 
-Ocampo",1,,,,2019-01-10
-Veracruz,Poza Rica de Hidalgo,1,,,,2019-01-10
+Tlaxcala,Tetla De La Solidaridad,1,,,,2019-01-10
+Veracruz,Hueyapan De Ocampo,1,,,,2019-01-10
+Veracruz,Poza Rica De Hidalgo,1,,,,2019-01-10
 Veracruz,Tuxpan,1,,,,2019-01-10
 Veracruz,Veracruz,1,,,,2019-01-10
-Zacatecas,"Tlaltenango de 
-Sánchez Román",2,,,,2019-01-10
+Zacatecas,Tlaltenango De Sánchez Román,2,,,,2019-01-10
 Zacatecas,Vetagrande,1,,,,2019-01-10

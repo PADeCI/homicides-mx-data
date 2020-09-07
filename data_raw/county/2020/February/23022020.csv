@@ -1,66 +1,36 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-"Baja California 
-(5)",Tijuana,1,-,1,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-Chihuahua (1),"Hidalgo del 
-Parral",1,1,-,-
-"Ciudad de 
-México (2)",Cuauhtémoc,1,-,-,1
-,"Venustiano 
-Carranza",1,1,-,-
-"Guanajuato 
-(10)",Apaseo el Alto,1,1,-,-
-,Celaya,2,2,-,-
-,Cortazar,1,1,-,-
-,,1,1,-,-
-,"Santa Cruz de 
-Juventino 
-Rosas",1,1,-,-
-,"Silao de la 
-Víctoria",2,2,-,-
-,Uriangato,1,1,-,-
-,Villagrán,1,1,-,-
-Guerrero (2),Eduardo Neri,1,1,-,-
-,"San Luis 
-Acatlán",1,1,-,-
-Jalisco (10),Guadalajara,2,2,-,-
-,"Lagos de 
-Moreno",3,2,1,-
-,"Tlajomulco de 
-Zúñiga",1,1,-,-
-,,1,1,-,-
-,Tonalá,3,3,-,-
-México (1),Nezahualcóyotl,1,1,-,-
-"Michoacán de 
-Ocampo (4)",Uruapan,1,1,-,-
-,Zamora,2,2,-,-
-,,1,1,-,-
-Morelos (1),Tlaquiltenango,1,-,1,-
-"Nuevo León 
-(2)",Guadalupe,1,1,-,-
-,Monterrey,1,1,-,-
-Puebla (4),Puebla,1,1,-,-
-,"San Martín 
-Texmelucan",2,2,-,-
-,,1,1,-,-
-"Quintana Roo 
-(2)",Benito Juárez,1,1,-,-
-,Solidaridad,1,1,-,-
-Sinaloa (1),Culiacán,1,1,-,-
-Tamaulipas (3),Reynosa,3,3,-,-
-"Veracruz de 
-Ignacio de la 
-Llave (5)",Coatzacoalcos,1,-,1,-
-,,1,1,-,-
-,,1,-,1,-
-,Playa Vicente,1,-,-,1
-,Xalapa,1,-,1,-
-Zacatecas (7),Fresnillo,1,1,-,-
-,Río Grande,5,-,-,5
-,Zacatecas,1,1,-,-
-Totales,,60,47,6,7
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,5,4.0,1.0,0.0,2020-02-23
+Chihuahua,Hidalgo Del Parral,1,1.0,0.0,0.0,2020-02-23
+Ciudad de México,Cuauhtémoc,1,0.0,0.0,1.0,2020-02-23
+Ciudad de México,Venustiano Carranza,1,1.0,0.0,0.0,2020-02-23
+Guanajuato,Apaseo El Alto,1,1.0,0.0,0.0,2020-02-23
+Guanajuato,Celaya,2,2.0,0.0,0.0,2020-02-23
+Guanajuato,Cortazar,2,2.0,0.0,0.0,2020-02-23
+Guanajuato,Santa Cruz De Juventino Rosas,1,1.0,0.0,0.0,2020-02-23
+Guanajuato,Silao De La Victoria,2,2.0,0.0,0.0,2020-02-23
+Guanajuato,Uriangato,1,1.0,0.0,0.0,2020-02-23
+Guanajuato,Villagrán,1,1.0,0.0,0.0,2020-02-23
+Guerrero,Eduardo Neri,1,1.0,0.0,0.0,2020-02-23
+Guerrero,San Luis Acatlán,1,1.0,0.0,0.0,2020-02-23
+Jalisco,Guadalajara,2,2.0,0.0,0.0,2020-02-23
+Jalisco,Lagos De Moreno,3,2.0,1.0,0.0,2020-02-23
+Jalisco,Tlajomulco De Zúñiga,2,2.0,0.0,0.0,2020-02-23
+Jalisco,Tonalá,3,3.0,0.0,0.0,2020-02-23
+Michoacán,Uruapan,1,1.0,0.0,0.0,2020-02-23
+Michoacán,Zamora,3,3.0,0.0,0.0,2020-02-23
+Morelos,Tlaquiltenango,1,0.0,1.0,0.0,2020-02-23
+Estado de México,Nezahualcóyotl,1,1.0,0.0,0.0,2020-02-23
+Nuevo León,Guadalupe,1,1.0,0.0,0.0,2020-02-23
+Nuevo León,Monterrey,1,1.0,0.0,0.0,2020-02-23
+Puebla,Puebla,1,1.0,0.0,0.0,2020-02-23
+Puebla,San Martín Texmelucan,3,3.0,0.0,0.0,2020-02-23
+Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2020-02-23
+Quintana Roo,Solidaridad,1,1.0,0.0,0.0,2020-02-23
+Sinaloa,Culiacán,1,1.0,0.0,0.0,2020-02-23
+Tamaulipas,Reynosa,3,3.0,0.0,0.0,2020-02-23
+Veracruz,Coatzacoalcos,3,1.0,2.0,0.0,2020-02-23
+Veracruz,Playa Vicente,1,0.0,0.0,1.0,2020-02-23
+Veracruz,Xalapa,1,0.0,1.0,0.0,2020-02-23
+Zacatecas,Fresnillo,1,1.0,0.0,0.0,2020-02-23
+Zacatecas,Río Grande,5,0.0,0.0,5.0,2020-02-23
+Zacatecas,Zacatecas,1,1.0,0.0,0.0,2020-02-23

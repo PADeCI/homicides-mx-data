@@ -2,29 +2,22 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,8.0,5.0,1.0,2.0,2019-07-05
 Campeche,Palizada,1.0,1.0,0.0,0.0,2019-07-05
 Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-07-05
-Chihuahua,"Hidalgo del 
-Parral",1.0,1.0,0.0,0.0,2019-07-05
+Chihuahua,Hidalgo Del Parral,1.0,1.0,0.0,0.0,2019-07-05
 Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-07-05
-Chihuahua,"Valle de 
-Zaragoza",1.0,1.0,0.0,0.0,2019-07-05
+Chihuahua,Valle De Zaragoza,1.0,1.0,0.0,0.0,2019-07-05
 Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-07-05
-Ciudad de México,"Gustavo A. 
-Madero",3.0,3.0,0.0,0.0,2019-07-05
+Ciudad de México,Gustavo A. Madero,3.0,3.0,0.0,0.0,2019-07-05
 Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-07-05
 Colima,Armería,1.0,1.0,0.0,0.0,2019-07-05
 Guanajuato,Irapuato,3.0,2.0,1.0,0.0,2019-07-05
 Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-07-05
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-07-05
-Guanajuato,"Silao de la 
-Víctoria",1.0,1.0,0.0,0.0,2019-07-05
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-07-05
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2019-07-05
 Guanajuato,Tarandacuao,1.0,1.0,0.0,0.0,2019-07-05
-Guerrero,"Acapulco de 
-Juárez",1.0,0.0,0.0,1.0,2019-07-05
-Hidalgo,Pachuca de Soto,1.0,1.0,0.0,0.0,2019-07-05
+Guerrero,Acapulco De Juárez,1.0,0.0,0.0,1.0,2019-07-05
+Hidalgo,Pachuca De Soto,1.0,1.0,0.0,0.0,2019-07-05
 Jalisco,Guadalajara,2.0,1.0,0.0,1.0,2019-07-05
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2019-07-05
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-07-05
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-07-05
 Michoacán,Aquila,1.0,1.0,0.0,0.0,2019-07-05
 Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-07-05
@@ -33,13 +26,10 @@ Michoacán,Parácuaro,1.0,1.0,0.0,0.0,2019-07-05
 Michoacán,Taretan,1.0,1.0,0.0,0.0,2019-07-05
 Michoacán,Villamar,1.0,1.0,0.0,0.0,2019-07-05
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-07-05
-Estado de México,"Coacalco de 
-Berriozábal",1.0,1.0,0.0,0.0,2019-07-05
-Estado de México,"Ecatepec de 
-Morelos",2.0,1.0,1.0,0.0,2019-07-05
+Estado de México,Coacalco De Berriozábal,1.0,1.0,0.0,0.0,2019-07-05
+Estado de México,Ecatepec De Morelos,2.0,1.0,1.0,0.0,2019-07-05
 Estado de México,La Paz,1.0,0.0,1.0,0.0,2019-07-05
-Estado de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0,2019-07-05
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2019-07-05
 Estado de México,Tecámac,1.0,1.0,0.0,0.0,2019-07-05
 Nuevo León,Zamora,1.0,1.0,0.0,0.0,2019-07-05
 Puebla,Acatlán,4.0,4.0,0.0,0.0,2019-07-05
@@ -47,9 +37,7 @@ Puebla,Chietla,1.0,1.0,0.0,0.0,2019-07-05
 Puebla,Puebla,1.0,0.0,0.0,1.0,2019-07-05
 Puebla,San José Chiapa,1.0,1.0,0.0,0.0,2019-07-05
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-07-05
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1.0,1.0,0.0,0.0,2019-07-05
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2019-07-05
 Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2019-07-05
 Sonora,Guaymas,1.0,1.0,0.0,0.0,2019-07-05
 Sonora,Hermosillo,2.0,2.0,0.0,0.0,2019-07-05
@@ -57,10 +45,7 @@ Tabasco,Cunduacán,2.0,2.0,0.0,0.0,2019-07-05
 Tamaulipas,El Mante,1.0,0.0,1.0,0.0,2019-07-05
 Veracruz,Agua Dulce,1.0,1.0,0.0,0.0,2019-07-05
 Veracruz,Córdoba,1.0,1.0,0.0,0.0,2019-07-05
-Veracruz,"Nanchital de 
-Lázaro Cárdenas 
-del Río",1.0,1.0,0.0,0.0,2019-07-05
-Veracruz,"Naranjos 
-Amatlán",1.0,1.0,0.0,0.0,2019-07-05
+Veracruz,Nanchital De Lázaro Cárdenas Del Río,1.0,1.0,0.0,0.0,2019-07-05
+Veracruz,Naranjos Amatlán,1.0,1.0,0.0,0.0,2019-07-05
 Veracruz,Texistepec,1.0,1.0,0.0,0.0,2019-07-05
 Veracruz,Tierra Blanca,1.0,1.0,0.0,0.0,2019-07-05

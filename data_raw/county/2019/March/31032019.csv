@@ -2,8 +2,7 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,Aguascalientes,2.0,2.0,0.0,0.0,2019-03-31
 Baja California,Tijuana,1.0,1.0,0.0,0.0,2019-03-31
 Chiapas,Motozintla,1.0,1.0,0.0,0.0,2019-03-31
-Ciudad de México,"Gustavo A. 
-Madero",2.0,1.0,1.0,0.0,2019-03-31
+Ciudad de México,Gustavo A. Madero,2.0,1.0,1.0,0.0,2019-03-31
 Ciudad de México,Iztapalapa,1.0,0.0,1.0,0.0,2019-03-31
 Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2019-03-31
 Coahuila,Monclova,1.0,0.0,1.0,0.0,2019-03-31
@@ -11,23 +10,18 @@ Guanajuato,Guanajuato,2.0,2.0,0.0,0.0,2019-03-31
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-03-31
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-03-31
 Guanajuato,Salamanca,5.0,3.0,0.0,2.0,2019-03-31
-Guerrero,"Acapulco de 
-Juárez",1.0,0.0,0.0,1.0,2019-03-31
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2019-03-31
+Guerrero,Acapulco De Juárez,1.0,0.0,0.0,1.0,2019-03-31
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-03-31
 Michoacán,Apatzingán,2.0,2.0,0.0,0.0,2019-03-31
-Michoacán,"Salvador 
-Escalante",1.0,1.0,0.0,0.0,2019-03-31
+Michoacán,Salvador Escalante,1.0,1.0,0.0,0.0,2019-03-31
 Michoacán,Tuzantla,2.0,2.0,0.0,0.0,2019-03-31
 Morelos,Jiutepec,1.0,1.0,0.0,0.0,2019-03-31
 Estado de México,Acolman,1.0,1.0,0.0,0.0,2019-03-31
-Estado de México,"Naucalpan de 
-Juárez",2.0,2.0,0.0,0.0,2019-03-31
+Estado de México,Naucalpan De Juárez,2.0,2.0,0.0,0.0,2019-03-31
 Estado de México,Nezahualcóyotl,1.0,0.0,1.0,0.0,2019-03-31
-Estado de México,"San Mateo 
-Atenco",1.0,1.0,0.0,0.0,2019-03-31
-Oaxaca,San Miguel,2.0,2.0,0.0,0.0,2019-03-31
-Oaxaca,Soyaltepec,2.0,2.0,0.0,0.0,2019-03-31
+Estado de México,San Mateo Atenco,1.0,1.0,0.0,0.0,2019-03-31
+Oaxaca,San Miguel De Allende,2.0,2.0,0.0,0.0,2019-03-31
+Oaxaca,Soyaló,2.0,2.0,0.0,0.0,2019-03-31
 Quintana Roo,Benito Juárez,3.0,3.0,0.0,0.0,2019-03-31
 Sonora,Cajeme,5.0,1.0,4.0,0.0,2019-03-31
 Sonora,Guaymas,1.0,1.0,0.0,0.0,2019-03-31
@@ -36,9 +30,8 @@ Tabasco,Huimanguillo,1.0,0.0,1.0,0.0,2019-03-31
 Tamaulipas,Reynosa,2.0,2.0,0.0,0.0,2019-03-31
 Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2019-03-31
 Veracruz,Cerro Azul,1.0,1.0,0.0,0.0,2019-03-31
-Veracruz,Cosamaloapan,1.0,1.0,0.0,0.0,2019-03-31
+Veracruz,Apan,1.0,1.0,0.0,0.0,2019-03-31
 Veracruz,Córdoba,1.0,1.0,0.0,0.0,2019-03-31
 Veracruz,Jilotepec,1.0,0.0,0.0,1.0,2019-03-31
-Veracruz,"San Andrés 
-Tuxtla",2.0,2.0,0.0,0.0,2019-03-31
+Veracruz,San Andrés Tuxtla,2.0,2.0,0.0,0.0,2019-03-31
 Zacatecas,Valparaíso,1.0,1.0,0.0,0.0,2019-03-31

@@ -2,10 +2,8 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,6.0,6.0,0.0,0.0,2020-05-20
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-05-20
 Chihuahua,Juárez,2.0,0.0,2.0,0.0,2020-05-20
-Chihuahua,"Nuevo Casas 
-Grandes",1.0,0.0,0.0,1.0,2020-05-20
-Chihuahua,"Valle de 
-Zaragoza",1.0,1.0,0.0,0.0,2020-05-20
+Chihuahua,Nuevo Casas Grandes,1.0,0.0,0.0,1.0,2020-05-20
+Chihuahua,Valle De Zaragoza,1.0,1.0,0.0,0.0,2020-05-20
 Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-05-20
 Colima,Armería,1.0,1.0,0.0,0.0,2020-05-20
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-05-20
@@ -13,39 +11,26 @@ Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-05-20
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-05-20
 Guanajuato,Cuerámaro,1.0,1.0,0.0,0.0,2020-05-20
 Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-05-20
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2020-05-20
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-05-20
 Guerrero,Cuajinicuilapa,1.0,1.0,0.0,0.0,2020-05-20
-Guerrero,"Cuetzala del 
-Progreso",1.0,1.0,0.0,0.0,2020-05-20
-Guerrero,"Huitzuco de 
-los Figueroa",1.0,1.0,0.0,0.0,2020-05-20
+Guerrero,Cuetzala Del Progreso,1.0,1.0,0.0,0.0,2020-05-20
+Guerrero,Huitzuco De Los Figueroa,1.0,1.0,0.0,0.0,2020-05-20
 Guerrero,Tlapehuala,1.0,1.0,0.0,0.0,2020-05-20
-Hidalgo,"Tula de 
-Allende",1.0,1.0,0.0,0.0,2020-05-20
-Jalisco,"Puerto 
-Vallarta",2.0,2.0,0.0,0.0,2020-05-20
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-05-20
+Hidalgo,Tula De Allende,1.0,1.0,0.0,0.0,2020-05-20
+Jalisco,Puerto Vallarta,2.0,2.0,0.0,0.0,2020-05-20
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-20
 Michoacán,Cotija,1.0,1.0,0.0,0.0,2020-05-20
 Michoacán,Morelia,2.0,2.0,0.0,0.0,2020-05-20
 Michoacán,Ocampo,1.0,1.0,0.0,0.0,2020-05-20
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-05-20
 Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-05-20
-Morelos,"Emiliano 
-Zapata",1.0,1.0,0.0,0.0,2020-05-20
+Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2020-05-20
 Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-05-20
-Estado de México,"Almoloya de 
-Juárez",3.0,1.0,2.0,0.0,2020-05-20
-Estado de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0,2020-05-20
-Estado de México,"Valle de 
-Chalco 
-Solidaridad",1.0,0.0,1.0,0.0,2020-05-20
-Nuevo León,"San Nicolás 
-de los Garza",2.0,2.0,0.0,0.0,2020-05-20
-Oaxaca,"Mariscala de 
-Juárez",2.0,2.0,0.0,0.0,2020-05-20
+Estado de México,Almoloya De Juárez,3.0,1.0,2.0,0.0,2020-05-20
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2020-05-20
+Estado de México,Valle De Chalco Solidaridad,1.0,0.0,1.0,0.0,2020-05-20
+Nuevo León,San Nicolás De Los Garza,2.0,2.0,0.0,0.0,2020-05-20
+Oaxaca,Mariscala De Juárez,2.0,2.0,0.0,0.0,2020-05-20
 Puebla,Puebla,1.0,1.0,0.0,0.0,2020-05-20
 Puebla,Tecamachalco,1.0,0.0,1.0,0.0,2020-05-20
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-20
@@ -56,13 +41,9 @@ Sonora,Cajeme,1.0,0.0,1.0,0.0,2020-05-20
 Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-05-20
 Tabasco,Centro,1.0,1.0,0.0,0.0,2020-05-20
 Veracruz,Actopan,3.0,3.0,0.0,0.0,2020-05-20
-Veracruz,"Alamo 
-Temapache",1.0,1.0,0.0,0.0,2020-05-20
-Veracruz,"Alto Lucero 
-de Gutiérrez 
-Barrios",2.0,2.0,0.0,0.0,2020-05-20
+Veracruz,Álamo Temapache,1.0,1.0,0.0,0.0,2020-05-20
+Veracruz,Alto Lucero De Gutiérrez Barrios,2.0,2.0,0.0,0.0,2020-05-20
 Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2020-05-20
-Veracruz,"Poza Rica de 
-Hidalgo",1.0,1.0,0.0,0.0,2020-05-20
+Veracruz,Poza Rica De Hidalgo,1.0,1.0,0.0,0.0,2020-05-20
 Veracruz,Xalapa,1.0,1.0,0.0,0.0,2020-05-20
 Zacatecas,Juan Aldama,1.0,0.0,1.0,0.0,2020-05-20

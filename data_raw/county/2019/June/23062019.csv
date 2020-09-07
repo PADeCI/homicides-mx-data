@@ -1,54 +1,45 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,Aguascalientes,1,1.0,0.0,0.0,2019-06-23
-Baja California,Tijuana,6,4.0,1.0,1.0,2019-06-23
-Chiapas,Cintalapa,1,1.0,0.0,0.0,2019-06-23
-Chihuahua,López,1,1.0,0.0,0.0,2019-06-23
-Ciudad de México,Cuauhtémoc,1,0.0,1.0,0.0,2019-06-23
-Ciudad de México,Iztapalapa,1,1.0,0.0,0.0,2019-06-23
-Ciudad de México,Tlalpan,2,2.0,0.0,0.0,2019-06-23
-Ciudad de México,"Venustiano 
-Carranza",1,0.0,0.0,1.0,2019-06-23
-Ciudad de México,"Álvaro 
-Obregón",1,1.0,0.0,0.0,2019-06-23
-Guanajuato,Celaya,2,2.0,0.0,0.0,2019-06-23
-Guanajuato,Irapuato,2,2.0,0.0,0.0,2019-06-23
-Guanajuato,Salamanca,3,0.0,0.0,3.0,2019-06-23
-Guanajuato,"Silao de la 
-Víctoria",2,2.0,0.0,0.0,2019-06-23
-Guerrero,"Acapulco de 
-Juárez",1,1.0,0.0,0.0,2019-06-23
-Guerrero,"Iguala de la 
-Independencia",1,1.0,0.0,0.0,2019-06-23
-Guerrero,"Taxco de 
-Alarcón",5,5.0,0.0,0.0,2019-06-23
-Hidalgo,Huichapan,3,0.0,0.0,3.0,2019-06-23
-Hidalgo,"Tezontepec de 
-Aldama",2,0.0,0.0,2.0,2019-06-23
-Jalisco,Tonalá,1,1.0,0.0,0.0,2019-06-23
-Michoacán,Chinicuila,2,2.0,0.0,0.0,2019-06-23
-Michoacán,Jacona,1,1.0,0.0,0.0,2019-06-23
-Michoacán,Tzintzuntzan,2,2.0,0.0,0.0,2019-06-23
-Michoacán,Uruapan,1,0.0,0.0,1.0,2019-06-23
-Morelos,Jantetelco,1,1.0,0.0,0.0,2019-06-23
-Morelos,Temixco,1,1.0,0.0,0.0,2019-06-23
-Morelos,Yautepec,1,0.0,1.0,0.0,2019-06-23
-Estado de México,"Ecatepec de 
-Morelos",1,1.0,0.0,0.0,2019-06-23
-Estado de México,"Naucalpan de 
-Juárez",1,1.0,0.0,0.0,2019-06-23
-Nayarit,Tepic,1,1.0,0.0,0.0,2019-06-23
-Nuevo León,Monterrey,1,1.0,0.0,0.0,2019-06-23
-Quintana Roo,San Luis Potosí (1)  San Luis Potosí,1,1.0,0.0,0.0,2019-06-23
-Quintana Roo,Tulum,1,1.0,0.0,0.0,2019-06-23
-Sinaloa,Culiacán,2,2.0,0.0,0.0,2019-06-23
-Tabasco,Huimanguillo,1,1.0,0.0,0.0,2019-06-23
-Tamaulipas,Victoria,3,3.0,0.0,0.0,2019-06-23
-Veracruz,Coatzacoalcos,1,1.0,0.0,0.0,2019-06-23
-Veracruz,Córdoba,1,1.0,0.0,0.0,2019-06-23
-Veracruz,Fortín,1,1.0,0.0,0.0,2019-06-23
-Veracruz,Xalapa,1,1.0,0.0,0.0,2019-06-23
-Zacatecas,Calera,1,1.0,0.0,0.0,2019-06-23
-Zacatecas,Guadalupe,6,2.0,0.0,4.0,2019-06-23
-Zacatecas,Miguel Auza,2,0.0,2.0,0.0,2019-06-23
-Zacatecas,Sombrerete,1,1.0,0.0,0.0,2019-06-23
-Zacatecas,Zacatecas,1,1.0,0.0,0.0,2019-06-23
+Aguascalientes,Aguascalientes,1,1,0,0,2019-06-23
+Baja California,Tijuana,6,4,1,1,2019-06-23
+Chiapas,Cintalapa,1,1,0,0,2019-06-23
+Chihuahua,López,1,1,0,0,2019-06-23
+Ciudad de México,Cuauhtémoc,1,0,1,0,2019-06-23
+Ciudad de México,Iztapalapa,1,1,0,0,2019-06-23
+Ciudad de México,Tlalpan,2,2,0,0,2019-06-23
+Ciudad de México,Venustiano Carranza,1,0,0,1,2019-06-23
+Ciudad de México,Álvaro Obregón,1,1,0,0,2019-06-23
+Guanajuato,Celaya,2,2,0,0,2019-06-23
+Guanajuato,Irapuato,2,2,0,0,2019-06-23
+Guanajuato,Salamanca,3,0,0,3,2019-06-23
+Guanajuato,Silao De La Victoria,2,2,0,0,2019-06-23
+Guerrero,Acapulco De Juárez,1,1,0,0,2019-06-23
+Guerrero,Iguala De La Independencia,1,1,0,0,2019-06-23
+Guerrero,Taxco De Alarcón,5,5,0,0,2019-06-23
+Hidalgo,Huichapan,3,0,0,3,2019-06-23
+Hidalgo,Tezontepec De Aldama,2,0,0,2,2019-06-23
+Jalisco,Tonalá,1,1,0,0,2019-06-23
+Michoacán,Chinicuila,2,2,0,0,2019-06-23
+Michoacán,Jacona,1,1,0,0,2019-06-23
+Michoacán,Tzintzuntzan,2,2,0,0,2019-06-23
+Michoacán,Uruapan,1,0,0,1,2019-06-23
+Morelos,Jantetelco,1,1,0,0,2019-06-23
+Morelos,Temixco,1,1,0,0,2019-06-23
+Morelos,Yautepec,1,0,1,0,2019-06-23
+Estado de México,Ecatepec De Morelos,1,1,0,0,2019-06-23
+Estado de México,Naucalpan De Juárez,1,1,0,0,2019-06-23
+Nayarit,Tepic,1,1,0,0,2019-06-23
+Nuevo León,Monterrey,1,1,0,0,2019-06-23
+San Luis Potosí,San Luis Potosí,1,1,0,0,2019-06-23
+Quintana Roo,Tulum,1,1,0,0,2019-06-23
+Sinaloa,Culiacán,2,2,0,0,2019-06-23
+Tabasco,Huimanguillo,1,1,0,0,2019-06-23
+Tamaulipas,Victoria,3,3,0,0,2019-06-23
+Veracruz,Coatzacoalcos,1,1,0,0,2019-06-23
+Veracruz,Córdoba,1,1,0,0,2019-06-23
+Veracruz,Fortín,1,1,0,0,2019-06-23
+Veracruz,Xalapa,1,1,0,0,2019-06-23
+Zacatecas,Calera,1,1,0,0,2019-06-23
+Zacatecas,Guadalupe,6,2,0,4,2019-06-23
+Zacatecas,Miguel Auza,2,0,2,0,2019-06-23
+Zacatecas,Sombrerete,1,1,0,0,2019-06-23
+Zacatecas,Zacatecas,1,1,0,0,2019-06-23

@@ -1,86 +1,41 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-"Baja 
-California 
-(1)",Tijuana,1,-,1,-
-"Ciudad de 
-México (2)",Cuauhtémoc,1,1,-,-
-,"Gustavo A. 
-Madero",1,-,1,-
-"Coahuila 
-de 
-Zaragoza 
-(1)","Piedras 
-Negras",1,1,-,-
-"Guanajuato 
-(12)",Irapuato,1,-,-,1
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,Jerécuaro,4,4,-,-
-,León,1,1,-,-
-,Tarimoro,2,2,-,-
-,,1,1,-,-
-"Guerrero 
-(5)","Chilpancingo 
-de los Bravo",1,1,-,-
-,"Iguala de la 
-Independenci
-a",1,1,-,-
-,Zirándaro,3,3,-,-
-,Hidalgo (2)  San Salvador,2,2,-,-
-Jalisco (6),Guadalajara,1,1,-,-
-,"Lagos de 
-Moreno",1,1,-,-
-,"Tlajomulco de 
-Zúñiga",1,1,-,-
-,Zapopan,1,1,-,-
-,,2,2,-,-
-México (2),La Paz,1,1,-,-
-,"Nezahualcóyo
-tl",1,1,-,-
-"Michoacán 
-de 
-Ocampo 
-(4)",Morelia,1,-,1,-
-,,2,1,1,-
-,,1,-,1,-
-Morelos (5),Axochiapan,1,1,-,-
-,Miacatlán,3,3,-,-
-,Xochitepec,1,1,-,-
-"Nuevo 
-León (2)",Apodaca,1,1,-,-
-,Guadalupe,1,1,-,-
-Oaxaca (3),"San Pedro 
-Mixtepec (22)",1,1,-,-
-,"Santiago 
-Pinotepa 
-Nacional",2,2,-,-
-Puebla (2),Puebla,1,-,1,-
-,"San Pedro 
-Cholula",1,1,-,-
-"Quintana 
-Roo (3)",Benito Juárez,1,1,-,-
-,,1,-,1,-
-,"Felipe Carrillo 
-Puerto",1,1,-,-
-Sinaloa (1),"Salvador 
-Alvarado",1,1,-,-
-Sonora (2),Cajeme,2,2,-,-
-Tabasco (3),Centro,1,1,-,-
-,Cunduacán,1,1,-,-
-,Macuspana,1,1,-,-
-"Veracruz 
-de Ignacio 
-de la Llave 
-(5)",Coatepec,1,-,1,-
-,"Coatzacoalco
-s",1,1,-,-
-,"Juan 
-Rodríguez 
-Clara",1,1,-,-
-,"Rafael 
-Delgado",1,1,-,-
-Tihuatlán,1,1,-,-,La Opinión
-Totales,61,52,8,1,
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,1,0,1,0,2020-02-09
+Ciudad de México,Cuauhtémoc,1,1,0,0,2020-02-09
+Ciudad de México,Gustavo A. Madero,1,0,1,0,2020-02-09
+Coahuila,Piedras Negras,1,1,0,0,2020-02-09
+Guanajuato,Irapuato,4,3,0,1,2020-02-09
+Guanajuato,Jerécuaro,4,4,0,0,2020-02-09
+Guanajuato,León,1,1,0,0,2020-02-09
+Guanajuato,Tarimoro,3,3,0,0,2020-02-09
+Guerrero,Chilpancingo De Los Bravo,1,1,0,0,2020-02-09
+Hidalgo,San Salvador,2,2,0,0,2020-02-09
+Guerrero,Iguala De La Independencia,1,1,0,0,2020-02-09
+Guerrero,Zirándaro,3,3,0,0,2020-02-09
+Jalisco,Guadalajara,1,1,0,0,2020-02-09
+Jalisco,Lagos De Moreno,1,1,0,0,2020-02-09
+Jalisco,Tlajomulco De Zúñiga,1,1,0,0,2020-02-09
+Jalisco,Zapopan,3,3,0,0,2020-02-09
+Michoacán,Morelia,4,1,3,0,2020-02-09
+Morelos,Axochiapan,1,1,0,0,2020-02-09
+Morelos,Miacatlán,3,3,0,0,2020-02-09
+Morelos,Xochitepec,1,1,0,0,2020-02-09
+Estado de México,La Paz,1,1,0,0,2020-02-09
+Estado de México,Nezahualcóyotl,1,1,0,0,2020-02-09
+Nuevo León,Apodaca,1,1,0,0,2020-02-09
+Nuevo León,Guadalupe,1,1,0,0,2020-02-09
+Oaxaca,San Pedro Mixtepec,1,1,0,0,2020-02-09
+Oaxaca,Santiago Pinotepa Nacional,2,2,0,0,2020-02-09
+Puebla,Puebla,1,0,1,0,2020-02-09
+Puebla,San Pedro Cholula,1,1,0,0,2020-02-09
+Quintana Roo,Benito Juárez,2,1,1,0,2020-02-09
+Quintana Roo,Felipe Carrillo Puerto,1,1,0,0,2020-02-09
+Sinaloa,Salvador Alvarado,1,1,0,0,2020-02-09
+Sonora,Cajeme,2,2,0,0,2020-02-09
+Tabasco,Centro,1,1,0,0,2020-02-09
+Tabasco,Cunduacán,1,1,0,0,2020-02-09
+Tabasco,Macuspana,1,1,0,0,2020-02-09
+Veracruz,Coatepec,1,0,1,0,2020-02-09
+Veracruz,Coatzacoalcos,1,1,0,0,2020-02-09
+Veracruz,Juan Rodríguez Clara,1,1,0,0,2020-02-09
+Veracruz,Rafael Delgado,1,1,0,0,2020-02-09
+Veracruz,Tihuatlán,1,1,0,0,2020-02-09

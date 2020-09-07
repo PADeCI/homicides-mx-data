@@ -7,64 +7,44 @@ Chihuahua,Bocoyna,1.0,0.0,0.0,1.0,2019-04-12
 Chihuahua,Juárez,4.0,4.0,0.0,0.0,2019-04-12
 Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2019-04-12
 Colima,Armería,1.0,1.0,0.0,0.0,2019-04-12
-Guanajuato,"Dolores 
-Hidalgo Cuna 
-de la 
-Independencia 
-Nacional",1.0,1.0,0.0,0.0,2019-04-12
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,1.0,1.0,0.0,0.0,2019-04-12
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-04-12
 Guanajuato,Salamanca,2.0,0.0,0.0,2.0,2019-04-12
-Guanajuato,"Silao de la 
-Víctoria",2.0,2.0,0.0,0.0,2019-04-12
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2019-04-12
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,1.0,0.0,0.0,2019-04-12
-Guerrero,"Coyuca de 
-Benítez",1.0,1.0,0.0,0.0,2019-04-12
+Guanajuato,Silao De La Victoria,2.0,2.0,0.0,0.0,2019-04-12
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-04-12
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2019-04-12
+Guerrero,Coyuca De Benítez,1.0,1.0,0.0,0.0,2019-04-12
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-04-12
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2019-04-12
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-04-12
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-04-12
 Jalisco,Zapopan,4.0,1.0,0.0,3.0,2019-04-12
 Michoacán,Jacona,2.0,2.0,0.0,0.0,2019-04-12
 Michoacán,Morelia,2.0,2.0,0.0,0.0,2019-04-12
-Michoacán,"Salvador 
-Escalante",4.0,0.0,0.0,4.0,2019-04-12
+Michoacán,Salvador Escalante,4.0,0.0,0.0,4.0,2019-04-12
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-04-12
-Estado de México,"Atizapán de 
-Zaragoza",1.0,1.0,0.0,0.0,2019-04-12
-Estado de México,"Coacalco de 
-Berriozábal",1.0,1.0,0.0,0.0,2019-04-12
+Estado de México,Atizapán De Zaragoza,1.0,1.0,0.0,0.0,2019-04-12
+Estado de México,Coacalco De Berriozábal,1.0,1.0,0.0,0.0,2019-04-12
 Estado de México,Ixtapaluca,2.0,2.0,0.0,0.0,2019-04-12
-Estado de México,"Naucalpan de 
-Juárez",1.0,0.0,1.0,0.0,2019-04-12
+Estado de México,Naucalpan De Juárez,1.0,0.0,1.0,0.0,2019-04-12
 Nuevo León,García,1.0,0.0,1.0,0.0,2019-04-12
-Nuevo León,Gral. Escobedo,1.0,1.0,0.0,0.0,2019-04-12
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2019-04-12
 Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2019-04-12
 Nuevo León,Marín,1.0,0.0,0.0,1.0,2019-04-12
 Nuevo León,Monterrey,3.0,2.0,1.0,0.0,2019-04-12
 Nuevo León,Santa Catarina,2.0,2.0,0.0,0.0,2019-04-12
-Oaxaca,"Oaxaca de 
-Juárez",2.0,2.0,0.0,0.0,2019-04-12
-Oaxaca,"San Juan 
-Guichicovi",1.0,0.0,1.0,0.0,2019-04-12
-Oaxaca,"San Miguel 
-Soyaltepec",1.0,0.0,0.0,1.0,2019-04-12
+Oaxaca,Oaxaca De Juárez,2.0,2.0,0.0,0.0,2019-04-12
+Oaxaca,San Juan Guichicovi,1.0,0.0,1.0,0.0,2019-04-12
+Oaxaca,San Miguel Soyaltepec,1.0,0.0,0.0,1.0,2019-04-12
 Puebla,Chietla,1.0,1.0,0.0,0.0,2019-04-12
 Puebla,Tehuacán,1.0,1.0,0.0,0.0,2019-04-12
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-04-12
 Quintana Roo,Solidaridad,2.0,1.0,0.0,1.0,2019-04-12
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1.0,0.0,1.0,0.0,2019-04-12
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,0.0,1.0,0.0,2019-04-12
 Sinaloa,Ahome,4.0,0.0,0.0,4.0,2019-04-12
 Tamaulipas,El Mante,1.0,1.0,0.0,0.0,2019-04-12
 Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2019-04-12
 Tlaxcala,Tzompantepec,1.0,0.0,1.0,0.0,2019-04-12
-Veracruz,"Emiliano 
-Zapata",1.0,0.0,1.0,0.0,2019-04-12
+Veracruz,Emiliano Zapata,1.0,0.0,1.0,0.0,2019-04-12
 Veracruz,Minatitlán,3.0,3.0,0.0,0.0,2019-04-12
-Veracruz,"San Juan 
-Evangelista",1.0,1.0,0.0,0.0,2019-04-12
+Veracruz,San Juan Evangelista,1.0,1.0,0.0,0.0,2019-04-12
 Zacatecas,Río Grande,1.0,1.0,0.0,0.0,2019-04-12

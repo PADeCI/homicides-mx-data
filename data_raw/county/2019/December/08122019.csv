@@ -1,29 +1,23 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,4,3.0,0.0,1.0,2019-12-08
 Campeche,Carmen,1,1.0,0.0,0.0,2019-12-08
-Chiapas,"Frontera 
-Hidalgo",1,1.0,0.0,0.0,2019-12-08
+Chiapas,Frontera Hidalgo,1,1.0,0.0,0.0,2019-12-08
 Chihuahua,Juárez,2,2.0,0.0,0.0,2019-12-08
 Ciudad de México,Tláhuac,1,1.0,0.0,0.0,2019-12-08
 Colima,Armería,7,0.0,0.0,7.0,2019-12-08
 Colima,Manzanillo,1,1.0,0.0,0.0,2019-12-08
 Colima,Tecomán,3,0.0,0.0,3.0,2019-12-08
-Guanajuato,"Apaseo el 
-Grande",1,0.0,0.0,1.0,2019-12-08
-Guanajuato,Apaseo el Alto,3,3.0,0.0,0.0,2019-12-08
+Guanajuato,Apaseo El Grande,1,0.0,0.0,1.0,2019-12-08
+Guanajuato,Apaseo El Alto,3,3.0,0.0,0.0,2019-12-08
 Guanajuato,Celaya,2,1.0,0.0,1.0,2019-12-08
 Guanajuato,Cortazar,1,1.0,0.0,0.0,2019-12-08
 Guanajuato,Irapuato,2,2.0,0.0,0.0,2019-12-08
 Guanajuato,Jerécuaro,1,0.0,0.0,1.0,2019-12-08
 Guanajuato,León,1,1.0,0.0,0.0,2019-12-08
-Guerrero,"Acapulco de 
-Juárez",3,2.0,0.0,1.0,2019-12-08
-Guerrero,"Chilpancingo 
-de los Bravo",1,1.0,0.0,0.0,2019-12-08
-Jalisco,"San Pedro 
-Tlaquepaque",1,0.0,1.0,0.0,2019-12-08
-Jalisco,"Tlajomulco de 
-Zúñiga",2,1.0,0.0,1.0,2019-12-08
+Guerrero,Acapulco De Juárez,3,2.0,0.0,1.0,2019-12-08
+Guerrero,Chilpancingo De Los Bravo,1,1.0,0.0,0.0,2019-12-08
+Jalisco,San Pedro Tlaquepaque,1,0.0,1.0,0.0,2019-12-08
+Jalisco,Tlajomulco De Zúñiga,2,1.0,0.0,1.0,2019-12-08
 Michoacán,Jacona,1,1.0,0.0,0.0,2019-12-08
 Michoacán,Morelia,1,1.0,0.0,0.0,2019-12-08
 Michoacán,Puruándiro,1,1.0,0.0,0.0,2019-12-08
@@ -33,8 +27,7 @@ Estado de México,Villa Guerrero,1,0.0,1.0,0.0,2019-12-08
 Estado de México,Zumpango,1,1.0,0.0,0.0,2019-12-08
 Nuevo León,Apodaca,1,1.0,0.0,0.0,2019-12-08
 Nuevo León,Carmen,1,1.0,0.0,0.0,2019-12-08
-Oaxaca,"Oaxaca de 
-Juárez",2,1.0,1.0,0.0,2019-12-08
+Oaxaca,Oaxaca De Juárez,2,1.0,1.0,0.0,2019-12-08
 Querétaro,Querétaro,1,1.0,0.0,0.0,2019-12-08
 Quintana Roo,Bacalar,1,1.0,0.0,0.0,2019-12-08
 Sinaloa,Choix,1,1.0,0.0,0.0,2019-12-08

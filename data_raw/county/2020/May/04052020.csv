@@ -1,51 +1,40 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Ensenada,2.0,1.0,1.0,0.0,2020-05-04
-Baja California,"Playas de 
-Rosarito",2.0,1.0,1.0,0.0,2020-05-04
+Baja California,Playas De Rosarito,2.0,1.0,1.0,0.0,2020-05-04
 Baja California,Tijuana,12.0,10.0,1.0,1.0,2020-05-04
 Chihuahua,Chihuahua,5.0,3.0,2.0,0.0,2020-05-04
-Chihuahua,"Hidalgo del 
-Parral",1.0,1.0,0.0,0.0,2020-05-04
+Chihuahua,Hidalgo Del Parral,1.0,1.0,0.0,0.0,2020-05-04
 Chihuahua,Juárez,1.0,0.0,1.0,0.0,2020-05-04
 Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-05-04
-Ciudad de México,"Gustavo A. 
-Madero",1.0,0.0,0.0,1.0,2020-05-04
+Ciudad de México,Gustavo A. Madero,1.0,0.0,0.0,1.0,2020-05-04
 Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-05-04
 Ciudad de México,Tlalpan,2.0,2.0,0.0,0.0,2020-05-04
 Colima,Colima,1.0,1.0,0.0,0.0,2020-05-04
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-05-04
-Guanajuato,Cortázar,1.0,1.0,0.0,0.0,2020-05-04
-Guanajuato,"Jaral del 
-Progreso",1.0,0.0,1.0,0.0,2020-05-04
+Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2020-05-04
+Guanajuato,Jaral Del Progreso,1.0,0.0,1.0,0.0,2020-05-04
 Guanajuato,León,5.0,5.0,0.0,0.0,2020-05-04
-Guanajuato,"Purísima del 
-Rincón",2.0,2.0,0.0,0.0,2020-05-04
+Guanajuato,Purísima Del Rincón,2.0,2.0,0.0,0.0,2020-05-04
 Guanajuato,Pénjamo,2.0,2.0,0.0,0.0,2020-05-04
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-05-04
 Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-05-04
-Guanajuato,"San Francisco 
-del Rincón",1.0,1.0,0.0,0.0,2020-05-04
-Guerrero,"Acapulco de 
-Juárez",2.0,0.0,1.0,1.0,2020-05-04
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2020-05-04
+Guerrero,Acapulco De Juárez,2.0,0.0,1.0,1.0,2020-05-04
 Guerrero,Marquelia,1.0,1.0,0.0,0.0,2020-05-04
 Jalisco,Guadalajara,3.0,2.0,1.0,0.0,2020-05-04
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-05-04
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-05-04
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-05-04
 Estado de México,Calimaya,1.0,1.0,0.0,0.0,2020-05-04
-Estado de México,"Coacalco de 
-Berriozábal",3.0,3.0,0.0,0.0,2020-05-04
+Estado de México,Coacalco De Berriozábal,3.0,3.0,0.0,0.0,2020-05-04
 Estado de México,Tecámac,1.0,1.0,0.0,0.0,2020-05-04
-Nuevo León,"Cadereyta 
-Jiménez",1.0,1.0,0.0,0.0,2020-05-04
-Oaxaca,"Heroica Ciudad 
-de Huajuapan 
-de León",1.0,1.0,0.0,0.0,2020-05-04
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2020-05-04
+Oaxaca,Heroica Ciudad De Huajuapan De León,1.0,1.0,0.0,0.0,2020-05-04
 Puebla,Puebla,1.0,1.0,0.0,0.0,2020-05-04
 Puebla,Tilapa,1.0,1.0,0.0,0.0,2020-05-04
 Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2020-05-04
 San Luis Potosí,Ciudad Valles,1.0,1.0,0.0,0.0,2020-05-04
-San Luis Potosí,Ébano,1.0,1.0,0.0,0.0,2020-05-04
+San Luis Potosí,Ebano,1.0,1.0,0.0,0.0,2020-05-04
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-05-04
 Sonora,Hermosillo,1.0,0.0,0.0,1.0,2020-05-04
 Veracruz,Córdoba,1.0,1.0,0.0,0.0,2020-05-04

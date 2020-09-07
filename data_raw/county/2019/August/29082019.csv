@@ -1,8 +1,7 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Ensenada,1.0,1.0,0.0,0.0,2019-08-29
 Baja California,Tijuana,7.0,5.0,0.0,2.0,2019-08-29
-Chiapas,"San Cristóbal 
-de las Casas",1.0,0.0,0.0,1.0,2019-08-29
+Chiapas,San Cristóbal De Las Casas,1.0,0.0,0.0,1.0,2019-08-29
 Chihuahua,Chihuahua,3.0,2.0,0.0,1.0,2019-08-29
 Chihuahua,Juárez,6.0,5.0,1.0,0.0,2019-08-29
 Chihuahua,Madera,4.0,1.0,3.0,0.0,2019-08-29
@@ -11,30 +10,20 @@ Guanajuato,Huanímaro,1.0,1.0,0.0,0.0,2019-08-29
 Guanajuato,Irapuato,1.0,0.0,0.0,1.0,2019-08-29
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-29
 Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-08-29
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2019-08-29
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-08-29
 Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-08-29
 Michoacán,Purépero,1.0,1.0,0.0,0.0,2019-08-29
 Michoacán,Quiroga,1.0,1.0,0.0,0.0,2019-08-29
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-08-29
 Estado de México,Atlautla,1.0,1.0,0.0,0.0,2019-08-29
-Estado de México,"Cuautitlán 
-Izcalli",1.0,1.0,0.0,0.0,2019-08-29
-Estado de México,"Ecatepec de 
-Morelos",1.0,0.0,0.0,1.0,2019-08-29
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2019-08-29
+Estado de México,Ecatepec De Morelos,1.0,0.0,0.0,1.0,2019-08-29
 Estado de México,Teoloyucan,1.0,0.0,1.0,0.0,2019-08-29
 Nuevo León,Juárez,1.0,1.0,0.0,0.0,2019-08-29
-Oaxaca,"Cuilápam de 
-Guerrero",1.0,0.0,1.0,0.0,2019-08-29
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0,2019-08-29
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1.0,1.0,0.0,0.0,2019-08-29
-Oaxaca,"Santiago 
-Pinotepa 
-Nacional",1.0,1.0,0.0,0.0,2019-08-29
+Oaxaca,Cuilápam De Guerrero,1.0,0.0,1.0,0.0,2019-08-29
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2019-08-29
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-08-29
+Oaxaca,Santiago Pinotepa Nacional,1.0,1.0,0.0,0.0,2019-08-29
 Puebla,Chietla,1.0,1.0,0.0,0.0,2019-08-29
 Puebla,Puebla,2.0,1.0,1.0,0.0,2019-08-29
 Quintana Roo,Benito Juárez,1.0,0.0,0.0,1.0,2019-08-29

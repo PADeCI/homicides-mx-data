@@ -1,50 +1,39 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Ensenada,5,3,1.0,1.0,2020-08-21
 Baja California,Tijuana,6,2,1.0,3.0,2020-08-21
-Chiapas,Tuxtla Gutierrez,1,1,,,2020-08-21
+Chiapas,Tuxtla Gutiérrez,1,1,,,2020-08-21
 Chihuahua,Chihuahua,1,1,0.0,0.0,2020-08-21
 Chihuahua,Juárez,6,5,0.0,1.0,2020-08-21
 Colima,Manzanillo,1,1,0.0,0.0,2020-08-21
-Guanajuato,"Apaseo el 
-Grande",1,0,1.0,0.0,2020-08-21
-Guanajuato,Apaseo el Alto,2,2,0.0,0.0,2020-08-21
+Guanajuato,Apaseo El Grande,1,0,1.0,0.0,2020-08-21
+Guanajuato,Apaseo El Alto,2,2,0.0,0.0,2020-08-21
 Guanajuato,Guanajuato,4,4,0.0,0.0,2020-08-21
-Guanajuato,"Jaral del 
-Progreso",1,1,0.0,0.0,2020-08-21
+Guanajuato,Jaral Del Progreso,1,1,0.0,0.0,2020-08-21
 Guanajuato,León,3,3,0.0,0.0,2020-08-21
 Guanajuato,Salvatierra,1,1,0.0,0.0,2020-08-21
-Guanajuato,"Santa Cruz de 
-Juventino 
-Rosas",3,3,0.0,0.0,2020-08-21
-Guanajuato,"Valle de 
-Santiago",1,1,0.0,0.0,2020-08-21
+Guanajuato,Santa Cruz De Juventino Rosas,3,3,0.0,0.0,2020-08-21
+Guanajuato,Valle De Santiago,1,1,0.0,0.0,2020-08-21
 Guanajuato,Yuriria,3,3,0.0,0.0,2020-08-21
-Guerrero,"Acapulco de 
-Juárez",9,1,0.0,8.0,2020-08-21
-Guerrero,"Cuetzala del 
-Progreso",2,2,0.0,0.0,2020-08-21
-Guerrero,"Iguala de la 
-Independencia",1,1,0.0,0.0,2020-08-21
-Guerrero,"Zihuatanejo de 
-Azueta",1,1,0.0,0.0,2020-08-21
+Guerrero,Acapulco De Juárez,9,1,0.0,8.0,2020-08-21
+Guerrero,Cuetzala Del Progreso,2,2,0.0,0.0,2020-08-21
+Guerrero,Iguala De La Independencia,1,1,0.0,0.0,2020-08-21
+Guerrero,Zihuatanejo De Azueta,1,1,0.0,0.0,2020-08-21
 Michoacán,Cuitzeo,1,1,0.0,0.0,2020-08-21
-Michoacán,"Lázaro 
-Cárdenas",1,1,0.0,0.0,2020-08-21
+Michoacán,Lázaro Cárdenas,1,1,0.0,0.0,2020-08-21
 Michoacán,Zitácuaro,1,1,0.0,0.0,2020-08-21
 Morelos,Cuernavaca,1,1,0.0,0.0,2020-08-21
 Morelos,Xochitepec,1,1,0.0,0.0,2020-08-21
 Estado de México,Calimaya,1,0,1.0,0.0,2020-08-21
 Estado de México,Metepec,1,0,0.0,1.0,2020-08-21
 Nuevo León,García,2,1,1.0,0.0,2020-08-21
-Oaxaca,"Miahuatlán de 
-Porfirio Díaz",1,1,0.0,0.0,2020-08-21
+Oaxaca,Miahuatlán De Porfirio Díaz,1,1,0.0,0.0,2020-08-21
 Querétaro,El Marqués,1,0,0.0,1.0,2020-08-21
 Quintana Roo,Benito Juárez,1,1,0.0,0.0,2020-08-21
 Quintana Roo,Solidaridad,2,0,2.0,0.0,2020-08-21
 San Luis Potosí,San Luis Potosí,1,1,0.0,0.0,2020-08-21
 Sinaloa,Culiacán,1,1,0.0,0.0,2020-08-21
 Sonora,Cajeme,1,1,0.0,0.0,2020-08-21
-Veracruz,Boca del Río,1,1,0.0,0.0,2020-08-21
+Veracruz,Boca Del Río,1,1,0.0,0.0,2020-08-21
 Veracruz,Ixtaczoquitlán,1,1,0.0,0.0,2020-08-21
 Veracruz,Jáltipan,1,1,0.0,0.0,2020-08-21
 Veracruz,Papantla,1,1,0.0,0.0,2020-08-21

@@ -4,24 +4,21 @@ Baja California,Tijuana,7.0,5.0,1.0,1.0,2019-06-25
 Chihuahua,Bocoyna,2.0,2.0,0.0,0.0,2019-06-25
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-06-25
 Chihuahua,Cuauhtémoc,2.0,2.0,0.0,0.0,2019-06-25
-Chihuahua,Hidalgo del Parral,1.0,1.0,0.0,0.0,2019-06-25
+Chihuahua,Hidalgo Del Parral,1.0,1.0,0.0,0.0,2019-06-25
 Chihuahua,Juárez,4.0,1.0,1.0,2.0,2019-06-25
-Chihuahua,Valle de Zaragoza,1.0,1.0,0.0,0.0,2019-06-25
+Chihuahua,Valle De Zaragoza,1.0,1.0,0.0,0.0,2019-06-25
 Ciudad de México,Benito Juárez,1.0,1.0,0.0,0.0,2019-06-25
-Ciudad de México,"Gustavo A. 
-Madero",2.0,2.0,0.0,0.0,2019-06-25
+Ciudad de México,Gustavo A. Madero,2.0,2.0,0.0,0.0,2019-06-25
 Ciudad de México,Álvaro Obregón,2.0,2.0,0.0,0.0,2019-06-25
 Coahuila,Saltillo,1.0,1.0,0.0,0.0,2019-06-25
 Guanajuato,León,3.0,2.0,0.0,1.0,2019-06-25
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-06-25
 Guanajuato,Salamanca,1.0,0.0,1.0,0.0,2019-06-25
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-06-25
-Guanajuato,Valle de Santiago,1.0,1.0,0.0,0.0,2019-06-25
-Guerrero,"Chilapa de 
-Álvarez",3.0,1.0,0.0,2.0,2019-06-25
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-06-25
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-06-25
+Guerrero,Chilapa De Álvarez,3.0,1.0,0.0,2.0,2019-06-25
 Guerrero,Petatlán,1.0,0.0,1.0,0.0,2019-06-25
-Hidalgo,Tula de Allende,1.0,1.0,0.0,0.0,2019-06-25
+Hidalgo,Tula De Allende,1.0,1.0,0.0,0.0,2019-06-25
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-06-25
 Jalisco,Zapopan,2.0,1.0,1.0,0.0,2019-06-25
 Michoacán,Gabriel Zamora,1.0,1.0,0.0,0.0,2019-06-25
@@ -33,20 +30,16 @@ Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2019-06-25
 Estado de México,Nezahualcóyotl,2.0,2.0,0.0,0.0,2019-06-25
 Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2019-06-25
 Nuevo León,Juárez,1.0,1.0,0.0,0.0,2019-06-25
-Oaxaca,"Matías Romero 
-Avendaño",1.0,1.0,0.0,0.0,2019-06-25
-Oaxaca,Oaxaca de Juárez,3.0,3.0,0.0,0.0,2019-06-25
+Oaxaca,Matías Romero Avendaño,1.0,1.0,0.0,0.0,2019-06-25
+Oaxaca,Oaxaca De Juárez,3.0,3.0,0.0,0.0,2019-06-25
 Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2019-06-25
-Oaxaca,"San Pedro 
-Mixtepec (22)",1.0,1.0,0.0,0.0,2019-06-25
-Oaxaca,"Santo Domingo 
-Tehuantepec",2.0,1.0,1.0,0.0,2019-06-25
+Oaxaca,San Pedro Mixtepec,1.0,1.0,0.0,0.0,2019-06-25
+Oaxaca,Santo Domingo Tehuantepec,2.0,1.0,1.0,0.0,2019-06-25
 Puebla,Coyomeapan,1.0,1.0,0.0,0.0,2019-06-25
 Puebla,Tehuacán,1.0,1.0,0.0,0.0,2019-06-25
 San Luis Potosí,Ciudad Valles,1.0,1.0,0.0,0.0,2019-06-25
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-06-25
-San Luis Potosí,"Soledad de 
-Graciano Sánchez",1.0,1.0,0.0,0.0,2019-06-25
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2019-06-25
 Sinaloa,Culiacán,4.0,2.0,0.0,2.0,2019-06-25
 Sonora,Cajeme,2.0,1.0,0.0,1.0,2019-06-25
 Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-06-25
@@ -58,6 +51,5 @@ Veracruz,Cuitláhuac,1.0,1.0,0.0,0.0,2019-06-25
 Veracruz,Las Choapas,1.0,1.0,0.0,0.0,2019-06-25
 Veracruz,Uxpanapa,3.0,3.0,0.0,0.0,2019-06-25
 Zacatecas,Calera,1.0,1.0,0.0,0.0,2019-06-25
-Zacatecas,"General Pánfilo 
-Natera",2.0,2.0,0.0,0.0,2019-06-25
+Zacatecas,General Pánfilo Natera,2.0,2.0,0.0,0.0,2019-06-25
 Zacatecas,Guadalupe,1.0,0.0,1.0,0.0,2019-06-25

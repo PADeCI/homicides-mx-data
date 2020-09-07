@@ -1,46 +1,34 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,9.0,6.0,2.0,1.0,2019-05-18
 Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-05-18
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2019-05-18
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-05-18
 Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2019-05-18
-Coahuila,"San Juan de 
-Sabinas",5.0,5.0,0.0,0.0,2019-05-18
+Coahuila,San Juan De Sabinas,5.0,5.0,0.0,0.0,2019-05-18
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-05-18
 Guanajuato,Acámbaro,2.0,2.0,0.0,0.0,2019-05-18
 Guanajuato,Comonfort,1.0,1.0,0.0,0.0,2019-05-18
 Guanajuato,Irapuato,5.0,4.0,1.0,0.0,2019-05-18
 Guanajuato,León,2.0,2.0,0.0,0.0,2019-05-18
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-05-18
-Guanajuato,"San Miguel de 
-Allende",3.0,3.0,0.0,0.0,2019-05-18
-Guanajuato,"Valle de 
-Santiago",1.0,0.0,1.0,0.0,2019-05-18
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2019-05-18
-Hidalgo,"Tula de 
-Allende",1.0,1.0,0.0,0.0,2019-05-18
+Guanajuato,San Miguel De Allende,3.0,3.0,0.0,0.0,2019-05-18
+Guanajuato,Valle De Santiago,1.0,0.0,1.0,0.0,2019-05-18
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-05-18
+Hidalgo,Tula De Allende,1.0,1.0,0.0,0.0,2019-05-18
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-05-18
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2019-05-18
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-05-18
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-05-18
 Michoacán,Uruapan,3.0,2.0,1.0,0.0,2019-05-18
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-05-18
 Estado de México,Chalco,1.0,1.0,0.0,0.0,2019-05-18
-Estado de México,"Ixtapan de la 
-Sal",1.0,1.0,0.0,0.0,2019-05-18
+Estado de México,Ixtapan De La Sal,1.0,1.0,0.0,0.0,2019-05-18
 Estado de México,Papalotla,1.0,1.0,0.0,0.0,2019-05-18
 Estado de México,Polotitlán,4.0,3.0,1.0,0.0,2019-05-18
 Estado de México,Temascaltepec,1.0,1.0,0.0,0.0,2019-05-18
-Estado de México,"Valle de 
-Chalco 
-Solidaridad",1.0,1.0,0.0,0.0,2019-05-18
-Oaxaca,"San Lorenzo 
-Cacaotepec",1.0,1.0,0.0,0.0,2019-05-18
+Estado de México,Valle De Chalco Solidaridad,1.0,1.0,0.0,0.0,2019-05-18
+Oaxaca,San Lorenzo Cacaotepec,1.0,1.0,0.0,0.0,2019-05-18
 Puebla,Amozoc,1.0,1.0,0.0,0.0,2019-05-18
 Querétaro,Querétaro,2.0,2.0,0.0,0.0,2019-05-18
-Querétaro,"San Juan del 
-Río",1.0,1.0,0.0,0.0,2019-05-18
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2019-05-18
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-05-18
 Sonora,Cajeme,1.0,0.0,1.0,0.0,2019-05-18
 Tabasco,Centro,1.0,1.0,0.0,0.0,2019-05-18
@@ -48,5 +36,4 @@ Tlaxcala,Apizaco,1.0,1.0,0.0,0.0,2019-05-18
 Veracruz,Córdoba,2.0,2.0,0.0,0.0,2019-05-18
 Veracruz,Minatitlán,4.0,4.0,0.0,0.0,2019-05-18
 Veracruz,Tierra Blanca,1.0,1.0,0.0,0.0,2019-05-18
-Veracruz,"Vega de 
-Alatorre",6.0,6.0,0.0,0.0,2019-05-18
+Veracruz,Vega De Alatorre,6.0,6.0,0.0,0.0,2019-05-18

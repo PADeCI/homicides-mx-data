@@ -1,4 +1,4 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No identificado,Fecha
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,8,,,,2019-01-03
 Chihuahua,Chihuahua,1,,,,2019-01-03
 Chihuahua,Juárez,4,,,,2019-01-03
@@ -6,7 +6,7 @@ Ciudad de México,Benito Juárez,1,,,,2019-01-03
 Ciudad de México,Iztapalapa,1,,,,2019-01-03
 Ciudad de México,Xochimilco,1,,,,2019-01-03
 Colima,Manzanillo,1,,,,2019-01-03
-Estado de México,Ecatepec de Morelos,2,,,,2019-01-03
+Estado de México,Ecatepec De Morelos,2,,,,2019-01-03
 Estado de México,Lerma,1,,,,2019-01-03
 Estado de México,Nezahualcóyotl,1,,,,2019-01-03
 Estado de México,Tianguistenco,1,,,,2019-01-03
@@ -14,25 +14,23 @@ Estado de México,Zinacantepec,1,,,,2019-01-03
 Guanajuato,Acámbaro,1,,,,2019-01-03
 Guanajuato,Celaya,2,,,,2019-01-03
 Guanajuato,Irapuato,1,,,,2019-01-03
-Guanajuato,Jaral del Progreso,1,,,,2019-01-03
+Guanajuato,Jaral Del Progreso,1,,,,2019-01-03
 Guanajuato,León,1,,,,2019-01-03
 Guanajuato,Pénjamo,5,,,,2019-01-03
 Guanajuato,Salamanca,2,,,,2019-01-03
 Guanajuato,Tarimoro,3,,,,2019-01-03
-Guanajuato,Valle de Santiago,6,,,,2019-01-03
-Guerrero,Acapulco de Juárez,1,,,,2019-01-03
+Guanajuato,Valle De Santiago,6,,,,2019-01-03
+Guerrero,Acapulco De Juárez,1,,,,2019-01-03
 Jalisco,Guadalajara,5,,,,2019-01-03
-Jalisco,Lagos de Moreno,2,,,,2019-01-03
-Jalisco,Tlajomulco de Zúñiga,2,,,,2019-01-03
+Jalisco,Lagos De Moreno,2,,,,2019-01-03
+Jalisco,Tlajomulco De Zúñiga,2,,,,2019-01-03
 Michoacán,Uruapan,1,,,,2019-01-03
 Morelos,Cuautla,1,,,,2019-01-03
 Morelos,Temixco,1,,,,2019-01-03
 Nuevo León,Monterrey,1,,,,2019-01-03
 Nuevo León,Santa Catarina,1,,,,2019-01-03
-Oaxaca,"San Pedro Mixtepec -
-Dto. 22 -",1,,,,2019-01-03
-Oaxaca,"Villa de Tututepec de 
-Melchor Ocampo",1,,,,2019-01-03
+Oaxaca,San Pedro,1,,,,2019-01-03
+Oaxaca,Ocampo,1,,,,2019-01-03
 Sinaloa,Culiacán,1,,,,2019-01-03
 Sonora,Cajeme,1,,,,2019-01-03
 Sonora,Hermosillo,1,,,,2019-01-03
@@ -43,5 +41,4 @@ Veracruz,Emiliano Zapata,1,,,,2019-01-03
 Veracruz,Minatitlán,1,,,,2019-01-03
 Veracruz,Pánuco,1,,,,2019-01-03
 Zacatecas,Fresnillo,1,,,,2019-01-03
-Zacatecas,"General Francisco R. 
-Murguía",1,,,,2019-01-03
+Zacatecas,General Francisco R. Murguía,1,,,,2019-01-03

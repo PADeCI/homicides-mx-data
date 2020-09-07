@@ -6,43 +6,33 @@ Chihuahua,Juárez,4.0,4.0,0.0,0.0,2019-06-16
 Colima,Armería,1.0,1.0,0.0,0.0,2019-06-16
 Colima,Manzanillo,2.0,1.0,1.0,0.0,2019-06-16
 Durango,Gómez Palacio,1.0,0.0,1.0,0.0,2019-06-16
-Guanajuato,"Apaseo el 
-Grande",1.0,0.0,0.0,1.0,2019-06-16
+Guanajuato,Apaseo El Grande,1.0,0.0,0.0,1.0,2019-06-16
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-06-16
 Guanajuato,Irapuato,6.0,4.0,2.0,0.0,2019-06-16
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-06-16
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-06-16
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-06-16
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-06-16
 Guanajuato,Tierra Blanca,2.0,2.0,0.0,0.0,2019-06-16
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2019-06-16
-Guerrero,"Chilpancingo de 
-los Bravo",1.0,0.0,0.0,1.0,2019-06-16
-Guerrero,"Taxco de 
-Alarcón",1.0,1.0,0.0,0.0,2019-06-16
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2019-06-16
+Guerrero,Chilpancingo De Los Bravo,1.0,0.0,0.0,1.0,2019-06-16
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2019-06-16
 Hidalgo,Ixmiquilpan,3.0,3.0,0.0,0.0,2019-06-16
 Jalisco,Guadalajara,3.0,1.0,2.0,0.0,2019-06-16
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,1.0,1.0,0.0,2019-06-16
+Jalisco,Tlajomulco De Zúñiga,2.0,1.0,1.0,0.0,2019-06-16
 Michoacán,Cuitzeo,1.0,1.0,0.0,0.0,2019-06-16
 Michoacán,La Piedad,1.0,1.0,0.0,0.0,2019-06-16
 Michoacán,Uruapan,4.0,2.0,1.0,1.0,2019-06-16
 Michoacán,Zamora,2.0,2.0,0.0,0.0,2019-06-16
 Estado de México,Aculco,1.0,1.0,0.0,0.0,2019-06-16
 Estado de México,Chimalhuacán,1.0,1.0,0.0,0.0,2019-06-16
-Estado de México,"Tlalnepantla de 
-Baz",4.0,4.0,0.0,0.0,2019-06-16
+Estado de México,Tlalnepantla De Baz,4.0,4.0,0.0,0.0,2019-06-16
 Nuevo León,Carmen,1.0,1.0,0.0,0.0,2019-06-16
 Oaxaca,Guadalupe Etla,1.0,0.0,0.0,1.0,2019-06-16
-Oaxaca,"San Miguel 
-Soyaltepec",1.0,1.0,0.0,0.0,2019-06-16
+Oaxaca,San Miguel Soyaltepec,1.0,1.0,0.0,0.0,2019-06-16
 Puebla,Tepeaca,2.0,2.0,0.0,0.0,2019-06-16
 Quintana Roo,Othón P. Blanco,1.0,1.0,0.0,0.0,2019-06-16
 Quintana Roo,Solidaridad,1.0,0.0,0.0,1.0,2019-06-16
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1.0,1.0,0.0,0.0,2019-06-16
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2019-06-16
 Sinaloa,Culiacán,0.0,0.0,0.0,0.0,2019-06-16
 Sinaloa,Mazatlán,1.0,0.0,1.0,0.0,2019-06-16
 Sonora,Empalme,2.0,0.0,2.0,0.0,2019-06-16
@@ -52,11 +42,9 @@ Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2019-06-16
 Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2019-06-16
 Tlaxcala,Apizaco,1.0,1.0,0.0,0.0,2019-06-16
 Veracruz,Altotonga,1.0,1.0,0.0,0.0,2019-06-16
-Veracruz,"Hueyapan de 
-Ocampo",1.0,0.0,0.0,1.0,2019-06-16
+Veracruz,Hueyapan De Ocampo,1.0,0.0,0.0,1.0,2019-06-16
 Veracruz,Oluta,1.0,1.0,0.0,0.0,2019-06-16
 Veracruz,Papantla,1.0,1.0,0.0,0.0,2019-06-16
-Veracruz,"Sayula de 
-Alemán",2.0,1.0,1.0,0.0,2019-06-16
+Veracruz,Sayula De Alemán,2.0,1.0,1.0,0.0,2019-06-16
 Veracruz,Soteapan,1.0,0.0,1.0,0.0,2019-06-16
 Zacatecas,Pinos,4.0,3.0,1.0,0.0,2019-06-16

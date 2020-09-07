@@ -1,90 +1,49 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-"Baja California 
-(7)",Mexicali,1,1,-,-
-,Tijuana,1,1,-,-
-,,1,-,1,-
-,,1,1,-,-
-,,2,1,1,-
-,,1,1,-,-
-Chiapas (1),Huixtla,1,1,-,-
-Chihuahua (6),Juárez,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-"Ciudad de 
-México (1)","Gustavo A. 
-Madero",1,1,-,-
-Colima (1),Ixtlahuacán,1,1,-,-
-"Guanajuato 
-(8)",Acámbaro,1,1,-,-
-,Celaya,1,1,-,-
-,Comonfort,1,1,-,-
-,,1,1,-,-
-,León,1,1,-,-
-,"San Luis de la 
-Paz",3,2,1,-
-Guerrero (3),"Acapulco de 
-Juárez",1,1,-,-
-,,1,1,-,-
-,Ometepec,1,1,-,-
-Jalisco (4),Guadalajara,1,1,-,-
-,"San Pedro 
-Tlaquepaque",1,1,-,-
-,Tonalá,1,-,1,-
-,Zapopan,1,1,-,-
-México (3),Tecámac,1,1,-,-
-,,1,1,-,-
-,Texcoco,1,1,-,-
-"Michoacán de 
-Ocampo (2)",Hidalgo,1,1,-,-
-,Zamora,1,1,-,-
-Morelos (4),Cuernavaca,1,1,-,-
-,Jiutepec,1,1,-,-
-,,1,1,-,-
-,"Tlaltizapán de 
-Zapata",1,1,-,-
-"Nuevo León 
-(2)",Monterrey,1,1,-,-
-,,1,1,-,-
-Oaxaca (4),Salina Cruz,1,1,-,-
-,"San Juan 
-Bautista 
-Tuxtepec",1,1,-,-
-,"San Miguel 
-Soyaltepec",2,2,-,-
-Puebla (3),Puebla,1,1,-,-
-,,1,-,-,1
-,Zacatlán,1,-,1,-
-"Quintana Roo 
-(6)",Benito Juárez,1,1,-,-
-,,1,1,-,-
-,Isla Mujeres,1,1,-,-
-,Solidaridad,1,1,-,-
-,Tulum,2,2,-,-
-San Luis,Rioverde,1,1,-,-
-Potosí (2),,,,,
-,"San Luis 
-Potosí",1.0,1,-,-
-Sinaloa (3),Culiacán,1.0,1,-,-
-,,1.0,1,-,-
-,,1.0,1,-,-
-Sonora (6),Cajeme,1.0,1,-,-
-,,1.0,1,-,-
-,Hermosillo,1.0,-,1,-
-,Huatabampo,1.0,1,-,-
-,"San Luis Río 
-Colorado",2.0,2,-,-
-Tabasco (2),Centro,1.0,1,-,-
-,Paraíso,1.0,1,-,-
-Tamaulipas (2),"Miguel 
-Alemán",2.0,2,-,-
-"Veracruz de 
-Ignacio de la 
-Llave (1)",Oluta,1.0,1,-,-
-Zacatecas (2),Calera,1.0,1,-,-
-,Fresnillo,1.0,1,-,-
-Totales,,73.0,66,6,1
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2020-02-27
+Baja California,Tijuana,6.0,4.0,2.0,0.0,2020-02-27
+Chiapas,Huixtla,1.0,1.0,0.0,0.0,2020-02-27
+Chihuahua,Juárez,6.0,6.0,0.0,0.0,2020-02-27
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-02-27
+Colima,Ixtlahuacán,1.0,1.0,0.0,0.0,2020-02-27
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-02-27
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-02-27
+Guanajuato,Comonfort,2.0,2.0,0.0,0.0,2020-02-27
+Guanajuato,León,1.0,1.0,0.0,0.0,2020-02-27
+Guanajuato,San Luis De La Paz,3.0,2.0,1.0,0.0,2020-02-27
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-02-27
+Guerrero,Ometepec,1.0,1.0,0.0,0.0,2020-02-27
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-02-27
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-02-27
+Jalisco,Tonalá,1.0,0.0,1.0,0.0,2020-02-27
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-02-27
+Michoacán,Hidalgo,1.0,1.0,0.0,0.0,2020-02-27
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-02-27
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-02-27
+Morelos,Jiutepec,2.0,2.0,0.0,0.0,2020-02-27
+Morelos,Tlaltizapán De Zapata,1.0,1.0,0.0,0.0,2020-02-27
+Estado de México,Tecámac,2.0,2.0,0.0,0.0,2020-02-27
+Estado de México,Texcoco,1.0,1.0,0.0,0.0,2020-02-27
+Nuevo León,Monterrey,2.0,2.0,0.0,0.0,2020-02-27
+Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2020-02-27
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2020-02-27
+Oaxaca,San Miguel Soyaltepec,2.0,2.0,0.0,0.0,2020-02-27
+San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2020-02-27
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-02-27
+Puebla,Puebla,2.0,1.0,0.0,1.0,2020-02-27
+Puebla,Zacatlán,1.0,0.0,1.0,0.0,2020-02-27
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2020-02-27
+Quintana Roo,Isla Mujeres,1.0,1.0,0.0,0.0,2020-02-27
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2020-02-27
+Quintana Roo,Tulum,2.0,2.0,0.0,0.0,2020-02-27
+San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2020-02-27
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2020-02-27
+Sonora,Cajeme,2.0,2.0,0.0,0.0,2020-02-27
+Sonora,Hermosillo,1.0,0.0,1.0,0.0,2020-02-27
+Sonora,Huatabampo,1.0,1.0,0.0,0.0,2020-02-27
+Sonora,San Luis Río Colorado,2.0,2.0,0.0,0.0,2020-02-27
+Tabasco,Centro,1.0,1.0,0.0,0.0,2020-02-27
+Tabasco,Paraíso,1.0,1.0,0.0,0.0,2020-02-27
+Tamaulipas,Miguel Alemán,2.0,2.0,0.0,0.0,2020-02-27
+Veracruz,Oluta,1.0,1.0,0.0,0.0,2020-02-27
+Zacatecas,Calera,1.0,1.0,0.0,0.0,2020-02-27
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-02-27

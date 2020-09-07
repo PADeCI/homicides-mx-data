@@ -1,57 +1,44 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado
-Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0
-Aguascalientes,Jesús María,1.0,1.0,0.0,0.0
-Baja California,Tijuana,6.0,5.0,0.0,1.0
-Chiapas,Altamirano,1.0,0.0,1.0,0.0
-Chiapas,Tapachula,2.0,2.0,0.0,0.0
-Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0
-Chihuahua,Chihuahua,1.0,1.0,0.0,0.0
-Chihuahua,Juárez,2.0,2.0,0.0,0.0
-Ciudad de México,"Cuajimalpa de 
-Morelos",1.0,1.0,0.0,0.0
-Ciudad de México,"Gustavo A. 
-Madero",3.0,2.0,1.0,0.0
-Guanajuato,"Dolores Hidalgo 
-Cuna de la 
-Independencia 
-Nacional",1.0,1.0,0.0,0.0
-Guanajuato,Irapuato,4.0,2.0,2.0,0.0
-Guanajuato,León,2.0,1.0,0.0,1.0
-Guanajuato,Salamanca,2.0,2.0,0.0,0.0
-Guanajuato,Salvatierra,1.0,1.0,0.0,0.0
-Guerrero,"Acapulco de 
-Juárez",4.0,3.0,0.0,1.0
-Guerrero,"Huitzuco de los 
-Figueroa",1.0,1.0,0.0,0.0
-Jalisco,"San Pedro 
-Tlaquepaque",3.0,2.0,1.0,0.0
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0
-Jalisco,Zapopan,1.0,1.0,0.0,0.0
-Michoacán,Morelia,2.0,1.0,1.0,0.0
-Michoacán,Sahuayo,1.0,1.0,0.0,0.0
-Morelos,Cuernavaca,3.0,3.0,0.0,0.0
-Morelos,Jiutepec,1.0,1.0,0.0,0.0
-Morelos,Puente de Ixtla,4.0,2.0,0.0,2.0
-Ciudad de México,Chalco,3.0,1.0,2.0,0.0
-Nuevo León,Juárez,1.0,1.0,0.0,0.0
-Oaxaca,"San Bartolomé 
-Ayautla",2.0,0.0,0.0,2.0
-Oaxaca,"San Pedro 
-Totolápam",1.0,0.0,1.0,0.0
-Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0
-San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0
-Sinaloa,Ahome,1.0,0.0,1.0,0.0
-Sinaloa,Culiacán,2.0,2.0,0.0,0.0
-Sonora,Empalme,2.0,2.0,0.0,0.0
-Sonora,"San Luis Río 
-Colorado",1.0,1.0,0.0,0.0
-Tabasco,Tenosique,1.0,0.0,1.0,0.0
-Tlaxcala,Panotla,1.0,1.0,0.0,0.0
-Tlaxcala,"Tepetitla de 
-Lardizábal",1.0,0.0,1.0,0.0
-Veracruz,Acayucan,1.0,1.0,0.0,0.0
-Veracruz,Córdoba,1.0,0.0,1.0,0.0
-Veracruz,Xalapa,1.0,1.0,0.0,0.0
-Zacatecas,Calera,1.0,1.0,0.0,0.0
-Zacatecas,Villa de Cos,1.0,0.0,0.0,1.0
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1,1,0,0,2019-09-11
+Aguascalientes,Jesús María,1,1,0,0,2019-09-11
+Baja California,Tijuana,6,5,0,1,2019-09-11
+Chiapas,Altamirano,1,0,1,0,2019-09-11
+Chiapas,Tapachula,2,2,0,0,2019-09-11
+Chiapas,Tuxtla Gutiérrez,1,1,0,0,2019-09-11
+Chihuahua,Chihuahua,1,1,0,0,2019-09-11
+Chihuahua,Juárez,2,2,0,0,2019-09-11
+Ciudad de México,Cuajimalpa De Morelos,1,1,0,0,2019-09-11
+Ciudad de México,Gustavo A. Madero,3,2,1,0,2019-09-11
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,1,1,0,0,2019-09-11
+Guanajuato,Irapuato,4,2,2,0,2019-09-11
+Guanajuato,León,2,1,0,1,2019-09-11
+Guanajuato,Salamanca,2,2,0,0,2019-09-11
+Guanajuato,Salvatierra,1,1,0,0,2019-09-11
+Guerrero,Acapulco De Juárez,4,3,0,1,2019-09-11
+Guerrero,Huitzuco De Los Figueroa,1,1,0,0,2019-09-11
+Jalisco,San Pedro Tlaquepaque,3,2,1,0,2019-09-11
+Jalisco,Tlajomulco De Zúñiga,1,1,0,0,2019-09-11
+Jalisco,Zapopan,1,1,0,0,2019-09-11
+Michoacán,Morelia,2,1,1,0,2019-09-11
+Michoacán,Sahuayo,1,1,0,0,2019-09-11
+Morelos,Cuernavaca,3,3,0,0,2019-09-11
+Morelos,Jiutepec,1,1,0,0,2019-09-11
+Morelos,Puente De Ixtla,4,2,0,2,2019-09-11
+Estado de México,Chalco,3,1,2,0,2019-09-11
+Nuevo León,Juárez,1,1,0,0,2019-09-11
+Oaxaca,San Bartolomé Ayautla,2,0,0,2,2019-09-11
+Oaxaca,San Pedro Totolápam,1,0,1,0,2019-09-11
+Quintana Roo,Benito Juárez,1,1,0,0,2019-09-11
+San Luis Potosí,San Luis Potosí,1,1,0,0,2019-09-11
+Sinaloa,Ahome,1,0,1,0,2019-09-11
+Sinaloa,Culiacán,2,2,0,0,2019-09-11
+Sonora,Empalme,2,2,0,0,2019-09-11
+Sonora,San Luis Río Colorado,1,1,0,0,2019-09-11
+Tabasco,Tenosique,1,0,1,0,2019-09-11
+Tlaxcala,Panotla,1,1,0,0,2019-09-11
+Tlaxcala,Tepetitla De Lardizábal,1,0,1,0,2019-09-11
+Veracruz,Acayucan,1,1,0,0,2019-09-11
+Veracruz,Córdoba,1,0,1,0,2019-09-11
+Veracruz,Xalapa,1,1,0,0,2019-09-11
+Zacatecas,Calera,1,1,0,0,2019-09-11
+Zacatecas,Villa De Cos,1,0,0,1,2019-09-11

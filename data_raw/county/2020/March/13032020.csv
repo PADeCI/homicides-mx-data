@@ -1,58 +1,43 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Tijuana,8.0,5.0,2.0,1.0,2020-03-13
-Chihuahua,Juárez,4.0,4.0,0.0,0.0,2020-03-13
-Ciudad de México,Iztapalapa,3.0,3.0,0.0,0.0,2020-03-13
-Coahuila,Saltillo,1.0,1.0,0.0,0.0,2020-03-13
-Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-03-13
-Guanajuato,"Jaral del 
-Progreso",1.0,1.0,0.0,0.0,2020-03-13
-Guanajuato,León,4.0,1.0,2.0,1.0,2020-03-13
-Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-03-13
-Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-03-13
-Guerrero,"Acapulco de 
-Juárez",2.0,1.0,1.0,0.0,2020-03-13
-Jalisco,El Salto,1.0,1.0,0.0,0.0,2020-03-13
-Jalisco,"Lagos de 
-Moreno",3.0,0.0,0.0,3.0,2020-03-13
-Jalisco,"San Pedro 
-Tlaquepaqu
-e",1.0,1.0,0.0,0.0,2020-03-13
-Jalisco,"Tlajomulco 
-de Zúñiga",2.0,1.0,0.0,1.0,2020-03-13
-Michoacán,Acuitzio,1.0,1.0,0.0,0.0,2020-03-13
-Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-03-13
-Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2020-03-13
-Michoacán,"Tangamand
-apio",1.0,1.0,0.0,0.0,2020-03-13
-Michoacán,Uruapan,3.0,1.0,0.0,2.0,2020-03-13
-Morelos,Temixco,1.0,1.0,0.0,0.0,2020-03-13
-Morelos,Yautepec,2.0,2.0,0.0,0.0,2020-03-13
-Estado de México,"Coacalco de 
-Berriozábal",1.0,1.0,0.0,0.0,2020-03-13
-Estado de México,"Naucalpan 
-de Juárez",1.0,0.0,1.0,0.0,2020-03-13
-Nuevo León,Apodaca,1.0,0.0,1.0,0.0,2020-03-13
-Oaxaca,"Izúcar de 
-Matamoros",1.0,0.0,1.0,0.0,2020-03-13
-Oaxaca,Puebla (4)  Chignahuap,3.0,3.0,0.0,0.0,2020-03-13
-Oaxaca,"San José 
-Independen
-cia",1.0,1.0,0.0,0.0,2020-03-13
-Oaxaca,"Santa María 
-Mixtequilla",1.0,1.0,0.0,0.0,2020-03-13
-Oaxaca,an,3.0,3.0,0.0,0.0,2020-03-13
-Quintana Roo,"Othón P. 
-Blanco",1.0,1.0,0.0,0.0,2020-03-13
-San Luis Potosí,"San Luis 
-Potosí",1.0,1.0,0.0,0.0,2020-03-13
-San Luis Potosí,Tamasopo,1.0,0.0,1.0,0.0,2020-03-13
-Sinaloa,Culiacán,2.0,0.0,1.0,1.0,2020-03-13
-Tabasco,Centro,1.0,0.0,1.0,0.0,2020-03-13
-Tamaulipas,Padilla,1.0,1.0,0.0,0.0,2020-03-13
-Tamaulipas,Tlaxcala (1)  Xicohtzinco,1.0,1.0,0.0,0.0,2020-03-13
-Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2020-03-13
-Veracruz,Coatepec,1.0,1.0,0.0,0.0,2020-03-13
-Veracruz,Coatzintla,1.0,1.0,0.0,0.0,2020-03-13
-Veracruz,Córdoba,1.0,1.0,0.0,0.0,2020-03-13
-Veracruz,La Perla,1.0,0.0,1.0,0.0,2020-03-13
-Veracruz,Xalapa,1.0,1.0,0.0,0.0,2020-03-13
+Baja California,Tijuana,8,5,2,1,2020-03-13
+Chihuahua,Juárez,4,4,0,0,2020-03-13
+Ciudad de México,Iztapalapa,3,3,0,0,2020-03-13
+Coahuila,Saltillo,1,1,0,0,2020-03-13
+Guanajuato,Irapuato,2,2,0,0,2020-03-13
+Guanajuato,Jaral Del Progreso,1,1,0,0,2020-03-13
+Guanajuato,León,4,1,2,1,2020-03-13
+Guanajuato,Pénjamo,1,1,0,0,2020-03-13
+Guanajuato,Salamanca,2,2,0,0,2020-03-13
+Guerrero,Acapulco De Juárez,2,1,1,0,2020-03-13
+Jalisco,El Salto,1,1,0,0,2020-03-13
+Jalisco,Lagos De Moreno,3,0,0,3,2020-03-13
+Jalisco,San Pedro Tlaquepaque,1,1,0,0,2020-03-13
+Jalisco,Tlajomulco De Zúñiga,2,1,0,1,2020-03-13
+Michoacán,Acuitzio,1,1,0,0,2020-03-13
+Michoacán,Morelia,1,1,0,0,2020-03-13
+Michoacán,Sahuayo,1,1,0,0,2020-03-13
+Michoacán,Tangamandapio,1,1,0,0,2020-03-13
+Michoacán,Uruapan,3,1,0,2,2020-03-13
+Morelos,Temixco,1,1,0,0,2020-03-13
+Morelos,Yautepec,2,2,0,0,2020-03-13
+Estado de México,Coacalco De Berriozábal,1,1,0,0,2020-03-13
+Estado de México,Naucalpan De Juárez,1,0,1,0,2020-03-13
+Nuevo León,Apodaca,1,0,1,0,2020-03-13
+Oaxaca,Izúcar De Matamoros,1,0,1,0,2020-03-13
+Oaxaca,Puebla,3,3,0,0,2020-03-13
+Oaxaca,San José Independencia,1,1,0,0,2020-03-13
+Oaxaca,Santa María Mixtequilla,1,1,0,0,2020-03-13
+Oaxaca,El Llano,3,3,0,0,2020-03-13
+Quintana Roo,Othón P. Blanco,1,1,0,0,2020-03-13
+San Luis Potosí,San Luis Potosí,1,1,0,0,2020-03-13
+San Luis Potosí,Tamasopo,1,0,1,0,2020-03-13
+Sinaloa,Culiacán,2,0,1,1,2020-03-13
+Tabasco,Centro,1,0,1,0,2020-03-13
+Tamaulipas,Padilla,1,1,0,0,2020-03-13
+Tamaulipas,Victoria,1,1,0,0,2020-03-13
+Tlaxcala,Xicohtzinco,1,1,0,0,2020-03-13
+Veracruz,Coatepec,1,1,0,0,2020-03-13
+Veracruz,Coatzintla,1,1,0,0,2020-03-13
+Veracruz,Córdoba,1,1,0,0,2020-03-13
+Veracruz,La Perla,1,0,1,0,2020-03-13
+Veracruz,Xalapa,1,1,0,0,2020-03-13

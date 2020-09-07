@@ -3,12 +3,9 @@ Baja California,Mexicali,1,1.0,0.0,0.0,2019-02-02
 Baja California,Tijuana,10,6.0,1.0,3.0,2019-02-02
 Chiapas,Cacahoatán,1,1.0,0.0,0.0,2019-02-02
 Chihuahua,Juárez,1,0.0,0.0,1.0,2019-02-02
-Ciudad de México,"Gustavo A. 
-Madero",1,1.0,0.0,0.0,2019-02-02
-Ciudad de México,"Miguel 
-Hidalgo",1,1.0,0.0,0.0,2019-02-02
-Ciudad de México,"Álvaro 
-Obregón",1,1.0,0.0,0.0,2019-02-02
+Ciudad de México,Gustavo A. Madero,1,1.0,0.0,0.0,2019-02-02
+Ciudad de México,Miguel Hidalgo,1,1.0,0.0,0.0,2019-02-02
+Ciudad de México,Álvaro Obregón,1,1.0,0.0,0.0,2019-02-02
 Colima,Tecomán,1,0.0,0.0,1.0,2019-02-02
 Estado de México,Chicoloapan,1,0.0,0.0,1.0,2019-02-02
 Estado de México,Juchitepec,1,1.0,0.0,0.0,2019-02-02
@@ -17,41 +14,26 @@ Estado de México,Zinacantepec,1,0.0,1.0,0.0,2019-02-02
 Guanajuato,Irapuato,5,5.0,0.0,0.0,2019-02-02
 Guanajuato,León,1,1.0,0.0,0.0,2019-02-02
 Guanajuato,Salamanca,3,2.0,1.0,0.0,2019-02-02
-Guerrero,"Acapulco de 
-Juárez",5,4.0,1.0,0.0,2019-02-02
-Guerrero,"Chilpancingo 
-de los Bravo",1,1.0,0.0,0.0,2019-02-02
+Guerrero,Acapulco De Juárez,5,4.0,1.0,0.0,2019-02-02
+Guerrero,Chilpancingo De Los Bravo,1,1.0,0.0,0.0,2019-02-02
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2019-02-02
-Jalisco,"San Pedro 
-Tlaquepaque",1,0.0,1.0,0.0,2019-02-02
+Jalisco,San Pedro Tlaquepaque,1,0.0,1.0,0.0,2019-02-02
 Nuevo León,Apodaca,1,0.0,0.0,1.0,2019-02-02
-Nuevo León,"Salinas 
-Victoria",1,1.0,0.0,0.0,2019-02-02
-Oaxaca,"El Barrio de la 
-Soledad",1,1.0,0.0,0.0,2019-02-02
-Oaxaca,"Heroica 
-Ciudad de 
-Juchitán de 
-Zaragoza",1,1.0,0.0,0.0,2019-02-02
-Puebla,"San Matías 
-Tlalancaleca",1,1.0,0.0,0.0,2019-02-02
-Puebla,"Venustiano 
-Carranza",3,3.0,0.0,0.0,2019-02-02
+Nuevo León,Salinas Victoria,1,1.0,0.0,0.0,2019-02-02
+Oaxaca,El Barrio De La Soledad,1,1.0,0.0,0.0,2019-02-02
+Oaxaca,Zaragoza,1,1.0,0.0,0.0,2019-02-02
+Puebla,San Matías Tlalancaleca,1,1.0,0.0,0.0,2019-02-02
+Puebla,Venustiano Carranza,3,3.0,0.0,0.0,2019-02-02
 Querétaro,Querétaro,1,1.0,0.0,0.0,2019-02-02
 Quintana Roo,Solidaridad,2,1.0,0.0,1.0,2019-02-02
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1,1.0,0.0,0.0,2019-02-02
+San Luis Potosí,Soledad De Graciano Sánchez,1,1.0,0.0,0.0,2019-02-02
 Sonora,Hermosillo,1,1.0,0.0,0.0,2019-02-02
 Tabasco,Cárdenas,1,1.0,0.0,0.0,2019-02-02
 Tabasco,Huimanguillo,3,3.0,0.0,0.0,2019-02-02
-Tamaulipas,"Miguel 
-Alemán",2,2.0,0.0,0.0,2019-02-02
+Tamaulipas,Miguel Alemán,2,2.0,0.0,0.0,2019-02-02
 Veracruz,Acula,2,2.0,0.0,0.0,2019-02-02
 Veracruz,Coatzintla,1,1.0,0.0,0.0,2019-02-02
-Veracruz,"Cosamaloapan 
-de Carpio",2,2.0,0.0,0.0,2019-02-02
+Veracruz,Cosamaloapan De Carpio,2,2.0,0.0,0.0,2019-02-02
 Veracruz,Tihuatlán,3,0.0,0.0,3.0,2019-02-02
-Veracruz,"Zozocolco de 
-Hidalgo",1,0.0,1.0,0.0,2019-02-02
+Veracruz,Zozocolco De Hidalgo,1,0.0,1.0,0.0,2019-02-02
 Zacatecas,Valparaíso,1,0.0,1.0,0.0,2019-02-02

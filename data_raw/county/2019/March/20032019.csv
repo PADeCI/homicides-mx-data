@@ -2,27 +2,21 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,Jesús María,1,0.0,0.0,1.0,2019-03-20
 Baja California,Tijuana,6,4.0,2.0,0.0,2019-03-20
 Baja California Sur,Los Cabos,1,1.0,0.0,0.0,2019-03-20
-Chiapas,"San Cristóbal 
-de las Casas",1,1.0,0.0,0.0,2019-03-20
+Chiapas,San Cristóbal De Las Casas,1,1.0,0.0,0.0,2019-03-20
 Chiapas,Tapachula,4,4.0,0.0,0.0,2019-03-20
 Chihuahua,Chihuahua,4,3.0,1.0,0.0,2019-03-20
 Chihuahua,Cuauhtémoc,1,1.0,0.0,0.0,2019-03-20
 Chihuahua,Cusihuiriachi,1,1.0,0.0,0.0,2019-03-20
 Chihuahua,Juárez,1,1.0,0.0,0.0,2019-03-20
-Ciudad de México,"Gustavo A. 
-Madero",1,0.0,1.0,0.0,2019-03-20
-Ciudad de México,"Venustiano 
-Carranza",1,1.0,0.0,0.0,2019-03-20
+Ciudad de México,Gustavo A. Madero,1,0.0,1.0,0.0,2019-03-20
+Ciudad de México,Venustiano Carranza,1,1.0,0.0,0.0,2019-03-20
 Colima,Minatitlán,1,1.0,0.0,0.0,2019-03-20
 Guanajuato,Celaya,1,0.0,1.0,0.0,2019-03-20
 Guanajuato,Pénjamo,1,1.0,0.0,0.0,2019-03-20
 Guanajuato,Salamanca,1,1.0,0.0,0.0,2019-03-20
-Guanajuato,"Valle de 
-Santiago",1,1.0,0.0,0.0,2019-03-20
-Guerrero,"Acapulco de 
-Juárez",2,2.0,0.0,0.0,2019-03-20
-Guerrero,"Huitzuco de 
-los Figueroa",1,1.0,0.0,0.0,2019-03-20
+Guanajuato,Valle De Santiago,1,1.0,0.0,0.0,2019-03-20
+Guerrero,Acapulco De Juárez,2,2.0,0.0,0.0,2019-03-20
+Guerrero,Huitzuco De Los Figueroa,1,1.0,0.0,0.0,2019-03-20
 Guerrero,Tecoanapa,1,1.0,0.0,0.0,2019-03-20
 Jalisco,Tonalá,2,2.0,0.0,0.0,2019-03-20
 Jalisco,Zapopan,1,1.0,0.0,0.0,2019-03-20
@@ -31,23 +25,17 @@ Michoacán,Uruapan,1,1.0,0.0,0.0,2019-03-20
 Morelos,Atlatlahucan,1,1.0,0.0,0.0,2019-03-20
 Morelos,Cuernavaca,1,1.0,0.0,0.0,2019-03-20
 Morelos,Tlaquiltenango,1,1.0,0.0,0.0,2019-03-20
-Estado de México,"Atizapán de 
-Zaragoza",1,1.0,0.0,0.0,2019-03-20
+Estado de México,Atizapán De Zaragoza,1,1.0,0.0,0.0,2019-03-20
 Estado de México,Chalco,1,1.0,0.0,0.0,2019-03-20
-Estado de México,"Coacalco de 
-Berriozábal",1,1.0,0.0,0.0,2019-03-20
-Estado de México,"Ecatepec de 
-Morelos",1,0.0,1.0,0.0,2019-03-20
-Estado de México,"San Martín de 
-las Pirámides",1,1.0,0.0,0.0,2019-03-20
+Estado de México,Coacalco De Berriozábal,1,1.0,0.0,0.0,2019-03-20
+Estado de México,Ecatepec De Morelos,1,0.0,1.0,0.0,2019-03-20
+Estado de México,San Martín De Las Pirámides,1,1.0,0.0,0.0,2019-03-20
 Estado de México,Tecámac,3,2.0,1.0,0.0,2019-03-20
 Estado de México,Zumpango,1,1.0,0.0,0.0,2019-03-20
 Nayarit,Tepic,3,3.0,0.0,0.0,2019-03-20
 Nayarit,Xalisco,1,1.0,0.0,0.0,2019-03-20
-Oaxaca,"San Blas 
-Atempa",1,1.0,0.0,0.0,2019-03-20
-Oaxaca,"San Pedro 
-Pochutla",1,1.0,0.0,0.0,2019-03-20
+Oaxaca,San Blas Atempa,1,1.0,0.0,0.0,2019-03-20
+Oaxaca,San Pedro Pochutla,1,1.0,0.0,0.0,2019-03-20
 Puebla,Atlixco,1,1.0,0.0,0.0,2019-03-20
 Puebla,Puebla,1,1.0,0.0,0.0,2019-03-20
 Quintana Roo,Solidaridad,5,2.0,0.0,3.0,2019-03-20

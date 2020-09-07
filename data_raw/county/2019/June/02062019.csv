@@ -3,66 +3,44 @@ Baja California,Ensenada,2.0,2.0,0.0,0.0,2019-06-02
 Baja California,Tijuana,5.0,4.0,1.0,0.0,2019-06-02
 Chihuahua,Juárez,3.0,2.0,1.0,0.0,2019-06-02
 Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-06-02
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2019-06-02
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-06-02
 Coahuila,Torreón,1.0,0.0,1.0,0.0,2019-06-02
 Colima,Armería,1.0,0.0,0.0,1.0,2019-06-02
-Colima,Comalá,1.0,1.0,0.0,0.0,2019-06-02
+Colima,Comala,1.0,1.0,0.0,0.0,2019-06-02
 Colima,Manzanillo,2.0,2.0,0.0,0.0,2019-06-02
 Guanajuato,Acámbaro,2.0,2.0,0.0,0.0,2019-06-02
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0,2019-06-02
-Guanajuato,Apaseo el Alto,2.0,1.0,0.0,1.0,2019-06-02
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2019-06-02
+Guanajuato,Apaseo El Alto,2.0,1.0,0.0,1.0,2019-06-02
 Guanajuato,Comonfort,1.0,1.0,0.0,0.0,2019-06-02
-Guanajuato,"Dolores Hidalgo 
-Cuna de la 
-Independencia 
-Nacional",1.0,1.0,0.0,0.0,2019-06-02
-Guanajuato,"Purísima del 
-Rincón",1.0,1.0,0.0,0.0,2019-06-02
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,1.0,1.0,0.0,0.0,2019-06-02
+Guanajuato,Purísima Del Rincón,1.0,1.0,0.0,0.0,2019-06-02
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-06-02
-Guanajuato,"Silao de la 
-Victoria",1.0,0.0,1.0,0.0,2019-06-02
-Guerrero,"Acapulco de 
-Juárez",3.0,3.0,0.0,0.0,2019-06-02
+Guanajuato,Silao De La Victoria,1.0,0.0,1.0,0.0,2019-06-02
+Guerrero,Acapulco De Juárez,3.0,3.0,0.0,0.0,2019-06-02
 Guerrero,Azoyú,1.0,1.0,0.0,0.0,2019-06-02
-Guerrero,"Iguala de la 
-Independencia",2.0,2.0,0.0,0.0,2019-06-02
+Guerrero,Iguala De La Independencia,2.0,2.0,0.0,0.0,2019-06-02
 Hidalgo,Tepetitlán,2.0,2.0,0.0,0.0,2019-06-02
 Jalisco,El Salto,1.0,1.0,0.0,0.0,2019-06-02
 Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-06-02
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2019-06-02
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-06-02
 Jalisco,Zapopan,3.0,2.0,0.0,1.0,2019-06-02
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-06-02
 Morelos,Cuernavaca,1.0,0.0,1.0,0.0,2019-06-02
 Morelos,Yautepec,1.0,0.0,1.0,0.0,2019-06-02
-Estado de México,"Ecatepec de 
-Morelos",2.0,2.0,0.0,0.0,2019-06-02
-Estado de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0,2019-06-02
-Estado de México,"Tlalnepantla de 
-Baz",1.0,1.0,0.0,0.0,2019-06-02
+Estado de México,Ecatepec De Morelos,2.0,2.0,0.0,0.0,2019-06-02
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2019-06-02
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2019-06-02
 Estado de México,Toluca,1.0,1.0,0.0,0.0,2019-06-02
-Estado de México,"Valle de Chalco 
-Solidaridad",1.0,1.0,0.0,0.0,2019-06-02
-Oaxaca,"Oaxaca de 
-Juárez",2.0,1.0,0.0,1.0,2019-06-02
-Oaxaca,"Putla Villa de 
-Guerrero",1.0,1.0,0.0,0.0,2019-06-02
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1.0,1.0,0.0,0.0,2019-06-02
-Oaxaca,"San Pedro 
-Pochutla",2.0,1.0,1.0,0.0,2019-06-02
+Estado de México,Valle De Chalco Solidaridad,1.0,1.0,0.0,0.0,2019-06-02
+Oaxaca,Oaxaca De Juárez,2.0,1.0,0.0,1.0,2019-06-02
+Oaxaca,Putla Villa De Guerrero,1.0,1.0,0.0,0.0,2019-06-02
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-06-02
+Oaxaca,San Pedro Pochutla,2.0,1.0,1.0,0.0,2019-06-02
 Puebla,Atlixco,2.0,1.0,1.0,0.0,2019-06-02
 Puebla,San José Chiapa,1.0,0.0,0.0,1.0,2019-06-02
-Puebla,"San Martín 
-Texmelucan",2.0,2.0,0.0,0.0,2019-06-02
+Puebla,San Martín Texmelucan,2.0,2.0,0.0,0.0,2019-06-02
 San Luis Potosí,San Luis Potosí,2.0,1.0,1.0,0.0,2019-06-02
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",2.0,2.0,0.0,0.0,2019-06-02
+San Luis Potosí,Soledad De Graciano Sánchez,2.0,2.0,0.0,0.0,2019-06-02
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-06-02
 Sonora,Hermosillo,1.0,0.0,0.0,1.0,2019-06-02
 Sonora,Nogales,1.0,0.0,1.0,0.0,2019-06-02

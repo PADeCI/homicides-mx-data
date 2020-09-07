@@ -1,13 +1,11 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2019-05-02
-Baja California,"Playas de 
-Rosarito",1.0,0.0,1.0,0.0,2019-05-02
+Baja California,Playas De Rosarito,1.0,0.0,1.0,0.0,2019-05-02
 Baja California,Tijuana,3.0,3.0,0.0,0.0,2019-05-02
 Chiapas,Ocosingo,2.0,2.0,0.0,0.0,2019-05-02
 Chiapas,Tonalá,1.0,1.0,0.0,0.0,2019-05-02
 Chihuahua,Chihuahua,1.0,0.0,1.0,0.0,2019-05-02
-Chihuahua,"Guadalupe y 
-Calvo",2.0,1.0,1.0,0.0,2019-05-02
+Chihuahua,Guadalupe Y Calvo,2.0,1.0,1.0,0.0,2019-05-02
 Chihuahua,Juárez,1.0,1.0,0.0,0.0,2019-05-02
 Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-05-02
 Coahuila,Torreón,1.0,1.0,0.0,0.0,2019-05-02
@@ -15,55 +13,41 @@ Colima,Colima,1.0,1.0,0.0,0.0,2019-05-02
 Colima,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-05-02
 Colima,Tecomán,1.0,1.0,0.0,0.0,2019-05-02
 Durango,Durango,1.0,1.0,0.0,0.0,2019-05-02
-Durango,"Vicente 
-Guerrero",1.0,0.0,1.0,0.0,2019-05-02
+Durango,Vicente Guerrero,1.0,0.0,1.0,0.0,2019-05-02
 Guanajuato,Abasolo,1.0,1.0,0.0,0.0,2019-05-02
 Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-05-02
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-05-02
 Guanajuato,Salamanca,3.0,2.0,1.0,0.0,2019-05-02
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-05-02
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-05-02
 Guanajuato,Villagrán,1.0,1.0,0.0,0.0,2019-05-02
-Guerrero,"Acapulco de 
-Juárez",3.0,3.0,0.0,0.0,2019-05-02
-Guerrero,"Chilpancingo de 
-los Bravo",2.0,1.0,0.0,1.0,2019-05-02
-Guerrero,"Iguala de la 
-Independencia",7.0,0.0,0.0,7.0,2019-05-02
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2019-05-02
+Guerrero,Acapulco De Juárez,3.0,3.0,0.0,0.0,2019-05-02
+Guerrero,Chilpancingo De Los Bravo,2.0,1.0,0.0,1.0,2019-05-02
+Guerrero,Iguala De La Independencia,7.0,0.0,0.0,7.0,2019-05-02
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-05-02
 Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-05-02
-Jalisco,"Zapotlán el 
-Grande",1.0,1.0,0.0,0.0,2019-05-02
+Jalisco,Zapotlán El Grande,1.0,1.0,0.0,0.0,2019-05-02
 Michoacán,Morelia,2.0,2.0,0.0,0.0,2019-05-02
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-05-02
 Morelos,Miacatlán,1.0,1.0,0.0,0.0,2019-05-02
 Estado de México,Cuautitlán,1.0,1.0,0.0,0.0,2019-05-02
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2019-05-02
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-05-02
 Nayarit,Xalisco,2.0,0.0,0.0,2.0,2019-05-02
 Nuevo León,Guadalupe,2.0,2.0,0.0,0.0,2019-05-02
-Oaxaca,"San Agustín 
-Loxicha",1.0,1.0,0.0,0.0,2019-05-02
-Oaxaca,"Santa Lucía del 
-Camino",2.0,0.0,2.0,0.0,2019-05-02
+Oaxaca,San Agustín Loxicha,1.0,1.0,0.0,0.0,2019-05-02
+Oaxaca,Santa Lucía Del Camino,2.0,0.0,2.0,0.0,2019-05-02
 Puebla,Huauchinango,1.0,1.0,0.0,0.0,2019-05-02
-Puebla,"San Martín 
-Texmelucan",1.0,1.0,0.0,0.0,2019-05-02
+Puebla,San Martín Texmelucan,1.0,1.0,0.0,0.0,2019-05-02
 Puebla,Tepeaca,1.0,1.0,0.0,0.0,2019-05-02
-Puebla,"Venustiano 
-Carranza",1.0,0.0,0.0,1.0,2019-05-02
+Puebla,Venustiano Carranza,1.0,0.0,0.0,1.0,2019-05-02
 Puebla,Zihuateutla,1.0,0.0,1.0,0.0,2019-05-02
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-05-02
 Sonora,Cajeme,1.0,1.0,0.0,0.0,2019-05-02
 Tabasco,Centro,4.0,4.0,0.0,0.0,2019-05-02
 Tamaulipas,Reynosa,4.0,4.0,0.0,0.0,2019-05-02
-Veracruz,"Castillo de 
-Teayo",1.0,1.0,0.0,0.0,2019-05-02
+Veracruz,Castillo De Teayo,1.0,1.0,0.0,0.0,2019-05-02
 Veracruz,Tecolutla,1.0,1.0,0.0,0.0,2019-05-02
 Zacatecas,Calera,2.0,2.0,0.0,0.0,2019-05-02
 Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-05-02
 Zacatecas,Juchipila,1.0,0.0,0.0,1.0,2019-05-02
 Zacatecas,Ojocaliente,1.0,1.0,0.0,0.0,2019-05-02
-Zacatecas,"Tlaltenango de 
-Sánchez Román",1.0,1.0,0.0,0.0,2019-05-02
+Zacatecas,Tlaltenango De Sánchez Román,1.0,1.0,0.0,0.0,2019-05-02

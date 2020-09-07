@@ -1,91 +1,47 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-"Baja 
-California (4)",Tijuana,1,1,-,-
-,,1,1,-,-
-,,1,-,-,1
-,,1,1,-,-
-Chiapas (1),Tapachula,1,1,-,-
-"Chihuahua 
-(3)",Juárez,2,-,-,2
-,,1,1,-,-
-"Ciudad de 
-México (5)","Gustavo A. 
-Madero",1,1,-,-
-,"La Magdalena 
-Contreras",3,3,-,-
-,"Venustiano 
-Carranza",1,1,-,-
-"Coahuila de 
-Zaragoza (1)",Piedras Negras,1,1,-,-
-Colima (1),Colima,1,1,-,-
-"Guanajuato 
-(18)",Acámbaro,1,1,-,-
-,Apaseo el Alto,1,1,-,-
-,Celaya,2,2,-,-
-,Irapuato,4,-,-,4
-,,1,1,-,-
-,,1,1,-,-
-,,,,,
-,León,1.0,1,-,-
-,,1.0,1,-,-
-,,3.0,3,-,-
-,,1.0,1,-,-
-,Salamanca,1.0,1,-,-
-,,1.0,1,-,-
-Hidalgo (1),Alfajayucan,1.0,-,-,1
-Jalisco (3),Guadalajara,1.0,-,-,1
-,Zapopan,1.0,1,-,-
-,,1.0,-,-,1
-México (5),"Ecatepec de 
-Morelos",1.0,1,-,-
-,Metepec,1.0,1,-,-
-,Nezahualcóyotl,1.0,1,-,-
-,"Tlalnepantla de 
-Baz",1.0,-,1,-
-,"Valle de Chalco 
-Solidaridad",1.0,-,1,-
-"Michoacán 
-de Ocampo 
-(1)",Jacona,1.0,1,-,-
-Morelos (1),Tepoztlán,1.0,1,-,-
-"Nuevo León 
-(7)",Carmen,1.0,1,-,-
-,Dr. Coss,5.0,5,-,-
-,Marín,1.0,-,-,1
-Oaxaca (1),"Santiago 
-Pinotepa",1.0,1,-,-
-,Nacional,,,,
-"Quintana 
-Roo (2)",Benito Juárez,1.0,1,-,-
-,Solidaridad,1.0,1,-,-
-"San Luis 
-Potosí (2)",San Luis Potosí,1.0,1,-,-
-,Tamuín,1.0,1,-,-
-Sonora (4),Cajeme,1.0,1,-,-
-,Empalme,3.0,3,-,-
-Tabasco (5),Centro,1.0,1,-,-
-,,4.0,4,-,-
-"Tamaulipas 
-(1)",Victoria,1.0,1,-,-
-"Veracruz de 
-Ignacio de la 
-Llave (8)",Catemaco,1.0,-,1,-
-,Cotaxtla,2.0,2,-,-
-,"Juchique de 
-Ferrer",1.0,1,-,-
-,"San Juan 
-Evangelista",1.0,1,-,-
-,Tierra Blanca,1.0,1,-,-
-,Veracruz,1.0,-,1,-
-,Zentla,1.0,1,-,-
-Zacatecas (3),"General 
-Francisco R. 
-Murguía",2.0,2,-,-
-,Miguel Auza,1.0,1,-,-
-Totales,,77.0,62,4,11
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,4.0,3.0,0.0,1.0,2020-02-04
+Chiapas,Tapachula,1.0,1.0,0.0,0.0,2020-02-04
+Chihuahua,Juárez,3.0,1.0,0.0,2.0,2020-02-04
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-02-04
+Ciudad de México,La Magdalena Contreras,3.0,3.0,0.0,0.0,2020-02-04
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2020-02-04
+Coahuila,Piedras Negras,1.0,1.0,0.0,0.0,2020-02-04
+Colima,Colima,1.0,1.0,0.0,0.0,2020-02-04
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-02-04
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2020-02-04
+Guanajuato,Celaya,2.0,2.0,0.0,0.0,2020-02-04
+Guanajuato,Irapuato,7.0,3.0,0.0,4.0,2020-02-04
+Guanajuato,León,6.0,6.0,0.0,0.0,2020-02-04
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-02-04
+Hidalgo,Alfajayucan,1.0,0.0,0.0,1.0,2020-02-04
+Jalisco,Guadalajara,1.0,0.0,0.0,1.0,2020-02-04
+Jalisco,Zapopan,2.0,1.0,0.0,1.0,2020-02-04
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-02-04
+Morelos,Tepoztlán,1.0,1.0,0.0,0.0,2020-02-04
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-02-04
+Estado de México,Metepec,1.0,1.0,0.0,0.0,2020-02-04
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-02-04
+Estado de México,Tlalnepantla De Baz,1.0,0.0,1.0,0.0,2020-02-04
+Estado de México,Valle De Chalco Solidaridad,1.0,0.0,1.0,0.0,2020-02-04
+Nuevo León,Carmen,1.0,1.0,0.0,0.0,2020-02-04
+Nuevo León,Dr. Belisario Domínguez,5.0,5.0,0.0,0.0,2020-02-04
+Nuevo León,Marín,1.0,0.0,0.0,1.0,2020-02-04
+Oaxaca,Dolores Hidalgo Cuna De La Independencia Nacional,1.0,1.0,0.0,0.0,2020-02-04
+Oaxaca,Santiago Pinotepa Nacional,1.0,1.0,0.0,0.0,2020-02-04
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-02-04
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2020-02-04
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-02-04
+San Luis Potosí,Tamuín,1.0,1.0,0.0,0.0,2020-02-04
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-02-04
+Sonora,Empalme,3.0,3.0,0.0,0.0,2020-02-04
+Tabasco,Centro,5.0,5.0,0.0,0.0,2020-02-04
+Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2020-02-04
+Veracruz,Catemaco,1.0,0.0,1.0,0.0,2020-02-04
+Veracruz,Cotaxtla,2.0,2.0,0.0,0.0,2020-02-04
+Veracruz,Juchique De Ferrer,1.0,1.0,0.0,0.0,2020-02-04
+Veracruz,San Juan Evangelista,1.0,1.0,0.0,0.0,2020-02-04
+Veracruz,Tierra Blanca,1.0,1.0,0.0,0.0,2020-02-04
+Veracruz,Veracruz,1.0,0.0,1.0,0.0,2020-02-04
+Veracruz,Zentla,1.0,1.0,0.0,0.0,2020-02-04
+Zacatecas,General Francisco R. Murguía,2.0,2.0,0.0,0.0,2020-02-04
+Zacatecas,Miguel Auza,1.0,1.0,0.0,0.0,2020-02-04

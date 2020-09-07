@@ -4,52 +4,37 @@ Baja California,Tijuana,1.0,1.0,0.0,0.0,2019-07-18
 Chiapas,Suchiate,1.0,1.0,0.0,0.0,2019-07-18
 Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-07-18
 Chihuahua,Juárez,4.0,4.0,0.0,0.0,2019-07-18
-Ciudad de México,"Álvaro 
-Obregón",1.0,0.0,0.0,1.0,2019-07-18
+Ciudad de México,Álvaro Obregón,1.0,0.0,0.0,1.0,2019-07-18
 Coahuila,Monclova,1.0,1.0,0.0,0.0,2019-07-18
 Colima,Manzanillo,2.0,1.0,1.0,0.0,2019-07-18
 Durango,Tamazula,3.0,3.0,0.0,0.0,2019-07-18
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-07-18
 Guanajuato,León,2.0,2.0,0.0,0.0,2019-07-18
 Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2019-07-18
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2019-07-18
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2019-07-18
-Guerrero,"Coyuca de 
-Benítez",1.0,1.0,0.0,0.0,2019-07-18
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-07-18
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-07-18
+Guerrero,Coyuca De Benítez,1.0,1.0,0.0,0.0,2019-07-18
 Guerrero,Petatlán,2.0,1.0,1.0,0.0,2019-07-18
 Hidalgo,Ixmiquilpan,3.0,0.0,0.0,3.0,2019-07-18
 Hidalgo,Tecozautla,1.0,0.0,0.0,1.0,2019-07-18
 Jalisco,Guadalajara,2.0,1.0,1.0,0.0,2019-07-18
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2019-07-18
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-07-18
 Jalisco,Tonalá,8.0,0.0,0.0,8.0,2019-07-18
 Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-07-18
 Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2019-07-18
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-07-18
-Morelos,"Tlaltizapán de 
-Zapata",1.0,0.0,0.0,1.0,2019-07-18
+Morelos,Tlaltizapán De Zapata,1.0,0.0,0.0,1.0,2019-07-18
 Morelos,Xochitepec,1.0,1.0,0.0,0.0,2019-07-18
 Estado de México,Chiconcuac,1.0,1.0,0.0,0.0,2019-07-18
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2019-07-18
-Estado de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0,2019-07-18
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-07-18
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2019-07-18
 Estado de México,Teotihuacán,1.0,1.0,0.0,0.0,2019-07-18
-Estado de México,"Tlalnepantla 
-de Baz",1.0,1.0,0.0,0.0,2019-07-18
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1.0,1.0,0.0,0.0,2019-07-18
-Oaxaca,"San Juan 
-Guichicovi",2.0,2.0,0.0,0.0,2019-07-18
-Puebla,"Los Reyes de 
-Juárez",1.0,1.0,0.0,0.0,2019-07-18
-Puebla,"San Martín 
-Texmelucan",2.0,2.0,0.0,0.0,2019-07-18
-Puebla,"San Pedro 
-Cholula",1.0,1.0,0.0,0.0,2019-07-18
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2019-07-18
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-07-18
+Oaxaca,San Juan Guichicovi,2.0,2.0,0.0,0.0,2019-07-18
+Puebla,Los Reyes De Juárez,1.0,1.0,0.0,0.0,2019-07-18
+Puebla,San Martín Texmelucan,2.0,2.0,0.0,0.0,2019-07-18
+Puebla,San Pedro Cholula,1.0,1.0,0.0,0.0,2019-07-18
 Puebla,Tecamachalco,2.0,2.0,0.0,0.0,2019-07-18
 Querétaro,El Marqués,1.0,0.0,0.0,1.0,2019-07-18
 Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-07-18
@@ -58,16 +43,12 @@ Sinaloa,Culiacán,2.0,1.0,1.0,0.0,2019-07-18
 Sonora,Cajeme,3.0,1.0,2.0,0.0,2019-07-18
 Sonora,Guaymas,1.0,0.0,0.0,1.0,2019-07-18
 Tabasco,Centro,3.0,2.0,1.0,0.0,2019-07-18
-Tamaulipas,"Miguel 
-Alemán",4.0,4.0,0.0,0.0,2019-07-18
+Tamaulipas,Miguel Alemán,4.0,4.0,0.0,0.0,2019-07-18
 Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-07-18
-Veracruz,"Emiliano 
-Zapata",1.0,1.0,0.0,0.0,2019-07-18
-Veracruz,"Mariano 
-Escobedo",1.0,1.0,0.0,0.0,2019-07-18
+Veracruz,Emiliano Zapata,1.0,1.0,0.0,0.0,2019-07-18
+Veracruz,Mariano Escobedo,1.0,1.0,0.0,0.0,2019-07-18
 Veracruz,Nautla,1.0,1.0,0.0,0.0,2019-07-18
 Veracruz,Omealca,1.0,1.0,0.0,0.0,2019-07-18
 Veracruz,Papantla,1.0,1.0,0.0,0.0,2019-07-18
-Veracruz,"Santiago 
-Sochiapan",2.0,2.0,0.0,0.0,2019-07-18
+Veracruz,Santiago Sochiapan,2.0,2.0,0.0,0.0,2019-07-18
 Veracruz,Tierra Blanca,1.0,1.0,0.0,0.0,2019-07-18

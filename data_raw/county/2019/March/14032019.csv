@@ -7,8 +7,7 @@ Chihuahua,Aldama,1,0.0,0.0,1.0,2019-03-14
 Chihuahua,Bocoyna,1,1.0,0.0,0.0,2019-03-14
 Chihuahua,Chihuahua,1,0.0,0.0,1.0,2019-03-14
 Chihuahua,Cuauhtémoc,1,1.0,0.0,0.0,2019-03-14
-Chihuahua,"Hidalgo del 
-Parral",1,1.0,0.0,0.0,2019-03-14
+Chihuahua,Hidalgo Del Parral,1,1.0,0.0,0.0,2019-03-14
 Chihuahua,Juárez,2,2.0,0.0,0.0,2019-03-14
 Ciudad de México,Cuauhtémoc,1,1.0,0.0,0.0,2019-03-14
 Colima,Colima,2,1.0,0.0,1.0,2019-03-14
@@ -18,50 +17,35 @@ Durango,Poanas,1,0.0,1.0,0.0,2019-03-14
 Guanajuato,Abasolo,1,1.0,0.0,0.0,2019-03-14
 Guanajuato,Celaya,2,2.0,0.0,0.0,2019-03-14
 Guanajuato,Cortazar,1,1.0,0.0,0.0,2019-03-14
-Guanajuato,"Dolores 
-Hidalgo",2,2.0,0.0,0.0,2019-03-14
+Guanajuato,Hidalgo,2,2.0,0.0,0.0,2019-03-14
 Guanajuato,Guanajuato,1,1.0,0.0,0.0,2019-03-14
 Guanajuato,Irapuato,1,1.0,0.0,0.0,2019-03-14
-Guerrero,"Iguala de la 
-Independencia",1,0.0,1.0,0.0,2019-03-14
+Guerrero,Iguala De La Independencia,1,0.0,1.0,0.0,2019-03-14
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2019-03-14
-Jalisco,"Ixtlahuacán de 
-los Membrillos",15,0.0,0.0,15.0,2019-03-14
+Jalisco,Ixtlahuacán De Los Membrillos,15,0.0,0.0,15.0,2019-03-14
 Jalisco,Jocotepec,2,1.0,1.0,0.0,2019-03-14
 Jalisco,Tonalá,1,1.0,0.0,0.0,2019-03-14
 Jalisco,Zapopan,1,1.0,0.0,0.0,2019-03-14
 Michoacán,Charo,1,1.0,0.0,0.0,2019-03-14
 Michoacán,Morelia,1,1.0,0.0,0.0,2019-03-14
 Michoacán,Zamora,1,1.0,0.0,0.0,2019-03-14
-Morelos,Puente de Ixtla,1,0.0,1.0,0.0,2019-03-14
-Estado de México,"Cuautitlán 
-Izcalli",1,1.0,0.0,0.0,2019-03-14
+Morelos,Puente De Ixtla,1,0.0,1.0,0.0,2019-03-14
+Estado de México,Cuautitlán Izcalli,1,1.0,0.0,0.0,2019-03-14
 Estado de México,La Paz,1,1.0,0.0,0.0,2019-03-14
 Estado de México,Tecámac,1,0.0,1.0,0.0,2019-03-14
 Nuevo León,Monterrey,1,1.0,0.0,0.0,2019-03-14
-Nuevo León,"San Nicolás de 
-los Garza",1,1.0,0.0,0.0,2019-03-14
-Oaxaca,"Heroica 
-Ciudad de 
-Juchitán de 
-Zaragoza",1,1.0,0.0,0.0,2019-03-14
-Oaxaca,"Matías 
-Romero 
-Avendaño",1,1.0,0.0,0.0,2019-03-14
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2019-03-14
+Nuevo León,San Nicolás De Los Garza,1,1.0,0.0,0.0,2019-03-14
+Oaxaca,Zaragoza,1,1.0,0.0,0.0,2019-03-14
+Oaxaca,Matías Romero Avendaño,1,1.0,0.0,0.0,2019-03-14
+Oaxaca,San Juan Bautista Tuxtepec,1,1.0,0.0,0.0,2019-03-14
 Puebla,Chilchotla,3,3.0,0.0,0.0,2019-03-14
-Puebla,"Francisco Z. 
-Mena",1,1.0,0.0,0.0,2019-03-14
-Puebla,"San Jerónimo 
-Tecuanipan",1,1.0,0.0,0.0,2019-03-14
+Puebla,Francisco Z. Mena,1,1.0,0.0,0.0,2019-03-14
+Puebla,San Jerónimo Tecuanipan,1,1.0,0.0,0.0,2019-03-14
 Puebla,Xiutetelco,1,1.0,0.0,0.0,2019-03-14
 Puebla,Yehualtepec,1,0.0,0.0,1.0,2019-03-14
 Sonora,Cajeme,1,0.0,1.0,0.0,2019-03-14
 Tabasco,Centro,3,3.0,0.0,0.0,2019-03-14
 Tamaulipas,Reynosa,1,1.0,0.0,0.0,2019-03-14
-Veracruz,"Cosautlán de 
-Carvajal",1,1.0,0.0,0.0,2019-03-14
+Veracruz,Cosautlán De Carvajal,1,1.0,0.0,0.0,2019-03-14
 Veracruz,Cuichapa,1,1.0,0.0,0.0,2019-03-14
 Zacatecas,Guadalupe,1,0.0,0.0,1.0,2019-03-14

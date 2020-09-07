@@ -1,84 +1,48 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-,,,,,ado
-"Baja 
-California (2)",Tijuana,1,1,-,-
-,,1,1,-,-
-Chiapas (2),"Comitán de 
-Domínguez",1,-,1,-
-,Tonalá,1,1,-,-
-Chihuahua (3),Chihuahua,2,1,1,-
-,Juárez,1,1,-,-
-Colima (1),Manzanillo,1,1,-,-
-"Guanajuato 
-(19)",Abasolo,1,1,-,-
-,Apaseo el Alto,1,1,-,-
-,Celaya,1,1,-,-
-,,1,1,-,-
-,Irapuato,2,1,1,-
-,León,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,2,-,2,-
-,Salamanca,2,2,-,-
-,,2,2,-,-
-,San Francisco,2,2,-,-
-,del Rincón,,,,
-Guerrero (3),"Chilpancingo 
-de los Bravo",1.0,1,-,-
-,"Iguala de la 
-Independencia",2.0,1,1,-
-Jalisco (4),"Encarnación 
-de Díaz",2.0,1,1,-
-,"Tlajomulco de 
-Zúñiga",1.0,1,-,-
-,Tonalá,1.0,-,1,-
-México (11),"Cuautitlán 
-Izcalli",2.0,2,-,-
-,,1.0,1,-,-
-,Hueypoxtla,1.0,-,-,1
-,La Paz,1.0,1,-,-
-,Metepec,1.0,1,-,-
-,"Naucalpan de 
-Juárez",3.0,3,-,-
-,Toluca,1.0,1,-,-
-,Zinacantepec,1.0,1,-,-
-"Michoacán de 
-Ocampo (4)",Hidalgo,1.0,1,-,-
-,Morelia,1.0,1,-,-
-,Zamora,1.0,1,-,-
-,,1.0,1,-,-
-Morelos (6),"Emiliano 
-Zapata",5.0,-,-,5
-,Tepoztlán,1.0,1,-,-
-Nayarit (2),"Bahía de 
-Banderas",1.0,1,-,-
-,Tuxpan,1.0,1,-,-
-"Nuevo León 
-(1)","Cadereyta 
-Jiménez",1.0,1,-,-
-Oaxaca (1),"Magdalena 
-Apasco",1.0,1,-,-
-Querétaro (1),Corregidora,1.0,1,-,-
-Quintana Roo,Solidaridad,1.0,1,-,-
-(1),,,,,
-Sinaloa (2),Culiacán,1.0,1,-,-
-,,1.0,1,-,-
-Sonora (4),Cajeme,1.0,1,-,-
-,Guaymas,1.0,1,-,-
-,,1.0,1,-,-
-,Hermosillo,1.0,1,-,-
-Tabasco (1),Paraíso,1.0,1,-,-
-"Tamaulipas 
-(8)",Reynosa,6.0,-,-,6
-,,2.0,2,-,-
-"Veracruz de 
-Ignacio de la 
-Llave (5)",Las Choapas,2.0,1,1,-
-,Playa Vicente,2.0,2,-,-
-,Yanga,1.0,-,1,-
-Yucatán (1),Mérida,1.0,-,-,1
-Totales,,82.0,59,10,13
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,2.0,2.0,0.0,0.0,2020-02-25
+Chiapas,Comitán De Domínguez,1.0,0.0,1.0,0.0,2020-02-25
+Chiapas,Tonalá,1.0,1.0,0.0,0.0,2020-02-25
+Chihuahua,Chihuahua,2.0,1.0,1.0,0.0,2020-02-25
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-02-25
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-02-25
+Guanajuato,Abasolo,1.0,1.0,0.0,0.0,2020-02-25
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2020-02-25
+Guanajuato,Celaya,2.0,2.0,0.0,0.0,2020-02-25
+Guanajuato,Irapuato,2.0,1.0,1.0,0.0,2020-02-25
+Guanajuato,León,7.0,5.0,2.0,0.0,2020-02-25
+Guanajuato,Salamanca,4.0,4.0,0.0,0.0,2020-02-25
+Guanajuato,San Francisco Nuxaño,2.0,2.0,0.0,0.0,2020-02-25
+Guanajuato,Purísima Del Rincón,2.0,2.0,0.0,0.0,2020-02-25
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-02-25
+Guerrero,Iguala De La Independencia,2.0,1.0,1.0,0.0,2020-02-25
+Jalisco,Encarnación De Díaz,2.0,1.0,1.0,0.0,2020-02-25
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-02-25
+Jalisco,Tonalá,1.0,0.0,1.0,0.0,2020-02-25
+Michoacán,Hidalgo,1.0,1.0,0.0,0.0,2020-02-25
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-02-25
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-02-25
+Morelos,Emiliano Zapata,5.0,0.0,0.0,5.0,2020-02-25
+Morelos,Tepoztlán,1.0,1.0,0.0,0.0,2020-02-25
+Estado de México,Cuautitlán Izcalli,3.0,3.0,0.0,0.0,2020-02-25
+Estado de México,Hueypoxtla,1.0,0.0,0.0,1.0,2020-02-25
+Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-02-25
+Estado de México,Metepec,1.0,1.0,0.0,0.0,2020-02-25
+Estado de México,Naucalpan De Juárez,3.0,3.0,0.0,0.0,2020-02-25
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-02-25
+Estado de México,Zinacantepec,1.0,1.0,0.0,0.0,2020-02-25
+Nayarit,Bahía De Banderas,1.0,1.0,0.0,0.0,2020-02-25
+Nayarit,Tuxpan,1.0,1.0,0.0,0.0,2020-02-25
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2020-02-25
+Oaxaca,Magdalena Apasco,1.0,1.0,0.0,0.0,2020-02-25
+Querétaro,Corregidora,1.0,1.0,0.0,0.0,2020-02-25
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2020-02-25
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-02-25
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-02-25
+Sonora,Guaymas,2.0,2.0,0.0,0.0,2020-02-25
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-02-25
+Tabasco,Paraíso,1.0,1.0,0.0,0.0,2020-02-25
+Tamaulipas,Reynosa,8.0,2.0,0.0,6.0,2020-02-25
+Veracruz,Las Choapas,2.0,1.0,1.0,0.0,2020-02-25
+Veracruz,Playa Vicente,2.0,2.0,0.0,0.0,2020-02-25
+Veracruz,Yanga,1.0,0.0,1.0,0.0,2020-02-25
+Yucatán,Mérida,1.0,0.0,0.0,1.0,2020-02-25

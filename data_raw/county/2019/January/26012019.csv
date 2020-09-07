@@ -1,4 +1,4 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No identificado,Fecha
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,Aguascalientes,1,,,,2019-01-26
 Baja California,Tijuana,3,,,,2019-01-26
 Chiapas,Las Margaritas,1,,,,2019-01-26
@@ -14,27 +14,23 @@ Colima,Manzanillo,1,,,,2019-01-26
 Estado de México,Acolman,1,,,,2019-01-26
 Guanajuato,León,2,,,,2019-01-26
 Guanajuato,Salamanca,9,,,,2019-01-26
-Guanajuato,"San Francisco del 
-Rincón",1,,,,2019-01-26
+Guanajuato,San Francisco Del Rincón,1,,,,2019-01-26
 Guanajuato,Tarimoro,1,,,,2019-01-26
-Guanajuato,Valle de Santiago,1,,,,2019-01-26
-Guerrero,Acapulco de Juárez,5,,,,2019-01-26
-Guerrero,"Chilpancingo de los 
-Bravo",1,,,,2019-01-26
-Hidalgo,"Tezontepec de 
-Aldama",2,,,,2019-01-26
+Guanajuato,Valle De Santiago,1,,,,2019-01-26
+Guerrero,Acapulco De Juárez,5,,,,2019-01-26
+Guerrero,Chilpancingo De Los Bravo,1,,,,2019-01-26
+Hidalgo,Tezontepec De Aldama,2,,,,2019-01-26
 Jalisco,El Salto,1,,,,2019-01-26
 Jalisco,Guadalajara,2,,,,2019-01-26
-Jalisco,Lagos de Moreno,2,,,,2019-01-26
-Jalisco,"San Pedro 
-Tlaquepaque",2,,,,2019-01-26
+Jalisco,Lagos De Moreno,2,,,,2019-01-26
+Jalisco,San Pedro Tlaquepaque,2,,,,2019-01-26
 Jalisco,Tonalá,1,,,,2019-01-26
 Michoacán,Zamora,1,,,,2019-01-26
 Nuevo León,El Carmen,1,,,,2019-01-26
 Nuevo León,García,1,,,,2019-01-26
 Nuevo León,Monterrey,1,,,,2019-01-26
 Nuevo León,Salinas Victoria,1,,,,2019-01-26
-Oaxaca,Oaxaca de Juárez,4,,,,2019-01-26
+Oaxaca,Oaxaca De Juárez,4,,,,2019-01-26
 Puebla,Tepeojuma,1,,,,2019-01-26
 Quintana Roo,Felipe Carrillo Puerto,1,,,,2019-01-26
 Quintana Roo,Solidaridad,1,,,,2019-01-26
@@ -44,7 +40,7 @@ Tabasco,Huimanguillo,1,,,,2019-01-26
 Tamaulipas,Llera,1,,,,2019-01-26
 Tamaulipas,Reynosa,2,,,,2019-01-26
 Veracruz,Atoyac,1,,,,2019-01-26
-Veracruz,Martínez de la Torre,1,,,,2019-01-26
+Veracruz,Martínez De La Torre,1,,,,2019-01-26
 Veracruz,Pánuco,1,,,,2019-01-26
 Veracruz,San Rafael,1,,,,2019-01-26
 Veracruz,Veracruz,1,,,,2019-01-26

@@ -1,61 +1,46 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Mexicali,2.0,2.0,0.0,0.0,2020-06-29
-Baja California,Tijuana,7.0,6.0,1.0,0.0,2020-06-29
-Chiapas,Suchiate,1.0,1.0,0.0,0.0,2020-06-29
-Chihuahua,Juárez,4.0,3.0,1.0,0.0,2020-06-29
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2020-06-29
-Ciudad de México,Iztapalapa,2.0,2.0,0.0,0.0,2020-06-29
-Ciudad de México,Tláhuac,1.0,1.0,0.0,0.0,2020-06-29
-Colima,Durango (1)  Pueblo Nuevo,1.0,1.0,0.0,0.0,2020-06-29
-Colima,Manzanillo,2.0,1.0,1.0,0.0,2020-06-29
-Ciudad de México,Municipio,0.0,0.0,0.0,0.0,2020-06-29
-Guanajuato,León,1.0,1.0,0.0,0.0,2020-06-29
-Guanajuato,Moroleón,1.0,1.0,0.0,0.0,2020-06-29
-Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-06-29
-Guanajuato,Salvatierra,1.0,0.0,1.0,0.0,2020-06-29
-Guanajuato,"San José 
-Iturbide",1.0,1.0,0.0,0.0,2020-06-29
-Guanajuato,"Silao de la 
-Víctoria",3.0,3.0,0.0,0.0,2020-06-29
-Guerrero,"Chilapa de 
-Álvarez",3.0,1.0,2.0,0.0,2020-06-29
-Guerrero,"Coyuca de 
-Benítez",2.0,2.0,0.0,0.0,2020-06-29
-Hidalgo,"Pachuca de 
-Soto",1.0,0.0,1.0,0.0,2020-06-29
-Jalisco,Guadalajara,3.0,3.0,0.0,0.0,2020-06-29
-Jalisco,"Lagos de 
-Moreno",1.0,1.0,0.0,0.0,2020-06-29
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-06-29
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,1.0,1.0,0.0,2020-06-29
-Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-06-29
-Jalisco,Unión de Tula,1.0,1.0,0.0,0.0,2020-06-29
-Michoacán,Morelia,3.0,3.0,0.0,0.0,2020-06-29
-Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-06-29
-Morelos,Temixco,1.0,1.0,0.0,0.0,2020-06-29
-Estado de México,Tejupilco,2.0,1.0,1.0,0.0,2020-06-29
-Estado de México,Tepetlixpa,1.0,1.0,0.0,0.0,2020-06-29
-Oaxaca,"Heroica 
-Ciudad de 
-Juchitán de 
-Zaragoza",2.0,2.0,0.0,0.0,2020-06-29
-Puebla,"San Martín 
-Texmelucan",2.0,1.0,1.0,0.0,2020-06-29
-Puebla,Xicotepec,1.0,1.0,0.0,0.0,2020-06-29
-Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-06-29
-San Luis Potosí,Ciudad Valles,1.0,1.0,0.0,0.0,2020-06-29
-Sinaloa,Choix,2.0,2.0,0.0,0.0,2020-06-29
-Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-06-29
-Tamaulipas,Reynosa,2.0,2.0,0.0,0.0,2020-06-29
-Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2020-06-29
-Veracruz,Agua Dulce,2.0,2.0,0.0,0.0,2020-06-29
-Veracruz,"Amatlán de los 
-Reyes",1.0,1.0,0.0,0.0,2020-06-29
-Veracruz,Tihuatlán,1.0,1.0,0.0,0.0,2020-06-29
-Veracruz,Tlapacoyan,1.0,0.0,1.0,0.0,2020-06-29
-Veracruz,Xalapa,1.0,0.0,1.0,0.0,2020-06-29
-Zacatecas,Fresnillo,2.0,1.0,1.0,0.0,2020-06-29
-Zacatecas,Guadalupe,3.0,3.0,0.0,0.0,2020-06-29
+Baja California,Mexicali,2,2,0,0,2020-06-29
+Baja California,Tijuana,7,6,1,0,2020-06-29
+Chiapas,Suchiate,1,1,0,0,2020-06-29
+Chihuahua,Juárez,4,3,1,0,2020-06-29
+Ciudad de México,Gustavo A. Madero,1,1,0,0,2020-06-29
+Ciudad de México,Iztapalapa,2,2,0,0,2020-06-29
+Ciudad de México,Tláhuac,1,1,0,0,2020-06-29
+Durango,Pueblo Nuevo,1,1,0,0,2020-06-29
+Colima,Manzanillo,2,1,1,0,2020-06-29
+Guanajuato,León,1,1,0,0,2020-06-29
+Guanajuato,Moroleón,1,1,0,0,2020-06-29
+Guanajuato,Salamanca,2,2,0,0,2020-06-29
+Guanajuato,Salvatierra,1,0,1,0,2020-06-29
+Guanajuato,San José Iturbide,1,1,0,0,2020-06-29
+Guanajuato,Silao De La Victoria,3,3,0,0,2020-06-29
+Guerrero,Chilapa De Álvarez,3,1,2,0,2020-06-29
+Guerrero,Coyuca De Benítez,2,2,0,0,2020-06-29
+Hidalgo,Pachuca De Soto,1,0,1,0,2020-06-29
+Jalisco,Guadalajara,3,3,0,0,2020-06-29
+Jalisco,Lagos De Moreno,1,1,0,0,2020-06-29
+Jalisco,San Pedro Tlaquepaque,1,1,0,0,2020-06-29
+Jalisco,Tlajomulco De Zúñiga,2,1,1,0,2020-06-29
+Jalisco,Tonalá,1,1,0,0,2020-06-29
+Jalisco,Unión De Tula,1,1,0,0,2020-06-29
+Michoacán,Morelia,3,3,0,0,2020-06-29
+Michoacán,Uruapan,1,1,0,0,2020-06-29
+Morelos,Temixco,1,1,0,0,2020-06-29
+Estado de México,Tejupilco,2,1,1,0,2020-06-29
+Estado de México,Tepetlixpa,1,1,0,0,2020-06-29
+Oaxaca,Zaragoza,2,2,0,0,2020-06-29
+Puebla,San Martín Texmelucan,2,1,1,0,2020-06-29
+Puebla,Xicotepec,1,1,0,0,2020-06-29
+Quintana Roo,Benito Juárez,1,1,0,0,2020-06-29
+San Luis Potosí,Ciudad Valles,1,1,0,0,2020-06-29
+Sinaloa,Choix,2,2,0,0,2020-06-29
+Tabasco,Cárdenas,1,1,0,0,2020-06-29
+Tamaulipas,Reynosa,2,2,0,0,2020-06-29
+Tamaulipas,Victoria,1,1,0,0,2020-06-29
+Veracruz,Agua Dulce,2,2,0,0,2020-06-29
+Veracruz,Amatlán De Los Reyes,1,1,0,0,2020-06-29
+Veracruz,Tihuatlán,1,1,0,0,2020-06-29
+Veracruz,Tlapacoyan,1,0,1,0,2020-06-29
+Veracruz,Xalapa,1,0,1,0,2020-06-29
+Zacatecas,Fresnillo,2,1,1,0,2020-06-29
+Zacatecas,Guadalupe,3,3,0,0,2020-06-29

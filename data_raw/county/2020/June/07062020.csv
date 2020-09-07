@@ -1,34 +1,23 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,3.0,3.0,0.0,0.0,2020-06-07
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2020-06-07
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2020-06-07
 Guanajuato,Irapuato,5.0,5.0,0.0,0.0,2020-06-07
 Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-06-07
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-06-07
-Michoacán,"Coalcomán de 
-Vázquez 
-Pallares",2.0,2.0,0.0,0.0,2020-06-07
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-06-07
+Michoacán,Coalcomán De Vázquez Pallares,2.0,2.0,0.0,0.0,2020-06-07
 Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-06-07
 Michoacán,Morelia,2.0,2.0,0.0,0.0,2020-06-07
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-06-07
 Michoacán,Zamora,2.0,1.0,1.0,0.0,2020-06-07
-Morelos,"Emiliano 
-Zapata",4.0,4.0,0.0,0.0,2020-06-07
+Morelos,Emiliano Zapata,4.0,4.0,0.0,0.0,2020-06-07
 Morelos,Temixco,2.0,2.0,0.0,0.0,2020-06-07
-Estado de México,"Coacalco de 
-Berriozábal",3.0,2.0,1.0,0.0,2020-06-07
+Estado de México,Coacalco De Berriozábal,3.0,2.0,1.0,0.0,2020-06-07
 Estado de México,Tonanitla,1.0,1.0,0.0,0.0,2020-06-07
-Oaxaca,"San Francisco 
-del Mar",1.0,0.0,1.0,0.0,2020-06-07
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",2.0,2.0,0.0,0.0,2020-06-07
-Oaxaca,"San Pedro 
-Amuzgos",1.0,1.0,0.0,0.0,2020-06-07
-Oaxaca,"Santa María 
-Atzompa",1.0,1.0,0.0,0.0,2020-06-07
-Puebla,"Izúcar de 
-Matamoros",1.0,0.0,1.0,0.0,2020-06-07
+Oaxaca,San Francisco Del Mar,1.0,0.0,1.0,0.0,2020-06-07
+Oaxaca,San Juan Bautista Tuxtepec,2.0,2.0,0.0,0.0,2020-06-07
+Oaxaca,San Pedro Amuzgos,1.0,1.0,0.0,0.0,2020-06-07
+Oaxaca,Santa María Atzompa,1.0,1.0,0.0,0.0,2020-06-07
+Puebla,Izúcar De Matamoros,1.0,0.0,1.0,0.0,2020-06-07
 Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-06-07
 Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2020-06-07
 San Luis Potosí,Aquismón,1.0,1.0,0.0,0.0,2020-06-07

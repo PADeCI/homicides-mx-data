@@ -1,98 +1,51 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-,,,,,
-,,,,,
-"Aguascalientes 
-(5)",Aguascalientes,1,1,-,-
-,,1,1,-,-
-,,3,2,1,-
-"Baja California 
-(6)",Tijuana,1,1,-,-
-,,1,-,-,1
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-Chiapas (1),"Chiapa de 
-Corzo",1,1,-,-
-Chihuahua (8),Chihuahua,1,1,-,-
-,Juárez,1,1,-,-
-,,1,1,-,-
-,,2,2,-,-
-,,1,1,-,-
-,,1,-,-,1
-,,1,-,-,1
-"Ciudad de 
-México (2)",Cuauhtémoc,1,1,-,-
-,"Gustavo A. 
-Madero",1,-,1,-
-Colima (2),Colima,2,1,1,-
-"Guanajuato 
-(15)",Celaya,2,2,-,-
-,,1,1,-,-
-,León,1,-,1,-
-,,1,-,1,-
-,,1,1,-,-
-,,1,1,-,-
-,Salamanca,1,1,-,-
-,,1,1,-,-
-,"San José 
-Iturbide",2,2,-,-
-,"San Miguel de 
-Allende",1,1,-,-
-,"Valle de 
-Santiago",3,3,-,-
-Guerrero (4),"Acapulco de 
-Juárez",1,-,1,-
-,"Atenango del 
-Río",1,1,-,-
-,"Zihuatanejo de 
-Azueta",1,1,-,-
-,,1,1,-,-
-Hidalgo (1),Ixmiquilpan,1,-,1,-
-Jalisco (2),Guadalajara,1,-,1,-
-,Tonalá,1,-,1,-
-México (1),Xonacatlán,1,1,-,-
-"Michoacán de 
-Ocampo (4)",Apatzingán,1,1,-,-
-,Jacona,1,1,-,-
-,Maravatío,1,1,-,-
-,Morelia,1,1,-,-
-Morelos (1),Temixco,1,1,-,-
-Nuevo León (1),Pesquería,1,-,-,1
-,,,,,
-Oaxaca (1),San Pablo Etla,1.0,1,-,-
-Puebla (8),Atlixco,2.0,2,-,-
-,Coronango,1.0,-,1,-
-,Puebla,1.0,1,-,-
-,,1.0,1,-,-
-,,1.0,1,-,-
-,"San Martín 
-Texmelucan",1.0,-,1,-
-,Tecamachalco,1.0,1,-,-
-"San Luis Potosí 
-(3)","Ciudad 
-Fernández",1.0,1,-,-
-,Ciudad Valles,1.0,1,-,-
-,San Luis Potosí,1.0,1,-,-
-Sonora (3),Cajeme,1.0,-,1,-
-,,1.0,1,-,-
-,Guaymas,1.0,1,-,-
-Tabasco (1),Nacajuca,1.0,1,-,-
-Tamaulipas (2),Reynosa,1.0,1,-,-
-,,1.0,1,-,-
-Tlaxcala (2),Apizaco,1.0,1,-,-
-,Calpulalpan,1.0,1,-,-
-"Veracruz de 
-Ignacio de la 
-Llave (9)",Acayucan,1.0,1,-,-
-,Coatzacoalcos,1.0,1,-,-
-,Cosoleacaque,2.0,1,1,-
-,"Emiliano 
-Zapata",2,1,1,-
-,Minatitlán,1,1,-,-
-,Misantla,1,1,-,-
-,Xalapa,1,-,1,-
-Zacatecas (1),Jalpa,1,-,-,1
-Totales,,83,63,15,5
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,5.0,4.0,1.0,0.0,2020-02-17
+Baja California,Tijuana,6.0,5.0,0.0,1.0,2020-02-17
+Chiapas,Chiapa De Corzo,1.0,1.0,0.0,0.0,2020-02-17
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-02-17
+Chihuahua,Juárez,7.0,5.0,0.0,2.0,2020-02-17
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-02-17
+Ciudad de México,Gustavo A. Madero,1.0,0.0,1.0,0.0,2020-02-17
+Colima,Colima,2.0,1.0,1.0,0.0,2020-02-17
+Guanajuato,Celaya,3.0,3.0,0.0,0.0,2020-02-17
+Guanajuato,León,4.0,2.0,2.0,0.0,2020-02-17
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-02-17
+Guanajuato,San José Iturbide,2.0,2.0,0.0,0.0,2020-02-17
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2020-02-17
+Guanajuato,Valle De Santiago,3.0,3.0,0.0,0.0,2020-02-17
+Guerrero,Acapulco De Juárez,1.0,0.0,1.0,0.0,2020-02-17
+Guerrero,Atenango Del Río,1.0,1.0,0.0,0.0,2020-02-17
+Guerrero,Zihuatanejo De Azueta,2.0,2.0,0.0,0.0,2020-02-17
+Hidalgo,Ixmiquilpan,1.0,0.0,1.0,0.0,2020-02-17
+Jalisco,Guadalajara,1.0,0.0,1.0,0.0,2020-02-17
+Jalisco,Tonalá,1.0,0.0,1.0,0.0,2020-02-17
+Michoacán,Apatzingán,1.0,1.0,0.0,0.0,2020-02-17
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-02-17
+Michoacán,Maravatío,1.0,1.0,0.0,0.0,2020-02-17
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-02-17
+Morelos,Temixco,1.0,1.0,0.0,0.0,2020-02-17
+Estado de México,Xonacatlán,1.0,1.0,0.0,0.0,2020-02-17
+Nuevo León,Pesquería,2.0,0.0,0.0,2.0,2020-02-17
+Oaxaca,San Pablo Etla,1.0,1.0,0.0,0.0,2020-02-17
+Puebla,Atlixco,2.0,2.0,0.0,0.0,2020-02-17
+Puebla,Coronango,1.0,0.0,1.0,0.0,2020-02-17
+Puebla,Puebla,3.0,3.0,0.0,0.0,2020-02-17
+Puebla,San Martín Texmelucan,1.0,0.0,1.0,0.0,2020-02-17
+Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2020-02-17
+San Luis Potosí,Ciudad Fernández,1.0,1.0,0.0,0.0,2020-02-17
+San Luis Potosí,Ciudad Valles,1.0,1.0,0.0,0.0,2020-02-17
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-02-17
+Sonora,Cajeme,2.0,1.0,1.0,0.0,2020-02-17
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-02-17
+Tabasco,Nacajuca,1.0,1.0,0.0,0.0,2020-02-17
+Tamaulipas,Reynosa,2.0,2.0,0.0,0.0,2020-02-17
+Tlaxcala,Apizaco,1.0,1.0,0.0,0.0,2020-02-17
+Tlaxcala,Calpulalpan,1.0,1.0,0.0,0.0,2020-02-17
+Veracruz,Acayucan,1.0,1.0,0.0,0.0,2020-02-17
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2020-02-17
+Veracruz,Cosoleacaque,2.0,1.0,1.0,0.0,2020-02-17
+Veracruz,Emiliano Zapata,2.0,1.0,1.0,0.0,2020-02-17
+Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2020-02-17
+Veracruz,Misantla,1.0,1.0,0.0,0.0,2020-02-17
+Veracruz,Xalapa,1.0,0.0,1.0,0.0,2020-02-17
+Zacatecas,Jalpa,1.0,0.0,0.0,1.0,2020-02-17

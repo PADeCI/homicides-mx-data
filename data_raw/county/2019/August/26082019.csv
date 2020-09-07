@@ -5,44 +5,31 @@ Ciudad de México,Iztacalco,1.0,0.0,1.0,0.0,2019-08-26
 Coahuila,Torreón,1.0,1.0,0.0,0.0,2019-08-26
 Colima,Colima,1.0,1.0,0.0,0.0,2019-08-26
 Durango,Durango,1.0,1.0,0.0,0.0,2019-08-26
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0,2019-08-26
-Guanajuato,Apaseo el Alto,2.0,2.0,0.0,0.0,2019-08-26
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2019-08-26
+Guanajuato,Apaseo El Alto,2.0,2.0,0.0,0.0,2019-08-26
 Guanajuato,Celaya,3.0,3.0,0.0,0.0,2019-08-26
-Guanajuato,Cortázar,1.0,1.0,0.0,0.0,2019-08-26
+Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2019-08-26
 Guanajuato,León,4.0,3.0,1.0,0.0,2019-08-26
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-08-26
-Guanajuato,"San Luis de la 
-Paz",1.0,1.0,0.0,0.0,2019-08-26
-Guanajuato,"San Miguel de 
-Allende",2.0,2.0,0.0,0.0,2019-08-26
-Guanajuato,"Valle de 
-Santiago",2.0,2.0,0.0,0.0,2019-08-26
-Guerrero,"Tepecoacuilco 
-de Trujano",1.0,1.0,0.0,0.0,2019-08-26
-Guerrero,"Técpan de 
-Galeana",1.0,1.0,0.0,0.0,2019-08-26
+Guanajuato,San Luis De La Paz,1.0,1.0,0.0,0.0,2019-08-26
+Guanajuato,San Miguel De Allende,2.0,2.0,0.0,0.0,2019-08-26
+Guanajuato,Valle De Santiago,2.0,2.0,0.0,0.0,2019-08-26
+Guerrero,Tepecoacuilco De Trujano,1.0,1.0,0.0,0.0,2019-08-26
+Guerrero,Técpan De Galeana,1.0,1.0,0.0,0.0,2019-08-26
 Jalisco,El Salto,1.0,1.0,0.0,0.0,2019-08-26
 Jalisco,Guadalajara,2.0,1.0,1.0,0.0,2019-08-26
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,0.0,1.0,0.0,2019-08-26
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,2.0,0.0,0.0,2019-08-26
+Jalisco,San Pedro Tlaquepaque,1.0,0.0,1.0,0.0,2019-08-26
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2019-08-26
 Michoacán,Chavinda,2.0,2.0,0.0,0.0,2019-08-26
 Michoacán,Jacona,2.0,2.0,0.0,0.0,2019-08-26
 Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2019-08-26
-Morelos,Puente de Ixtla,2.0,0.0,0.0,2.0,2019-08-26
-Estado de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0,2019-08-26
+Morelos,Puente De Ixtla,2.0,0.0,0.0,2.0,2019-08-26
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2019-08-26
 Estado de México,Sultepec,1.0,1.0,0.0,0.0,2019-08-26
-Nuevo León,"Ciénega de 
-Flores",2.0,0.0,2.0,0.0,2019-08-26
+Nuevo León,Ciénega De Flores,2.0,0.0,2.0,0.0,2019-08-26
 Nuevo León,García,1.0,1.0,0.0,0.0,2019-08-26
-Oaxaca,"Matías Romero 
-Avendaño",1.0,1.0,0.0,0.0,2019-08-26
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1.0,1.0,0.0,0.0,2019-08-26
+Oaxaca,Matías Romero Avendaño,1.0,1.0,0.0,0.0,2019-08-26
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-08-26
 Puebla,Atlixco,1.0,1.0,0.0,0.0,2019-08-26
 Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2019-08-26
 Puebla,Tlapanalá,1.0,1.0,0.0,0.0,2019-08-26
@@ -53,23 +40,17 @@ Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-26
 Sonora,Cajeme,1.0,0.0,0.0,1.0,2019-08-26
 Sonora,Empalme,6.0,6.0,0.0,0.0,2019-08-26
 Sonora,Hermosillo,2.0,2.0,0.0,0.0,2019-08-26
-Sonora,"San Luis Río 
-Colorado",1.0,1.0,0.0,0.0,2019-08-26
+Sonora,San Luis Río Colorado,1.0,1.0,0.0,0.0,2019-08-26
 Tabasco,Centro,2.0,2.0,0.0,0.0,2019-08-26
 Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2019-08-26
 Tamaulipas,Nuevo Laredo,2.0,0.0,2.0,0.0,2019-08-26
 Tamaulipas,Victoria,1.0,0.0,1.0,0.0,2019-08-26
-Tlaxcala,"Santa Ana 
-Nopalucan",1.0,1.0,0.0,0.0,2019-08-26
+Tlaxcala,Santa Ana Nopalucan,1.0,1.0,0.0,0.0,2019-08-26
 Veracruz,Coatepec,1.0,0.0,1.0,0.0,2019-08-26
 Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-26
-Veracruz,"Hueyapan de 
-Ocampo",1.0,1.0,0.0,0.0,2019-08-26
+Veracruz,Hueyapan De Ocampo,1.0,1.0,0.0,0.0,2019-08-26
 Veracruz,Minatitlán,2.0,1.0,1.0,0.0,2019-08-26
-Veracruz,"Poza Rica de 
-Hidalgo",1.0,1.0,0.0,0.0,2019-08-26
-Veracruz,"San Juan 
-Evangelista",1.0,1.0,0.0,0.0,2019-08-26
+Veracruz,Poza Rica De Hidalgo,1.0,1.0,0.0,0.0,2019-08-26
+Veracruz,San Juan Evangelista,1.0,1.0,0.0,0.0,2019-08-26
 Veracruz,Veracruz,1.0,1.0,0.0,0.0,2019-08-26
-Zacatecas,"General Pánfilo 
-Natera",1.0,1.0,0.0,0.0,2019-08-26
+Zacatecas,General Pánfilo Natera,1.0,1.0,0.0,0.0,2019-08-26

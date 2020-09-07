@@ -1,65 +1,56 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Tijuana,10.0,7.0,1.0,2.0,2019-08-19
-Chiapas,Chilón,1.0,0.0,1.0,0.0,2019-08-19
-Chiapas,Tapachula,2.0,2.0,0.0,0.0,2019-08-19
-Chiapas,Tonalá,1.0,1.0,0.0,0.0,2019-08-19
-Chihuahua,Juárez,6.0,4.0,1.0,1.0,2019-08-19
-Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2019-08-19
-Colima,Armería,1.0,1.0,0.0,0.0,2019-08-19
-Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-08-19
-Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-19
-Guanajuato,"Purísima del 
-Rincón",1.0,1.0,0.0,0.0,2019-08-19
-Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-08-19
-Guerrero,"Acapulco de 
-Juárez",4.0,2.0,1.0,1.0,2019-08-19
-Guerrero,"Taxco de 
-Alarcón",1.0,1.0,0.0,0.0,2019-08-19
-Hidalgo,Huichapan,1.0,0.0,1.0,0.0,2019-08-19
-Jalisco,Guadalajara,2.0,0.0,2.0,0.0,2019-08-19
-Jalisco,"San Pedro 
-Tlaquepaque",5.0,4.0,1.0,0.0,2019-08-19
-Michoacán,Buenavista,4.0,4.0,0.0,0.0,2019-08-19
-Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-08-19
-Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-19
-Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2019-08-19
-Michoacán,Villamar,1.0,1.0,0.0,0.0,2019-08-19
-Michoacán,Zamora,7.0,5.0,2.0,0.0,2019-08-19
-Morelos,Amacuzac,1.0,1.0,0.0,0.0,2019-08-19
-Morelos,Coatlán del Río,1.0,1.0,0.0,0.0,2019-08-19
-Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-08-19
-Morelos,Jojutla,1.0,1.0,0.0,0.0,2019-08-19
-Morelos,Nuevo León (1) Salinas Victoria,1.0,1.0,0.0,0.0,2019-08-19
-Estado de México,Chalco,1.0,1.0,0.0,0.0,2019-08-19
-Oaxaca,"Santa Lucía del 
-Camino",2.0,2.0,0.0,0.0,2019-08-19
-Puebla,Ajalpan,1.0,1.0,0.0,0.0,2019-08-19
-Puebla,Chiconcuautla,1.0,1.0,0.0,0.0,2019-08-19
-Puebla,Chignahuapan,1.0,1.0,0.0,0.0,2019-08-19
-Puebla,"General Felipe 
-Ángeles",1.0,1.0,0.0,0.0,2019-08-19
-Puebla,Puebla,1.0,1.0,0.0,0.0,2019-08-19
-Puebla,Tlacuilotepec,2.0,2.0,0.0,0.0,2019-08-19
-Quintana Roo,Isla Mujeres,3.0,3.0,0.0,0.0,2019-08-19
-Quintana Roo,"Othón P. 
-Blanco",2.0,2.0,0.0,0.0,2019-08-19
-San Luis Potosí,Ciudad Valles,1.0,1.0,0.0,0.0,2019-08-19
-San Luis Potosí,San Luis Potosí,2.0,0.0,2.0,0.0,2019-08-19
-Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-19
-Sinaloa,Mazatlán,5.0,4.0,0.0,1.0,2019-08-19
-Sinaloa,Navolato,1.0,1.0,0.0,0.0,2019-08-19
-Sonora,Hermosillo,4.0,4.0,0.0,0.0,2019-08-19
-Sonora,Navojoa,1.0,1.0,0.0,0.0,2019-08-19
-Sonora,Nogales,1.0,1.0,0.0,0.0,2019-08-19
-Sonora,"San Luis Río 
-Colorado",1.0,1.0,0.0,0.0,2019-08-19
-Tabasco,Centro,1.0,1.0,0.0,0.0,2019-08-19
-Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-08-19
-Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2019-08-19
-Veracruz,Acayucan,1.0,1.0,0.0,0.0,2019-08-19
-Veracruz,Coatzacoalcos,2.0,2.0,0.0,0.0,2019-08-19
-Veracruz,"Ixhuatlán de 
-Madero",1.0,1.0,0.0,0.0,2019-08-19
-Veracruz,Oluta,1.0,1.0,0.0,0.0,2019-08-19
-Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2019-08-19
-Zacatecas,Sombrerete,2.0,2.0,0.0,0.0,2019-08-19
+Baja California,Tijuana,10,7,1,2,2019-08-19
+Chiapas,Chilón,1,0,1,0,2019-08-19
+Chiapas,Tapachula,2,2,0,0,2019-08-19
+Chiapas,Tonalá,1,1,0,0,2019-08-19
+Chihuahua,Juárez,6,4,1,1,2019-08-19
+Ciudad de México,Tlalpan,1,1,0,0,2019-08-19
+Colima,Armería,1,1,0,0,2019-08-19
+Guanajuato,Celaya,1,1,0,0,2019-08-19
+Guanajuato,León,1,1,0,0,2019-08-19
+Guanajuato,Purísima Del Rincón,1,1,0,0,2019-08-19
+Guanajuato,Salamanca,1,1,0,0,2019-08-19
+Guerrero,Acapulco De Juárez,4,2,1,1,2019-08-19
+Guerrero,Taxco De Alarcón,1,1,0,0,2019-08-19
+Hidalgo,Huichapan,1,0,1,0,2019-08-19
+Jalisco,Guadalajara,2,0,2,0,2019-08-19
+Jalisco,San Pedro Tlaquepaque,5,4,1,0,2019-08-19
+Michoacán,Buenavista,4,4,0,0,2019-08-19
+Michoacán,Jacona,1,1,0,0,2019-08-19
+Michoacán,Morelia,1,1,0,0,2019-08-19
+Michoacán,Sahuayo,1,1,0,0,2019-08-19
+Michoacán,Villamar,1,1,0,0,2019-08-19
+Michoacán,Zamora,7,5,2,0,2019-08-19
+Morelos,Amacuzac,1,1,0,0,2019-08-19
+Morelos,Coatlán Del Río,1,1,0,0,2019-08-19
+Morelos,Cuernavaca,1,1,0,0,2019-08-19
+Morelos,Jojutla,1,1,0,0,2019-08-19
+Nuevo León,Salinas Victoria,1,1,0,0,2019-08-19
+Estado de México,Chalco,1,1,0,0,2019-08-19
+Oaxaca,Santa Lucía Del Camino,2,2,0,0,2019-08-19
+Puebla,Ajalpan,1,1,0,0,2019-08-19
+Puebla,Chiconcuautla,1,1,0,0,2019-08-19
+Puebla,Chignahuapan,1,1,0,0,2019-08-19
+Puebla,General Felipe Ángeles,1,1,0,0,2019-08-19
+Puebla,Puebla,1,1,0,0,2019-08-19
+Puebla,Tlacuilotepec,2,2,0,0,2019-08-19
+Quintana Roo,Isla Mujeres,3,3,0,0,2019-08-19
+Quintana Roo,Othón P. Blanco,2,2,0,0,2019-08-19
+San Luis Potosí,Ciudad Valles,1,1,0,0,2019-08-19
+San Luis Potosí,San Luis Potosí,2,0,2,0,2019-08-19
+Sinaloa,Culiacán,1,1,0,0,2019-08-19
+Sinaloa,Mazatlán,5,4,0,1,2019-08-19
+Sinaloa,Navolato,1,1,0,0,2019-08-19
+Sonora,Hermosillo,4,4,0,0,2019-08-19
+Sonora,Navojoa,1,1,0,0,2019-08-19
+Sonora,Nogales,1,1,0,0,2019-08-19
+Sonora,San Luis Río Colorado,1,1,0,0,2019-08-19
+Tabasco,Centro,1,1,0,0,2019-08-19
+Tabasco,Huimanguillo,1,1,0,0,2019-08-19
+Tamaulipas,Reynosa,1,1,0,0,2019-08-19
+Veracruz,Acayucan,1,1,0,0,2019-08-19
+Veracruz,Coatzacoalcos,2,2,0,0,2019-08-19
+Veracruz,Ixhuatlán De Madero,1,1,0,0,2019-08-19
+Veracruz,Oluta,1,1,0,0,2019-08-19
+Zacatecas,Fresnillo,1,1,0,0,2019-08-19
+Zacatecas,Sombrerete,2,2,0,0,2019-08-19

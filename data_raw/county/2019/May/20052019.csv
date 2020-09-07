@@ -2,29 +2,21 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,8.0,6.0,0.0,2.0,2019-05-20
 Baja California Sur,Mulegé,3.0,2.0,1.0,0.0,2019-05-20
 Chihuahua,Juárez,8.0,7.0,1.0,0.0,2019-05-20
-Ciudad de México,"Gustavo A. 
-Madero",3.0,3.0,0.0,0.0,2019-05-20
+Ciudad de México,Gustavo A. Madero,3.0,3.0,0.0,0.0,2019-05-20
 Ciudad de México,Iztapalapa,3.0,3.0,0.0,0.0,2019-05-20
 Coahuila,Múzquiz,8.0,8.0,0.0,0.0,2019-05-20
 Colima,Manzanillo,1.0,0.0,1.0,0.0,2019-05-20
-Durango,"Nombre de 
-Dios",1.0,1.0,0.0,0.0,2019-05-20
+Durango,Nombre De Dios,1.0,1.0,0.0,0.0,2019-05-20
 Guanajuato,Abasolo,1.0,1.0,0.0,0.0,2019-05-20
 Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-05-20
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-05-20
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-05-20
-Guanajuato,"Valle de 
-Santiago",2.0,1.0,1.0,0.0,2019-05-20
-Guerrero,"Acapulco de 
-Juárez",5.0,5.0,0.0,0.0,2019-05-20
-Guerrero,"Atoyac de 
-Álvarez",1.0,1.0,0.0,0.0,2019-05-20
-Guerrero,"Buenavista de 
-Cuéllar",1.0,0.0,1.0,0.0,2019-05-20
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-05-20
+Guanajuato,Valle De Santiago,2.0,1.0,1.0,0.0,2019-05-20
+Guerrero,Acapulco De Juárez,5.0,5.0,0.0,0.0,2019-05-20
+Guerrero,Atoyac De Álvarez,1.0,1.0,0.0,0.0,2019-05-20
+Guerrero,Buenavista De Cuéllar,1.0,0.0,1.0,0.0,2019-05-20
 Guerrero,San Marcos,3.0,3.0,0.0,0.0,2019-05-20
-Guerrero,"Tlapa de 
-Comonfort",1.0,1.0,0.0,0.0,2019-05-20
+Guerrero,Tlapa De Comonfort,1.0,1.0,0.0,0.0,2019-05-20
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-05-20
 Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-05-20
 Michoacán,Morelia,2.0,1.0,1.0,0.0,2019-05-20
@@ -34,26 +26,17 @@ Michoacán,Zacapu,1.0,1.0,0.0,0.0,2019-05-20
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-05-20
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-05-20
 Morelos,Huitzilac,1.0,1.0,0.0,0.0,2019-05-20
-Estado de México,"Almoloya de 
-Juárez",1.0,1.0,0.0,0.0,2019-05-20
+Estado de México,Almoloya De Juárez,1.0,1.0,0.0,0.0,2019-05-20
 Estado de México,Chalco,1.0,1.0,0.0,0.0,2019-05-20
 Estado de México,Lerma,1.0,1.0,0.0,0.0,2019-05-20
 Nayarit,Tepic,2.0,2.0,0.0,0.0,2019-05-20
 Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2019-05-20
-Nuevo León,"Cadereyta 
-Jiménez",1.0,1.0,0.0,0.0,2019-05-20
-Oaxaca,"Heroica 
-Ciudad de 
-Juchitán de 
-Zaragoza",6.0,0.0,0.0,6.0,2019-05-20
-Oaxaca,"Matías 
-Romero 
-Avendaño",1.0,1.0,0.0,0.0,2019-05-20
-Puebla,"Palmar de 
-Bravo",1.0,1.0,0.0,0.0,2019-05-20
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2019-05-20
+Oaxaca,Zaragoza,6.0,0.0,0.0,6.0,2019-05-20
+Oaxaca,Matías Romero Avendaño,1.0,1.0,0.0,0.0,2019-05-20
+Puebla,Palmar De Bravo,1.0,1.0,0.0,0.0,2019-05-20
 Puebla,Puebla,1.0,1.0,0.0,0.0,2019-05-20
-Puebla,"San Pedro 
-Cholula",1.0,1.0,0.0,0.0,2019-05-20
+Puebla,San Pedro Cholula,1.0,1.0,0.0,0.0,2019-05-20
 Puebla,Tecamachalco,1.0,1.0,0.0,0.0,2019-05-20
 Puebla,Tepexco,1.0,1.0,0.0,0.0,2019-05-20
 Puebla,Xiutetelco,1.0,0.0,1.0,0.0,2019-05-20
@@ -61,15 +44,11 @@ Puebla,Yehualtepec,1.0,1.0,0.0,0.0,2019-05-20
 Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-05-20
 San Luis Potosí,Zaragoza,1.0,0.0,1.0,0.0,2019-05-20
 Tabasco,Centro,1.0,1.0,0.0,0.0,2019-05-20
-Tamaulipas,"Gustavo Díaz 
-Ordaz",4.0,4.0,0.0,0.0,2019-05-20
+Tamaulipas,Gustavo Díaz Ordaz,4.0,4.0,0.0,0.0,2019-05-20
 Veracruz,Apazapan,1.0,1.0,0.0,0.0,2019-05-20
 Veracruz,Chicontepec,2.0,1.0,1.0,0.0,2019-05-20
 Veracruz,Fortín,1.0,1.0,0.0,0.0,2019-05-20
-Veracruz,"Huiloapan de 
-Cuauhtémoc",1.0,1.0,0.0,0.0,2019-05-20
+Veracruz,Huiloapan De Cuauhtémoc,1.0,1.0,0.0,0.0,2019-05-20
 Veracruz,Las Choapas,1.0,1.0,0.0,0.0,2019-05-20
-Veracruz,"Martínez de 
-la Torre",2.0,2.0,0.0,0.0,2019-05-20
-Veracruz,"San Juan 
-Evangelista",1.0,1.0,0.0,0.0,2019-05-20
+Veracruz,Martínez De La Torre,2.0,2.0,0.0,0.0,2019-05-20
+Veracruz,San Juan Evangelista,1.0,1.0,0.0,0.0,2019-05-20

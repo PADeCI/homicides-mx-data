@@ -3,31 +3,23 @@ Baja California,Tijuana,12.0,9.0,3.0,0.0,2020-03-16
 Chiapas,Teopisca,1.0,1.0,0.0,0.0,2020-03-16
 Chihuahua,Juárez,8.0,7.0,1.0,0.0,2020-03-16
 Chihuahua,Madera,4.0,4.0,0.0,0.0,2020-03-16
-Ciudad de México,"Gustavo A. 
-Madero",1.0,0.0,1.0,0.0,2020-03-16
+Ciudad de México,Gustavo A. Madero,1.0,0.0,1.0,0.0,2020-03-16
 Colima,Tecomán,1.0,1.0,0.0,0.0,2020-03-16
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-03-16
 Guanajuato,Guanajuato,2.0,2.0,0.0,0.0,2020-03-16
-Guanajuato,"Manuel 
-Doblado",1.0,1.0,0.0,0.0,2020-03-16
+Guanajuato,Manuel Doblado,1.0,1.0,0.0,0.0,2020-03-16
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-03-16
-Guerrero,"Acapulco de 
-Juárez",3.0,3.0,0.0,0.0,2020-03-16
-Guerrero,"Iguala de la 
-Independencia",1.0,1.0,0.0,0.0,2020-03-16
+Guerrero,Acapulco De Juárez,3.0,3.0,0.0,0.0,2020-03-16
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2020-03-16
 Jalisco,El Salto,1.0,0.0,1.0,0.0,2020-03-16
 Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2020-03-16
-Jalisco,"San Pedro 
-Tlaquepaque",3.0,3.0,0.0,0.0,2020-03-16
+Jalisco,San Pedro Tlaquepaque,3.0,3.0,0.0,0.0,2020-03-16
 Michoacán,Aguililla,11.0,10.0,1.0,0.0,2020-03-16
 Michoacán,Tangancícuaro,1.0,1.0,0.0,0.0,2020-03-16
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-03-16
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2020-03-16
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-03-16
 Estado de México,Tecámac,1.0,0.0,1.0,0.0,2020-03-16
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0,2020-03-16
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2020-03-16
 Puebla,Cañada Morelos,1.0,1.0,0.0,0.0,2020-03-16
 Querétaro,El Marqués,1.0,1.0,0.0,0.0,2020-03-16
 Querétaro,Tolimán,4.0,4.0,0.0,0.0,2020-03-16
@@ -35,8 +27,7 @@ Quintana Roo,Benito Juárez,2.0,1.0,1.0,0.0,2020-03-16
 Quintana Roo,Tulum,1.0,0.0,0.0,1.0,2020-03-16
 Sonora,Cajeme,2.0,2.0,0.0,0.0,2020-03-16
 Sonora,Guaymas,1.0,0.0,1.0,0.0,2020-03-16
-Sonora,"San Luis Río 
-Colorado",1.0,1.0,0.0,0.0,2020-03-16
+Sonora,San Luis Río Colorado,1.0,1.0,0.0,0.0,2020-03-16
 Tamaulipas,Reynosa,2.0,2.0,0.0,0.0,2020-03-16
 Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2020-03-16
 Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2020-03-16

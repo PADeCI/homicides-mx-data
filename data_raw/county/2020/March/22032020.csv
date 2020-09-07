@@ -1,16 +1,11 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Chihuahua,Juárez,6.0,2.0,3.0,1.0,2020-03-22
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2020-03-22
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-03-22
 Coahuila,Monclova,1.0,0.0,1.0,0.0,2020-03-22
 Colima,Armería,1.0,1.0,0.0,0.0,2020-03-22
 Guanajuato,Acámbaro,1.0,0.0,0.0,1.0,2020-03-22
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-03-22
-Guanajuato,"Dolores 
-Hidalgo Cuna 
-de la 
-Independencia 
-Nacional",1.0,1.0,0.0,0.0,2020-03-22
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,1.0,1.0,0.0,0.0,2020-03-22
 Guanajuato,Guanajuato,4.0,4.0,0.0,0.0,2020-03-22
 Guanajuato,Irapuato,2.0,0.0,2.0,0.0,2020-03-22
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-03-22
@@ -18,27 +13,20 @@ Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-03-22
 Guanajuato,Salamanca,1.0,0.0,1.0,0.0,2020-03-22
 Guanajuato,Salvatierra,3.0,3.0,0.0,0.0,2020-03-22
 Guanajuato,Tarimoro,1.0,0.0,1.0,0.0,2020-03-22
-Guanajuato,"Valle de 
-Santiago",1.0,0.0,1.0,0.0,2020-03-22
+Guanajuato,Valle De Santiago,1.0,0.0,1.0,0.0,2020-03-22
 Hidalgo,Ixmiquilpan,3.0,3.0,0.0,0.0,2020-03-22
-Hidalgo,"Mineral del 
-Monte",1.0,0.0,1.0,0.0,2020-03-22
+Hidalgo,Mineral Del Monte,1.0,0.0,1.0,0.0,2020-03-22
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-03-22
 Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-03-22
 Morelos,Jojutla,1.0,1.0,0.0,0.0,2020-03-22
 Estado de México,Cuautitlán,2.0,1.0,1.0,0.0,2020-03-22
 Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-03-22
 Estado de México,Temoaya,1.0,1.0,0.0,0.0,2020-03-22
-Estado de México,"Tenango del 
-Valle",1.0,1.0,0.0,0.0,2020-03-22
-Oaxaca,"Heroica 
-Ciudad de 
-Huajuapan de 
-León",2.0,0.0,0.0,2.0,2020-03-22
+Estado de México,Tenango Del Valle,1.0,1.0,0.0,0.0,2020-03-22
+Oaxaca,Heroica Ciudad De Huajuapan De León,2.0,0.0,0.0,2.0,2020-03-22
 Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2020-03-22
 Puebla,Puebla,1.0,0.0,0.0,1.0,2020-03-22
-Quintana Roo,"Othón P. 
-Blanco",1.0,1.0,0.0,0.0,2020-03-22
+Quintana Roo,Othón P. Blanco,1.0,1.0,0.0,0.0,2020-03-22
 San Luis Potosí,Matehuala,1.0,1.0,0.0,0.0,2020-03-22
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-03-22
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-03-22

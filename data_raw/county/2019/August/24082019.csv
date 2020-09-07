@@ -1,51 +1,38 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,"Playas de 
-Rosarito",1.0,1.0,0.0,0.0,2019-08-24
+Baja California,Playas De Rosarito,1.0,1.0,0.0,0.0,2019-08-24
 Baja California,Tijuana,4.0,4.0,0.0,0.0,2019-08-24
 Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2019-08-24
 Chihuahua,Delicias,1.0,1.0,0.0,0.0,2019-08-24
 Chihuahua,Juárez,3.0,3.0,0.0,0.0,2019-08-24
 Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2019-08-24
 Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-08-24
-Ciudad de México,"Venustiano 
-Carranza",1.0,0.0,1.0,0.0,2019-08-24
+Ciudad de México,Venustiano Carranza,1.0,0.0,1.0,0.0,2019-08-24
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-08-24
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-08-24
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-24
 Guanajuato,Yuriria,2.0,2.0,0.0,0.0,2019-08-24
-Guerrero,"Acapulco de 
-Juárez",4.0,4.0,0.0,0.0,2019-08-24
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,2.0,0.0,0.0,2019-08-24
+Guerrero,Acapulco De Juárez,4.0,4.0,0.0,0.0,2019-08-24
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2019-08-24
 Michoacán,Jacona,2.0,2.0,0.0,0.0,2019-08-24
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-24
 Michoacán,Ziracuaretiro,1.0,1.0,0.0,0.0,2019-08-24
 Morelos,Cuautla,1.0,1.0,0.0,0.0,2019-08-24
 Estado de México,Tejupilco,1.0,1.0,0.0,0.0,2019-08-24
-Nuevo León,Gral. Escobedo,1.0,1.0,0.0,0.0,2019-08-24
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2019-08-24
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-08-24
-Oaxaca,"San Felipe 
-Jalapa de Díaz",2.0,2.0,0.0,0.0,2019-08-24
-Oaxaca,"San Miguel 
-Soyaltepec",1.0,1.0,0.0,0.0,2019-08-24
-Oaxaca,"Santo 
-Domingo 
-Tehuantepec",1.0,0.0,1.0,0.0,2019-08-24
-Oaxaca,"Santo 
-Domingo de 
-Morelos",2.0,1.0,1.0,0.0,2019-08-24
+Oaxaca,San Felipe Jalapa De Díaz,2.0,2.0,0.0,0.0,2019-08-24
+Oaxaca,San Miguel Soyaltepec,1.0,1.0,0.0,0.0,2019-08-24
+Oaxaca,Santo Domingo Tehuantepec,1.0,0.0,1.0,0.0,2019-08-24
+Oaxaca,Santo Domingo De Morelos,2.0,1.0,1.0,0.0,2019-08-24
 San Luis Potosí,Tamasopo,1.0,1.0,0.0,0.0,2019-08-24
 Sinaloa,Culiacán,1.0,0.0,0.0,1.0,2019-08-24
 Sinaloa,Navolato,1.0,1.0,0.0,0.0,2019-08-24
 Sonora,Caborca,1.0,1.0,0.0,0.0,2019-08-24
 Sonora,Cajeme,1.0,0.0,0.0,1.0,2019-08-24
 Tabasco,Centro,1.0,1.0,0.0,0.0,2019-08-24
-Tlaxcala,"Ixtacuixtla de 
-Mariano 
-Matamoros",1.0,1.0,0.0,0.0,2019-08-24
+Tlaxcala,Ixtacuixtla De Mariano Matamoros,1.0,1.0,0.0,0.0,2019-08-24
 Veracruz,Acayucan,1.0,1.0,0.0,0.0,2019-08-24
 Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2019-08-24
-Veracruz,"San Juan 
-Evangelista",1.0,1.0,0.0,0.0,2019-08-24
+Veracruz,San Juan Evangelista,1.0,1.0,0.0,0.0,2019-08-24
 Veracruz,Xalapa,1.0,0.0,1.0,0.0,2019-08-24
 Zacatecas,Guadalupe,2.0,2.0,0.0,0.0,2019-08-24

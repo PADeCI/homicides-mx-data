@@ -1,54 +1,38 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,"Playas de 
-Rosarito",2,2.0,0.0,0.0,2019-03-21
+Baja California,Playas De Rosarito,2,2.0,0.0,0.0,2019-03-21
 Chihuahua,Camargo,2,0.0,0.0,2.0,2019-03-21
 Chihuahua,Chihuahua,2,1.0,0.0,1.0,2019-03-21
 Chihuahua,Juárez,5,4.0,0.0,1.0,2019-03-21
-Ciudad de México,"Gustavo A. 
-Madero",1,1.0,0.0,0.0,2019-03-21
+Ciudad de México,Gustavo A. Madero,1,1.0,0.0,0.0,2019-03-21
 Ciudad de México,Tlalpan,1,1.0,0.0,0.0,2019-03-21
 Colima,Tecomán,1,1.0,0.0,0.0,2019-03-21
 Guanajuato,Abasolo,1,0.0,0.0,1.0,2019-03-21
 Guanajuato,Celaya,2,1.0,1.0,0.0,2019-03-21
 Guanajuato,Pénjamo,1,1.0,0.0,0.0,2019-03-21
-Guanajuato,"San Francisco 
-del Rincón",2,0.0,0.0,2.0,2019-03-21
-Guanajuato,"Silao de la 
-Víctoria",2,1.0,0.0,1.0,2019-03-21
-Guerrero,"Acapulco de 
-Juárez",3,2.0,0.0,1.0,2019-03-21
-Guerrero,"Iguala de la 
-Independencia",3,0.0,0.0,3.0,2019-03-21
-Hidalgo,"Nopala de 
-Villagrán",4,3.0,1.0,0.0,2019-03-21
+Guanajuato,San Francisco Del Rincón,2,0.0,0.0,2.0,2019-03-21
+Guanajuato,Silao De La Victoria,2,1.0,0.0,1.0,2019-03-21
+Guerrero,Acapulco De Juárez,3,2.0,0.0,1.0,2019-03-21
+Guerrero,Iguala De La Independencia,3,0.0,0.0,3.0,2019-03-21
+Hidalgo,Nopala De Villagrán,4,3.0,1.0,0.0,2019-03-21
 Hidalgo,Tecozautla,1,1.0,0.0,0.0,2019-03-21
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2019-03-21
-Jalisco,"Lagos de 
-Moreno",1,0.0,1.0,0.0,2019-03-21
-Jalisco,"Tlajomulco de 
-Zúñiga",6,6.0,0.0,0.0,2019-03-21
+Jalisco,Lagos De Moreno,1,0.0,1.0,0.0,2019-03-21
+Jalisco,Tlajomulco De Zúñiga,6,6.0,0.0,0.0,2019-03-21
 Jalisco,Tonalá,1,0.0,0.0,1.0,2019-03-21
 Michoacán,Jacona,1,1.0,0.0,0.0,2019-03-21
 Michoacán,Uruapan,2,1.0,0.0,1.0,2019-03-21
 Morelos,Tepoztlán,1,1.0,0.0,0.0,2019-03-21
-Estado de México,"Naucalpan de 
-Juárez",1,1.0,0.0,0.0,2019-03-21
-Estado de México,"Valle de 
-Chalco 
-Solidaridad",1,1.0,0.0,0.0,2019-03-21
+Estado de México,Naucalpan De Juárez,1,1.0,0.0,0.0,2019-03-21
+Estado de México,Valle De Chalco Solidaridad,1,1.0,0.0,0.0,2019-03-21
 Nuevo León,Juárez,1,1.0,0.0,0.0,2019-03-21
-Oaxaca,"El Barrio de la 
-Soledad",1,1.0,0.0,0.0,2019-03-21
-Oaxaca,"Oaxaca de 
-Juárez",1,1.0,0.0,0.0,2019-03-21
-Puebla,"Palmar de 
-Bravo",1,1.0,0.0,0.0,2019-03-21
+Oaxaca,El Barrio De La Soledad,1,1.0,0.0,0.0,2019-03-21
+Oaxaca,Oaxaca De Juárez,1,1.0,0.0,0.0,2019-03-21
+Puebla,Palmar De Bravo,1,1.0,0.0,0.0,2019-03-21
 Puebla,Tehuacán,1,1.0,0.0,0.0,2019-03-21
 Puebla,Tepetzintla,1,1.0,0.0,0.0,2019-03-21
 Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2019-03-21
 Sinaloa,Culiacán,4,4.0,0.0,0.0,2019-03-21
-Sinaloa,"Salvador 
-Alvarado",2,2.0,0.0,0.0,2019-03-21
+Sinaloa,Salvador Alvarado,2,2.0,0.0,0.0,2019-03-21
 Sonora,Cajeme,1,1.0,0.0,0.0,2019-03-21
 Tabasco,Huimanguillo,2,1.0,0.0,1.0,2019-03-21
 Tamaulipas,Miguel Alemán,1,1.0,0.0,0.0,2019-03-21

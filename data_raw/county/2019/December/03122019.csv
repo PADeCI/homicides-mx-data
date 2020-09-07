@@ -1,14 +1,11 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,"San Francisco de 
-los Romo",1,1.0,0.0,0.0,2019-12-03
+Aguascalientes,San Francisco De Los Romo,1,1.0,0.0,0.0,2019-12-03
 Baja California,Tijuana,9,9.0,0.0,0.0,2019-12-03
 Campeche,Carmen,1,0.0,1.0,0.0,2019-12-03
-Chiapas,"Frontera 
-Comalapa",1,1.0,0.0,0.0,2019-12-03
+Chiapas,Frontera Comalapa,1,1.0,0.0,0.0,2019-12-03
 Chihuahua,Chihuahua,2,2.0,0.0,0.0,2019-12-03
 Chihuahua,Cuauhtémoc,1,1.0,0.0,0.0,2019-12-03
-Chihuahua,"Hidalgo del 
-Parral",1,1.0,0.0,0.0,2019-12-03
+Chihuahua,Hidalgo Del Parral,1,1.0,0.0,0.0,2019-12-03
 Chihuahua,Juárez,4,2.0,1.0,1.0,2019-12-03
 Ciudad de México,Tlalpan,2,2.0,0.0,0.0,2019-12-03
 Coahuila,Villa Unión,1,0.0,0.0,1.0,2019-12-03
@@ -17,33 +14,24 @@ Guanajuato,Celaya,2,0.0,0.0,2.0,2019-12-03
 Guanajuato,Irapuato,1,1.0,0.0,0.0,2019-12-03
 Guanajuato,León,1,1.0,0.0,0.0,2019-12-03
 Guanajuato,Salamanca,1,1.0,0.0,0.0,2019-12-03
-Guanajuato,"San José 
-Iturbide",1,1.0,0.0,0.0,2019-12-03
+Guanajuato,San José Iturbide,1,1.0,0.0,0.0,2019-12-03
 Guanajuato,Yuriria,1,1.0,0.0,0.0,2019-12-03
-Guerrero,"Acapulco de 
-Juárez",2,2.0,0.0,0.0,2019-12-03
+Guerrero,Acapulco De Juárez,2,2.0,0.0,0.0,2019-12-03
 Guerrero,Eduardo Neri,3,0.0,0.0,3.0,2019-12-03
-Guerrero,"Huitzuco de los 
-Figueroa",1,1.0,0.0,0.0,2019-12-03
-Guerrero,"Tixtla de 
-Guerrero",1,1.0,0.0,0.0,2019-12-03
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0,2019-12-03
+Guerrero,Huitzuco De Los Figueroa,1,1.0,0.0,0.0,2019-12-03
+Guerrero,Tixtla De Guerrero,1,1.0,0.0,0.0,2019-12-03
+Jalisco,San Pedro Tlaquepaque,1,1.0,0.0,0.0,2019-12-03
 Michoacán,Epitacio Huerta,1,1.0,0.0,0.0,2019-12-03
 Michoacán,Morelia,9,1.0,2.0,6.0,2019-12-03
 Michoacán,Uruapan,3,1.0,2.0,0.0,2019-12-03
 Michoacán,Zamora,1,1.0,0.0,0.0,2019-12-03
-Morelos,"Tlaltizapán de 
-Zapata",1,0.0,1.0,0.0,2019-12-03
+Morelos,Tlaltizapán De Zapata,1,0.0,1.0,0.0,2019-12-03
 Estado de México,Cuautitlán Izcalli,1,1.0,0.0,0.0,2019-12-03
-Estado de México,"Valle de Chalco 
-Solidaridad",1,0.0,1.0,0.0,2019-12-03
-Oaxaca,"Santos Reyes 
-Nopala",1,1.0,0.0,0.0,2019-12-03
+Estado de México,Valle De Chalco Solidaridad,1,0.0,1.0,0.0,2019-12-03
+Oaxaca,Santos Reyes Nopala,1,1.0,0.0,0.0,2019-12-03
 Puebla,Atzitzihuacán,3,2.0,1.0,0.0,2019-12-03
 Puebla,Coronango,1,1.0,0.0,0.0,2019-12-03
-Puebla,"San Andrés 
-Cholula",1,1.0,0.0,0.0,2019-12-03
+Puebla,San Andrés Cholula,1,1.0,0.0,0.0,2019-12-03
 Puebla,Tepexco,1,0.0,1.0,0.0,2019-12-03
 Tabasco,Cunduacán,1,1.0,0.0,0.0,2019-12-03
 Veracruz,Isla,2,2.0,0.0,0.0,2019-12-03

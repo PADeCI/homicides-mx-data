@@ -1,78 +1,38 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-,,,,,
-,,,,,
-"Chihuahua 
-(5)",Chihuahua,2,2,-,-
-,,1,1,-,-
-,Juárez,1,1,-,-
-,,1,1,-,-
-Colima (2),Manzanillo,2,2,-,-
-"Guanajuato 
-(11)",Acámbaro,2,2,-,-
-,"Dolores Hidalgo 
-Cuna de la 
-Independencia 
-Nacional",1,1,-,-
-,Irapuato,1,1,-,-
-,,1,1,-,-
-,León,1,1,-,-
-,Salamanca,4,-,-,4
-,,1,1,-,-
-Guerrero (4),"Atoyac de 
-Álvarez",1,1,-,-
-,,1,1,-,-
-,"Chilpancingo de 
-los Bravo",1,1,-,-
-,,1,1,-,-
-Hidalgo (1),Tula de Allende,1,1,-,-
-México (4),Atizapán,1,1,-,-
-,Chiconcuac,1,1,-,-
-,"Tlalnepantla de 
-Baz",1,-,1,-
-,Xonacatlán,1,-,1,-
-"Michoacán 
-de Ocampo 
-(9)",Buenavista,1,1,-,-
-,,1,-,-,1
-,Jacona,1,-,1,-
-,Morelia,1,1,-,-
-,,2,2,-,-
-,Uruapan,1,-,-,1
-,Zamora,2,2,-,-
-Morelos (1),Cuernavaca,1,1,-,-
-"Nuevo León 
-(3)",Apodaca,1,1,-,-
-,Monterrey,1,1,-,-
-,,1,1,-,-
-Oaxaca (1),"Matías Romero 
-Avendaño",1,1,-,-
-Puebla (5),Puebla,1,1,-,-
-,,2,2,-,-
-,"San Martín 
-Texmelucan",2,2,-,-
-"Quintana 
-Roo (2)",Solidaridad,1,1,-,-
-,,1,1,-,-
-"San Luis 
-Potosí (3)","Ciudad 
-Fernández",1,1,-,-
-,Ríoverde,1,1,-,-
-,San Luis Potosí,1,1,-,-
-Sinaloa (4),Culiacán,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-Tabasco (1),Centro,1,-,-,1
-"Tamaulipas 
-(1)",Victoria,1,1,-,-
-"Veracruz de 
-Ignacio de la 
-Llave (6)",Alvarado,1,-,1,-
-,Coatepec,2,2,-,-
-,"Martínez de la 
-Torre",1,1,-,-
-,Papantla,2,-,2,-
-,,,,,
-Totales,63,50,6,7,
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Chihuahua,Chihuahua,3.0,3.0,0.0,0.0,2020-02-02
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-02-02
+Colima,Manzanillo,2.0,2.0,0.0,0.0,2020-02-02
+Guanajuato,Acámbaro,2.0,2.0,0.0,0.0,2020-02-02
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,1.0,1.0,0.0,0.0,2020-02-02
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-02-02
+Guanajuato,León,1.0,1.0,0.0,0.0,2020-02-02
+Guanajuato,Salamanca,5.0,1.0,0.0,4.0,2020-02-02
+Guerrero,Atoyac De Álvarez,2.0,2.0,0.0,0.0,2020-02-02
+Guerrero,Chilpancingo De Los Bravo,2.0,2.0,0.0,0.0,2020-02-02
+Hidalgo,Tula De Allende,1.0,1.0,0.0,0.0,2020-02-02
+Michoacán,Buenavista,2.0,1.0,0.0,1.0,2020-02-02
+Michoacán,Jacona,1.0,0.0,1.0,0.0,2020-02-02
+Michoacán,Morelia,3.0,3.0,0.0,0.0,2020-02-02
+Michoacán,Uruapan,1.0,0.0,0.0,1.0,2020-02-02
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-02-02
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-02-02
+Estado de México,Atizapán,1.0,1.0,0.0,0.0,2020-02-02
+Estado de México,Chiconcuac,1.0,1.0,0.0,0.0,2020-02-02
+Estado de México,Tlalnepantla De Baz,1.0,0.0,1.0,0.0,2020-02-02
+Estado de México,Xonacatlán,1.0,0.0,1.0,0.0,2020-02-02
+Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2020-02-02
+Nuevo León,Monterrey,2.0,2.0,0.0,0.0,2020-02-02
+Oaxaca,Matías Romero Avendaño,1.0,1.0,0.0,0.0,2020-02-02
+Puebla,Puebla,3.0,3.0,0.0,0.0,2020-02-02
+Puebla,San Martín Texmelucan,2.0,2.0,0.0,0.0,2020-02-02
+Quintana Roo,Solidaridad,2.0,2.0,0.0,0.0,2020-02-02
+San Luis Potosí,Ciudad Fernández,1.0,1.0,0.0,0.0,2020-02-02
+San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2020-02-02
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-02-02
+Sinaloa,Culiacán,4.0,4.0,0.0,0.0,2020-02-02
+Tabasco,Centro,1.0,0.0,0.0,1.0,2020-02-02
+Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2020-02-02
+Veracruz,Alvarado,1.0,0.0,1.0,0.0,2020-02-02
+Veracruz,Coatepec,2.0,2.0,0.0,0.0,2020-02-02
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2020-02-02
+Veracruz,Papantla,2.0,0.0,2.0,0.0,2020-02-02

@@ -1,79 +1,63 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado
-Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0
-Baja California,Tijuana,3.0,2.0,0.0,1.0
-Baja California Sur,Comondú,1.0,1.0,0.0,0.0
-Chiapas,Acapetahua,1.0,1.0,0.0,0.0
-Chiapas,Suchiapa,2.0,1.0,1.0,0.0
-Chihuahua,Bocoyna,2.0,2.0,0.0,0.0
-Chihuahua,Chihuahua,1.0,1.0,0.0,0.0
-Chihuahua,Delicias,1.0,1.0,0.0,0.0
-Ciudad de México,Cuauhtémoc,1.0,0.0,1.0,0.0
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0
-Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0
-Ciudad de México,"Venustiano 
-Carranza",1.0,1.0,0.0,0.0
-Guanajuato,Acámbaro,1.0,1.0,0.0,0.0
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0
-Guanajuato,Celaya,1.0,1.0,0.0,0.0
-Guanajuato,Huanímaro,2.0,1.0,1.0,0.0
-Guanajuato,Irapuato,4.0,4.0,0.0,0.0
-Guanajuato,"Jaral del 
-Progreso",1.0,1.0,0.0,0.0
-Guanajuato,León,1.0,0.0,1.0,0.0
-Guanajuato,"Purísima del 
-Rincón",2.0,0.0,0.0,2.0
-Guanajuato,Salamanca,1.0,0.0,0.0,1.0
-Guanajuato,"San Francisco del 
-Rincón",1.0,1.0,0.0,0.0
-Guanajuato,Valle de Santiago,1.0,1.0,0.0,0.0
-Guerrero,Acapulco de,1.0,1.0,0.0,0.0
-Guerrero,Juárez,1.0,1.0,0.0,0.0
-Jalisco,El Salto,1.0,1.0,0.0,0.0
-Jalisco,Guadalajara,2.0,2.0,0.0,0.0
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,0.0,1.0,0.0
-Jalisco,Tala,8.0,0.0,0.0,8.0
-Jalisco,"Tepatitlán de 
-Morelos",1.0,1.0,0.0,0.0
-Jalisco,Zapopan,1.0,1.0,0.0,0.0
-Jalisco,Zapotlanejo,2.0,1.0,1.0,0.0
-Michoacán,Jacona,1.0,1.0,0.0,0.0
-Michoacán,Sahuayo,1.0,1.0,0.0,0.0
-Michoacán,Tangancícuaro,1.0,1.0,0.0,0.0
-Michoacán,Uruapan,1.0,0.0,0.0,1.0
-Morelos,Emiliano Zapata,3.0,1.0,0.0,2.0
-Morelos,Jiutepec,3.0,3.0,0.0,0.0
-Morelos,Xochitepec,1.0,0.0,1.0,0.0
-Morelos,"Zacualpan de 
-Amilpas",1.0,1.0,0.0,0.0
-Ciudad de México,La Paz,1.0,1.0,0.0,0.0
-Ciudad de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0
-Ciudad de México,Nezahualcóyotl,1.0,1.0,0.0,0.0
-Ciudad de México,Zumpahuacán,1.0,1.0,0.0,0.0
-Nayarit,Xalisco,1.0,1.0,0.0,0.0
-Nuevo León,Monterrey,1.0,1.0,0.0,0.0
-Oaxaca,"Heroica Ciudad 
-de Huajuapan de 
-León",1.0,1.0,0.0,0.0
-Oaxaca,"Matías Romero 
-Avendaño",1.0,1.0,0.0,0.0
-Oaxaca,"Villa de 
-Tututepec de 
-Melchor 
-Ocampo",1.0,1.0,0.0,0.0
-Puebla,Puebla,1.0,1.0,0.0,0.0
-Querétaro,San Juan del Río,2.0,2.0,0.0,0.0
-Quintana Roo,Puerto Morelos,1.0,1.0,0.0,0.0
-Sinaloa,Culiacán,3.0,3.0,0.0,0.0
-Sinaloa,El Fuerte,1.0,1.0,0.0,0.0
-Sonora,Cajeme,2.0,2.0,0.0,0.0
-Sonora,Empalme,1.0,0.0,1.0,0.0
-Tabasco,Centro,4.0,4.0,0.0,0.0
-Veracruz,Acayucan,1.0,1.0,0.0,0.0
-Veracruz,"San Andrés 
-Tuxtla",2.0,1.0,1.0,0.0
-Veracruz,Tlalnelhuayocan,1.0,1.0,0.0,0.0
-Veracruz,Xalapa,1.0,1.0,0.0,0.0
-Zacatecas,Guadalupe,1.0,1.0,0.0,0.0
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1,1,0,0,2019-09-23
+Baja California,Tijuana,3,2,0,1,2019-09-23
+Baja California Sur,Comondú,1,1,0,0,2019-09-23
+Chiapas,Acapetahua,1,1,0,0,2019-09-23
+Chiapas,Suchiapa,2,1,1,0,2019-09-23
+Chihuahua,Bocoyna,2,2,0,0,2019-09-23
+Chihuahua,Chihuahua,1,1,0,0,2019-09-23
+Chihuahua,Delicias,1,1,0,0,2019-09-23
+Ciudad de México,Cuauhtémoc,1,0,1,0,2019-09-23
+Ciudad de México,Gustavo A. Madero,1,1,0,0,2019-09-23
+Ciudad de México,Tlalpan,1,1,0,0,2019-09-23
+Ciudad de México,Venustiano Carranza,1,1,0,0,2019-09-23
+Guanajuato,Acámbaro,1,1,0,0,2019-09-23
+Guanajuato,Apaseo El Alto,1,1,0,0,2019-09-23
+Guanajuato,Celaya,1,1,0,0,2019-09-23
+Guanajuato,Huanímaro,2,1,1,0,2019-09-23
+Guanajuato,Irapuato,4,4,0,0,2019-09-23
+Guanajuato,Jaral Del Progreso,1,1,0,0,2019-09-23
+Guanajuato,León,1,0,1,0,2019-09-23
+Guanajuato,Purísima Del Rincón,2,0,0,2,2019-09-23
+Guanajuato,Salamanca,1,0,0,1,2019-09-23
+Guanajuato,San Francisco Del Rincón,1,1,0,0,2019-09-23
+Guanajuato,Valle De Santiago,1,1,0,0,2019-09-23
+Guerrero,Acapulco De Juárez,1,1,0,0,2019-09-23
+Guerrero,Juárez,1,1,0,0,2019-09-23
+Jalisco,El Salto,1,1,0,0,2019-09-23
+Jalisco,Guadalajara,2,2,0,0,2019-09-23
+Jalisco,San Pedro Tlaquepaque,1,0,1,0,2019-09-23
+Jalisco,Tala,8,0,0,8,2019-09-23
+Jalisco,Tepatitlán De Morelos,1,1,0,0,2019-09-23
+Jalisco,Zapopan,1,1,0,0,2019-09-23
+Jalisco,Zapotlanejo,2,1,1,0,2019-09-23
+Michoacán,Jacona,1,1,0,0,2019-09-23
+Michoacán,Sahuayo,1,1,0,0,2019-09-23
+Michoacán,Tangancícuaro,1,1,0,0,2019-09-23
+Michoacán,Uruapan,1,0,0,1,2019-09-23
+Morelos,Emiliano Zapata,3,1,0,2,2019-09-23
+Morelos,Jiutepec,3,3,0,0,2019-09-23
+Morelos,Xochitepec,1,0,1,0,2019-09-23
+Morelos,Zacualpan De Amilpas,1,1,0,0,2019-09-23
+Estado de México,La Paz,1,1,0,0,2019-09-23
+Estado de México,Naucalpan De Juárez,1,1,0,0,2019-09-23
+Estado de México,Nezahualcóyotl,1,1,0,0,2019-09-23
+Estado de México,Zumpahuacán,1,1,0,0,2019-09-23
+Nayarit,Xalisco,1,1,0,0,2019-09-23
+Nuevo León,Monterrey,1,1,0,0,2019-09-23
+Oaxaca,Heroica Ciudad De Huajuapan De León,1,1,0,0,2019-09-23
+Oaxaca,Matías Romero Avendaño,1,1,0,0,2019-09-23
+Oaxaca,Ocampo,1,1,0,0,2019-09-23
+Puebla,Puebla,1,1,0,0,2019-09-23
+Querétaro,San Juan Del Río,2,2,0,0,2019-09-23
+Quintana Roo,Puerto Morelos,1,1,0,0,2019-09-23
+Sinaloa,Culiacán,3,3,0,0,2019-09-23
+Sinaloa,El Fuerte,1,1,0,0,2019-09-23
+Sonora,Cajeme,2,2,0,0,2019-09-23
+Sonora,Empalme,1,0,1,0,2019-09-23
+Tabasco,Centro,4,4,0,0,2019-09-23
+Veracruz,Acayucan,1,1,0,0,2019-09-23
+Veracruz,San Andrés Tuxtla,2,1,1,0,2019-09-23
+Veracruz,Tlalnelhuayocan,1,1,0,0,2019-09-23
+Veracruz,Xalapa,1,1,0,0,2019-09-23
+Zacatecas,Guadalupe,1,1,0,0,2019-09-23

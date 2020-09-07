@@ -2,57 +2,40 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,Aguascalientes,2.0,0.0,0.0,2.0,2020-03-27
 Baja California,Tijuana,2.0,2.0,0.0,0.0,2020-03-27
 Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-03-27
-Ciudad de México,"La Magdalena 
-Contreras",1.0,1.0,0.0,0.0,2020-03-27
+Ciudad de México,La Magdalena Contreras,1.0,1.0,0.0,0.0,2020-03-27
 Ciudad de México,Xochimilco,3.0,3.0,0.0,0.0,2020-03-27
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-03-27
 Guanajuato,Abasolo,1.0,1.0,0.0,0.0,2020-03-27
 Guanajuato,Celaya,2.0,0.0,0.0,2.0,2020-03-27
-Guanajuato,"Dolores 
-Hidalgo Cuna 
-de la 
-Independencia 
-Nacional",1.0,1.0,0.0,0.0,2020-03-27
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,1.0,1.0,0.0,0.0,2020-03-27
 Guanajuato,León,3.0,2.0,0.0,1.0,2020-03-27
 Guanajuato,Pénjamo,2.0,2.0,0.0,0.0,2020-03-27
 Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-03-27
-Guanajuato,San Francisco,1.0,1.0,0.0,0.0,2020-03-27
-Guanajuato,"San Miguel de 
-Allende",2.0,2.0,0.0,0.0,2020-03-27
+Guanajuato,San Francisco Nuxaño,1.0,1.0,0.0,0.0,2020-03-27
+Guanajuato,San Miguel De Allende,2.0,2.0,0.0,0.0,2020-03-27
 Guanajuato,Uriangato,2.0,2.0,0.0,0.0,2020-03-27
-Guanajuato,del Rincón,1.0,1.0,0.0,0.0,2020-03-27
-Guerrero,"Acapulco de 
-Juárez",3.0,1.0,2.0,0.0,2020-03-27
+Guanajuato,Purísima Del Rincón,1.0,1.0,0.0,0.0,2020-03-27
+Guerrero,Acapulco De Juárez,3.0,1.0,2.0,0.0,2020-03-27
 Jalisco,Guadalajara,3.0,2.0,1.0,0.0,2020-03-27
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-03-27
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-03-27
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-03-27
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-03-27
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-03-27
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-03-27
 Morelos,Tlaquiltenango,2.0,0.0,0.0,2.0,2020-03-27
-Estado de México,"Ecatepec de 
-Morelos",3.0,3.0,0.0,0.0,2020-03-27
-Estado de México,"Nicolás 
-Romero",1.0,1.0,0.0,0.0,2020-03-27
+Estado de México,Ecatepec De Morelos,3.0,3.0,0.0,0.0,2020-03-27
+Estado de México,Nicolás Romero,1.0,1.0,0.0,0.0,2020-03-27
 Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2020-03-27
-Oaxaca,"San Pedro 
-Pochutla",1.0,1.0,0.0,0.0,2020-03-27
-Puebla,"San Andrés 
-Cholula",1.0,1.0,0.0,0.0,2020-03-27
+Oaxaca,San Pedro Pochutla,1.0,1.0,0.0,0.0,2020-03-27
+Puebla,San Andrés Cholula,1.0,1.0,0.0,0.0,2020-03-27
 Puebla,Tepeaca,2.0,2.0,0.0,0.0,2020-03-27
 Quintana Roo,Benito Juárez,4.0,2.0,2.0,0.0,2020-03-27
-San Luis Potosí,"Santa María 
-del Río",1.0,1.0,0.0,0.0,2020-03-27
+San Luis Potosí,Santa María Del Río,1.0,1.0,0.0,0.0,2020-03-27
 Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-03-27
 Tamaulipas,Río Bravo,1.0,1.0,0.0,0.0,2020-03-27
 Veracruz,Córdoba,2.0,2.0,0.0,0.0,2020-03-27
-Veracruz,"Martínez de la 
-Torre",1.0,1.0,0.0,0.0,2020-03-27
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2020-03-27
 Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2020-03-27
-Veracruz,"Nanchital de 
-Lázaro 
-Cárdenas del 
-Río",1.0,0.0,1.0,0.0,2020-03-27
+Veracruz,Nanchital De Lázaro Cárdenas Del Río,1.0,0.0,1.0,0.0,2020-03-27
 Veracruz,Texistepec,2.0,0.0,2.0,0.0,2020-03-27
 Zacatecas,Río Grande,1.0,1.0,0.0,0.0,2020-03-27

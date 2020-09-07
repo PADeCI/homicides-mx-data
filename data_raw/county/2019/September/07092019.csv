@@ -1,43 +1,36 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado
-Aguascalientes,Aguascalientes,1.0,0.0,1.0,0.0
-Baja California,Mexicali,3.0,3.0,0.0,0.0
-Baja California,Tijuana,6.0,6.0,0.0,0.0
-Chihuahua,Juárez,3.0,1.0,0.0,2.0
-Ciudad de México,Azcapotzalco,1.0,1.0,0.0,0.0
-Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0
-Ciudad de México,Tláhuac,2.0,2.0,0.0,0.0
-Colima,Armería,2.0,2.0,0.0,0.0
-Colima,Coquimatlán,1.0,1.0,0.0,0.0
-Guanajuato,Irapuato,3.0,2.0,1.0,0.0
-Guerrero,Ometepec,1.0,1.0,0.0,0.0
-Guerrero,"Taxco de 
-Alarcón",1.0,1.0,0.0,0.0
-Jalisco,"Lagos de 
-Moreno",3.0,3.0,0.0,0.0
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,1.0,1.0,0.0
-Jalisco,Zapopan,1.0,0.0,0.0,1.0
-Michoacán,Morelia,2.0,1.0,0.0,1.0
-Michoacán,Zamora,3.0,2.0,1.0,0.0
-Morelos,Ayala,1.0,1.0,0.0,0.0
-Nayarit,Tepic,1.0,1.0,0.0,0.0
-Nuevo León,Monterrey,2.0,2.0,0.0,0.0
-Nuevo León,Pesquería,1.0,1.0,0.0,0.0
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0
-Oaxaca,"Huautla de 
-Jiménez",4.0,2.0,2.0,0.0
-Puebla,Huejotzingo,1.0,0.0,1.0,0.0
-Puebla,Puebla,1.0,1.0,0.0,0.0
-San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0
-San Luis Potosí,"Tanquián de 
-Escobedo",2.0,2.0,0.0,0.0
-Sinaloa,Culiacán,1.0,1.0,0.0,0.0
-Sonora,Hermosillo,1.0,1.0,0.0,0.0
-Tabasco,Cunduacán,2.0,2.0,0.0,0.0
-Tlaxcala,Calpulalpan,1.0,1.0,0.0,0.0
-Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0
-Veracruz,Xalapa,1.0,1.0,0.0,0.0
-Zacatecas,Fresnillo,4.0,4.0,0.0,0.0
-Zacatecas,Miguel Auza,3.0,2.0,1.0,0.0
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1,0,1,0,2019-09-07
+Baja California,Mexicali,3,3,0,0,2019-09-07
+Baja California,Tijuana,6,6,0,0,2019-09-07
+Chihuahua,Juárez,3,1,0,2,2019-09-07
+Ciudad de México,Azcapotzalco,1,1,0,0,2019-09-07
+Ciudad de México,Tlalpan,1,1,0,0,2019-09-07
+Ciudad de México,Tláhuac,2,2,0,0,2019-09-07
+Colima,Armería,2,2,0,0,2019-09-07
+Colima,Coquimatlán,1,1,0,0,2019-09-07
+Guanajuato,Irapuato,3,2,1,0,2019-09-07
+Guerrero,Ometepec,1,1,0,0,2019-09-07
+Guerrero,Taxco De Alarcón,1,1,0,0,2019-09-07
+Jalisco,Lagos De Moreno,3,3,0,0,2019-09-07
+Jalisco,Tlajomulco De Zúñiga,2,1,1,0,2019-09-07
+Jalisco,Zapopan,1,0,0,1,2019-09-07
+Michoacán,Morelia,2,1,0,1,2019-09-07
+Michoacán,Zamora,3,2,1,0,2019-09-07
+Morelos,Ayala,1,1,0,0,2019-09-07
+Nayarit,Tepic,1,1,0,0,2019-09-07
+Nuevo León,Monterrey,2,2,0,0,2019-09-07
+Nuevo León,Pesquería,1,1,0,0,2019-09-07
+Oaxaca,Zaragoza,1,1,0,0,2019-09-07
+Oaxaca,Huautla De Jiménez,4,2,2,0,2019-09-07
+Puebla,Huejotzingo,1,0,1,0,2019-09-07
+Puebla,Puebla,1,1,0,0,2019-09-07
+San Luis Potosí,Rioverde,1,1,0,0,2019-09-07
+San Luis Potosí,Tanquián De Escobedo,2,2,0,0,2019-09-07
+Sinaloa,Culiacán,1,1,0,0,2019-09-07
+Sonora,Hermosillo,1,1,0,0,2019-09-07
+Tabasco,Cunduacán,2,2,0,0,2019-09-07
+Tlaxcala,Calpulalpan,1,1,0,0,2019-09-07
+Veracruz,Coatzacoalcos,1,1,0,0,2019-09-07
+Veracruz,Xalapa,1,1,0,0,2019-09-07
+Zacatecas,Fresnillo,4,4,0,0,2019-09-07
+Zacatecas,Miguel Auza,3,2,1,0,2019-09-07

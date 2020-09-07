@@ -1,87 +1,44 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-"Baja 
-California (9)",Tijuana,1,-,-,1
-,,2,2,-,-
-,,1,-,-,1
-,,2,2,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-"Chihuahua 
-(5)",Bocoyna,2,2,-,-
-,Juárez,1,1,-,-
-,,1,1,-,-
-,,1,-,-,1
-"Ciudad de 
-México (1)",Azcapotzalco,1,1,-,-
-Colima (3),Manzanillo,1,1,-,-
-,Tecomán,1,1,-,-
-,,1,1,-,-
-"Guanajuato 
-(16)",Celaya,2,-,-,2
-,,1,-,-,1
-,Cortazar,1,1,-,-
-,Irapuato,1,1,-,-
-,,1,1,-,-
-,León,1,1,-,-
-,Moroleón,9,-,-,9
-Guerrero (3),"Acapulco de 
-Juárez",1,-,1,-
-,,1,1,-,-
-,Eduardo Neri,1,1,-,-
-Jalisco (2),"San Pedro 
-Tlaquepaque",1,1,-,-
-,"Tepatitlán de 
-Morelos",1,1,-,-
-México (1),Chimalhuacán,1,1,-,-
-"Michoacán 
-de Ocampo 
-(16)",Apatzingán,2,2,-,-
-,Coeneo,12,-,-,12
-,Morelia,1,-,1,-
-,"Tangamandap
-io",1,1,-,-
-Morelos (3),Cuernavaca,1,-,-,1
-,,2,2,-,-
-"Nuevo León 
-(3)",Gral. Escobedo,1,1,-,-
-,,1,1,-,-
-,Guadalupe,1,1,-,-
-Puebla (3),Chietla,1,1,-,-
-,Puebla,1,1,-,-
-,,1,-,1,-
-Querétaro (2),Querétaro,2,-,-,2
-,,,,,
-"Quintana 
-Roo (10)",Benito Juárez,2.0,-,-,2
-,,1.0,1,-,-
-,,1.0,-,1,-
-,"Felipe Carrillo 
-Puerto",2.0,2,-,-
-,Solidaridad,1.0,1,-,-
-,,1.0,1,-,-
-,,1.0,1,-,-
-,Tulum,1.0,-,1,-
-"San Luis 
-Potosí (2)",Rioverde,1.0,1,-,-
-,"San Nicolás 
-Tolentino",1.0,1,-,-
-Sinaloa (1),Culiacán,1.0,-,1,-
-Sonora (2),Guaymas,1.0,1,-,-
-,Nogales,1.0,1,-,-
-Tabasco (1),Nacajuca,1.0,1,-,-
-Tlaxcala (1),Tlaxcala,1.0,1,-,-
-"Veracruz de 
-Ignacio de la 
-Llave (4)","Gutiérrez 
-Zamora",1.0,1,-,-
-,"Martínez de la 
-Torre",1.0,1,-,-
-,Misantla,1.0,1,-,-
-,Yanga,1.0,1,-,-
-Zacatecas (2),Fresnillo,1.0,1,-,-
-,Guadalupe,1.0,1,-,-
-,,,,,Zacatecas
-Totales,90.0,52.0,6.0,32.0,
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,9.0,7.0,0.0,2.0,2020-02-20
+Chihuahua,Bocoyna,2.0,2.0,0.0,0.0,2020-02-20
+Chihuahua,Juárez,3.0,2.0,0.0,1.0,2020-02-20
+Ciudad de México,Azcapotzalco,1.0,1.0,0.0,0.0,2020-02-20
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-02-20
+Colima,Tecomán,2.0,2.0,0.0,0.0,2020-02-20
+Guanajuato,Celaya,3.0,0.0,0.0,3.0,2020-02-20
+Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2020-02-20
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-02-20
+Guanajuato,León,1.0,1.0,0.0,0.0,2020-02-20
+Guanajuato,Moroleón,9.0,0.0,0.0,9.0,2020-02-20
+Guerrero,Acapulco De Juárez,2.0,1.0,1.0,0.0,2020-02-20
+Guerrero,Eduardo Neri,1.0,1.0,0.0,0.0,2020-02-20
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-02-20
+Jalisco,Tepatitlán De Morelos,1.0,1.0,0.0,0.0,2020-02-20
+Michoacán,Apatzingán,2.0,2.0,0.0,0.0,2020-02-20
+Michoacán,Coeneo,12.0,0.0,0.0,12.0,2020-02-20
+Michoacán,Morelia,1.0,0.0,1.0,0.0,2020-02-20
+Michoacán,Tangamandapio,1.0,1.0,0.0,0.0,2020-02-20
+Morelos,Cuernavaca,3.0,2.0,0.0,1.0,2020-02-20
+Estado de México,Chimalhuacán,1.0,1.0,0.0,0.0,2020-02-20
+Nuevo León,Escobedo,2.0,2.0,0.0,0.0,2020-02-20
+Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2020-02-20
+Puebla,Chietla,1.0,1.0,0.0,0.0,2020-02-20
+Puebla,Puebla,2.0,1.0,1.0,0.0,2020-02-20
+Querétaro,Querétaro,4.0,0.0,0.0,4.0,2020-02-20
+Quintana Roo,Benito Juárez,4.0,1.0,1.0,2.0,2020-02-20
+Quintana Roo,Felipe Carrillo Puerto,2.0,2.0,0.0,0.0,2020-02-20
+Quintana Roo,Solidaridad,3.0,3.0,0.0,0.0,2020-02-20
+Quintana Roo,Tulum,1.0,0.0,1.0,0.0,2020-02-20
+San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2020-02-20
+San Luis Potosí,San Nicolás Tolentino,1.0,1.0,0.0,0.0,2020-02-20
+Sinaloa,Culiacán,1.0,0.0,1.0,0.0,2020-02-20
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-02-20
+Sonora,Nogales,1.0,1.0,0.0,0.0,2020-02-20
+Tabasco,Nacajuca,1.0,1.0,0.0,0.0,2020-02-20
+Tlaxcala,Tlaxcala,1.0,1.0,0.0,0.0,2020-02-20
+Veracruz,Gutiérrez Zamora,1.0,1.0,0.0,0.0,2020-02-20
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2020-02-20
+Veracruz,Misantla,1.0,1.0,0.0,0.0,2020-02-20
+Veracruz,Yanga,1.0,1.0,0.0,0.0,2020-02-20
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-02-20
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2020-02-20

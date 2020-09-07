@@ -2,38 +2,28 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,5,3.0,1.0,1.0,2019-03-15
 Chihuahua,Juárez,6,4.0,1.0,1.0,2019-03-15
 Ciudad de México,Cuauhtémoc,2,1.0,1.0,0.0,2019-03-15
-Ciudad de México,"Gustavo A. 
-Madero",1,1.0,0.0,0.0,2019-03-15
+Ciudad de México,Gustavo A. Madero,1,1.0,0.0,0.0,2019-03-15
 Coahuila,Torreón,1,0.0,1.0,0.0,2019-03-15
 Durango,Gómez Palacio,2,2.0,0.0,0.0,2019-03-15
 Guanajuato,Abasolo,1,1.0,0.0,0.0,2019-03-15
-Guanajuato,Apaseo el Alto,1,1.0,0.0,0.0,2019-03-15
+Guanajuato,Apaseo El Alto,1,1.0,0.0,0.0,2019-03-15
 Guanajuato,Celaya,1,1.0,0.0,0.0,2019-03-15
 Guanajuato,Irapuato,4,3.0,0.0,1.0,2019-03-15
 Guanajuato,León,2,2.0,0.0,0.0,2019-03-15
 Guanajuato,Salamanca,2,2.0,0.0,0.0,2019-03-15
-Guanajuato,"Silao de la 
-Víctoria",3,3.0,0.0,0.0,2019-03-15
+Guanajuato,Silao De La Victoria,3,3.0,0.0,0.0,2019-03-15
 Guanajuato,Yuriria,1,1.0,0.0,0.0,2019-03-15
-Guerrero,"Huitzuco de 
-los Figueroa",1,1.0,0.0,0.0,2019-03-15
-Guerrero,"Taxco de 
-Alarcón",2,2.0,0.0,0.0,2019-03-15
-Jalisco,"Ixtlahuacán de 
-los Membrillos",5,0.0,0.0,5.0,2019-03-15
-Jalisco,"San Pedro 
-Tlaquepaque",4,3.0,1.0,0.0,2019-03-15
+Guerrero,Huitzuco De Los Figueroa,1,1.0,0.0,0.0,2019-03-15
+Guerrero,Taxco De Alarcón,2,2.0,0.0,0.0,2019-03-15
+Jalisco,Ixtlahuacán De Los Membrillos,5,0.0,0.0,5.0,2019-03-15
+Jalisco,San Pedro Tlaquepaque,4,3.0,1.0,0.0,2019-03-15
 Michoacán,Morelia,1,1.0,0.0,0.0,2019-03-15
 Michoacán,Zitácuaro,2,2.0,0.0,0.0,2019-03-15
 Morelos,Temixco,1,1.0,0.0,0.0,2019-03-15
 Estado de México,Tianguistenco,1,1.0,0.0,0.0,2019-03-15
 Nuevo León,Los Ramones,1,1.0,0.0,0.0,2019-03-15
-Oaxaca,"Villa de 
-Tututepec de 
-Melchor 
-Ocampo",1,1.0,0.0,0.0,2019-03-15
-Puebla,"Chalchicomula 
-de Sesma",1,1.0,0.0,0.0,2019-03-15
+Oaxaca,Ocampo,1,1.0,0.0,0.0,2019-03-15
+Puebla,Chalchicomula De Sesma,1,1.0,0.0,0.0,2019-03-15
 Puebla,Coxcatlán,1,1.0,0.0,0.0,2019-03-15
 Puebla,Jalpan,1,0.0,1.0,0.0,2019-03-15
 Puebla,Tehuacán,1,1.0,0.0,0.0,2019-03-15

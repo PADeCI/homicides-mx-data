@@ -15,23 +15,18 @@ Coahuila,Torreón,1,0.0,0.0,1.0,2019-07-08
 Colima,Tecomán,1,1.0,0.0,0.0,2019-07-08
 Durango,Durango,1,1.0,0.0,0.0,2019-07-08
 Durango,Otáez,1,1.0,0.0,0.0,2019-07-08
-Durango,"Pánuco de 
-Coronado",1,1.0,0.0,0.0,2019-07-08
+Durango,Pánuco De Coronado,1,1.0,0.0,0.0,2019-07-08
 Guanajuato,Celaya,2,0.0,0.0,2.0,2019-07-08
 Guanajuato,Cortazar,1,1.0,0.0,0.0,2019-07-08
 Guanajuato,León,1,1.0,0.0,0.0,2019-07-08
-Guerrero,"Acapulco de 
-Juárez",1,1.0,0.0,0.0,2019-07-08
-Guerrero,"Ayutla de los 
-Libres",1,0.0,1.0,0.0,2019-07-08
-Guerrero,Chilapa de Álvarez,2,2.0,0.0,0.0,2019-07-08
-Guerrero,"Chilpancingo de 
-los Bravo",2,2.0,0.0,0.0,2019-07-08
-Hidalgo,Huejutla de Reyes,1,1.0,0.0,0.0,2019-07-08
+Guerrero,Acapulco De Juárez,1,1.0,0.0,0.0,2019-07-08
+Guerrero,Ayutla De Los Libres,1,0.0,1.0,0.0,2019-07-08
+Guerrero,Chilapa De Álvarez,2,2.0,0.0,0.0,2019-07-08
+Guerrero,Chilpancingo De Los Bravo,2,2.0,0.0,0.0,2019-07-08
+Hidalgo,Huejutla De Reyes,1,1.0,0.0,0.0,2019-07-08
 Hidalgo,Ixmiquilpan,1,0.0,0.0,1.0,2019-07-08
 Hidalgo,Tlahuelilpan,1,1.0,0.0,0.0,2019-07-08
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0,2019-07-08
+Jalisco,San Pedro Tlaquepaque,1,1.0,0.0,0.0,2019-07-08
 Jalisco,Zapopan,2,1.0,1.0,0.0,2019-07-08
 Michoacán,Lagunillas,2,0.0,0.0,2.0,2019-07-08
 Michoacán,Los Reyes,1,0.0,1.0,0.0,2019-07-08
@@ -44,13 +39,12 @@ Morelos,Ocuituco,1,1.0,0.0,0.0,2019-07-08
 Morelos,Yautepec,1,1.0,0.0,0.0,2019-07-08
 Estado de México,Acolman,1,1.0,0.0,0.0,2019-07-08
 Estado de México,Amecameca,1,1.0,0.0,0.0,2019-07-08
-Estado de México,"Naucalpan de 
-Juárez",1,1.0,0.0,0.0,2019-07-08
+Estado de México,Naucalpan De Juárez,1,1.0,0.0,0.0,2019-07-08
 Estado de México,Nezahualcóyotl,2,1.0,1.0,0.0,2019-07-08
-Estado de México,Tenango del Valle,1,1.0,0.0,0.0,2019-07-08
+Estado de México,Tenango Del Valle,1,1.0,0.0,0.0,2019-07-08
 Estado de México,Tultitlán,1,0.0,1.0,0.0,2019-07-08
 Nayarit,Tepic,1,0.0,1.0,0.0,2019-07-08
-Nuevo León,Gral. Zuazua,1,1.0,0.0,0.0,2019-07-08
+Nuevo León,General Zuazua,1,1.0,0.0,0.0,2019-07-08
 Puebla,Tecamachalco,1,0.0,1.0,0.0,2019-07-08
 Puebla,Tepeaca,1,1.0,0.0,0.0,2019-07-08
 Puebla,Tepeojuma,1,1.0,0.0,0.0,2019-07-08
@@ -64,8 +58,7 @@ Tamaulipas,Victoria,3,3.0,0.0,0.0,2019-07-08
 Veracruz,Altotonga,1,1.0,0.0,0.0,2019-07-08
 Veracruz,Emiliano Zapata,1,1.0,0.0,0.0,2019-07-08
 Veracruz,Fortín,2,2.0,0.0,0.0,2019-07-08
-Veracruz,"Huiloapan de 
-Cuauhtémoc",1,1.0,0.0,0.0,2019-07-08
+Veracruz,Huiloapan De Cuauhtémoc,1,1.0,0.0,0.0,2019-07-08
 Veracruz,Orizaba,1,1.0,0.0,0.0,2019-07-08
 Veracruz,Rafael Delgado,1,1.0,0.0,0.0,2019-07-08
 Veracruz,Tihuatlán,1,1.0,0.0,0.0,2019-07-08

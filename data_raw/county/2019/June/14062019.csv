@@ -9,11 +9,10 @@ Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-06-14
 Ciudad de México,Tlalpan,4.0,3.0,1.0,0.0,2019-06-14
 Colima,Manzanillo,4.0,2.0,2.0,0.0,2019-06-14
 Guanajuato,Acámbaro,2.0,2.0,0.0,0.0,2019-06-14
-Guanajuato,Apaseo el Alto,2.0,1.0,0.0,1.0,2019-06-14
+Guanajuato,Apaseo El Alto,2.0,1.0,0.0,1.0,2019-06-14
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-06-14
 Guanajuato,Romita,1.0,1.0,0.0,0.0,2019-06-14
-Guanajuato,"Silao de la 
-Victoria",2.0,2.0,0.0,0.0,2019-06-14
+Guanajuato,Silao De La Victoria,2.0,2.0,0.0,0.0,2019-06-14
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-06-14
 Michoacán,Chucándiro,2.0,2.0,0.0,0.0,2019-06-14
 Michoacán,Tangamandapio,1.0,1.0,0.0,0.0,2019-06-14
@@ -21,15 +20,13 @@ Michoacán,Tzintzuntzan,2.0,1.0,1.0,0.0,2019-06-14
 Michoacán,Uruapan,2.0,1.0,0.0,1.0,2019-06-14
 Michoacán,Ziracuaretiro,2.0,2.0,0.0,0.0,2019-06-14
 Estado de México,Toluca,1.0,1.0,0.0,0.0,2019-06-14
-Nuevo León,"Cadereyta 
-Jiménez",1.0,1.0,0.0,0.0,2019-06-14
-Nuevo León,Gral. Treviño,1.0,0.0,1.0,0.0,2019-06-14
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2019-06-14
+Nuevo León,General Treviño,1.0,0.0,1.0,0.0,2019-06-14
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-06-14
 Nuevo León,Santa Catarina,3.0,3.0,0.0,0.0,2019-06-14
 Puebla,Chietla,1.0,1.0,0.0,0.0,2019-06-14
 Puebla,Puebla,2.0,2.0,0.0,0.0,2019-06-14
-Puebla,"San Pedro 
-Cholula",1.0,1.0,0.0,0.0,2019-06-14
+Puebla,San Pedro Cholula,1.0,1.0,0.0,0.0,2019-06-14
 Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-06-14
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-06-14
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-06-14
@@ -39,8 +36,7 @@ Sonora,Empalme,1.0,1.0,0.0,0.0,2019-06-14
 Sonora,Nogales,1.0,1.0,0.0,0.0,2019-06-14
 Tamaulipas,Reynosa,3.0,3.0,0.0,0.0,2019-06-14
 Tlaxcala,Calpulalpan,4.0,0.0,0.0,4.0,2019-06-14
-Tlaxcala,"Tetla de la 
-Solidaridad",1.0,0.0,0.0,1.0,2019-06-14
+Tlaxcala,Tetla De La Solidaridad,1.0,0.0,0.0,1.0,2019-06-14
 Veracruz,Coatzacoalcos,2.0,1.0,1.0,0.0,2019-06-14
 Veracruz,Coatzintla,1.0,1.0,0.0,0.0,2019-06-14
 Veracruz,Huatusco,1.0,0.0,1.0,0.0,2019-06-14

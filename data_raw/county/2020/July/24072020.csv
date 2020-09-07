@@ -5,8 +5,7 @@ Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-07-24
 Chihuahua,Cuauhtémoc,2.0,2.0,0.0,0.0,2020-07-24
 Chihuahua,Juárez,6.0,5.0,1.0,0.0,2020-07-24
 Coahuila,Allende,1.0,1.0,0.0,0.0,2020-07-24
-Coahuila,"San Juan de 
-Sabinas",1.0,1.0,0.0,0.0,2020-07-24
+Coahuila,San Juan De Sabinas,1.0,1.0,0.0,0.0,2020-07-24
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-07-24
 Durango,Cuencamé,1.0,1.0,0.0,0.0,2020-07-24
 Guanajuato,Acámbaro,3.0,2.0,1.0,0.0,2020-07-24
@@ -15,41 +14,30 @@ Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2020-07-24
 Guanajuato,León,4.0,4.0,0.0,0.0,2020-07-24
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-07-24
 Guanajuato,Uriangato,2.0,2.0,0.0,0.0,2020-07-24
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2020-07-24
-Guerrero,"Huitzuco de 
-los Figueroa",1.0,1.0,0.0,0.0,2020-07-24
-Guerrero,"Tlapa de 
-Comonfort",1.0,0.0,1.0,0.0,2020-07-24
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-07-24
+Guerrero,Huitzuco De Los Figueroa,1.0,1.0,0.0,0.0,2020-07-24
+Guerrero,Tlapa De Comonfort,1.0,0.0,1.0,0.0,2020-07-24
 Jalisco,Chapala,1.0,1.0,0.0,0.0,2020-07-24
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-07-24
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-07-24
-Jalisco,"Tlajomulco 
-de Zúñiga",1.0,0.0,1.0,0.0,2020-07-24
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-07-24
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,1.0,0.0,2020-07-24
 Michoacán,Chilchota,2.0,2.0,0.0,0.0,2020-07-24
-Michoacán,"Lázaro 
-Cárdenas",1.0,1.0,0.0,0.0,2020-07-24
+Michoacán,Lázaro Cárdenas,1.0,1.0,0.0,0.0,2020-07-24
 Michoacán,Tacámbaro,2.0,2.0,0.0,0.0,2020-07-24
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-07-24
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-07-24
 Morelos,Cuernavaca,1.0,0.0,1.0,0.0,2020-07-24
 Morelos,Xochitepec,1.0,1.0,0.0,0.0,2020-07-24
-Estado de México,"Ecatepec de 
-Morelos",2.0,2.0,0.0,0.0,2020-07-24
+Estado de México,Ecatepec De Morelos,2.0,2.0,0.0,0.0,2020-07-24
 Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-07-24
 Estado de México,Tepetlaoxtoc,1.0,1.0,0.0,0.0,2020-07-24
 Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-07-24
 Estado de México,Villa Guerrero,1.0,1.0,0.0,0.0,2020-07-24
 Estado de México,Xonacatlán,2.0,1.0,1.0,0.0,2020-07-24
-Nuevo León,"Gral. 
-Escobedo",1.0,1.0,0.0,0.0,2020-07-24
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2020-07-24
 Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2020-07-24
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1.0,1.0,0.0,0.0,2020-07-24
-Oaxaca,"San Pablo 
-Huitzo",1.0,1.0,0.0,0.0,2020-07-24
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2020-07-24
+Oaxaca,San Pablo Huitzo,1.0,1.0,0.0,0.0,2020-07-24
 San Luis Potosí,Matehuala,1.0,1.0,0.0,0.0,2020-07-24
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-07-24
 Sonora,Cajeme,2.0,2.0,0.0,0.0,2020-07-24
@@ -60,7 +48,5 @@ Tabasco,Centro,2.0,1.0,0.0,1.0,2020-07-24
 Tamaulipas,Victoria,3.0,2.0,0.0,1.0,2020-07-24
 Veracruz,Jamapa,1.0,1.0,0.0,0.0,2020-07-24
 Veracruz,Veracruz,1.0,1.0,0.0,0.0,2020-07-24
-Zacatecas,"General 
-Enrique 
-Estrada",1.0,1.0,0.0,0.0,2020-07-24
+Zacatecas,General Enrique Estrada,1.0,1.0,0.0,0.0,2020-07-24
 Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2020-07-24

@@ -8,30 +8,22 @@ Chihuahua,Cuauhtémoc,1,1.0,0.0,0.0,2019-03-04
 Chihuahua,Juárez,1,1.0,0.0,0.0,2019-03-04
 Ciudad de México,Azcapotzalco,1,1.0,0.0,0.0,2019-03-04
 Ciudad de México,Coyoacán,1,1.0,0.0,0.0,2019-03-04
-Ciudad de México,"Gustavo A. 
-Madero",2,1.0,1.0,0.0,2019-03-04
+Ciudad de México,Gustavo A. Madero,2,1.0,1.0,0.0,2019-03-04
 Ciudad de México,Iztacalco,1,1.0,0.0,0.0,2019-03-04
 Ciudad de México,Iztapalapa,3,1.0,0.0,2.0,2019-03-04
 Durango,Hidalgo,1,1.0,0.0,0.0,2019-03-04
-Estado de México,"Coacalco de 
-Berriozábal",1,0.0,1.0,0.0,2019-03-04
-Estado de México,"Ecatepec de 
-Morelos",1,1.0,0.0,0.0,2019-03-04
+Estado de México,Coacalco De Berriozábal,1,0.0,1.0,0.0,2019-03-04
+Estado de México,Ecatepec De Morelos,1,1.0,0.0,0.0,2019-03-04
 Estado de México,Jaltenco,5,5.0,0.0,0.0,2019-03-04
-Estado de México,"Naucalpan de 
-Juárez",1,1.0,0.0,0.0,2019-03-04
+Estado de México,Naucalpan De Juárez,1,1.0,0.0,0.0,2019-03-04
 Guanajuato,Guanajuato,1,0.0,1.0,0.0,2019-03-04
 Guanajuato,Salamanca,3,2.0,1.0,0.0,2019-03-04
-Guanajuato,"San Miguel de 
-Allende",1,1.0,0.0,0.0,2019-03-04
+Guanajuato,San Miguel De Allende,1,1.0,0.0,0.0,2019-03-04
 Guanajuato,Tarimoro,1,1.0,0.0,0.0,2019-03-04
-Guerrero,"Acapulco de 
-Juárez",2,2.0,0.0,0.0,2019-03-04
-Guerrero,"Taxco de 
-Alarcón",1,1.0,0.0,0.0,2019-03-04
+Guerrero,Acapulco De Juárez,2,2.0,0.0,0.0,2019-03-04
+Guerrero,Taxco De Alarcón,1,1.0,0.0,0.0,2019-03-04
 Hidalgo,Tecozautla,1,1.0,0.0,0.0,2019-03-04
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0,2019-03-04
+Jalisco,San Pedro Tlaquepaque,1,1.0,0.0,0.0,2019-03-04
 Jalisco,Tonalá,2,1.0,1.0,0.0,2019-03-04
 Michoacán,Jacona,1,1.0,0.0,0.0,2019-03-04
 Michoacán,Los Reyes,1,0.0,1.0,0.0,2019-03-04
@@ -39,15 +31,11 @@ Michoacán,Zamora,3,3.0,0.0,0.0,2019-03-04
 Morelos,Xochitepec,3,3.0,0.0,0.0,2019-03-04
 Morelos,Yecapixtla,1,1.0,0.0,0.0,2019-03-04
 Nayarit,Tepic,2,2.0,0.0,0.0,2019-03-04
-Oaxaca,"Oaxaca de 
-Juárez",3,1.0,0.0,2.0,2019-03-04
-Oaxaca,"Santiago 
-Yaveo",3,3.0,0.0,0.0,2019-03-04
-Puebla,"Chalchicomula 
-de Sesma",1,1.0,0.0,0.0,2019-03-04
+Oaxaca,Oaxaca De Juárez,3,1.0,0.0,2.0,2019-03-04
+Oaxaca,Santiago Yaveo,3,3.0,0.0,0.0,2019-03-04
+Puebla,Chalchicomula De Sesma,1,1.0,0.0,0.0,2019-03-04
 Puebla,Nicolás Bravo,2,1.0,1.0,0.0,2019-03-04
-Puebla,"San Martín 
-Texmelucan",1,1.0,0.0,0.0,2019-03-04
+Puebla,San Martín Texmelucan,1,1.0,0.0,0.0,2019-03-04
 Quintana Roo,Benito Juárez,3,2.0,1.0,0.0,2019-03-04
 Sinaloa,Mazatlán,3,3.0,0.0,0.0,2019-03-04
 Tabasco,Centro,2,1.0,1.0,0.0,2019-03-04

@@ -7,30 +7,20 @@ Colima,Colima,1,1.0,0.0,0.0,2019-05-26
 Guanajuato,Acámbaro,4,4.0,0.0,0.0,2019-05-26
 Guanajuato,Celaya,2,2.0,0.0,0.0,2019-05-26
 Guanajuato,Yuriria,1,1.0,0.0,0.0,2019-05-26
-Guerrero,"Acapulco de 
-Juárez",4,4.0,0.0,0.0,2019-05-26
-Guerrero,"Chilapa de 
-Álvarez",1,0.0,0.0,1.0,2019-05-26
-Guerrero,"Chilpancingo 
-de los Bravo",12,12.0,0.0,0.0,2019-05-26
-Guerrero,"Zihuatanejo de 
-Azueta",2,1.0,1.0,0.0,2019-05-26
-Hidalgo,"Atotonilco de 
-Tula",1,1.0,0.0,0.0,2019-05-26
+Guerrero,Acapulco De Juárez,4,4.0,0.0,0.0,2019-05-26
+Guerrero,Chilapa De Álvarez,1,0.0,0.0,1.0,2019-05-26
+Guerrero,Chilpancingo De Los Bravo,12,12.0,0.0,0.0,2019-05-26
+Guerrero,Zihuatanejo De Azueta,2,1.0,1.0,0.0,2019-05-26
+Hidalgo,Atotonilco De Tula,1,1.0,0.0,0.0,2019-05-26
 Jalisco,Etzatlán,2,2.0,0.0,0.0,2019-05-26
 Michoacán,Zamora,3,2.0,1.0,0.0,2019-05-26
 Morelos,Temixco,1,1.0,0.0,0.0,2019-05-26
-Estado de México,"Coacalco de 
-Berriozábal",2,0.0,0.0,2.0,2019-05-26
-Estado de México,"Ecatepec de 
-Morelos",1,1.0,0.0,0.0,2019-05-26
-Estado de México,"Melchor 
-Ocampo",1,1.0,0.0,0.0,2019-05-26
+Estado de México,Coacalco De Berriozábal,2,0.0,0.0,2.0,2019-05-26
+Estado de México,Ecatepec De Morelos,1,1.0,0.0,0.0,2019-05-26
+Estado de México,Melchor Ocampo,1,1.0,0.0,0.0,2019-05-26
 Estado de México,Toluca,1,1.0,0.0,0.0,2019-05-26
-Oaxaca,"Miahuatlán de 
-Porfirio Díaz",1,1.0,0.0,0.0,2019-05-26
-Oaxaca,"Oaxaca de 
-Juárez",1,1.0,0.0,0.0,2019-05-26
+Oaxaca,Miahuatlán De Porfirio Díaz,1,1.0,0.0,0.0,2019-05-26
+Oaxaca,Oaxaca De Juárez,1,1.0,0.0,0.0,2019-05-26
 Puebla,Puebla,1,1.0,0.0,0.0,2019-05-26
 Puebla,Quecholac,1,1.0,0.0,0.0,2019-05-26
 Puebla,Tecamachalco,2,2.0,0.0,0.0,2019-05-26
@@ -39,6 +29,5 @@ Sinaloa,Culiacán,3,3.0,0.0,0.0,2019-05-26
 Tabasco,Centro,2,2.0,0.0,0.0,2019-05-26
 Tabasco,Cárdenas,3,3.0,0.0,0.0,2019-05-26
 Tabasco,Huimanguillo,1,1.0,0.0,0.0,2019-05-26
-Tlaxcala,"San Pablo del 
-Monte",1,1.0,0.0,0.0,2019-05-26
+Tlaxcala,San Pablo Del Monte,1,1.0,0.0,0.0,2019-05-26
 Veracruz,Xalapa,1,0.0,1.0,0.0,2019-05-26

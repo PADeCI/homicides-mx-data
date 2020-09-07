@@ -5,52 +5,39 @@ Baja California,Mexicali,1.0,1.0,0.0,0.0,2020-05-29
 Baja California,Tijuana,9.0,8.0,1.0,0.0,2020-05-29
 Campeche,Carmen,1.0,1.0,0.0,0.0,2020-05-29
 Chihuahua,Juárez,4.0,3.0,1.0,0.0,2020-05-29
-Ciudad de México,"Gustavo A. 
-Madero",3.0,3.0,0.0,0.0,2020-05-29
+Ciudad de México,Gustavo A. Madero,3.0,3.0,0.0,0.0,2020-05-29
 Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2020-05-29
-Ciudad de México,"Álvaro 
-Obregón",1.0,1.0,0.0,0.0,2020-05-29
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2020-05-29
 Coahuila,Saltillo,1.0,1.0,0.0,0.0,2020-05-29
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-05-29
 Guanajuato,Celaya,4.0,4.0,0.0,0.0,2020-05-29
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-05-29
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-05-29
 Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-05-29
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2020-05-29
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2020-05-29
 Guanajuato,Villagrán,1.0,1.0,0.0,0.0,2020-05-29
-Guerrero,"Chilapa de 
-Álvarez",1.0,1.0,0.0,0.0,2020-05-29
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,1.0,0.0,0.0,2020-05-29
-Guerrero,"Leonardo 
-Bravo",3.0,3.0,0.0,0.0,2020-05-29
-Jalisco,"Encarnación 
-de Díaz",2.0,2.0,0.0,0.0,2020-05-29
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-05-29
-Jalisco,"Tepatitlán de 
-Morelos",1.0,1.0,0.0,0.0,2020-05-29
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2020-05-29
+Guerrero,Chilapa De Álvarez,1.0,1.0,0.0,0.0,2020-05-29
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-05-29
+Guerrero,Leonardo Bravo,3.0,3.0,0.0,0.0,2020-05-29
+Jalisco,Encarnación De Díaz,2.0,2.0,0.0,0.0,2020-05-29
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-29
+Jalisco,Tepatitlán De Morelos,1.0,1.0,0.0,0.0,2020-05-29
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-05-29
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-05-29
 Michoacán,Erongarícuaro,1.0,1.0,0.0,0.0,2020-05-29
-Michoacán,"Gabriel 
-Zamora",3.0,3.0,0.0,0.0,2020-05-29
+Michoacán,Gabriel Zamora,3.0,3.0,0.0,0.0,2020-05-29
 Michoacán,Irimbo,1.0,1.0,0.0,0.0,2020-05-29
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-05-29
 Michoacán,Tarímbaro,2.0,2.0,0.0,0.0,2020-05-29
 Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-05-29
 Michoacán,Zinapécuaro,1.0,1.0,0.0,0.0,2020-05-29
 Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-05-29
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2020-05-29
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-05-29
 Estado de México,La Paz,1.0,0.0,0.0,1.0,2020-05-29
 Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-05-29
 Estado de México,Tepotzotlán,1.0,1.0,0.0,0.0,2020-05-29
 Nayarit,Xalisco,2.0,0.0,0.0,2.0,2020-05-29
-Nuevo León,"Cadereyta 
-Jiménez",1.0,1.0,0.0,0.0,2020-05-29
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2020-05-29
 Puebla,Coronango,2.0,1.0,1.0,0.0,2020-05-29
 Puebla,Puebla,1.0,1.0,0.0,0.0,2020-05-29
 Quintana Roo,Bacalar,2.0,1.0,1.0,0.0,2020-05-29
@@ -63,5 +50,4 @@ Sonora,Nogales,1.0,1.0,0.0,0.0,2020-05-29
 Veracruz,Acayucan,2.0,2.0,0.0,0.0,2020-05-29
 Veracruz,Córdoba,1.0,1.0,0.0,0.0,2020-05-29
 Zacatecas,Calera,1.0,1.0,0.0,0.0,2020-05-29
-Zacatecas,"General Pánfilo 
-Natera",3.0,3.0,0.0,0.0,2020-05-29
+Zacatecas,General Pánfilo Natera,3.0,3.0,0.0,0.0,2020-05-29

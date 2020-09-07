@@ -7,42 +7,31 @@ Chihuahua,Casas Grandes,2,2.0,0.0,0.0,2019-02-21
 Chihuahua,Cuauhtémoc,1,1.0,0.0,0.0,2019-02-21
 Ciudad de México,Tláhuac,2,1.0,1.0,0.0,2019-02-21
 Estado de México,Acolman,2,2.0,0.0,0.0,2019-02-21
-Estado de México,"Ecatepec de 
-Morelos",1,1.0,0.0,0.0,2019-02-21
+Estado de México,Ecatepec De Morelos,1,1.0,0.0,0.0,2019-02-21
 Estado de México,Nezahualcóyotl,1,0.0,0.0,1.0,2019-02-21
 Guanajuato,León,3,3.0,0.0,0.0,2019-02-21
 Guanajuato,Salamanca,1,1.0,0.0,0.0,2019-02-21
-Guanajuato,Silao,6,4.0,2.0,0.0,2019-02-21
-Guerrero,"Acapulco de 
-Juárez",3,1.0,0.0,2.0,2019-02-21
-Guerrero,"Chilpancingo de 
-los Bravo",1,1.0,0.0,0.0,2019-02-21
+Guanajuato,Silao De La Victoria,6,4.0,2.0,0.0,2019-02-21
+Guerrero,Acapulco De Juárez,3,1.0,0.0,2.0,2019-02-21
+Guerrero,Chilpancingo De Los Bravo,1,1.0,0.0,0.0,2019-02-21
 Guerrero,Pungarabato,1,1.0,0.0,0.0,2019-02-21
 Jalisco,Guadalajara,8,8.0,0.0,0.0,2019-02-21
-Jalisco,"Tlajomulco de 
-Zúñiga",5,0.0,0.0,5.0,2019-02-21
+Jalisco,Tlajomulco De Zúñiga,5,0.0,0.0,5.0,2019-02-21
 Jalisco,Tonalá,1,1.0,0.0,0.0,2019-02-21
 Michoacán,Buenavista,9,9.0,0.0,0.0,2019-02-21
 Michoacán,Lagunillas,2,2.0,0.0,0.0,2019-02-21
 Michoacán,Morelia,4,4.0,0.0,0.0,2019-02-21
 Michoacán,Pátzcuaro,1,1.0,0.0,0.0,2019-02-21
 Morelos,Cuernavaca,2,2.0,0.0,0.0,2019-02-21
-Morelos,Puente de Ixtla,1,0.0,1.0,0.0,2019-02-21
-Morelos,"Tlaltizapán de 
-Zapata",1,1.0,0.0,0.0,2019-02-21
+Morelos,Puente De Ixtla,1,0.0,1.0,0.0,2019-02-21
+Morelos,Tlaltizapán De Zapata,1,1.0,0.0,0.0,2019-02-21
 Nuevo León,Allende,1,0.0,0.0,1.0,2019-02-21
-Oaxaca,"San Andrés 
-Huaxpaltepec",1,1.0,0.0,0.0,2019-02-21
-Oaxaca,"San Juan 
-Bautista 
-Guelache",3,2.0,1.0,0.0,2019-02-21
-Oaxaca,"Santa María 
-Huatulco",2,1.0,1.0,0.0,2019-02-21
+Oaxaca,San Andrés Huaxpaltepec,1,1.0,0.0,0.0,2019-02-21
+Oaxaca,San Juan Bautista Guelache,3,2.0,1.0,0.0,2019-02-21
+Oaxaca,Santa María Huatulco,2,1.0,1.0,0.0,2019-02-21
 Puebla,Puebla,1,1.0,0.0,0.0,2019-02-21
-Puebla,"San José 
-Miahuatlán",1,1.0,0.0,0.0,2019-02-21
-Puebla,"San Martín 
-Texmelucan",1,1.0,0.0,0.0,2019-02-21
+Puebla,San José Miahuatlán,1,1.0,0.0,0.0,2019-02-21
+Puebla,San Martín Texmelucan,1,1.0,0.0,0.0,2019-02-21
 Puebla,Tehuacán,1,1.0,0.0,0.0,2019-02-21
 Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2019-02-21
 Quintana Roo,Solidaridad,1,1.0,0.0,0.0,2019-02-21
@@ -55,7 +44,5 @@ Tabasco,Tenosique,1,0.0,1.0,0.0,2019-02-21
 Tamaulipas,Ciudad Madero,1,0.0,0.0,1.0,2019-02-21
 Tamaulipas,Tampico,1,1.0,0.0,0.0,2019-02-21
 Tamaulipas,Victoria,1,1.0,0.0,0.0,2019-02-21
-Veracruz,"Hueyapan de 
-Ocampo",1,1.0,0.0,0.0,2019-02-21
-Veracruz,"Soledad 
-Atzompa",4,1.0,0.0,3.0,2019-02-21
+Veracruz,Hueyapan De Ocampo,1,1.0,0.0,0.0,2019-02-21
+Veracruz,Soledad Atzompa,4,1.0,0.0,3.0,2019-02-21

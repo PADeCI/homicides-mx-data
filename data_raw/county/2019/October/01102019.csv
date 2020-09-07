@@ -1,52 +1,36 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,9,6.0,0.0,3.0,2019-10-01
 Baja California Sur,La Paz,1,1.0,0.0,0.0,2019-10-01
-Chiapas,"Comitán de 
-Domínguez",1,1.0,0.0,0.0,2019-10-01
+Chiapas,Comitán De Domínguez,1,1.0,0.0,0.0,2019-10-01
 Chihuahua,Bocoyna,2,2.0,0.0,0.0,2019-10-01
 Chihuahua,Casas Grandes,1,1.0,0.0,0.0,2019-10-01
 Chihuahua,Cuauhtémoc,2,2.0,0.0,0.0,2019-10-01
-Ciudad de México,"Gustavo A. 
-Madero",1,1.0,0.0,0.0,2019-10-01
-Guanajuato,"Apaseo el 
-Grande",2,2.0,0.0,0.0,2019-10-01
+Ciudad de México,Gustavo A. Madero,1,1.0,0.0,0.0,2019-10-01
+Guanajuato,Apaseo El Grande,2,2.0,0.0,0.0,2019-10-01
 Guanajuato,Celaya,6,3.0,2.0,1.0,2019-10-01
 Guanajuato,León,2,1.0,1.0,0.0,2019-10-01
-Guanajuato,"Purísima del 
-Rincón",1,1.0,0.0,0.0,2019-10-01
+Guanajuato,Purísima Del Rincón,1,1.0,0.0,0.0,2019-10-01
 Guanajuato,Pénjamo,2,1.0,1.0,0.0,2019-10-01
 Guanajuato,Salamanca,2,1.0,0.0,1.0,2019-10-01
-Guanajuato,"Valle de 
-Santiago",1,1.0,0.0,0.0,2019-10-01
-Guerrero,"Acapulco de 
-Juárez",1,1.0,0.0,0.0,2019-10-01
+Guanajuato,Valle De Santiago,1,1.0,0.0,0.0,2019-10-01
+Guerrero,Acapulco De Juárez,1,1.0,0.0,0.0,2019-10-01
 Hidalgo,Tizayuca,1,1.0,0.0,0.0,2019-10-01
-Jalisco,"Encarnación de 
-Díaz",3,0.0,3.0,0.0,2019-10-01
+Jalisco,Encarnación De Díaz,3,0.0,3.0,0.0,2019-10-01
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2019-10-01
-Jalisco,"Lagos de 
-Moreno",2,0.0,1.0,1.0,2019-10-01
+Jalisco,Lagos De Moreno,2,0.0,1.0,1.0,2019-10-01
 Jalisco,Zapopan,1,1.0,0.0,0.0,2019-10-01
 Michoacán,Jacona,3,3.0,0.0,0.0,2019-10-01
 Michoacán,Morelia,1,1.0,0.0,0.0,2019-10-01
 Michoacán,Uruapan,1,1.0,0.0,0.0,2019-10-01
 Morelos,Cuernavaca,1,1.0,0.0,0.0,2019-10-01
-Estado de México,"Ecatepec de 
-Morelos",2,2.0,0.0,0.0,2019-10-01
+Estado de México,Ecatepec De Morelos,2,2.0,0.0,0.0,2019-10-01
 Nuevo León,García,1,1.0,0.0,0.0,2019-10-01
-Nuevo León,Gral. Escobedo,1,1.0,0.0,0.0,2019-10-01
-Nuevo León,"San Nicolás de 
-los Garza",1,1.0,0.0,0.0,2019-10-01
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1,1.0,0.0,0.0,2019-10-01
-Oaxaca,"Oaxaca de 
-Juárez",2,0.0,0.0,2.0,2019-10-01
-Oaxaca,"San Jacinto 
-Amilpas",1,1.0,0.0,0.0,2019-10-01
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",2,2.0,0.0,0.0,2019-10-01
+Nuevo León,Escobedo,1,1.0,0.0,0.0,2019-10-01
+Nuevo León,San Nicolás De Los Garza,1,1.0,0.0,0.0,2019-10-01
+Oaxaca,Zaragoza,1,1.0,0.0,0.0,2019-10-01
+Oaxaca,Oaxaca De Juárez,2,0.0,0.0,2.0,2019-10-01
+Oaxaca,San Jacinto Amilpas,1,1.0,0.0,0.0,2019-10-01
+Oaxaca,San Juan Bautista Tuxtepec,2,2.0,0.0,0.0,2019-10-01
 Puebla,Huaquechula,1,0.0,1.0,0.0,2019-10-01
 Puebla,Puebla,3,3.0,0.0,0.0,2019-10-01
 Puebla,Tehuacán,1,1.0,0.0,0.0,2019-10-01
@@ -55,14 +39,11 @@ Quintana Roo,Benito Juárez,4,3.0,0.0,1.0,2019-10-01
 Quintana Roo,Tulum,1,1.0,0.0,0.0,2019-10-01
 Sinaloa,Culiacán,1,1.0,0.0,0.0,2019-10-01
 Tabasco,Centro,1,1.0,0.0,0.0,2019-10-01
-Tamaulipas,"Gustavo Díaz 
-Ordaz",2,2.0,0.0,0.0,2019-10-01
+Tamaulipas,Gustavo Díaz Ordaz,2,2.0,0.0,0.0,2019-10-01
 Tamaulipas,Reynosa,1,1.0,0.0,0.0,2019-10-01
 Tlaxcala,Panotla,2,1.0,0.0,1.0,2019-10-01
-Veracruz,"Chinampa de 
-Gorostiza",3,3.0,0.0,0.0,2019-10-01
+Veracruz,Chinampa De Gorostiza,3,3.0,0.0,0.0,2019-10-01
 Veracruz,Córdoba,1,0.0,1.0,0.0,2019-10-01
-Veracruz,"Emiliano 
-Zapata",1,1.0,0.0,0.0,2019-10-01
+Veracruz,Emiliano Zapata,1,1.0,0.0,0.0,2019-10-01
 Veracruz,Tihuatlán,1,1.0,0.0,0.0,2019-10-01
 Zacatecas,Valparaíso,3,3.0,0.0,0.0,2019-10-01

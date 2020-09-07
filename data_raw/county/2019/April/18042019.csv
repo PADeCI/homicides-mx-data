@@ -4,36 +4,25 @@ Chihuahua,Chihuahua,1,0.0,0.0,1.0,2019-04-18
 Chihuahua,Cuauhtémoc,1,1.0,0.0,0.0,2019-04-18
 Chihuahua,Juárez,6,6.0,0.0,0.0,2019-04-18
 Ciudad de México,Cuauhtémoc,1,1.0,0.0,0.0,2019-04-18
-Ciudad de México,"Gustavo A. 
-Madero",1,1.0,0.0,0.0,2019-04-18
+Ciudad de México,Gustavo A. Madero,1,1.0,0.0,0.0,2019-04-18
 Coahuila,Monclova,1,1.0,0.0,0.0,2019-04-18
 Colima,Manzanillo,1,1.0,0.0,0.0,2019-04-18
 Guanajuato,Celaya,7,1.0,0.0,6.0,2019-04-18
 Guanajuato,Salamanca,1,1.0,0.0,0.0,2019-04-18
-Guanajuato,"San Miguel de 
-Allende",1,1.0,0.0,0.0,2019-04-18
-Guerrero,"Acapulco de 
-Juárez",1,1.0,0.0,0.0,2019-04-18
-Guerrero,"Atoyac de 
-Álvarez",2,2.0,0.0,0.0,2019-04-18
-Guerrero,"Chilpancingo 
-de los Bravo",1,1.0,0.0,0.0,2019-04-18
-Guerrero,"Coyuca de 
-Benítez",1,1.0,0.0,0.0,2019-04-18
+Guanajuato,San Miguel De Allende,1,1.0,0.0,0.0,2019-04-18
+Guerrero,Acapulco De Juárez,1,1.0,0.0,0.0,2019-04-18
+Guerrero,Atoyac De Álvarez,2,2.0,0.0,0.0,2019-04-18
+Guerrero,Chilpancingo De Los Bravo,1,1.0,0.0,0.0,2019-04-18
+Guerrero,Coyuca De Benítez,1,1.0,0.0,0.0,2019-04-18
 Michoacán,Jacona,2,2.0,0.0,0.0,2019-04-18
-Estado de México,"Atizapán de 
-Zaragoza",1,1.0,0.0,0.0,2019-04-18
-Estado de México,"Ecatepec de 
-Morelos",3,1.0,2.0,0.0,2019-04-18
+Estado de México,Atizapán De Zaragoza,1,1.0,0.0,0.0,2019-04-18
+Estado de México,Ecatepec De Morelos,3,1.0,2.0,0.0,2019-04-18
 Nayarit,Xalisco,9,0.0,0.0,9.0,2019-04-18
-Nuevo León,Gral. Escobedo,1,1.0,0.0,0.0,2019-04-18
+Nuevo León,Escobedo,1,1.0,0.0,0.0,2019-04-18
 Nuevo León,Guadalupe,1,1.0,0.0,0.0,2019-04-18
-Oaxaca,"Huautla de 
-Jiménez",1,1.0,0.0,0.0,2019-04-18
-Oaxaca,"Oaxaca de 
-Juárez",1,1.0,0.0,0.0,2019-04-18
-Oaxaca,"Teotitlán de 
-Flores Magón",1,1.0,0.0,0.0,2019-04-18
+Oaxaca,Huautla De Jiménez,1,1.0,0.0,0.0,2019-04-18
+Oaxaca,Oaxaca De Juárez,1,1.0,0.0,0.0,2019-04-18
+Oaxaca,Teotitlán De Flores Magón,1,1.0,0.0,0.0,2019-04-18
 Puebla,Tehuacán,1,1.0,0.0,0.0,2019-04-18
 Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2019-04-18
 Sinaloa,Mocorito,1,1.0,0.0,0.0,2019-04-18
@@ -42,8 +31,7 @@ Sonora,Guaymas,1,1.0,0.0,0.0,2019-04-18
 Veracruz,Agua Dulce,1,1.0,0.0,0.0,2019-04-18
 Veracruz,Minatitlán,3,2.0,1.0,0.0,2019-04-18
 Veracruz,Oteapan,1,1.0,0.0,0.0,2019-04-18
-Veracruz,"San Andrés 
-Tuxtla",1,1.0,0.0,0.0,2019-04-18
+Veracruz,San Andrés Tuxtla,1,1.0,0.0,0.0,2019-04-18
 Veracruz,Tierra Blanca,1,0.0,1.0,0.0,2019-04-18
 Veracruz,Xalapa,2,1.0,0.0,1.0,2019-04-18
 Yucatán,Maxcanú,1,0.0,1.0,0.0,2019-04-18

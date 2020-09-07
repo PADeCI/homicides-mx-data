@@ -1,58 +1,46 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado
-Baja California,Ensenada,2,2.0,0.0,0.0
-Baja California,Mexicali,2,0.0,0.0,2.0
-Baja California,Tijuana,2,1.0,1.0,0.0
-Chiapas,Soyaló,1,1.0,0.0,0.0
-Chihuahua,Bocoyna,1,1.0,0.0,0.0
-Chihuahua,Chihuahua,2,2.0,0.0,0.0
-Chihuahua,Juárez,6,6.0,0.0,0.0
-Ciudad de México,Iztapalapa,1,1.0,0.0,0.0
-Ciudad de México,Xochimilco,1,1.0,0.0,0.0
-Guanajuato,Celaya,1,1.0,0.0,0.0
-Guanajuato,Cortazar,1,1.0,0.0,0.0
-Guanajuato,León,1,0.0,1.0,0.0
-Guanajuato,"San Francisco 
-del Rincón",1,1.0,0.0,0.0
-Guanajuato,"San Luis de la 
-Paz",2,1.0,1.0,0.0
-Guanajuato,"Valle de 
-Santiago",2,2.0,0.0,0.0
-Jalisco,Guadalajara,1,1.0,0.0,0.0
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0
-Michoacán,Lázaro Cárdenas,1,1.0,0.0,0.0
-Michoacán,Morelia,2,2.0,0.0,0.0
-Michoacán,Uruapan,3,3.0,0.0,0.0
-Michoacán,Zamora,3,3.0,0.0,0.0
-Morelos,Cuernavaca,1,1.0,0.0,0.0
-Morelos,Emiliano Zapata,1,1.0,0.0,0.0
-Morelos,Puente de Ixtla,1,1.0,0.0,0.0
-Ciudad de México,Acolman,1,0.0,1.0,0.0
-Ciudad de México,Apatzingán,1,1.0,0.0,0.0
-Ciudad de México,Ixtapaluca,1,1.0,0.0,0.0
-Ciudad de México,"Valle de Chalco 
-Solidaridad",1,1.0,0.0,0.0
-Nuevo León,Pesquería,1,1.0,0.0,0.0
-Oaxaca,"San Felipe 
-Jalapa de Díaz",1,1.0,0.0,0.0
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,1.0,0.0,0.0
-Puebla,Puebla,1,1.0,0.0,0.0
-Puebla,"San Martín 
-Texmelucan",1,0.0,1.0,0.0
-Puebla,"Santiago 
-Miahuatlán",1,0.0,1.0,0.0
-Quintana Roo,Benito Juárez,2,1.0,0.0,1.0
-San Luis Potosí,San Luis Potosí,2,2.0,0.0,0.0
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",3,3.0,0.0,0.0
-Sinaloa,Escuinapa,1,1.0,0.0,0.0
-Tabasco,Jalapa,1,1.0,0.0,0.0
-Veracruz,Medellín,1,1.0,0.0,0.0
-Veracruz,Minatitlán,1,0.0,1.0,0.0
-Veracruz,Paso de Ovejas,1,1.0,0.0,0.0
-Veracruz,Santiago Tuxtla,1,1.0,0.0,0.0
-Veracruz,Veracruz,1,0.0,1.0,0.0
-Zacatecas,Ojocaliente,1,1.0,0.0,0.0
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,2,2,0,0,2019-09-29
+Baja California,Mexicali,2,0,0,2,2019-09-29
+Baja California,Tijuana,2,1,1,0,2019-09-29
+Chiapas,Soyaló,1,1,0,0,2019-09-29
+Chihuahua,Bocoyna,1,1,0,0,2019-09-29
+Chihuahua,Chihuahua,2,2,0,0,2019-09-29
+Chihuahua,Juárez,6,6,0,0,2019-09-29
+Ciudad de México,Iztapalapa,1,1,0,0,2019-09-29
+Ciudad de México,Xochimilco,1,1,0,0,2019-09-29
+Guanajuato,Celaya,1,1,0,0,2019-09-29
+Guanajuato,Cortazar,1,1,0,0,2019-09-29
+Guanajuato,León,1,0,1,0,2019-09-29
+Guanajuato,San Francisco Del Rincón,1,1,0,0,2019-09-29
+Guanajuato,San Luis De La Paz,2,1,1,0,2019-09-29
+Guanajuato,Valle De Santiago,2,2,0,0,2019-09-29
+Jalisco,Guadalajara,1,1,0,0,2019-09-29
+Jalisco,San Pedro Tlaquepaque,1,1,0,0,2019-09-29
+Michoacán,Lázaro Cárdenas,1,1,0,0,2019-09-29
+Michoacán,Morelia,2,2,0,0,2019-09-29
+Michoacán,Uruapan,3,3,0,0,2019-09-29
+Michoacán,Zamora,3,3,0,0,2019-09-29
+Morelos,Cuernavaca,1,1,0,0,2019-09-29
+Morelos,Emiliano Zapata,1,1,0,0,2019-09-29
+Morelos,Puente De Ixtla,1,1,0,0,2019-09-29
+Estado de México,Acolman,1,0,1,0,2019-09-29
+Estado de México,Apatzingán,1,1,0,0,2019-09-29
+Estado de México,Ixtapaluca,1,1,0,0,2019-09-29
+Estado de México,Valle De Chalco Solidaridad,1,1,0,0,2019-09-29
+Nuevo León,Pesquería,1,1,0,0,2019-09-29
+Oaxaca,San Felipe Jalapa De Díaz,1,1,0,0,2019-09-29
+Oaxaca,San Juan Bautista Tuxtepec,1,1,0,0,2019-09-29
+Puebla,Puebla,1,1,0,0,2019-09-29
+Puebla,San Martín Texmelucan,1,0,1,0,2019-09-29
+Puebla,Santiago Miahuatlán,1,0,1,0,2019-09-29
+Quintana Roo,Benito Juárez,2,1,0,1,2019-09-29
+San Luis Potosí,San Luis Potosí,2,2,0,0,2019-09-29
+San Luis Potosí,Soledad De Graciano Sánchez,3,3,0,0,2019-09-29
+Sinaloa,Escuinapa,1,1,0,0,2019-09-29
+Tabasco,Jalapa,1,1,0,0,2019-09-29
+Veracruz,Medellín De Bravo,1,1,0,0,2019-09-29
+Veracruz,Minatitlán,1,0,1,0,2019-09-29
+Veracruz,Paso De Ovejas,1,1,0,0,2019-09-29
+Veracruz,Santiago Tuxtla,1,1,0,0,2019-09-29
+Veracruz,Veracruz,1,0,1,0,2019-09-29
+Zacatecas,Ojocaliente,1,1,0,0,2019-09-29

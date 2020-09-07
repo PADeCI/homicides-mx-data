@@ -1,47 +1,40 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Tijuana,9,6.0,2.0,1.0,2019-12-14
-Campeche,Campeche,1,1.0,0.0,0.0,2019-12-14
-Chiapas,Pichucalco,2,2.0,0.0,0.0,2019-12-14
-Chiapas,Suchiate,1,1.0,0.0,0.0,2019-12-14
-Chihuahua,Juárez,3,3.0,0.0,0.0,2019-12-14
-Ciudad de México,Azcapotzalco,1,1.0,0.0,0.0,2019-12-14
-Ciudad de México,Coyoacán,2,2.0,0.0,0.0,2019-12-14
-Colima,Manzanillo,2,2.0,0.0,0.0,2019-12-14
-Colima,"Villa de 
-Álvarez",1,1.0,0.0,0.0,2019-12-14
-Guanajuato,"Apaseo el 
-Grande",3,3.0,0.0,0.0,2019-12-14
-Guanajuato,León,1,1.0,0.0,0.0,2019-12-14
-Guanajuato,Salamanca,1,0.0,1.0,0.0,2019-12-14
-Guerrero,"Acapulco de 
-Juárez",4,2.0,0.0,2.0,2019-12-14
-Guerrero,"Iguala de la 
-Independencia",3,3.0,0.0,0.0,2019-12-14
-Guerrero,Ometepec,1,1.0,0.0,0.0,2019-12-14
-Hidalgo,"Pachuca de 
-Soto",1,1.0,0.0,0.0,2019-12-14
-Jalisco,Zapopan,1,1.0,0.0,0.0,2019-12-14
-Michoacán,Uruapan,1,1.0,0.0,0.0,2019-12-14
-Morelos,Temixco,2,2.0,0.0,0.0,2019-12-14
-Estado de México,Zumpango,1,1.0,0.0,0.0,2019-12-14
-Nuevo León,Monterrey,1,1.0,0.0,0.0,2019-12-14
-Nuevo León,Salinas Victoria,1,0.0,0.0,1.0,2019-12-14
-Oaxaca,Salina Cruz,1,1.0,0.0,0.0,2019-12-14
-Oaxaca,"San Juan 
-Mazatlán",3,1.0,2.0,0.0,2019-12-14
-Puebla,Amozoc,1,0.0,1.0,0.0,2019-12-14
-Puebla,Huauchinango,2,2.0,0.0,0.0,2019-12-14
-Puebla,Juan Galindo,1,1.0,0.0,0.0,2019-12-14
-Querétaro,"San Juan del 
-Río",1,1.0,0.0,0.0,2019-12-14
-Quintana Roo,Benito Juárez,4,2.0,1.0,1.0,2019-12-14
-Quintana Roo,Isla Mujeres,1,0.0,0.0,1.0,2019-12-14
-Quintana Roo,San Luis Potosí (1)  San Luis Potosí,1,1.0,0.0,0.0,2019-12-14
-Quintana Roo,Solidaridad,1,1.0,0.0,0.0,2019-12-14
-Sinaloa,Ahome,1,0.0,0.0,1.0,2019-12-14
-Sinaloa,Culiacán,3,2.0,1.0,0.0,2019-12-14
-Tabasco,Cunduacán,1,0.0,0.0,1.0,2019-12-14
-Tabasco,Huimanguillo,1,1.0,0.0,0.0,2019-12-14
-Tamaulipas,Reynosa,1,1.0,0.0,0.0,2019-12-14
-Tlaxcala,Tlaxcala,2,2.0,0.0,0.0,2019-12-14
-Zacatecas,Guadalupe,1,1.0,0.0,0.0,2019-12-14
+Baja California,Tijuana,9,6,2,1,2019-12-14
+Campeche,Campeche,1,1,0,0,2019-12-14
+Chiapas,Pichucalco,2,2,0,0,2019-12-14
+Chiapas,Suchiate,1,1,0,0,2019-12-14
+Chihuahua,Juárez,3,3,0,0,2019-12-14
+Ciudad de México,Azcapotzalco,1,1,0,0,2019-12-14
+Ciudad de México,Coyoacán,2,2,0,0,2019-12-14
+Colima,Manzanillo,2,2,0,0,2019-12-14
+Colima,Villa De Álvarez,1,1,0,0,2019-12-14
+Guanajuato,Apaseo El Grande,3,3,0,0,2019-12-14
+Guanajuato,León,1,1,0,0,2019-12-14
+Guanajuato,Salamanca,1,0,1,0,2019-12-14
+Guerrero,Acapulco De Juárez,4,2,0,2,2019-12-14
+Guerrero,Iguala De La Independencia,3,3,0,0,2019-12-14
+Guerrero,Ometepec,1,1,0,0,2019-12-14
+Hidalgo,Pachuca De Soto,1,1,0,0,2019-12-14
+Jalisco,Zapopan,1,1,0,0,2019-12-14
+Michoacán,Uruapan,1,1,0,0,2019-12-14
+Morelos,Temixco,2,2,0,0,2019-12-14
+Estado de México,Zumpango,1,1,0,0,2019-12-14
+Nuevo León,Monterrey,1,1,0,0,2019-12-14
+Nuevo León,Salinas Victoria,1,0,0,1,2019-12-14
+Oaxaca,Salina Cruz,1,1,0,0,2019-12-14
+Oaxaca,San Juan Mazatlán,3,1,2,0,2019-12-14
+Puebla,Amozoc,1,0,1,0,2019-12-14
+Puebla,Huauchinango,2,2,0,0,2019-12-14
+Puebla,Juan Galindo,1,1,0,0,2019-12-14
+Querétaro,San Juan Del Río,1,1,0,0,2019-12-14
+Quintana Roo,Benito Juárez,4,2,1,1,2019-12-14
+Quintana Roo,Isla Mujeres,1,0,0,1,2019-12-14
+Quintana Roo,Solidaridad,1,1,0,0,2019-12-14
+San Luis Potosí,San Luis Potosí,1,1,0,0,2019-12-14
+Sinaloa,Ahome,1,0,0,1,2019-12-14
+Sinaloa,Culiacán,3,2,1,0,2019-12-14
+Tabasco,Cunduacán,1,0,0,1,2019-12-14
+Tabasco,Huimanguillo,1,1,0,0,2019-12-14
+Tamaulipas,Reynosa,1,1,0,0,2019-12-14
+Tlaxcala,Tlaxcala,2,2,0,0,2019-12-14
+Zacatecas,Guadalupe,1,1,0,0,2019-12-14

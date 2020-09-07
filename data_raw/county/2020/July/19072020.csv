@@ -1,56 +1,46 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,"Aguascaliente
-s",2.0,2.0,0.0,0.0,2020-07-19
+Aguascalientes,Aguascalientes,2.0,2.0,0.0,0.0,2020-07-19
 Baja California,Tijuana,7.0,5.0,2.0,0.0,2020-07-19
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-07-19
 Chihuahua,Juárez,4.0,2.0,0.0,2.0,2020-07-19
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2020-07-19
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-07-19
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-07-19
 Durango,Pueblo Nuevo,1.0,1.0,0.0,0.0,2020-07-19
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2020-07-19
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2020-07-19
 Guanajuato,Celaya,3.0,2.0,1.0,0.0,2020-07-19
 Guanajuato,Guanajuato,2.0,1.0,1.0,0.0,2020-07-19
 Guanajuato,León,3.0,3.0,0.0,0.0,2020-07-19
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-07-19
 Guanajuato,Salvatierra,2.0,2.0,0.0,0.0,2020-07-19
-Guerrero,"Acapulco de 
-Juárez",3.0,2.0,1.0,0.0,2020-07-19
+Guerrero,Acapulco De Juárez,3.0,2.0,1.0,0.0,2020-07-19
 Hidalgo,Atitalaquia,5.0,0.0,0.0,5.0,2020-07-19
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-07-19
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-07-19
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-07-19
 Michoacán,Ario,1.0,1.0,0.0,0.0,2020-07-19
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-07-19
-Morelos,"Emiliano 
-Zapata",1.0,1.0,0.0,0.0,2020-07-19
+Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2020-07-19
 Morelos,Jojutla,1.0,0.0,0.0,1.0,2020-07-19
 Morelos,Temixco,1.0,1.0,0.0,0.0,2020-07-19
 Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2020-07-19
-Nuevo León,"San Nicolás 
-de los Garza",1.0,1.0,0.0,0.0,2020-07-19
-Oaxaca,"Oaxaca de 
-Juárez",1.0,1.0,0.0,0.0,2020-07-19
+Nuevo León,San Nicolás De Los Garza,1.0,1.0,0.0,0.0,2020-07-19
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2020-07-19
 Puebla,Atlixco,1.0,1.0,0.0,0.0,2020-07-19
 Puebla,Coronango,1.0,1.0,0.0,0.0,2020-07-19
 Puebla,Puebla,1.0,1.0,0.0,0.0,2020-07-19
 Puebla,Xochiltepec,2.0,2.0,0.0,0.0,2020-07-19
 San Luis Potosí,Matlapa,1.0,1.0,0.0,0.0,2020-07-19
-San Luis Potosí,"San Luis 
-Potosí",2.0,1.0,1.0,0.0,2020-07-19
+San Luis Potosí,San Luis Potosí,2.0,1.0,1.0,0.0,2020-07-19
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-07-19
 Sinaloa,Navolato,1.0,1.0,0.0,0.0,2020-07-19
 Sonora,Cajeme,2.0,2.0,0.0,0.0,2020-07-19
 Sonora,Nogales,2.0,2.0,0.0,0.0,2020-07-19
 Tabasco,Comalcalco,3.0,3.0,0.0,0.0,2020-07-19
-Tamaulipas,"Miguel 
-Alemán",2.0,2.0,0.0,0.0,2020-07-19
+Tamaulipas,Miguel Alemán,2.0,2.0,0.0,0.0,2020-07-19
 Tamaulipas,Victoria,2.0,1.0,1.0,0.0,2020-07-19
 Veracruz,Actopan,1.0,1.0,0.0,0.0,2020-07-19
 Veracruz,Agua Dulce,1.0,0.0,1.0,0.0,2020-07-19
 Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2020-07-19
-Veracruz,"Hueyapan de 
-Ocampo",1.0,1.0,0.0,0.0,2020-07-19
+Veracruz,Hueyapan De Ocampo,1.0,1.0,0.0,0.0,2020-07-19
 Veracruz,Las Choapas,2.0,2.0,0.0,0.0,2020-07-19
 Veracruz,Tuxpan,1.0,0.0,0.0,1.0,2020-07-19
 Veracruz,Yanga,1.0,1.0,0.0,0.0,2020-07-19

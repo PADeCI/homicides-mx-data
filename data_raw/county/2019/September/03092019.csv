@@ -1,70 +1,55 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado
-Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0
-Baja California,Tijuana,6.0,6.0,0.0,0.0
-Chiapas,Palenque,1.0,1.0,0.0,0.0
-Chiapas,Tapachula,2.0,1.0,1.0,0.0
-Chihuahua,"Hidalgo del 
-Parral",1.0,1.0,0.0,0.0
-Chihuahua,Juárez,5.0,5.0,0.0,0.0
-Ciudad de México,Benito Juárez,1.0,1.0,0.0,0.0
-Ciudad de México,"Gustavo A. 
-Madero",1.0,0.0,1.0,0.0
-Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0
-Colima,Armería,1.0,1.0,0.0,0.0
-Colima,Manzanillo,1.0,0.0,0.0,1.0
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0
-Guanajuato,Celaya,2.0,2.0,0.0,0.0
-Guanajuato,"Jaral del 
-Progreso",1.0,1.0,0.0,0.0
-Guanajuato,León,1.0,0.0,1.0,0.0
-Guanajuato,"Purísima del 
-Rincón",1.0,1.0,0.0,0.0
-Guanajuato,"Santa Cruz de 
-Juventino Rosas",1.0,1.0,0.0,0.0
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0
-Guerrero,"Chilpancingo de 
-los Bravo",1.0,1.0,0.0,0.0
-Guerrero,San Marcos,1.0,1.0,0.0,0.0
-Jalisco,"San Pedro 
-Tlaquepaque",2.0,2.0,0.0,0.0
-Jalisco,Zapopan,1.0,0.0,0.0,1.0
-Michoacán,Ixtlán,1.0,1.0,0.0,0.0
-Michoacán,Los Reyes,1.0,1.0,0.0,0.0
-Michoacán,Morelia,1.0,0.0,1.0,0.0
-Michoacán,Sahuayo,2.0,2.0,0.0,0.0
-Michoacán,Tepalcatepec,1.0,1.0,0.0,0.0
-Michoacán,Uruapan,2.0,2.0,0.0,0.0
-Michoacán,Zamora,3.0,3.0,0.0,0.0
-Ciudad de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0
-Ciudad de México,La Paz,2.0,2.0,0.0,0.0
-Ciudad de México,Tecámac,1.0,1.0,0.0,0.0
-Oaxaca,"Heroica Ciudad 
-de Huajuapan 
-de León",1.0,1.0,0.0,0.0
-Puebla,Amozoc,3.0,3.0,0.0,0.0
-Quintana Roo,Benito Juárez,2.0,1.0,0.0,1.0
-San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1.0,1.0,0.0,0.0
-Sinaloa,Culiacán,1.0,1.0,0.0,0.0
-Sonora,Empalme,1.0,1.0,0.0,0.0
-Sonora,Hermosillo,1.0,0.0,0.0,1.0
-Tabasco,Centro,1.0,1.0,0.0,0.0
-Tabasco,Cárdenas,1.0,1.0,0.0,0.0
-Tamaulipas,Reynosa,1.0,1.0,0.0,0.0
-Tamaulipas,Victoria,4.0,4.0,0.0,0.0
-Tlaxcala,"San Pablo del 
-Monte",1.0,1.0,0.0,0.0
-Tlaxcala,Totolac,1.0,1.0,0.0,0.0
-Veracruz,Atoyac,1.0,1.0,0.0,0.0
-Veracruz,Isla,1.0,1.0,0.0,0.0
-Veracruz,Tierra Blanca,1.0,1.0,0.0,0.0
-Veracruz,Totutla,1.0,1.0,0.0,0.0
-Veracruz,Veracruz,1.0,1.0,0.0,0.0
-Yucatán,Mérida,1.0,1.0,0.0,0.0
-Zacatecas,Zacatecas,1.0,1.0,0.0,0.0
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1,1,0,0,2019-09-03
+Baja California,Tijuana,6,6,0,0,2019-09-03
+Chiapas,Palenque,1,1,0,0,2019-09-03
+Chiapas,Tapachula,2,1,1,0,2019-09-03
+Chihuahua,Hidalgo Del Parral,1,1,0,0,2019-09-03
+Chihuahua,Juárez,5,5,0,0,2019-09-03
+Ciudad de México,Benito Juárez,1,1,0,0,2019-09-03
+Ciudad de México,Gustavo A. Madero,1,0,1,0,2019-09-03
+Ciudad de México,Iztapalapa,1,1,0,0,2019-09-03
+Colima,Armería,1,1,0,0,2019-09-03
+Colima,Manzanillo,1,0,0,1,2019-09-03
+Guanajuato,Apaseo El Grande,1,1,0,0,2019-09-03
+Guanajuato,Apaseo El Alto,1,1,0,0,2019-09-03
+Guanajuato,Celaya,2,2,0,0,2019-09-03
+Guanajuato,Jaral Del Progreso,1,1,0,0,2019-09-03
+Guanajuato,León,1,0,1,0,2019-09-03
+Guanajuato,Purísima Del Rincón,1,1,0,0,2019-09-03
+Guanajuato,Santa Cruz De Juventino Rosas,1,1,0,0,2019-09-03
+Guerrero,Acapulco De Juárez,2,2,0,0,2019-09-03
+Guerrero,Chilpancingo De Los Bravo,1,1,0,0,2019-09-03
+Guerrero,San Marcos,1,1,0,0,2019-09-03
+Jalisco,San Pedro Tlaquepaque,2,2,0,0,2019-09-03
+Jalisco,Zapopan,1,0,0,1,2019-09-03
+Michoacán,Ixtlán,1,1,0,0,2019-09-03
+Michoacán,Los Reyes,1,1,0,0,2019-09-03
+Michoacán,Morelia,1,0,1,0,2019-09-03
+Michoacán,Sahuayo,2,2,0,0,2019-09-03
+Michoacán,Tepalcatepec,1,1,0,0,2019-09-03
+Michoacán,Uruapan,2,2,0,0,2019-09-03
+Michoacán,Zamora,3,3,0,0,2019-09-03
+Estado de México,Ecatepec De Morelos,1,1,0,0,2019-09-03
+Estado de México,La Paz,2,2,0,0,2019-09-03
+Estado de México,Tecámac,1,1,0,0,2019-09-03
+Oaxaca,Heroica Ciudad De Huajuapan De León,1,1,0,0,2019-09-03
+Puebla,Amozoc,3,3,0,0,2019-09-03
+Quintana Roo,Benito Juárez,2,1,0,1,2019-09-03
+San Luis Potosí,San Luis Potosí,1,1,0,0,2019-09-03
+San Luis Potosí,Soledad De Graciano Sánchez,1,1,0,0,2019-09-03
+Sinaloa,Culiacán,1,1,0,0,2019-09-03
+Sonora,Empalme,1,1,0,0,2019-09-03
+Sonora,Hermosillo,1,0,0,1,2019-09-03
+Tabasco,Centro,1,1,0,0,2019-09-03
+Tabasco,Cárdenas,1,1,0,0,2019-09-03
+Tamaulipas,Reynosa,1,1,0,0,2019-09-03
+Tamaulipas,Victoria,4,4,0,0,2019-09-03
+Tlaxcala,San Pablo Del Monte,1,1,0,0,2019-09-03
+Tlaxcala,Totolac,1,1,0,0,2019-09-03
+Veracruz,Atoyac,1,1,0,0,2019-09-03
+Veracruz,Isla,1,1,0,0,2019-09-03
+Veracruz,Tierra Blanca,1,1,0,0,2019-09-03
+Veracruz,Totutla,1,1,0,0,2019-09-03
+Veracruz,Veracruz,1,1,0,0,2019-09-03
+Yucatán,Mérida,1,1,0,0,2019-09-03
+Zacatecas,Zacatecas,1,1,0,0,2019-09-03

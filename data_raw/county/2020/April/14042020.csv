@@ -1,7 +1,6 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2020-04-14
-Baja California,"Playas de 
-Rosarito",1.0,1.0,0.0,0.0,2020-04-14
+Baja California,Playas De Rosarito,1.0,1.0,0.0,0.0,2020-04-14
 Baja California,Tijuana,7.0,7.0,0.0,0.0,2020-04-14
 Chiapas,Bochil,1.0,1.0,0.0,0.0,2020-04-14
 Chiapas,Tapachula,1.0,1.0,0.0,0.0,2020-04-14
@@ -12,66 +11,45 @@ Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-04-14
 Ciudad de México,Tláhuac,1.0,1.0,0.0,0.0,2020-04-14
 Colima,Armería,1.0,1.0,0.0,0.0,2020-04-14
 Colima,Colima,1.0,1.0,0.0,0.0,2020-04-14
-Colima,Villa de Álvarez,1.0,1.0,0.0,0.0,2020-04-14
+Colima,Villa De Álvarez,1.0,1.0,0.0,0.0,2020-04-14
 Guanajuato,Celaya,6.0,4.0,2.0,0.0,2020-04-14
 Guanajuato,Comonfort,1.0,1.0,0.0,0.0,2020-04-14
 Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-04-14
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-04-14
-Guanajuato,"San Francisco 
-del Rincón",1.0,0.0,1.0,0.0,2020-04-14
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2020-04-14
-Guerrero,"Florencio 
-Villarreal",1.0,1.0,0.0,0.0,2020-04-14
-Guerrero,"Iguala de la 
-Independencia",1.0,1.0,0.0,0.0,2020-04-14
+Guanajuato,San Francisco Del Rincón,1.0,0.0,1.0,0.0,2020-04-14
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-04-14
+Guerrero,Florencio Villarreal,1.0,1.0,0.0,0.0,2020-04-14
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2020-04-14
 Guerrero,Xalpatláhuac,1.0,1.0,0.0,0.0,2020-04-14
-Hidalgo,"Cuautepec de 
-Hinojosa",2.0,2.0,0.0,0.0,2020-04-14
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-04-14
-Michoacán,"Lázaro 
-Cárdenas",1.0,1.0,0.0,0.0,2020-04-14
+Hidalgo,Cuautepec De Hinojosa,2.0,2.0,0.0,0.0,2020-04-14
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-04-14
+Michoacán,Lázaro Cárdenas,1.0,1.0,0.0,0.0,2020-04-14
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-04-14
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-04-14
 Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-04-14
-Morelos,Puente de Ixtla,1.0,0.0,1.0,0.0,2020-04-14
+Morelos,Puente De Ixtla,1.0,0.0,1.0,0.0,2020-04-14
 Morelos,Xochitepec,1.0,1.0,0.0,0.0,2020-04-14
 Estado de México,Chimalhuacán,1.0,1.0,0.0,0.0,2020-04-14
-Estado de México,"Coacalco de 
-Berriozábal",1.0,1.0,0.0,0.0,2020-04-14
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2020-04-14
-Estado de México,"Naucalpan de 
-Juárez",2.0,1.0,1.0,0.0,2020-04-14
-Estado de México,"Tenango del 
-Valle",3.0,3.0,0.0,0.0,2020-04-14
+Estado de México,Coacalco De Berriozábal,1.0,1.0,0.0,0.0,2020-04-14
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-04-14
+Estado de México,Naucalpan De Juárez,2.0,1.0,1.0,0.0,2020-04-14
+Estado de México,Tenango Del Valle,3.0,3.0,0.0,0.0,2020-04-14
 Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-04-14
 Nayarit,Tepic,1.0,1.0,0.0,0.0,2020-04-14
 Nuevo León,Apodaca,2.0,0.0,1.0,1.0,2020-04-14
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-04-14
-Oaxaca,"San Jerónimo 
-Tlacochahuaya",1.0,1.0,0.0,0.0,2020-04-14
-Oaxaca,"San José 
-Chiltepec",1.0,1.0,0.0,0.0,2020-04-14
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",2.0,1.0,1.0,0.0,2020-04-14
+Oaxaca,San Jerónimo Tlacochahuaya,1.0,1.0,0.0,0.0,2020-04-14
+Oaxaca,San José Chiltepec,1.0,1.0,0.0,0.0,2020-04-14
+Oaxaca,San Juan Bautista Tuxtepec,2.0,1.0,1.0,0.0,2020-04-14
 Puebla,Tlahuapan,2.0,2.0,0.0,0.0,2020-04-14
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-04-14
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-04-14
 Tabasco,Centro,1.0,1.0,0.0,0.0,2020-04-14
 Tabasco,Paraíso,2.0,1.0,1.0,0.0,2020-04-14
 Tamaulipas,Reynosa,1.0,0.0,1.0,0.0,2020-04-14
-Tlaxcala,"El Carmen 
-Tequexquitla",1.0,1.0,0.0,0.0,2020-04-14
+Tlaxcala,El Carmen Tequexquitla,1.0,1.0,0.0,0.0,2020-04-14
 Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2020-04-14
-Veracruz,"Ixhuatlán del 
-Sureste",1.0,1.0,0.0,0.0,2020-04-14
-Veracruz,"Nanchital de 
-Lázaro 
-Cárdenas del 
-Río",1.0,1.0,0.0,0.0,2020-04-14
-Veracruz,"Platón 
-Sánchez",3.0,3.0,0.0,0.0,2020-04-14
+Veracruz,Ixhuatlán Del Sureste,1.0,1.0,0.0,0.0,2020-04-14
+Veracruz,Nanchital De Lázaro Cárdenas Del Río,1.0,1.0,0.0,0.0,2020-04-14
+Veracruz,Platón Sánchez,3.0,3.0,0.0,0.0,2020-04-14
 Veracruz,Texcatepec,2.0,1.0,1.0,0.0,2020-04-14

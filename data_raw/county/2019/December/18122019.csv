@@ -1,53 +1,43 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,"San Francisco de 
-los Romo",1,1.0,0.0,0.0,2019-12-18
+Aguascalientes,San Francisco De Los Romo,1,1.0,0.0,0.0,2019-12-18
 Baja California,Tijuana,3,3.0,0.0,0.0,2019-12-18
 Chihuahua,Juárez,4,3.0,1.0,0.0,2019-12-18
 Ciudad de México,Iztapalapa,1,1.0,0.0,0.0,2019-12-18
 Colima,Colima,1,1.0,0.0,0.0,2019-12-18
 Colima,Manzanillo,4,3.0,0.0,1.0,2019-12-18
-Colima,Villa de Álvarez,1,0.0,0.0,1.0,2019-12-18
-Guanajuato,Apaseo el Alto,2,2.0,0.0,0.0,2019-12-18
+Colima,Villa De Álvarez,1,0.0,0.0,1.0,2019-12-18
+Guanajuato,Apaseo El Alto,2,2.0,0.0,0.0,2019-12-18
 Guanajuato,Irapuato,3,2.0,1.0,0.0,2019-12-18
 Guanajuato,Salamanca,1,0.0,1.0,0.0,2019-12-18
-Guerrero,"Acapulco de 
-Juárez",1,0.0,1.0,0.0,2019-12-18
+Guerrero,Acapulco De Juárez,1,0.0,1.0,0.0,2019-12-18
 Guerrero,Cocula,3,3.0,0.0,0.0,2019-12-18
-Guerrero,"Iguala de la 
-Independencia",1,1.0,0.0,0.0,2019-12-18
-Hidalgo,Tula de Allende,2,2.0,0.0,0.0,2019-12-18
+Guerrero,Iguala De La Independencia,1,1.0,0.0,0.0,2019-12-18
+Hidalgo,Tula De Allende,2,2.0,0.0,0.0,2019-12-18
 Jalisco,El Salto,1,1.0,0.0,0.0,2019-12-18
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2019-12-18
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0,2019-12-18
+Jalisco,San Pedro Tlaquepaque,1,1.0,0.0,0.0,2019-12-18
 Jalisco,Zapopan,1,1.0,0.0,0.0,2019-12-18
 Michoacán,Morelia,2,1.0,0.0,1.0,2019-12-18
 Michoacán,Tarímbaro,1,1.0,0.0,0.0,2019-12-18
 Michoacán,Uruapan,1,1.0,0.0,0.0,2019-12-18
-Estado de México,"Ecatepec de 
-Morelos",1,1.0,0.0,0.0,2019-12-18
-Estado de México,"Naucalpan de 
-Juárez",1,1.0,0.0,0.0,2019-12-18
+Estado de México,Ecatepec De Morelos,1,1.0,0.0,0.0,2019-12-18
+Estado de México,Naucalpan De Juárez,1,1.0,0.0,0.0,2019-12-18
 Estado de México,Texcoco,1,1.0,0.0,0.0,2019-12-18
 Estado de México,Tultepec,1,1.0,0.0,0.0,2019-12-18
-Nuevo León,Gral. Escobedo,1,1.0,0.0,0.0,2019-12-18
+Nuevo León,Escobedo,1,1.0,0.0,0.0,2019-12-18
 Nuevo León,Santa Catarina,1,1.0,0.0,0.0,2019-12-18
-Oaxaca,"San Juan Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2019-12-18
-Oaxaca,"Santiago 
-Pinotepa 
-Nacional",1,1.0,0.0,0.0,2019-12-18
+Oaxaca,San Juan Bautista Tuxtepec,1,1.0,0.0,0.0,2019-12-18
+Oaxaca,Santiago Pinotepa Nacional,1,1.0,0.0,0.0,2019-12-18
 Puebla,Zacatlán,1,1.0,0.0,0.0,2019-12-18
 Quintana Roo,Benito Juárez,3,2.0,0.0,1.0,2019-12-18
 Sinaloa,Culiacán,1,1.0,0.0,0.0,2019-12-18
 Sonora,Cajeme,1,0.0,0.0,1.0,2019-12-18
 Tamaulipas,Victoria,1,1.0,0.0,0.0,2019-12-18
 Veracruz,Acayucan,1,1.0,0.0,0.0,2019-12-18
-Veracruz,"Alto Lucero de 
-Gutiérrez Barrios",2,2.0,0.0,0.0,2019-12-18
+Veracruz,Alto Lucero De Gutiérrez Barrios,2,2.0,0.0,0.0,2019-12-18
 Veracruz,Atzacan,2,0.0,0.0,2.0,2019-12-18
 Veracruz,Córdoba,1,1.0,0.0,0.0,2019-12-18
-Veracruz,Vega de Alatorre,2,0.0,0.0,2.0,2019-12-18
+Veracruz,Vega De Alatorre,2,0.0,0.0,2.0,2019-12-18
 Zacatecas,Calera,1,0.0,1.0,0.0,2019-12-18
 Zacatecas,Fresnillo,1,1.0,0.0,0.0,2019-12-18
 Zacatecas,Monte Escobedo,1,1.0,0.0,0.0,2019-12-18

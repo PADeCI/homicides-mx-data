@@ -1,29 +1,22 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,Aguascalientes,1,0.0,1.0,0.0,2019-02-24
-Chiapas,"Chiapa de 
-Corzo",1,1.0,0.0,0.0,2019-02-24
+Chiapas,Chiapa De Corzo,1,1.0,0.0,0.0,2019-02-24
 Chihuahua,Chihuahua,3,3.0,0.0,0.0,2019-02-24
 Chihuahua,Juárez,2,2.0,0.0,0.0,2019-02-24
 Ciudad de México,Cuauhtémoc,1,1.0,0.0,0.0,2019-02-24
 Ciudad de México,Iztacalco,1,1.0,0.0,0.0,2019-02-24
 Coahuila,Monclova,1,1.0,0.0,0.0,2019-02-24
 Colima,Tecomán,1,1.0,0.0,0.0,2019-02-24
-Colima,Villa de Álvarez,1,0.0,1.0,0.0,2019-02-24
+Colima,Villa De Álvarez,1,0.0,1.0,0.0,2019-02-24
 Estado de México,Nezahualcóyotl,1,1.0,0.0,0.0,2019-02-24
 Guanajuato,León,1,1.0,0.0,0.0,2019-02-24
 Guanajuato,Salvatierra,1,1.0,0.0,0.0,2019-02-24
-Guerrero,"Chilpancingo 
-de los Bravo",4,3.0,0.0,1.0,2019-02-24
-Guerrero,"Coyuca de 
-Benítez",1,1.0,0.0,0.0,2019-02-24
-Guerrero,"Técpan de 
-Galeana",1,1.0,0.0,0.0,2019-02-24
-Jalisco,"San Pedro 
-Tlaquepaque",2,1.0,1.0,0.0,2019-02-24
-Jalisco,"Tepatitlán de 
-Morelos",2,0.0,1.0,2.0,2019-02-24
-Michoacán,"Lázaro 
-Cárdenas",1,1.0,0.0,2.0,2019-02-24
+Guerrero,Chilpancingo De Los Bravo,4,3.0,0.0,1.0,2019-02-24
+Guerrero,Coyuca De Benítez,1,1.0,0.0,0.0,2019-02-24
+Guerrero,Técpan De Galeana,1,1.0,0.0,0.0,2019-02-24
+Jalisco,San Pedro Tlaquepaque,2,1.0,1.0,0.0,2019-02-24
+Jalisco,Tepatitlán De Morelos,2,0.0,1.0,2.0,2019-02-24
+Michoacán,Lázaro Cárdenas,1,1.0,0.0,2.0,2019-02-24
 Michoacán,Purépero,5,4.0,1.0,0.0,2019-02-24
 Michoacán,Uruapan,2,2.0,0.0,0.0,2019-02-24
 Morelos,Ayala,1,1.0,0.0,0.0,2019-02-24
@@ -31,10 +24,8 @@ Morelos,Yautepec,6,5.0,1.0,0.0,2019-02-24
 Morelos,Zacatepec,1,1.0,0.0,0.0,2019-02-24
 Nuevo León,Apodaca,1,1.0,0.0,0.0,2019-02-24
 Nuevo León,Salinas Victoria,1,1.0,0.0,0.0,2019-02-24
-Oaxaca,"San Pedro 
-Pochutla",1,1.0,0.0,0.0,2019-02-24
-Oaxaca,"Santa María 
-Huatulco",1,1.0,0.0,0.0,2019-02-24
+Oaxaca,San Pedro Pochutla,1,1.0,0.0,0.0,2019-02-24
+Oaxaca,Santa María Huatulco,1,1.0,0.0,0.0,2019-02-24
 Puebla,Acateno,4,4.0,0.0,0.0,2019-02-24
 Puebla,Puebla,2,1.0,1.0,0.0,2019-02-24
 Puebla,Zacatlán,1,1.0,0.0,0.0,2019-02-24
@@ -44,8 +35,6 @@ Tabasco,Centro,1,1.0,0.0,0.0,2019-02-24
 Tabasco,Huimanguillo,1,1.0,0.0,0.0,2019-02-24
 Veracruz,Altotonga,1,1.0,0.0,0.0,2019-02-24
 Veracruz,Cosoleacaque,1,1.0,0.0,0.0,2019-02-24
-Veracruz,"Ixhuatlán del 
-Sureste",1,0.0,0.0,1.0,2019-02-24
+Veracruz,Ixhuatlán Del Sureste,1,0.0,0.0,1.0,2019-02-24
 Veracruz,Jilotepec,1,1.0,0.0,0.0,2019-02-24
-Veracruz,"Sayula de 
-Alemán",1,1.0,0.0,0.0,2019-02-24
+Veracruz,Sayula De Alemán,1,1.0,0.0,0.0,2019-02-24

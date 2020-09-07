@@ -1,77 +1,37 @@
-Entidad,Municipio,"No de 
-Muertos",Hombre,Mujer,"No 
-Identificado"
-"Baja 
-California 
-(5)",Mexicali,1,1,-,-
-,Tijuana,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-,,1,1,-,-
-Chiapas (1),Ocosingo,1,1,-,-
-"Chihuahua 
-(5)",Chihuahua,1,1,-,-
-,Cuauhtémoc,1,1,-,-
-,Madera,3,3,-,-
-"Ciudad de 
-México (3)","Gustavo A. 
-Madero",2,-,-,2
-,,1,1,-,-
-Colima (2),Manzanillo,1,1,-,-
-,,1,-,1,-
-Durango (2),Durango,1,1,-,-
-,,1,1,-,-
-"Guanajuato 
-(7)",Celaya,1,-,1,-
-,,1,-,1,-
-,,2,2,-,-
-,,1,-,1,-
-,,1,1,-,-
-,León,1,1,-,-
-,Guerrero (1)  Benito Juárez,1,1,-,-
-Jalisco (2),Tonalá,1,1,-,-
-,Zapopan,1,1,-,-
-México (3),Texcoco,1,1,-,-
-,Tultitlán,2,2,-,-
-"Michoacán 
-de Ocampo 
-(4)",Los Reyes,1,1,-,-
-,Uruapan,1,1,-,-
-,,1,1,-,-
-,Zamora,1,1,-,-
-Morelos (1),Temixco,1,1,-,-
-"Nuevo León 
-(1)",Monterrey,1,1,-,-
-Oaxaca (1),"San Juan 
-Bautista 
-Tuxtepec",1,-,1,-
-Puebla (2),"San Martín 
-Texmelucan",1,1,-,-
-,Tecamachalco,1,1,-,-
-"Quintana 
-Roo (4)",Benito Juárez,1,1,-,-
-,,1,-,-,1
-,,1,1,-,-
-,Solidaridad,1,1,-,-
-"San Luis 
-Potosí (3)",Ciudad Valles,1,1,-,-
-,"San Luis 
-Potosí",1,1,-,-
-,,1,1,-,-
-Sinaloa (2),Culiacán,1,1,-,-
-,San Ignacio,1,1,-,-
-Sonora (1),Guaymas,1,1,-,-
-Tabasco (4),"Jalpa de 
-Méndez",4,3,1,-
-Tamaulipas,Reynosa,1,-,1,-
-(3),,,,,
-,Victoria,2.0,2,-,-
-"Veracruz de 
-Ignacio de 
-la Llave (2)",Coatzacoalcos,1.0,1,-,-
-,"San Juan 
-Evangelista",1.0,1,-,-
-"Zacatecas 
-(2)",Fresnillo,1.0,-,1,-
-,,1.0,1,-,-
-Totales,,61.0,50,8,3
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Mexicali,1,1,0,0,2020-02-13
+Baja California,Tijuana,4,4,0,0,2020-02-13
+Chiapas,Ocosingo,1,1,0,0,2020-02-13
+Chihuahua,Chihuahua,1,1,0,0,2020-02-13
+Chihuahua,Cuauhtémoc,1,1,0,0,2020-02-13
+Chihuahua,Madera,3,3,0,0,2020-02-13
+Ciudad de México,Gustavo A. Madero,3,1,0,2,2020-02-13
+Colima,Manzanillo,2,1,1,0,2020-02-13
+Durango,Durango,2,2,0,0,2020-02-13
+Guanajuato,Celaya,6,3,3,0,2020-02-13
+Guerrero,Benito Juárez,1,1,0,0,2020-02-13
+Guanajuato,León,1,1,0,0,2020-02-13
+Jalisco,Tonalá,1,1,0,0,2020-02-13
+Jalisco,Zapopan,1,1,0,0,2020-02-13
+Michoacán,Los Reyes,1,1,0,0,2020-02-13
+Michoacán,Uruapan,2,2,0,0,2020-02-13
+Michoacán,Zamora,1,1,0,0,2020-02-13
+Morelos,Temixco,1,1,0,0,2020-02-13
+Estado de México,Texcoco,1,1,0,0,2020-02-13
+Estado de México,Tultitlán,2,2,0,0,2020-02-13
+Nuevo León,Monterrey,1,1,0,0,2020-02-13
+Oaxaca,San Juan Bautista Tuxtepec,1,0,1,0,2020-02-13
+Puebla,San Martín Texmelucan,1,1,0,0,2020-02-13
+Puebla,Tecamachalco,1,1,0,0,2020-02-13
+Quintana Roo,Benito Juárez,3,2,0,1,2020-02-13
+Quintana Roo,Solidaridad,1,1,0,0,2020-02-13
+San Luis Potosí,Ciudad Valles,1,1,0,0,2020-02-13
+San Luis Potosí,San Luis Potosí,2,2,0,0,2020-02-13
+Sinaloa,Culiacán,1,1,0,0,2020-02-13
+Sinaloa,San Ignacio,1,1,0,0,2020-02-13
+Sonora,Guaymas,1,1,0,0,2020-02-13
+Tabasco,Jalpa De Méndez,4,3,1,0,2020-02-13
+Tamaulipas,Reynosa,1,0,1,0,2020-02-13
+Veracruz,Coatzacoalcos,1,1,0,0,2020-02-13
+Veracruz,San Juan Evangelista,1,1,0,0,2020-02-13
+Zacatecas,Fresnillo,2,1,1,0,2020-02-13

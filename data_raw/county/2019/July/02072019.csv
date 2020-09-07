@@ -15,31 +15,23 @@ Guanajuato,Irapuato,5.0,4.0,0.0,1.0,2019-07-02
 Guanajuato,León,3.0,1.0,2.0,0.0,2019-07-02
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-07-02
 Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-07-02
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-07-02
-Guanajuato,"Silao de la 
-Víctoria",4.0,2.0,2.0,0.0,2019-07-02
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2019-07-02
-Guerrero,"Huitzuco de los 
-Figueroa",1.0,1.0,0.0,0.0,2019-07-02
-Jalisco,"San Pedro 
-Tlaquepaque",3.0,2.0,1.0,0.0,2019-07-02
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-07-02
+Guanajuato,Silao De La Victoria,4.0,2.0,2.0,0.0,2019-07-02
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-07-02
+Guerrero,Huitzuco De Los Figueroa,1.0,1.0,0.0,0.0,2019-07-02
+Jalisco,San Pedro Tlaquepaque,3.0,2.0,1.0,0.0,2019-07-02
 Jalisco,Zapopan,2.0,2.0,0.0,0.0,2019-07-02
 Michoacán,Morelia,2.0,2.0,0.0,0.0,2019-07-02
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-07-02
 Estado de México,Ocoyoacac,1.0,1.0,0.0,0.0,2019-07-02
 Estado de México,Texcoco,1.0,1.0,0.0,0.0,2019-07-02
-Nuevo León,"San Nicolás de 
-los Garza",1.0,0.0,0.0,1.0,2019-07-02
-Oaxaca,"Matías Romero 
-Avendaño",1.0,0.0,0.0,1.0,2019-07-02
+Nuevo León,San Nicolás De Los Garza,1.0,0.0,0.0,1.0,2019-07-02
+Oaxaca,Matías Romero Avendaño,1.0,0.0,0.0,1.0,2019-07-02
 Puebla,Altepexi,1.0,1.0,0.0,0.0,2019-07-02
-Puebla,"San Martín 
-Texmelucan",1.0,1.0,0.0,0.0,2019-07-02
+Puebla,San Martín Texmelucan,1.0,1.0,0.0,0.0,2019-07-02
 Puebla,Tehuacán,1.0,1.0,0.0,0.0,2019-07-02
 Querétaro,Huimilpan,2.0,2.0,0.0,0.0,2019-07-02
-Querétaro,San Juan del Río,2.0,2.0,0.0,0.0,2019-07-02
+Querétaro,San Juan Del Río,2.0,2.0,0.0,0.0,2019-07-02
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-07-02
 San Luis Potosí,Ciudad Valles,1.0,1.0,0.0,0.0,2019-07-02
 Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2019-07-02
@@ -50,11 +42,9 @@ Tamaulipas,Reynosa,2.0,2.0,0.0,0.0,2019-07-02
 Tamaulipas,Victoria,2.0,1.0,1.0,0.0,2019-07-02
 Veracruz,Coatzintla,1.0,1.0,0.0,0.0,2019-07-02
 Veracruz,Las Choapas,1.0,1.0,0.0,0.0,2019-07-02
-Veracruz,"Manlio Fabio 
-Altamirano",2.0,2.0,0.0,0.0,2019-07-02
+Veracruz,Manlio Fabio Altamirano,2.0,2.0,0.0,0.0,2019-07-02
 Veracruz,Minatitlán,1.0,0.0,1.0,0.0,2019-07-02
 Veracruz,Misantla,1.0,1.0,0.0,0.0,2019-07-02
-Veracruz,"Poza Rica de 
-Hidalgo",1.0,1.0,0.0,0.0,2019-07-02
+Veracruz,Poza Rica De Hidalgo,1.0,1.0,0.0,0.0,2019-07-02
 Veracruz,Río Blanco,1.0,0.0,1.0,0.0,2019-07-02
 Zacatecas,Pánuco,1.0,1.0,0.0,0.0,2019-07-02

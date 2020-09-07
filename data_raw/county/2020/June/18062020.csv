@@ -1,59 +1,43 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,"Rincón de 
-Romos",1.0,1.0,0.0,0.0,2020-06-18
+Aguascalientes,Rincón De Romos,1.0,1.0,0.0,0.0,2020-06-18
 Baja California,Ensenada,1.0,1.0,0.0,0.0,2020-06-18
 Baja California,Tecate,1.0,1.0,0.0,0.0,2020-06-18
 Baja California,Tijuana,3.0,3.0,0.0,0.0,2020-06-18
 Campeche,Candelaria,1.0,1.0,0.0,0.0,2020-06-18
-Chiapas,"Chiapa de 
-Corzo",1.0,1.0,0.0,0.0,2020-06-18
+Chiapas,Chiapa De Corzo,1.0,1.0,0.0,0.0,2020-06-18
 Chihuahua,Juárez,9.0,9.0,0.0,0.0,2020-06-18
 Chihuahua,Namiquipa,1.0,1.0,0.0,0.0,2020-06-18
-Ciudad de México,"Gustavo A. 
-Madero",3.0,3.0,0.0,0.0,2020-06-18
+Ciudad de México,Gustavo A. Madero,3.0,3.0,0.0,0.0,2020-06-18
 Ciudad de México,Iztapalapa,2.0,2.0,0.0,0.0,2020-06-18
 Colima,Manzanillo,1.0,0.0,1.0,0.0,2020-06-18
 Guanajuato,Acámbaro,3.0,3.0,0.0,0.0,2020-06-18
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0,2020-06-18
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2020-06-18
 Guanajuato,Celaya,4.0,4.0,0.0,0.0,2020-06-18
-Guanajuato,"Dolores 
-Hidalgo Cuna 
-de la 
-Independencia 
-Nacional",1.0,0.0,1.0,0.0,2020-06-18
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,1.0,0.0,1.0,0.0,2020-06-18
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-06-18
 Guanajuato,León,2.0,2.0,0.0,0.0,2020-06-18
 Guanajuato,Pénjamo,1.0,0.0,0.0,1.0,2020-06-18
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-06-18
 Guanajuato,Villagrán,1.0,0.0,0.0,1.0,2020-06-18
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2020-06-18
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-06-18
 Guerrero,Igualapa,2.0,1.0,1.0,0.0,2020-06-18
 Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2020-06-18
-Jalisco,"Lagos de 
-Moreno",4.0,3.0,1.0,0.0,2020-06-18
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2020-06-18
+Jalisco,Lagos De Moreno,4.0,3.0,1.0,0.0,2020-06-18
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-06-18
 Michoacán,Apatzingán,1.0,1.0,0.0,0.0,2020-06-18
 Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-06-18
 Michoacán,Zamora,4.0,4.0,0.0,0.0,2020-06-18
 Estado de México,Tonatico,1.0,1.0,0.0,0.0,2020-06-18
-Nuevo León,Gral. Escobedo,1.0,1.0,0.0,0.0,2020-06-18
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2020-06-18
 Nuevo León,Monterrey,4.0,4.0,0.0,0.0,2020-06-18
-Oaxaca,"San Pedro 
-Huamelula",2.0,1.0,1.0,0.0,2020-06-18
+Oaxaca,San Pedro Huamelula,2.0,1.0,1.0,0.0,2020-06-18
 Puebla,Atzitzihuacán,1.0,1.0,0.0,0.0,2020-06-18
-Puebla,"Cuetzalan del 
-Progreso",1.0,0.0,1.0,0.0,2020-06-18
-Puebla,"Mazapiltepec 
-de Juárez",1.0,1.0,0.0,0.0,2020-06-18
-Puebla,"Palmar de 
-Bravo",2.0,2.0,0.0,0.0,2020-06-18
+Puebla,Cuetzalan Del Progreso,1.0,0.0,1.0,0.0,2020-06-18
+Puebla,Mazapiltepec De Juárez,1.0,1.0,0.0,0.0,2020-06-18
+Puebla,Palmar De Bravo,2.0,2.0,0.0,0.0,2020-06-18
 Puebla,Puebla,2.0,1.0,1.0,0.0,2020-06-18
 Puebla,Tlaola,1.0,1.0,0.0,0.0,2020-06-18
-Querétaro,"San Juan del 
-Río",1.0,1.0,0.0,0.0,2020-06-18
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2020-06-18
 San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2020-06-18
 Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-06-18
 Sonora,Empalme,1.0,1.0,0.0,0.0,2020-06-18

@@ -1,4 +1,4 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No identificado,Fecha
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,5,,,,2019-01-04
 Campeche,Campeche,1,,,,2019-01-04
 Chiapas,Arriaga,1,,,,2019-01-04
@@ -10,23 +10,20 @@ Ciudad de México,Xochimilco,1,,,,2019-01-04
 Coahuila,Torreón,1,,,,2019-01-04
 Colima,Coquimatlán,1,,,,2019-01-04
 Colima,Tecomán,1,,,,2019-01-04
-Colima,Villa de Álvarez,1,,,,2019-01-04
+Colima,Villa De Álvarez,1,,,,2019-01-04
 Estado de México,Coyotepec,1,,,,2019-01-04
-Estado de México,Ecatepec de Morelos,1,,,,2019-01-04
+Estado de México,Ecatepec De Morelos,1,,,,2019-01-04
 Guanajuato,Irapuato,2,,,,2019-01-04
-Guerrero,Acapulco de Juárez,2,,,,2019-01-04
-Guerrero,"Huitzuco de los 
-Figueroa",1,,,,2019-01-04
+Guerrero,Acapulco De Juárez,2,,,,2019-01-04
+Guerrero,Huitzuco De Los Figueroa,1,,,,2019-01-04
 Hidalgo,Tepeapulco,1,,,,2019-01-04
-Hidalgo,"Tezontepec de 
-Aldama",5,,,,2019-01-04
+Hidalgo,Tezontepec De Aldama,5,,,,2019-01-04
 Jalisco,El Salto,1,,,,2019-01-04
 Jalisco,Guadalajara,1,,,,2019-01-04
-Jalisco,Lagos de Moreno,1,,,,2019-01-04
+Jalisco,Lagos De Moreno,1,,,,2019-01-04
 Jalisco,Ocotlán,2,,,,2019-01-04
-Jalisco,"San Pedro 
-Tlaquepaque",1,,,,2019-01-04
-Jalisco,Tlajomulco de Zúñiga,1,,,,2019-01-04
+Jalisco,San Pedro Tlaquepaque,1,,,,2019-01-04
+Jalisco,Tlajomulco De Zúñiga,1,,,,2019-01-04
 Michoacán,Cotija,1,,,,2019-01-04
 Michoacán,Jacona,1,,,,2019-01-04
 Michoacán,Morelia,1,,,,2019-01-04
@@ -34,8 +31,8 @@ Michoacán,Uruapan,1,,,,2019-01-04
 Morelos,Emiliano Zapata,2,,,,2019-01-04
 Morelos,Jojutla,1,,,,2019-01-04
 Nuevo León,García,1,,,,2019-01-04
-Oaxaca,"Putla Villa de 
-Guerrero",1,,,,2019-01-04
+Nuevo León,Guadalupe,1,,,,2019-01-04
+Oaxaca,Putla Villa De Guerrero,1,,,,2019-01-04
 Oaxaca,San Lorenzo,2,,,,2019-01-04
 Oaxaca,San Pablo Etla,2,,,,2019-01-04
 Puebla,Tehuacán,1,,,,2019-01-04

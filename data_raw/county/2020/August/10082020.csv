@@ -3,41 +3,31 @@ Baja California,Tecate,3,2.0,1.0,0.0,2020-08-10
 Baja California,Tijuana,3,2.0,0.0,1.0,2020-08-10
 Chihuahua,Chihuahua,5,5.0,0.0,0.0,2020-08-10
 Chihuahua,Juárez,1,1.0,0.0,0.0,2020-08-10
-Ciudad de México,"Gustavo A. 
-Madero",1,1.0,0.0,0.0,2020-08-10
+Ciudad de México,Gustavo A. Madero,1,1.0,0.0,0.0,2020-08-10
 Ciudad de México,Iztapalapa,1,1.0,0.0,0.0,2020-08-10
 Ciudad de México,Miguel Hidalgo,1,1.0,0.0,0.0,2020-08-10
 Guanajuato,Celaya,1,1.0,0.0,0.0,2020-08-10
 Guanajuato,Irapuato,1,1.0,0.0,0.0,2020-08-10
 Guanajuato,León,4,2.0,2.0,0.0,2020-08-10
 Guanajuato,Salamanca,1,1.0,0.0,0.0,2020-08-10
-Guanajuato,"Santa Cruz de 
-Juventino Rosas",1,1.0,0.0,0.0,2020-08-10
-Guanajuato,"Valle de 
-Santiago",2,2.0,0.0,0.0,2020-08-10
-Guerrero,"Acapulco de 
-Juárez",1,1.0,0.0,0.0,2020-08-10
+Guanajuato,Santa Cruz De Juventino Rosas,1,1.0,0.0,0.0,2020-08-10
+Guanajuato,Valle De Santiago,2,2.0,0.0,0.0,2020-08-10
+Guerrero,Acapulco De Juárez,1,1.0,0.0,0.0,2020-08-10
 Guerrero,Ometepec,1,1.0,0.0,0.0,2020-08-10
-Guerrero,"Tlapa de 
-Comonfort",1,1.0,0.0,0.0,2020-08-10
-Hidalgo,"Atotonilco de 
-Tula",1,1.0,0.0,0.0,2020-08-10
+Guerrero,Tlapa De Comonfort,1,1.0,0.0,0.0,2020-08-10
+Hidalgo,Atotonilco De Tula,1,1.0,0.0,0.0,2020-08-10
 Hidalgo,Chilcuautla,1,0.0,1.0,0.0,2020-08-10
 Hidalgo,Tlahuelilpan,1,1.0,0.0,0.0,2020-08-10
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2020-08-10
-Morelos,Puente de Ixtla,1,1.0,0.0,0.0,2020-08-10
+Morelos,Puente De Ixtla,1,1.0,0.0,0.0,2020-08-10
 Estado de México,Joquicingo,3,0.0,0.0,3.0,2020-08-10
 Estado de México,Villa Victoria,1,1.0,0.0,0.0,2020-08-10
-Nuevo León,"Cadereyta 
-Jiménez",1,1.0,0.0,0.0,2020-08-10
+Nuevo León,Cadereyta Jiménez,1,1.0,0.0,0.0,2020-08-10
 Nuevo León,Monterrey,1,0.0,1.0,0.0,2020-08-10
-Nuevo León,"San Nicolás de 
-los Garza",2,1.0,1.0,0.0,2020-08-10
-Nuevo León,"San Pedro Garza 
-García",1,1.0,0.0,0.0,2020-08-10
+Nuevo León,San Nicolás De Los Garza,2,1.0,1.0,0.0,2020-08-10
+Nuevo León,San Pedro Garza García,1,1.0,0.0,0.0,2020-08-10
 Nuevo León,Santa Catarina,1,1.0,0.0,0.0,2020-08-10
-Oaxaca,"Santa María 
-Zoquitlán",6,4.0,2.0,0.0,2020-08-10
+Oaxaca,Santa María Zoquitlán,6,4.0,2.0,0.0,2020-08-10
 Puebla,Juan C. Bonilla,1,1.0,0.0,0.0,2020-08-10
 Puebla,Pahuatlán,2,1.0,1.0,0.0,2020-08-10
 Puebla,Puebla,1,1.0,0.0,0.0,2020-08-10
@@ -49,7 +39,7 @@ Sonora,Caborca,1,1.0,0.0,0.0,2020-08-10
 Sonora,Hermosillo,1,1.0,0.0,0.0,2020-08-10
 Sonora,Nogales,1,1.0,0.0,0.0,2020-08-10
 Tamaulipas,Victoria,2,1.0,1.0,0.0,2020-08-10
-Veracruz,Boca del Río,1,1.0,0.0,0.0,2020-08-10
+Veracruz,Boca Del Río,1,1.0,0.0,0.0,2020-08-10
 Veracruz,Rafael Delgado,1,1.0,0.0,0.0,2020-08-10
 Veracruz,Tlapacoyan,1,0.0,0.0,1.0,2020-08-10
 Zacatecas,Jerez,3,3.0,0.0,0.0,2020-08-10

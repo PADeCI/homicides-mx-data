@@ -6,37 +6,30 @@ Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-10-11
 Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2019-10-11
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-10-11
 Guanajuato,Acámbaro,2.0,2.0,0.0,0.0,2019-10-11
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2019-10-11
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2019-10-11
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-10-11
 Guanajuato,León,4.0,4.0,0.0,0.0,2019-10-11
 Guanajuato,Pénjamo,3.0,1.0,2.0,0.0,2019-10-11
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-10-11
-Guanajuato,"San Francisco 
-del Rincón",1.0,1.0,0.0,0.0,2019-10-11
-Guanajuato,"San Luis de la 
-Paz",1.0,1.0,0.0,0.0,2019-10-11
-Guerrero,Acapulco de,3.0,3.0,0.0,0.0,2019-10-11
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2019-10-11
+Guanajuato,San Luis De La Paz,1.0,1.0,0.0,0.0,2019-10-11
+Guerrero,Acapulco De Juárez,3.0,3.0,0.0,0.0,2019-10-11
 Guerrero,Juárez,1.0,1.0,0.0,0.0,2019-10-11
 Hidalgo,Ixmiquilpan,1.0,1.0,0.0,0.0,2019-10-11
 Jalisco,Guadalajara,2.0,1.0,1.0,0.0,2019-10-11
-Jalisco,"San Pedro 
-Tlaquepaque",3.0,2.0,1.0,0.0,2019-10-11
+Jalisco,San Pedro Tlaquepaque,3.0,2.0,1.0,0.0,2019-10-11
 Michoacán,Aquila,1.0,1.0,0.0,0.0,2019-10-11
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-10-11
 Michoacán,Tocumbo,1.0,1.0,0.0,0.0,2019-10-11
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-10-11
 Morelos,Cuernavaca,1.0,0.0,1.0,0.0,2019-10-11
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2019-10-11
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-10-11
 Estado de México,Toluca,1.0,0.0,1.0,0.0,2019-10-11
 Nuevo León,Monterrey,1.0,0.0,0.0,1.0,2019-10-11
-Oaxaca,"Magdalena 
-Apasco",1.0,1.0,0.0,0.0,2019-10-11
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1.0,1.0,0.0,0.0,2019-10-11
+Oaxaca,Magdalena Apasco,1.0,1.0,0.0,0.0,2019-10-11
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-10-11
 Oaxaca,San Pablo Etla,1.0,1.0,0.0,0.0,2019-10-11
-Oaxaca,Villa de Etla,1.0,1.0,0.0,0.0,2019-10-11
+Oaxaca,Villa De Etla,1.0,1.0,0.0,0.0,2019-10-11
 Puebla,Cuautlancingo,1.0,1.0,0.0,0.0,2019-10-11
 Puebla,Puebla,1.0,0.0,0.0,1.0,2019-10-11
 Quintana Roo,Benito Juárez,2.0,1.0,0.0,1.0,2019-10-11
@@ -47,7 +40,7 @@ Tabasco,Centro,1.0,1.0,0.0,0.0,2019-10-11
 Tabasco,Comalcalco,1.0,1.0,0.0,0.0,2019-10-11
 Tabasco,Cárdenas,2.0,2.0,0.0,0.0,2019-10-11
 Tabasco,Huimanguillo,2.0,2.0,0.0,0.0,2019-10-11
-Tabasco,Jalpa de,2.0,2.0,0.0,0.0,2019-10-11
+Tabasco,Jalpa De Méndez,2.0,2.0,0.0,0.0,2019-10-11
 Tabasco,Méndez,2.0,2.0,0.0,0.0,2019-10-11
 Tamaulipas,Reynosa,3.0,3.0,0.0,0.0,2019-10-11
 Veracruz,Acayucan,1.0,1.0,0.0,0.0,2019-10-11

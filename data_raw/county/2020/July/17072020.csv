@@ -2,48 +2,35 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,7,2.0,5.0,0.0,2020-07-17
 Baja California Sur,Los Cabos,1,1.0,0.0,0.0,2020-07-17
 Chiapas,Huixtla,1,1.0,0.0,0.0,2020-07-17
-Chiapas,"Tuxtla 
-Gutiérrez",1,1.0,0.0,0.0,2020-07-17
+Chiapas,Tuxtla Gutiérrez,1,1.0,0.0,0.0,2020-07-17
 Chihuahua,Juárez,1,1.0,0.0,0.0,2020-07-17
 Chihuahua,Madera,2,0.0,0.0,2.0,2020-07-17
-Ciudad de México,"Gustavo A. 
-Madero",1,1.0,0.0,0.0,2020-07-17
+Ciudad de México,Gustavo A. Madero,1,1.0,0.0,0.0,2020-07-17
 Ciudad de México,Milpa Alta,1,1.0,0.0,0.0,2020-07-17
 Coahuila,Saltillo,1,1.0,0.0,0.0,2020-07-17
 Guanajuato,Celaya,2,1.0,0.0,1.0,2020-07-17
 Guanajuato,León,2,2.0,0.0,0.0,2020-07-17
-Guanajuato,"San Francisco 
-del Rincón",1,1.0,0.0,0.0,2020-07-17
-Guanajuato,"Silao de la 
-Víctoria",1,0.0,1.0,0.0,2020-07-17
-Guanajuato,"Valle de 
-Santiago",1,1.0,0.0,0.0,2020-07-17
+Guanajuato,San Francisco Del Rincón,1,1.0,0.0,0.0,2020-07-17
+Guanajuato,Silao De La Victoria,1,0.0,1.0,0.0,2020-07-17
+Guanajuato,Valle De Santiago,1,1.0,0.0,0.0,2020-07-17
 Guanajuato,Yuriria,2,2.0,0.0,0.0,2020-07-17
-Guerrero,"Acapulco de 
-Juárez",2,1.0,1.0,0.0,2020-07-17
-Hidalgo,"Cuautepec de 
-Hinojosa",2,2.0,0.0,0.0,2020-07-17
+Guerrero,Acapulco De Juárez,2,1.0,1.0,0.0,2020-07-17
+Hidalgo,Cuautepec De Hinojosa,2,2.0,0.0,0.0,2020-07-17
 Jalisco,El Salto,7,0.0,0.0,7.0,2020-07-17
 Jalisco,Guadalajara,2,1.0,1.0,0.0,2020-07-17
-Jalisco,"Tlajomulco de 
-Zúñiga",1,1.0,0.0,0.0,2020-07-17
+Jalisco,Tlajomulco De Zúñiga,1,1.0,0.0,0.0,2020-07-17
 Jalisco,Zapopan,1,1.0,0.0,0.0,2020-07-17
 Michoacán,Morelia,1,1.0,0.0,0.0,2020-07-17
 Morelos,Cuernavaca,3,0.0,0.0,3.0,2020-07-17
 Morelos,Temixco,1,1.0,0.0,0.0,2020-07-17
-Estado de México,"Ixtapan de la 
-Sal",3,3.0,0.0,0.0,2020-07-17
+Estado de México,Ixtapan De La Sal,3,3.0,0.0,0.0,2020-07-17
 Estado de México,Ocuilan,1,0.0,1.0,0.0,2020-07-17
 Estado de México,Tecámac,1,1.0,0.0,0.0,2020-07-17
-Oaxaca,"Oaxaca de 
-Juárez",1,1.0,0.0,0.0,2020-07-17
-Oaxaca,"San Juan 
-Colorado",1,1.0,0.0,0.0,2020-07-17
-Oaxaca,"San Pedro 
-Pochutla",2,1.0,1.0,0.0,2020-07-17
+Oaxaca,Oaxaca De Juárez,1,1.0,0.0,0.0,2020-07-17
+Oaxaca,San Juan Colorado,1,1.0,0.0,0.0,2020-07-17
+Oaxaca,San Pedro Pochutla,2,1.0,1.0,0.0,2020-07-17
 Puebla,Puebla,3,3.0,0.0,0.0,2020-07-17
-Puebla,"San Martín 
-Texmelucan",2,0.0,2.0,0.0,2020-07-17
+Puebla,San Martín Texmelucan,2,0.0,2.0,0.0,2020-07-17
 San Luis Potosí,San Luis Potosí,2,1.0,1.0,0.0,2020-07-17
 Sonora,Cajeme,1,1.0,0.0,0.0,2020-07-17
 Sonora,Hermosillo,3,2.0,1.0,0.0,2020-07-17
@@ -51,6 +38,5 @@ Tabasco,Centro,2,2.0,0.0,0.0,2020-07-17
 Tlaxcala,Apizaco,1,1.0,0.0,0.0,2020-07-17
 Tlaxcala,Chiautempan,1,1.0,0.0,0.0,2020-07-17
 Veracruz,Coatepec,1,1.0,0.0,0.0,2020-07-17
-Veracruz,"Juan Rodríguez 
-Clara",2,2.0,0.0,0.0,2020-07-17
+Veracruz,Juan Rodríguez Clara,2,2.0,0.0,0.0,2020-07-17
 Zacatecas,Fresnillo,1,0.0,1.0,0.0,2020-07-17

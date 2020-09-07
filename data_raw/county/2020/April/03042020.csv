@@ -1,66 +1,53 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Ensenada,3.0,2.0,1.0,0.0,2020-04-03
-Baja California,Mexicali,2.0,2.0,0.0,0.0,2020-04-03
-Baja California,Tecate,1.0,1.0,0.0,0.0,2020-04-03
-Baja California,Tijuana,5.0,4.0,1.0,0.0,2020-04-03
-Baja California,La Paz,2.0,1.0,1.0,0.0,2020-04-03
-Baja California,Mulegé,2.0,0.0,2.0,0.0,2020-04-03
-Chiapas,Las Margaritas,1.0,0.0,1.0,0.0,2020-04-03
-Chihuahua,"Hidalgo del 
-Parral",1.0,1.0,0.0,0.0,2020-04-03
-Chihuahua,Juárez,6.0,3.0,3.0,0.0,2020-04-03
-Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-04-03
-Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2020-04-03
-Colima,Durango (1)  Gómez Palacio,1.0,1.0,0.0,0.0,2020-04-03
-Colima,Manzanillo,1.0,0.0,0.0,1.0,2020-04-03
-Guanajuato,"Apaseo el 
-Grande",1.0,0.0,1.0,0.0,2020-04-03
-Guanajuato,Celaya,3.0,3.0,0.0,0.0,2020-04-03
-Guanajuato,Cortázar,1.0,1.0,0.0,0.0,2020-04-03
-Guanajuato,Guanajuato,2.0,2.0,0.0,0.0,2020-04-03
-Guanajuato,León,3.0,3.0,0.0,0.0,2020-04-03
-Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-04-03
-Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-04-03
-Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-04-03
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2020-04-03
-Guerrero,Benito Juárez,1.0,0.0,1.0,0.0,2020-04-03
-Guerrero,"Huitzuco de los 
-Figueroa",1.0,1.0,0.0,0.0,2020-04-03
-Guerrero,"Zihuatanejo de 
-Azueta",2.0,2.0,0.0,0.0,2020-04-03
-Jalisco,El Salto,4.0,3.0,1.0,0.0,2020-04-03
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-04-03
-Jalisco,Tonalá,2.0,2.0,0.0,0.0,2020-04-03
-Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-04-03
-Michoacán,"Lázaro 
-Cárdenas",1.0,1.0,0.0,0.0,2020-04-03
-Michoacán,Quiroga,1.0,1.0,0.0,0.0,2020-04-03
-Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2020-04-03
-Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-04-03
-Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-04-03
-Estado de México,Cuautitlán,1.0,0.0,1.0,0.0,2020-04-03
-Estado de México,"Ecatepec de 
-Morelos",1.0,0.0,1.0,0.0,2020-04-03
-Estado de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0,2020-04-03
-Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-04-03
-Nuevo León,"San Nicolás de 
-los Garza",1.0,0.0,1.0,0.0,2020-04-03
-Oaxaca,"Santo 
-Domingo 
-Tehuantepec",2.0,1.0,1.0,0.0,2020-04-03
-Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-04-03
-Quintana Roo,Solidaridad,2.0,1.0,0.0,1.0,2020-04-03
-San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2020-04-03
-Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-04-03
-Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-04-03
-Sonora,Nogales,1.0,0.0,1.0,0.0,2020-04-03
-Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2020-04-03
-Veracruz,Cosoleacaque,2.0,2.0,0.0,0.0,2020-04-03
-Veracruz,Minatitlán,2.0,2.0,0.0,0.0,2020-04-03
-Veracruz,Papantla,5.0,0.0,3.0,2.0,2020-04-03
-Veracruz,"Álamo 
-Temapache",2.0,2.0,0.0,0.0,2020-04-03
-Zacatecas,Guadalupe,2.0,2.0,0.0,0.0,2020-04-03
+Baja California,Ensenada,3,2,1,0,2020-04-03
+Baja California,Mexicali,2,2,0,0,2020-04-03
+Baja California,Tecate,1,1,0,0,2020-04-03
+Baja California,Tijuana,5,4,1,0,2020-04-03
+Baja California,La Paz,2,1,1,0,2020-04-03
+Baja California,Mulegé,2,0,2,0,2020-04-03
+Chiapas,Las Margaritas,1,0,1,0,2020-04-03
+Chihuahua,Hidalgo Del Parral,1,1,0,0,2020-04-03
+Chihuahua,Juárez,6,3,3,0,2020-04-03
+Ciudad de México,Cuauhtémoc,1,1,0,0,2020-04-03
+Ciudad de México,Iztacalco,1,1,0,0,2020-04-03
+Durango,Gómez Palacio,1,1,0,0,2020-04-03
+Colima,Manzanillo,1,0,0,1,2020-04-03
+Guanajuato,Apaseo El Grande,1,0,1,0,2020-04-03
+Guanajuato,Celaya,3,3,0,0,2020-04-03
+Guanajuato,Cortazar,1,1,0,0,2020-04-03
+Guanajuato,Guanajuato,2,2,0,0,2020-04-03
+Guanajuato,León,3,3,0,0,2020-04-03
+Guanajuato,Pénjamo,1,1,0,0,2020-04-03
+Guanajuato,Salamanca,2,2,0,0,2020-04-03
+Guanajuato,Salvatierra,1,1,0,0,2020-04-03
+Guerrero,Acapulco De Juárez,1,1,0,0,2020-04-03
+Guerrero,Benito Juárez,1,0,1,0,2020-04-03
+Guerrero,Huitzuco De Los Figueroa,1,1,0,0,2020-04-03
+Guerrero,Zihuatanejo De Azueta,2,2,0,0,2020-04-03
+Jalisco,El Salto,4,3,1,0,2020-04-03
+Jalisco,San Pedro Tlaquepaque,1,1,0,0,2020-04-03
+Jalisco,Tonalá,2,2,0,0,2020-04-03
+Jalisco,Zapopan,1,1,0,0,2020-04-03
+Michoacán,Lázaro Cárdenas,1,1,0,0,2020-04-03
+Michoacán,Quiroga,1,1,0,0,2020-04-03
+Michoacán,Tarímbaro,1,1,0,0,2020-04-03
+Michoacán,Uruapan,1,1,0,0,2020-04-03
+Michoacán,Zamora,1,1,0,0,2020-04-03
+Estado de México,Cuautitlán,1,0,1,0,2020-04-03
+Estado de México,Ecatepec De Morelos,1,0,1,0,2020-04-03
+Estado de México,Naucalpan De Juárez,1,1,0,0,2020-04-03
+Estado de México,Nezahualcóyotl,1,1,0,0,2020-04-03
+Nuevo León,San Nicolás De Los Garza,1,0,1,0,2020-04-03
+Oaxaca,Santo Domingo Tehuantepec,2,1,1,0,2020-04-03
+Quintana Roo,Benito Juárez,1,1,0,0,2020-04-03
+Quintana Roo,Solidaridad,2,1,0,1,2020-04-03
+San Luis Potosí,Rioverde,1,1,0,0,2020-04-03
+Sonora,Cajeme,1,1,0,0,2020-04-03
+Sonora,Hermosillo,1,1,0,0,2020-04-03
+Sonora,Nogales,1,0,1,0,2020-04-03
+Tamaulipas,Matamoros,1,1,0,0,2020-04-03
+Veracruz,Cosoleacaque,2,2,0,0,2020-04-03
+Veracruz,Minatitlán,2,2,0,0,2020-04-03
+Veracruz,Papantla,5,0,3,2,2020-04-03
+Veracruz,Álamo Temapache,2,2,0,0,2020-04-03
+Zacatecas,Guadalupe,2,2,0,0,2020-04-03

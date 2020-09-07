@@ -1,4 +1,4 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No identificado,Fecha
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Ensenada,2,,,,2019-01-09
 Baja California,Tijuana,8,,,,2019-01-09
 Chihuahua,Juárez,3,,,,2019-01-09
@@ -11,20 +11,18 @@ Colima,Tecomán,2,,,,2019-01-09
 Estado de México,Chalco,1,,,,2019-01-09
 Estado de México,Chiautla,1,,,,2019-01-09
 Estado de México,Chiconcuac,1,,,,2019-01-09
-Estado de México,Ecatepec de Morelos,1,,,,2019-01-09
-Estado de México,Naucalpan de Juárez,1,,,,2019-01-09
+Estado de México,Ecatepec De Morelos,1,,,,2019-01-09
+Estado de México,Naucalpan De Juárez,1,,,,2019-01-09
 Estado de México,Toluca,1,,,,2019-01-09
 Guanajuato,Acámbaro,2,,,,2019-01-09
 Guanajuato,León,1,,,,2019-01-09
 Guanajuato,Salvatierra,1,,,,2019-01-09
-Guerrero,Acapulco de Juárez,1,,,,2019-01-09
-Guerrero,"Chilpancingo de los 
-Bravo",2,,,,2019-01-09
+Guerrero,Acapulco De Juárez,1,,,,2019-01-09
+Guerrero,Chilpancingo De Los Bravo,2,,,,2019-01-09
 Hidalgo,Lolotla,1,,,,2019-01-09
-Hidalgo,Tulancingo de Bravo,1,,,,2019-01-09
+Hidalgo,Tulancingo De Bravo,1,,,,2019-01-09
 Jalisco,Guadalajara,2,,,,2019-01-09
-Jalisco,"San Pedro 
-Tlaquepaque",2,,,,2019-01-09
+Jalisco,San Pedro Tlaquepaque,2,,,,2019-01-09
 Jalisco,Tonalá,2,,,,2019-01-09
 Jalisco,Zapopan,1,,,,2019-01-09
 Michoacán,Apatzingán,2,,,,2019-01-09
@@ -38,15 +36,11 @@ Nuevo León,Cadereyta Jiménez,1,,,,2019-01-09
 Nuevo León,General Zuazua,1,,,,2019-01-09
 Nuevo León,Juárez,1,,,,2019-01-09
 Nuevo León,Monterrey,2,,,,2019-01-09
-Nuevo León,"San Nicolás de los 
-Garza",1,,,,2019-01-09
-Oaxaca,"Heroica Ciudad de 
-Juchitán de Zaragoza",1,,,,2019-01-09
-Oaxaca,"Villa de Tamazulápam 
-del Progreso",1,,,,2019-01-09
+Nuevo León,San Nicolás De Los Garza,1,,,,2019-01-09
+Oaxaca,Zaragoza,1,,,,2019-01-09
+Oaxaca,Villa De Tamazulápam Del Progreso,1,,,,2019-01-09
 Puebla,Atlixco,1,,,,2019-01-09
-Puebla,"San Martín 
-Texmelucan",2,,,,2019-01-09
+Puebla,San Martín Texmelucan,2,,,,2019-01-09
 Sinaloa,Guasave,1,,,,2019-01-09
 Sonora,Nogales,1,,,,2019-01-09
 Tamaulipas,Miguel Alemán,20,,,,2019-01-09

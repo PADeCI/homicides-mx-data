@@ -5,37 +5,31 @@ Chihuahua,Juárez,3.0,1.0,2.0,0.0,2019-04-26
 Coahuila,Saltillo,1.0,0.0,1.0,0.0,2019-04-26
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-04-26
 Colima,Tecomán,1.0,0.0,0.0,1.0,2019-04-26
-Colima,Villa de Álvarez,2.0,2.0,0.0,0.0,2019-04-26
+Colima,Villa De Álvarez,2.0,2.0,0.0,0.0,2019-04-26
 Guanajuato,Acámbaro,3.0,2.0,0.0,1.0,2019-04-26
 Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-04-26
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-04-26
 Guanajuato,Pénjamo,2.0,0.0,0.0,2.0,2019-04-26
-Guanajuato,Silao de la Víctoria,2.0,2.0,0.0,0.0,2019-04-26
-Guerrero,Acapulco de Juárez,3.0,2.0,1.0,0.0,2019-04-26
-Guerrero,"Chilpancingo de los 
-Bravo",2.0,2.0,0.0,0.0,2019-04-26
-Guerrero,"Iguala de la 
-Independencia",3.0,0.0,0.0,3.0,2019-04-26
-Guerrero,Taxco de Alarcón,1.0,1.0,0.0,0.0,2019-04-26
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,0.0,0.0,1.0,2019-04-26
+Guanajuato,Silao De La Victoria,2.0,2.0,0.0,0.0,2019-04-26
+Guerrero,Acapulco De Juárez,3.0,2.0,1.0,0.0,2019-04-26
+Guerrero,Chilpancingo De Los Bravo,2.0,2.0,0.0,0.0,2019-04-26
+Guerrero,Iguala De La Independencia,3.0,0.0,0.0,3.0,2019-04-26
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2019-04-26
+Jalisco,San Pedro Tlaquepaque,1.0,0.0,0.0,1.0,2019-04-26
 Jalisco,Zapopan,1.0,0.0,0.0,1.0,2019-04-26
 Michoacán,Morelia,1.0,0.0,1.0,0.0,2019-04-26
 Michoacán,Parácuaro,1.0,1.0,0.0,0.0,2019-04-26
 Michoacán,Uruapan,2.0,2.0,0.0,0.0,2019-04-26
 Estado de México,La Paz,1.0,1.0,0.0,0.0,2019-04-26
-Estado de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0,2019-04-26
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2019-04-26
 Estado de México,Tianguistenco,1.0,1.0,0.0,0.0,2019-04-26
 Estado de México,Zinacantepec,1.0,1.0,0.0,0.0,2019-04-26
 Estado de México,Zumpango,1.0,1.0,0.0,0.0,2019-04-26
 Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2019-04-26
 Nuevo León,Sabinas Hidalgo,1.0,1.0,0.0,0.0,2019-04-26
 Oaxaca,San José Tenango,1.0,1.0,0.0,0.0,2019-04-26
-Oaxaca,"San Juan Bautista 
-Tuxtepec",1.0,0.0,1.0,0.0,2019-04-26
-Oaxaca,"Santo Domingo 
-Chihuitán",1.0,1.0,0.0,0.0,2019-04-26
+Oaxaca,San Juan Bautista Tuxtepec,1.0,0.0,1.0,0.0,2019-04-26
+Oaxaca,Santo Domingo Chihuitán,1.0,1.0,0.0,0.0,2019-04-26
 Puebla,Tepeaca,1.0,1.0,0.0,0.0,2019-04-26
 Querétaro,Huimilpan,1.0,1.0,0.0,0.0,2019-04-26
 Quintana Roo,Benito Juárez,1.0,0.0,1.0,0.0,2019-04-26
@@ -45,8 +39,6 @@ San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2019-04-26
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-04-26
 Sonora,Hermosillo,2.0,2.0,0.0,0.0,2019-04-26
 Tabasco,Centro,1.0,1.0,0.0,0.0,2019-04-26
-Tlaxcala,"Tetla de la 
-Solidaridad",1.0,1.0,0.0,0.0,2019-04-26
-Veracruz,"Hueyapan de 
-Ocampo",1.0,1.0,0.0,0.0,2019-04-26
+Tlaxcala,Tetla De La Solidaridad,1.0,1.0,0.0,0.0,2019-04-26
+Veracruz,Hueyapan De Ocampo,1.0,1.0,0.0,0.0,2019-04-26
 Yucatán,Mérida,3.0,3.0,0.0,0.0,2019-04-26

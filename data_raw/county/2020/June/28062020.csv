@@ -2,19 +2,16 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,3.0,1.0,0.0,2.0,2020-06-28
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-06-28
 Chihuahua,Juárez,8.0,5.0,0.0,3.0,2020-06-28
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0,2020-06-28
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2020-06-28
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-06-28
 Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2020-06-28
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-06-28
 Guanajuato,Moroleón,2.0,2.0,0.0,0.0,2020-06-28
 Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-06-28
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2020-06-28
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-06-28
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-06-28
 Michoacán,Los Reyes,1.0,0.0,1.0,0.0,2020-06-28
-Michoacán,"Lázaro 
-Cárdenas",4.0,4.0,0.0,0.0,2020-06-28
+Michoacán,Lázaro Cárdenas,4.0,4.0,0.0,0.0,2020-06-28
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-06-28
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-06-28
 Morelos,Temixco,1.0,1.0,0.0,0.0,2020-06-28
@@ -23,20 +20,13 @@ Estado de México,Chicoloapan,1.0,1.0,0.0,0.0,2020-06-28
 Estado de México,Metepec,1.0,1.0,0.0,0.0,2020-06-28
 Estado de México,Nezahualcóyotl,1.0,0.0,1.0,0.0,2020-06-28
 Nuevo León,China,1.0,1.0,0.0,0.0,2020-06-28
-Oaxaca,"Miahuatlán de 
-Porfirio Díaz",1.0,1.0,0.0,0.0,2020-06-28
-Oaxaca,"San Felipe 
-Usila",1.0,1.0,0.0,0.0,2020-06-28
+Oaxaca,Miahuatlán De Porfirio Díaz,1.0,1.0,0.0,0.0,2020-06-28
+Oaxaca,San Felipe Usila,1.0,1.0,0.0,0.0,2020-06-28
 Puebla,Acatzingo,1.0,1.0,0.0,0.0,2020-06-28
-Puebla,"Palmar de 
-Bravo",1.0,0.0,1.0,0.0,2020-06-28
-Puebla,"San Martín 
-Texmelucan",2.0,1.0,1.0,0.0,2020-06-28
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1.0,0.0,1.0,0.0,2020-06-28
-San Luis Potosí,"Tampamolón 
-Corona",1.0,1.0,0.0,0.0,2020-06-28
+Puebla,Palmar De Bravo,1.0,0.0,1.0,0.0,2020-06-28
+Puebla,San Martín Texmelucan,2.0,1.0,1.0,0.0,2020-06-28
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,0.0,1.0,0.0,2020-06-28
+San Luis Potosí,Tampamolón Corona,1.0,1.0,0.0,0.0,2020-06-28
 Sinaloa,Ahome,1.0,1.0,0.0,0.0,2020-06-28
 Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-06-28
 Sinaloa,Guasave,2.0,2.0,0.0,0.0,2020-06-28
@@ -47,8 +37,7 @@ Tamaulipas,El Mante,1.0,1.0,0.0,0.0,2020-06-28
 Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2020-06-28
 Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2020-06-28
 Veracruz,Minatitlán,1.0,0.0,1.0,0.0,2020-06-28
-Veracruz,"Platón 
-Sánchez",1.0,0.0,1.0,0.0,2020-06-28
+Veracruz,Platón Sánchez,1.0,0.0,1.0,0.0,2020-06-28
 Veracruz,Tierra Blanca,1.0,0.0,1.0,0.0,2020-06-28
 Veracruz,Tlapacoyan,1.0,1.0,0.0,0.0,2020-06-28
 Veracruz,Veracruz,1.0,1.0,0.0,0.0,2020-06-28

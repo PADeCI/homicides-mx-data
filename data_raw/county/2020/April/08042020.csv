@@ -2,46 +2,35 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,Calvillo,2.0,2.0,0.0,0.0,2020-04-08
 Baja California,Ensenada,4.0,4.0,0.0,0.0,2020-04-08
 Baja California,Tijuana,4.0,2.0,0.0,2.0,2020-04-08
-Chihuahua,"Guadalupe y 
-Calvo",1.0,1.0,0.0,0.0,2020-04-08
+Chihuahua,Guadalupe Y Calvo,1.0,1.0,0.0,0.0,2020-04-08
 Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-04-08
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2020-04-08
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-04-08
 Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2020-04-08
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-04-08
 Guanajuato,Celaya,3.0,3.0,0.0,0.0,2020-04-08
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-04-08
 Guanajuato,Salvatierra,3.0,0.0,0.0,3.0,2020-04-08
-Guanajuato,"Valle de 
-Santiago",3.0,1.0,0.0,2.0,2020-04-08
-Guerrero,"Acapulco de 
-Juárez",1.0,0.0,0.0,1.0,2020-04-08
+Guanajuato,Valle De Santiago,3.0,1.0,0.0,2.0,2020-04-08
+Guerrero,Acapulco De Juárez,1.0,0.0,0.0,1.0,2020-04-08
 Hidalgo,Huichapan,4.0,4.0,0.0,0.0,2020-04-08
 Jalisco,Guadalajara,5.0,5.0,0.0,0.0,2020-04-08
-Jalisco,"San Pedro 
-Tlaquepaque",5.0,4.0,1.0,0.0,2020-04-08
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2020-04-08
+Jalisco,San Pedro Tlaquepaque,5.0,4.0,1.0,0.0,2020-04-08
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-04-08
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-04-08
 Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-04-08
-Michoacán,"Gabriel 
-Zamora",3.0,2.0,1.0,0.0,2020-04-08
+Michoacán,Gabriel Zamora,3.0,2.0,1.0,0.0,2020-04-08
 Michoacán,La Piedad,1.0,1.0,0.0,0.0,2020-04-08
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-04-08
-Morelos,Coatlán del Río,1.0,1.0,0.0,0.0,2020-04-08
+Morelos,Coatlán Del Río,1.0,1.0,0.0,0.0,2020-04-08
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-04-08
-Morelos,"Emiliano 
-Zapata",1.0,1.0,0.0,0.0,2020-04-08
+Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2020-04-08
 Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-04-08
 Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-04-08
 Nuevo León,Pesquería,1.0,1.0,0.0,0.0,2020-04-08
-Nuevo León,"San Nicolás de 
-los Garza",1.0,1.0,0.0,0.0,2020-04-08
-Oaxaca,"Oaxaca de 
-Juárez",1.0,1.0,0.0,0.0,2020-04-08
+Nuevo León,San Nicolás De Los Garza,1.0,1.0,0.0,0.0,2020-04-08
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2020-04-08
 Puebla,Coronango,1.0,1.0,0.0,0.0,2020-04-08
-Querétaro,"Ezequiel 
-Montes",2.0,0.0,0.0,2.0,2020-04-08
+Querétaro,Ezequiel Montes,2.0,0.0,0.0,2.0,2020-04-08
 Quintana Roo,Bacalar,1.0,1.0,0.0,0.0,2020-04-08
 Quintana Roo,Solidaridad,1.0,0.0,1.0,0.0,2020-04-08
 San Luis Potosí,El Naranjo,1.0,1.0,0.0,0.0,2020-04-08
@@ -51,8 +40,7 @@ Tabasco,Paraíso,1.0,1.0,0.0,0.0,2020-04-08
 Tamaulipas,Reynosa,1.0,0.0,1.0,0.0,2020-04-08
 Veracruz,Actopan,1.0,1.0,0.0,0.0,2020-04-08
 Veracruz,Atoyac,1.0,1.0,0.0,0.0,2020-04-08
-Veracruz,"Martínez de la 
-Torre",4.0,4.0,0.0,0.0,2020-04-08
+Veracruz,Martínez De La Torre,4.0,4.0,0.0,0.0,2020-04-08
 Veracruz,Nogales,2.0,1.0,1.0,0.0,2020-04-08
 Veracruz,Papantla,4.0,4.0,0.0,0.0,2020-04-08
 Zacatecas,Calera,2.0,1.0,1.0,0.0,2020-04-08

@@ -12,19 +12,14 @@ Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-08-12
 Guanajuato,Jerécuaro,1.0,1.0,0.0,0.0,2019-08-12
 Guanajuato,León,8.0,7.0,1.0,0.0,2019-08-12
 Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2019-08-12
-Guanajuato,"San Miguel de 
-Allende",2.0,2.0,0.0,0.0,2019-08-12
-Guanajuato,"Valle de 
-Santiago",2.0,2.0,0.0,0.0,2019-08-12
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2019-08-12
+Guanajuato,San Miguel De Allende,2.0,2.0,0.0,0.0,2019-08-12
+Guanajuato,Valle De Santiago,2.0,2.0,0.0,0.0,2019-08-12
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2019-08-12
 Guerrero,Pungarabato,1.0,1.0,0.0,0.0,2019-08-12
-Guerrero,"Zihuatanejo de 
-Azueta",1.0,1.0,0.0,0.0,2019-08-12
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2019-08-12
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-08-12
 Jalisco,Teuchitlán,2.0,0.0,0.0,2.0,2019-08-12
-Jalisco,"Tlajomulco de 
-Zúñiga",4.0,3.0,1.0,0.0,2019-08-12
+Jalisco,Tlajomulco De Zúñiga,4.0,3.0,1.0,0.0,2019-08-12
 Jalisco,Zapopan,6.0,0.0,0.0,6.0,2019-08-12
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-12
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-08-12
@@ -33,27 +28,20 @@ Morelos,Jiutepec,1.0,1.0,0.0,0.0,2019-08-12
 Estado de México,Acolman,1.0,1.0,0.0,0.0,2019-08-12
 Estado de México,Chalco,1.0,1.0,0.0,0.0,2019-08-12
 Estado de México,Toluca,1.0,1.0,0.0,0.0,2019-08-12
-Estado de México,Valle de Bravo,1.0,0.0,1.0,0.0,2019-08-12
-Estado de México,"Valle de Chalco 
-Solidaridad",1.0,1.0,0.0,0.0,2019-08-12
-Nuevo León,"San Nicolás de 
-los Garza",1.0,1.0,0.0,0.0,2019-08-12
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1.0,0.0,1.0,0.0,2019-08-12
+Estado de México,Valle De Bravo,1.0,0.0,1.0,0.0,2019-08-12
+Estado de México,Valle De Chalco Solidaridad,1.0,1.0,0.0,0.0,2019-08-12
+Nuevo León,San Nicolás De Los Garza,1.0,1.0,0.0,0.0,2019-08-12
+Oaxaca,Zaragoza,1.0,0.0,1.0,0.0,2019-08-12
 Puebla,Atlixco,1.0,1.0,0.0,0.0,2019-08-12
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-08-12
 Sinaloa,Ahome,1.0,1.0,0.0,0.0,2019-08-12
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-08-12
 Sonora,Empalme,1.0,1.0,0.0,0.0,2019-08-12
-Sonora,"San Luis Río 
-Colorado",2.0,2.0,0.0,0.0,2019-08-12
-Tamaulipas,Alpatlahuac,1.0,1.0,0.0,0.0,2019-08-12
-Tamaulipas,"Ciudad 
-Madero",1.0,0.0,1.0,0.0,2019-08-12
+Sonora,San Luis Río Colorado,2.0,2.0,0.0,0.0,2019-08-12
+Tamaulipas,Alpatláhuac,1.0,1.0,0.0,0.0,2019-08-12
+Tamaulipas,Ciudad Madero,1.0,0.0,1.0,0.0,2019-08-12
 Tamaulipas,Tampico,1.0,0.0,1.0,0.0,2019-08-12
-Veracruz,"Mixtla de 
-Altamirano",1.0,1.0,0.0,0.0,2019-08-12
+Veracruz,Mixtla De Altamirano,1.0,1.0,0.0,0.0,2019-08-12
 Veracruz,Tecolutla,1.0,1.0,0.0,0.0,2019-08-12
 Veracruz,Tierra Blanca,1.0,1.0,0.0,0.0,2019-08-12
 Veracruz,Tihuatlán,1.0,1.0,0.0,0.0,2019-08-12

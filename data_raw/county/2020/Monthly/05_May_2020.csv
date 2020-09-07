@@ -1,0 +1,1300 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,9.0,6.0,2.0,1.0,2020-05-01
+Chihuahua,Juárez,11.0,6.0,1.0,4.0,2020-05-01
+Chihuahua,Madera,1.0,1.0,0.0,0.0,2020-05-01
+Ciudad de México,Iztapalapa,2.0,1.0,1.0,0.0,2020-05-01
+Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2020-05-01
+Ciudad de México,Tláhuac,2.0,0.0,1.0,1.0,2020-05-01
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-05-01
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2020-05-01
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-05-01
+Guanajuato,León,2.0,1.0,0.0,1.0,2020-05-01
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-05-01
+Guanajuato,Santiago Maravatío,1.0,1.0,0.0,0.0,2020-05-01
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-05-01
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-05-01
+Jalisco,Tlajomulco De Zúñiga,7.0,7.0,0.0,0.0,2020-05-01
+Jalisco,Zapopan,1.0,0.0,1.0,0.0,2020-05-01
+Michoacán,Uruapan,3.0,2.0,0.0,1.0,2020-05-01
+Estado de México,Coacalco De Berriozábal,1.0,1.0,0.0,0.0,2020-05-01
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2020-05-01
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2020-05-01
+Oaxaca,Santa Lucía Del Camino,2.0,2.0,0.0,0.0,2020-05-01
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-05-01
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-01
+San Luis Potosí,Villa De Reyes,1.0,1.0,0.0,0.0,2020-05-01
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-05-01
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2020-05-01
+Baja California,Ensenada,3.0,2.0,1.0,0.0,2020-05-02
+Baja California,Tijuana,4.0,4.0,0.0,0.0,2020-05-02
+Chihuahua,Juárez,4.0,4.0,0.0,0.0,2020-05-02
+Ciudad de México,Cuauhtémoc,2.0,1.0,1.0,0.0,2020-05-02
+Ciudad de México,Gustavo A. Madero,1.0,0.0,1.0,0.0,2020-05-02
+Colima,Armería,1.0,1.0,0.0,0.0,2020-05-02
+Guanajuato,Apaseo El Alto,2.0,1.0,1.0,0.0,2020-05-02
+Guanajuato,Celaya,6.0,5.0,0.0,1.0,2020-05-02
+Guanajuato,Irapuato,4.0,4.0,0.0,0.0,2020-05-02
+Guanajuato,León,3.0,3.0,0.0,0.0,2020-05-02
+Guanajuato,Moroleón,7.0,7.0,0.0,0.0,2020-05-02
+Guanajuato,Valle De Santiago,1.0,0.0,1.0,0.0,2020-05-02
+Guerrero,Acapulco De Juárez,1.0,0.0,1.0,0.0,2020-05-02
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-05-02
+Estado de México,Temascaltepec,1.0,1.0,0.0,0.0,2020-05-02
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-05-02
+Michoacán,Ziracuaretiro,1.0,1.0,0.0,0.0,2020-05-02
+Nuevo León,Juárez,1.0,0.0,1.0,0.0,2020-05-02
+Oaxaca,Matías Romero Avendaño,1.0,1.0,0.0,0.0,2020-05-02
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2020-05-02
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2020-05-02
+Oaxaca,San Lorenzo Albarradas,1.0,1.0,0.0,0.0,2020-05-02
+Puebla,Tlacotepec De Benito Juárez,1.0,1.0,0.0,0.0,2020-05-02
+San Luis Potosí,Tamuín,1.0,1.0,0.0,0.0,2020-05-02
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-05-02
+Sinaloa,Mazatlán,1.0,1.0,0.0,0.0,2020-05-02
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-05-02
+Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2020-05-02
+Veracruz,Catemaco,1.0,1.0,0.0,0.0,2020-05-02
+Zacatecas,Fresnillo,4.0,2.0,2.0,0.0,2020-05-02
+Zacatecas,Sain Alto,3.0,0.0,3.0,0.0,2020-05-02
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2020-05-02
+Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2020-05-03
+Baja California,Mexicali,2.0,2.0,0.0,0.0,2020-05-03
+Baja California,Tijuana,1.0,1.0,0.0,0.0,2020-05-03
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-05-03
+Chihuahua,Nuevo Casas Grandes,1.0,1.0,0.0,0.0,2020-05-03
+Ciudad de México,Iztapalapa,1.0,0.0,1.0,0.0,2020-05-03
+Durango,Lerdo,1.0,1.0,0.0,0.0,2020-05-03
+Guanajuato,Apaseo El Alto,5.0,4.0,1.0,0.0,2020-05-03
+Guanajuato,Celaya,3.0,3.0,0.0,0.0,2020-05-03
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-05-03
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-05-03
+Guanajuato,Salamanca,3.0,3.0,0.0,0.0,2020-05-03
+Guanajuato,Salvatierra,2.0,2.0,0.0,0.0,2020-05-03
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-05-03
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-05-03
+Jalisco,Guadalajara,11.0,10.0,1.0,0.0,2020-05-03
+Jalisco,Tlajomulco De Zúñiga,3.0,2.0,1.0,0.0,2020-05-03
+Jalisco,Zapopan,2.0,1.0,1.0,0.0,2020-05-03
+Michoacán,Briseñas,1.0,1.0,0.0,0.0,2020-05-03
+Michoacán,Buenavista,1.0,0.0,0.0,1.0,2020-05-03
+Michoacán,Jacona,2.0,2.0,0.0,0.0,2020-05-03
+Michoacán,Morelia,3.0,2.0,1.0,0.0,2020-05-03
+Michoacán,Tarímbaro,1.0,0.0,1.0,0.0,2020-05-03
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2020-05-03
+Morelos,Tepoztlán,1.0,1.0,0.0,0.0,2020-05-03
+Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2020-05-03
+Estado de México,Ixtapan De La Sal,1.0,1.0,0.0,0.0,2020-05-03
+Oaxaca,Salina Cruz,1.0,0.0,0.0,1.0,2020-05-03
+Oaxaca,San Juan Cotzocón,2.0,1.0,1.0,0.0,2020-05-03
+Puebla,Acatzingo,1.0,1.0,0.0,0.0,2020-05-03
+Puebla,Atlixco,1.0,1.0,0.0,0.0,2020-05-03
+Quintana Roo,Othón P. Blanco,1.0,1.0,0.0,0.0,2020-05-03
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-05-03
+Tabasco,Tenosique,1.0,0.0,1.0,0.0,2020-05-03
+Zacatecas,Río Grande,2.0,0.0,0.0,2.0,2020-05-03
+Baja California,Ensenada,2.0,1.0,1.0,0.0,2020-05-04
+Baja California,Playas De Rosarito,2.0,1.0,1.0,0.0,2020-05-04
+Baja California,Tijuana,12.0,10.0,1.0,1.0,2020-05-04
+Chihuahua,Chihuahua,5.0,3.0,2.0,0.0,2020-05-04
+Chihuahua,Hidalgo Del Parral,1.0,1.0,0.0,0.0,2020-05-04
+Chihuahua,Juárez,1.0,0.0,1.0,0.0,2020-05-04
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-05-04
+Ciudad de México,Gustavo A. Madero,1.0,0.0,0.0,1.0,2020-05-04
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-05-04
+Ciudad de México,Tlalpan,2.0,2.0,0.0,0.0,2020-05-04
+Colima,Colima,1.0,1.0,0.0,0.0,2020-05-04
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-05-04
+Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2020-05-04
+Guanajuato,Jaral Del Progreso,1.0,0.0,1.0,0.0,2020-05-04
+Guanajuato,León,5.0,5.0,0.0,0.0,2020-05-04
+Guanajuato,Purísima Del Rincón,2.0,2.0,0.0,0.0,2020-05-04
+Guanajuato,Pénjamo,2.0,2.0,0.0,0.0,2020-05-04
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-05-04
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-05-04
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2020-05-04
+Guerrero,Acapulco De Juárez,2.0,0.0,1.0,1.0,2020-05-04
+Guerrero,Marquelia,1.0,1.0,0.0,0.0,2020-05-04
+Jalisco,Guadalajara,3.0,2.0,1.0,0.0,2020-05-04
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-05-04
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-05-04
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-05-04
+Estado de México,Calimaya,1.0,1.0,0.0,0.0,2020-05-04
+Estado de México,Coacalco De Berriozábal,3.0,3.0,0.0,0.0,2020-05-04
+Estado de México,Tecámac,1.0,1.0,0.0,0.0,2020-05-04
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2020-05-04
+Oaxaca,Heroica Ciudad De Huajuapan De León,1.0,1.0,0.0,0.0,2020-05-04
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-05-04
+Puebla,Tilapa,1.0,1.0,0.0,0.0,2020-05-04
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2020-05-04
+San Luis Potosí,Ciudad Valles,1.0,1.0,0.0,0.0,2020-05-04
+San Luis Potosí,Ebano,1.0,1.0,0.0,0.0,2020-05-04
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-05-04
+Sonora,Hermosillo,1.0,0.0,0.0,1.0,2020-05-04
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2020-05-04
+Zacatecas,Fresnillo,2.0,1.0,0.0,1.0,2020-05-04
+Baja California,Tijuana,4.0,3.0,1.0,0.0,2020-05-05
+Chihuahua,Bocoyna,1.0,1.0,0.0,0.0,2020-05-05
+Chihuahua,Juárez,2.0,1.0,0.0,1.0,2020-05-05
+Colima,Manzanillo,1.0,0.0,0.0,1.0,2020-05-05
+Durango,Durango,1.0,1.0,0.0,0.0,2020-05-05
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2020-05-05
+Guanajuato,Irapuato,3.0,2.0,1.0,0.0,2020-05-05
+Guanajuato,León,6.0,5.0,1.0,0.0,2020-05-05
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-05-05
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-05-05
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-05-05
+Guerrero,Ometepec,2.0,2.0,0.0,0.0,2020-05-05
+Jalisco,Guadalajara,4.0,3.0,0.0,1.0,2020-05-05
+Jalisco,Zapopan,4.0,4.0,0.0,0.0,2020-05-05
+Michoacán,Coalcomán De Vázquez Pallares,1.0,1.0,0.0,0.0,2020-05-05
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-05-05
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2020-05-05
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-05-05
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-05-05
+Estado de México,Ecatzingo,2.0,1.0,1.0,0.0,2020-05-05
+Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2020-05-05
+Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-05-05
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2020-05-05
+Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2020-05-05
+Nuevo León,Juárez,1.0,0.0,1.0,0.0,2020-05-05
+Puebla,Puebla,3.0,2.0,0.0,1.0,2020-05-05
+Querétaro,Querétaro,3.0,3.0,0.0,0.0,2020-05-05
+Sinaloa,Navolato,1.0,1.0,0.0,0.0,2020-05-05
+Sonora,Hermosillo,1.0,0.0,0.0,1.0,2020-05-05
+Tabasco,Comalcalco,1.0,1.0,0.0,0.0,2020-05-05
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2020-05-05
+Tamaulipas,Reynosa,4.0,4.0,0.0,0.0,2020-05-05
+Tlaxcala,Atltzayanca,1.0,1.0,0.0,0.0,2020-05-05
+Tlaxcala,Atlangatepec,1.0,1.0,0.0,0.0,2020-05-05
+Tlaxcala,Huamantla,1.0,0.0,1.0,0.0,2020-05-05
+Veracruz,Coatzacoalcos,1.0,0.0,0.0,1.0,2020-05-05
+Veracruz,Jáltipan,1.0,1.0,0.0,0.0,2020-05-05
+Zacatecas,Tlaltenango De Sánchez Román,1.0,1.0,0.0,0.0,2020-05-05
+Zacatecas,Trancoso,2.0,2.0,0.0,0.0,2020-05-05
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2020-05-06
+Baja California,Tecate,1.0,1.0,0.0,0.0,2020-05-06
+Baja California,Tijuana,3.0,3.0,0.0,0.0,2020-05-06
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-05-06
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-05-06
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-05-06
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-05-06
+Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2020-05-06
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-05-06
+Colima,Villa De Álvarez,1.0,1.0,0.0,0.0,2020-05-06
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2020-05-06
+Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2020-05-06
+Guanajuato,León,3.0,2.0,0.0,1.0,2020-05-06
+Guanajuato,Salvatierra,1.0,0.0,1.0,0.0,2020-05-06
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-05-06
+Guerrero,Juárez,1.0,1.0,0.0,0.0,2020-05-06
+Guerrero,Taxco De Alarcón,2.0,2.0,0.0,0.0,2020-05-06
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-05-06
+Jalisco,San Pedro Tlaquepaque,2.0,2.0,0.0,0.0,2020-05-06
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,0.0,1.0,2020-05-06
+Jalisco,Tomatlán,2.0,0.0,0.0,2.0,2020-05-06
+Jalisco,Zapopan,4.0,3.0,0.0,1.0,2020-05-06
+Michoacán,Morelia,3.0,1.0,0.0,2.0,2020-05-06
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-05-06
+Morelos,Yecapixtla,1.0,1.0,0.0,0.0,2020-05-06
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2020-05-06
+Estado de México,Ecatzingo,2.0,1.0,1.0,0.0,2020-05-06
+Estado de México,Ixtapan De La Sal,1.0,1.0,0.0,0.0,2020-05-06
+Estado de México,La Paz,2.0,2.0,0.0,0.0,2020-05-06
+Nuevo León,García,1.0,0.0,1.0,0.0,2020-05-06
+Nuevo León,Santiago,1.0,1.0,0.0,0.0,2020-05-06
+Oaxaca,Acatlán De Pérez Figueroa,1.0,1.0,0.0,0.0,2020-05-06
+Oaxaca,San Pedro Ixcatlán,1.0,1.0,0.0,0.0,2020-05-06
+Oaxaca,San Pedro Mixtepec,1.0,1.0,0.0,0.0,2020-05-06
+Puebla,Huejotzingo,1.0,1.0,0.0,0.0,2020-05-06
+Puebla,Tepeaca,1.0,1.0,0.0,0.0,2020-05-06
+Querétaro,San Juan Del Río,3.0,1.0,0.0,2.0,2020-05-06
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-06
+Quintana Roo,Othón P. Blanco,1.0,1.0,0.0,0.0,2020-05-06
+San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2020-05-06
+Sinaloa,Choix,2.0,1.0,1.0,0.0,2020-05-06
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-05-06
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-05-06
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-05-06
+Tlaxcala,Calpulalpan,1.0,1.0,0.0,0.0,2020-05-06
+Veracruz,Emiliano Zapata,1.0,1.0,0.0,0.0,2020-05-06
+Veracruz,Fortín,1.0,1.0,0.0,0.0,2020-05-06
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2020-05-06
+Veracruz,Misantla,2.0,1.0,1.0,0.0,2020-05-06
+Veracruz,Playa Vicente,1.0,1.0,0.0,0.0,2020-05-06
+Veracruz,Xalapa,1.0,1.0,0.0,0.0,2020-05-06
+Zacatecas,Calera,1.0,0.0,1.0,0.0,2020-05-06
+Zacatecas,Valparaíso,1.0,1.0,0.0,0.0,2020-05-06
+Baja California,Tijuana,3.0,3.0,0.0,0.0,2020-05-07
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-05-07
+Chihuahua,Juárez,6.0,4.0,1.0,1.0,2020-05-07
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-05-07
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-05-07
+Colima,Armería,1.0,1.0,0.0,0.0,2020-05-07
+Colima,Manzanillo,3.0,3.0,0.0,0.0,2020-05-07
+Colima,Tecomán,1.0,1.0,0.0,0.0,2020-05-07
+Guanajuato,Acámbaro,1.0,0.0,1.0,0.0,2020-05-07
+Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2020-05-07
+Guanajuato,Irapuato,4.0,4.0,0.0,0.0,2020-05-07
+Guanajuato,Salamanca,1.0,0.0,1.0,0.0,2020-05-07
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-05-07
+Guanajuato,Tarimoro,1.0,0.0,1.0,0.0,2020-05-07
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-05-07
+Guerrero,Técpan De Galeana,1.0,1.0,0.0,0.0,2020-05-07
+Hidalgo,Tezontepec De Aldama,1.0,1.0,0.0,0.0,2020-05-07
+Jalisco,El Arenal,1.0,1.0,0.0,0.0,2020-05-07
+Jalisco,San Pedro Tlaquepaque,2.0,2.0,0.0,0.0,2020-05-07
+Jalisco,Tlajomulco De Zúñiga,2.0,0.0,0.0,2.0,2020-05-07
+Michoacán,Irimbo,2.0,2.0,0.0,0.0,2020-05-07
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2020-05-07
+Michoacán,Zamora,3.0,3.0,0.0,0.0,2020-05-07
+Morelos,Cuautla,1.0,1.0,0.0,0.0,2020-05-07
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-05-07
+Morelos,Jojutla,1.0,1.0,0.0,0.0,2020-05-07
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-05-07
+Estado de México,Polotitlán,2.0,2.0,0.0,0.0,2020-05-07
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-05-07
+Estado de México,Zumpango,1.0,1.0,0.0,0.0,2020-05-07
+Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2020-05-07
+Nuevo León,García,1.0,1.0,0.0,0.0,2020-05-07
+Nuevo León,Monterrey,1.0,0.0,1.0,0.0,2020-05-07
+Nuevo León,Santiago,1.0,1.0,0.0,0.0,2020-05-07
+Oaxaca,Salina Cruz,2.0,2.0,0.0,0.0,2020-05-07
+Oaxaca,San Pedro Mixtepec,2.0,2.0,0.0,0.0,2020-05-07
+Puebla,La Magdalena Tlatlauquitepec,1.0,1.0,0.0,0.0,2020-05-07
+Puebla,Tochtepec,1.0,1.0,0.0,0.0,2020-05-07
+Sinaloa,Culiacán,1.0,0.0,0.0,1.0,2020-05-07
+Sonora,Cajeme,2.0,1.0,0.0,1.0,2020-05-07
+Sonora,Empalme,1.0,1.0,0.0,0.0,2020-05-07
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-05-07
+Tamaulipas,Ciudad Madero,1.0,1.0,0.0,0.0,2020-05-07
+Tamaulipas,El Mante,1.0,1.0,0.0,0.0,2020-05-07
+Veracruz,Cosoleacaque,2.0,2.0,0.0,0.0,2020-05-07
+Veracruz,Poza Rica De Hidalgo,1.0,1.0,0.0,0.0,2020-05-07
+Veracruz,San Andrés Tuxtla,1.0,1.0,0.0,0.0,2020-05-07
+Zacatecas,Valparaíso,2.0,2.0,0.0,0.0,2020-05-07
+Baja California,Playas De Rosarito,1.0,1.0,0.0,0.0,2020-05-08
+Baja California,Tijuana,3.0,3.0,0.0,0.0,2020-05-08
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-05-08
+Chihuahua,Juárez,1.0,0.0,1.0,0.0,2020-05-08
+Ciudad de México,Cuajimalpa De Morelos,1.0,1.0,0.0,0.0,2020-05-08
+Coahuila,Torreón,3.0,0.0,3.0,0.0,2020-05-08
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-05-08
+Colima,Tecomán,2.0,2.0,0.0,0.0,2020-05-08
+Guanajuato,Apaseo El Grande,3.0,3.0,0.0,0.0,2020-05-08
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-05-08
+Guanajuato,Irapuato,1.0,0.0,1.0,0.0,2020-05-08
+Guanajuato,León,3.0,3.0,0.0,0.0,2020-05-08
+Guanajuato,Salamanca,1.0,0.0,0.0,1.0,2020-05-08
+Guanajuato,Uriangato,1.0,1.0,0.0,0.0,2020-05-08
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-05-08
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-05-08
+Guerrero,Iguala De La Independencia,2.0,2.0,0.0,0.0,2020-05-08
+Jalisco,San Pedro Tlaquepaque,1.0,0.0,1.0,0.0,2020-05-08
+Jalisco,Zapopan,4.0,3.0,0.0,1.0,2020-05-08
+Michoacán,Tangancícuaro,1.0,1.0,0.0,0.0,2020-05-08
+Michoacán,Zacapu,1.0,0.0,1.0,0.0,2020-05-08
+Estado de México,Lerma,1.0,1.0,0.0,0.0,2020-05-08
+Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2020-05-08
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2020-05-08
+Puebla,Izúcar De Matamoros,1.0,1.0,0.0,0.0,2020-05-08
+Puebla,San Felipe Teotlalcingo,1.0,0.0,0.0,1.0,2020-05-08
+Puebla,San Martín Texmelucan,1.0,1.0,0.0,0.0,2020-05-08
+Quintana Roo,Benito Juárez,3.0,3.0,0.0,0.0,2020-05-08
+San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2020-05-08
+San Luis Potosí,Zaragoza,1.0,1.0,0.0,0.0,2020-05-08
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-05-08
+Sinaloa,Mazatlán,1.0,1.0,0.0,0.0,2020-05-08
+Tabasco,Centro,1.0,1.0,0.0,0.0,2020-05-08
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-05-08
+Tamaulipas,Victoria,8.0,8.0,0.0,0.0,2020-05-08
+Tlaxcala,Tocatlán,1.0,0.0,0.0,1.0,2020-05-08
+Veracruz,Lerdo De Tejada,1.0,0.0,1.0,0.0,2020-05-08
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2020-05-08
+Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2020-05-08
+Veracruz,Playa Vicente,3.0,3.0,0.0,0.0,2020-05-08
+Zacatecas,Valparaíso,2.0,2.0,0.0,0.0,2020-05-08
+Baja California,Tijuana,4.0,3.0,1.0,0.0,2020-05-09
+Chihuahua,Chihuahua,1.0,0.0,1.0,0.0,2020-05-09
+Chihuahua,Juárez,3.0,2.0,1.0,0.0,2020-05-09
+Ciudad de México,Iztacalco,2.0,2.0,0.0,0.0,2020-05-09
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-05-09
+Guanajuato,Celaya,4.0,4.0,0.0,0.0,2020-05-09
+Guanajuato,León,4.0,2.0,2.0,0.0,2020-05-09
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-05-09
+Guanajuato,Salamanca,4.0,3.0,1.0,0.0,2020-05-09
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2020-05-09
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-05-09
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2020-05-09
+Jalisco,Ameca,1.0,1.0,0.0,0.0,2020-05-09
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-05-09
+Jalisco,San Pedro Tlaquepaque,2.0,2.0,0.0,0.0,2020-05-09
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-05-09
+Jalisco,Zapopan,1.0,0.0,0.0,1.0,2020-05-09
+Michoacán,Cotija,2.0,1.0,1.0,0.0,2020-05-09
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-05-09
+Morelos,Tetecala,2.0,1.0,1.0,0.0,2020-05-09
+Nayarit,Tepic,1.0,1.0,0.0,0.0,2020-05-09
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2020-05-09
+Puebla,Amozoc,1.0,1.0,0.0,0.0,2020-05-09
+Puebla,Xicotepec,1.0,0.0,0.0,1.0,2020-05-09
+Puebla,Zacatlán,1.0,1.0,0.0,0.0,2020-05-09
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-05-09
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-09
+Sinaloa,Cosalá,2.0,1.0,1.0,0.0,2020-05-09
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-05-09
+Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2020-05-09
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2020-05-09
+Zacatecas,General Pánfilo Natera,1.0,1.0,0.0,0.0,2020-05-09
+Baja California,Tijuana,6.0,5.0,0.0,1.0,2020-05-10
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-05-10
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-05-10
+Guanajuato,Apaseo El Alto,4.0,3.0,0.0,1.0,2020-05-10
+Guanajuato,Celaya,2.0,2.0,0.0,0.0,2020-05-10
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,1.0,1.0,0.0,0.0,2020-05-10
+Guanajuato,Irapuato,2.0,1.0,1.0,0.0,2020-05-10
+Guanajuato,León,4.0,3.0,1.0,0.0,2020-05-10
+Guanajuato,Moroleón,2.0,2.0,0.0,0.0,2020-05-10
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-05-10
+Guerrero,Huitzuco De Los Figueroa,1.0,1.0,0.0,0.0,2020-05-10
+Jalisco,El Salto,25.0,0.0,0.0,25.0,2020-05-10
+Michoacán,Lázaro Cárdenas,1.0,0.0,1.0,0.0,2020-05-10
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-05-10
+Michoacán,Uruapan,1.0,0.0,0.0,1.0,2020-05-10
+Michoacán,Zamora,3.0,2.0,1.0,0.0,2020-05-10
+Michoacán,Zinapécuaro,1.0,1.0,0.0,0.0,2020-05-10
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-05-10
+Estado de México,Almoloya De Juárez,1.0,1.0,0.0,0.0,2020-05-10
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-05-10
+Estado de México,Xalatlaco,2.0,2.0,0.0,0.0,2020-05-10
+Nuevo León,Cadereyta Jiménez,2.0,0.0,0.0,2.0,2020-05-10
+Nuevo León,Pesquería,1.0,1.0,0.0,0.0,2020-05-10
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2020-05-10
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2020-05-10
+Puebla,Huejotzingo,1.0,1.0,0.0,0.0,2020-05-10
+Quintana Roo,Bacalar,3.0,1.0,2.0,0.0,2020-05-10
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-10
+Sinaloa,Navolato,1.0,1.0,0.0,0.0,2020-05-10
+Tabasco,Centro,1.0,1.0,0.0,0.0,2020-05-10
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-05-10
+Veracruz,Coatzacoalcos,2.0,1.0,1.0,0.0,2020-05-10
+Zacatecas,Villa De Cos,1.0,1.0,0.0,0.0,2020-05-10
+Zacatecas,Zacatecas,4.0,4.0,0.0,0.0,2020-05-10
+Aguascalientes,Aguascalientes,3.0,3.0,0.0,0.0,2020-05-11
+Baja California,Tijuana,8.0,4.0,0.0,4.0,2020-05-11
+Chihuahua,Chihuahua,1.0,0.0,1.0,0.0,2020-05-11
+Chihuahua,Cuauhtémoc,2.0,2.0,0.0,0.0,2020-05-11
+Chihuahua,Juárez,2.0,0.0,1.0,1.0,2020-05-11
+Chihuahua,López,1.0,1.0,0.0,0.0,2020-05-11
+Ciudad de México,Azcapotzalco,1.0,1.0,0.0,0.0,2020-05-11
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-05-11
+Ciudad de México,Venustiano Carranza,2.0,2.0,0.0,0.0,2020-05-11
+Colima,Colima,1.0,0.0,0.0,1.0,2020-05-11
+Guanajuato,León,1.0,1.0,0.0,0.0,2020-05-11
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-05-11
+Guerrero,Chilapa De Álvarez,1.0,0.0,0.0,1.0,2020-05-11
+Guerrero,Chilpancingo De Los Bravo,1.0,0.0,1.0,0.0,2020-05-11
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2020-05-11
+Guerrero,Tixtla De Guerrero,1.0,1.0,0.0,0.0,2020-05-11
+Hidalgo,Ixmiquilpan,1.0,0.0,1.0,0.0,2020-05-11
+Hidalgo,Mixquiahuala De Juárez,1.0,1.0,0.0,0.0,2020-05-11
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-05-11
+Jalisco,Zapopan,1.0,0.0,0.0,1.0,2020-05-11
+Michoacán,Acuitzio,1.0,1.0,0.0,0.0,2020-05-11
+Michoacán,Madero,1.0,1.0,0.0,0.0,2020-05-11
+Michoacán,Morelia,1.0,0.0,0.0,1.0,2020-05-11
+Morelos,Coatlán Del Río,1.0,1.0,0.0,0.0,2020-05-11
+Morelos,Cuernavaca,2.0,2.0,0.0,0.0,2020-05-11
+Morelos,Emiliano Zapata,2.0,2.0,0.0,0.0,2020-05-11
+Morelos,Huitzilac,2.0,2.0,0.0,0.0,2020-05-11
+Morelos,Tepoztlán,1.0,1.0,0.0,0.0,2020-05-11
+Morelos,Xochitepec,2.0,1.0,0.0,1.0,2020-05-11
+Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2020-05-11
+Estado de México,Luvianos,1.0,1.0,0.0,0.0,2020-05-11
+Estado de México,Nicolás Romero,1.0,1.0,0.0,0.0,2020-05-11
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2020-05-11
+Nuevo León,García,1.0,1.0,0.0,0.0,2020-05-11
+Nuevo León,Juárez,2.0,2.0,0.0,0.0,2020-05-11
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-05-11
+Nuevo León,Salinas Victoria,1.0,1.0,0.0,0.0,2020-05-11
+Oaxaca,Santiago Juxtlahuaca,1.0,1.0,0.0,0.0,2020-05-11
+Puebla,Teotlalco,1.0,1.0,0.0,0.0,2020-05-11
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-05-11
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-11
+San Luis Potosí,Ciudad Fernández,1.0,1.0,0.0,0.0,2020-05-11
+San Luis Potosí,Coxcatlán,1.0,1.0,0.0,0.0,2020-05-11
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-05-11
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2020-05-11
+San Luis Potosí,Tanlajás,1.0,0.0,1.0,0.0,2020-05-11
+Sinaloa,El Fuerte,1.0,1.0,0.0,0.0,2020-05-11
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-05-11
+Sonora,Hermosillo,2.0,2.0,0.0,0.0,2020-05-11
+Tabasco,Centro,1.0,1.0,0.0,0.0,2020-05-11
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-05-11
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2020-05-11
+Veracruz,Huatusco,1.0,1.0,0.0,0.0,2020-05-11
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-05-11
+Baja California,Mexicali,2.0,2.0,0.0,0.0,2020-05-12
+Baja California,Tijuana,10.0,5.0,0.0,5.0,2020-05-12
+Chihuahua,Chihuahua,2.0,0.0,2.0,0.0,2020-05-12
+Chihuahua,Juárez,4.0,3.0,1.0,0.0,2020-05-12
+Coahuila,Piedras Negras,1.0,0.0,1.0,0.0,2020-05-12
+Colima,Colima,3.0,3.0,0.0,0.0,2020-05-12
+Durango,Santiago Papasquiaro,2.0,2.0,0.0,0.0,2020-05-12
+Guanajuato,Celaya,1.0,0.0,1.0,0.0,2020-05-12
+Guanajuato,León,3.0,3.0,0.0,0.0,2020-05-12
+Guanajuato,Moroleón,1.0,1.0,0.0,0.0,2020-05-12
+Guanajuato,Salamanca,1.0,0.0,1.0,0.0,2020-05-12
+Guanajuato,Tarimoro,1.0,1.0,0.0,0.0,2020-05-12
+Guerrero,Acapulco De Juárez,5.0,2.0,0.0,3.0,2020-05-12
+Hidalgo,Tula De Allende,1.0,1.0,0.0,0.0,2020-05-12
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-12
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-05-12
+Michoacán,Morelia,3.0,3.0,0.0,0.0,2020-05-12
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-05-12
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-05-12
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-05-12
+Morelos,Tepoztlán,2.0,1.0,1.0,0.0,2020-05-12
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2020-05-12
+Estado de México,Ecatepec De Morelos,1.0,0.0,0.0,1.0,2020-05-12
+Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-05-12
+Estado de México,Tecámac,2.0,1.0,1.0,0.0,2020-05-12
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2020-05-12
+Oaxaca,Miahuatlán De Porfirio Díaz,1.0,1.0,0.0,0.0,2020-05-12
+Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2020-05-12
+Oaxaca,Santo Domingo Tehuantepec,1.0,1.0,0.0,0.0,2020-05-12
+Puebla,Atlixco,1.0,1.0,0.0,0.0,2020-05-12
+Puebla,Tehuacán,1.0,1.0,0.0,0.0,2020-05-12
+Puebla,Tilapa,1.0,1.0,0.0,0.0,2020-05-12
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-12
+San Luis Potosí,Tanlajás,1.0,0.0,1.0,0.0,2020-05-12
+San Luis Potosí,Villa De Ramos,1.0,1.0,0.0,0.0,2020-05-12
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-05-12
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-05-12
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-05-12
+Sonora,Hermosillo,2.0,2.0,0.0,0.0,2020-05-12
+Sonora,Navojoa,1.0,1.0,0.0,0.0,2020-05-12
+Tamaulipas,Reynosa,2.0,2.0,0.0,0.0,2020-05-12
+Veracruz,Nanchital De Lázaro Cárdenas Del Río,1.0,1.0,0.0,0.0,2020-05-12
+Veracruz,Sayula De Alemán,1.0,1.0,0.0,0.0,2020-05-12
+Aguascalientes,Rincón De Romos,1.0,1.0,0.0,0.0,2020-05-13
+Baja California,Tijuana,6.0,2.0,1.0,3.0,2020-05-13
+Baja California Sur,La Paz,1.0,1.0,0.0,0.0,2020-05-13
+Chihuahua,Chihuahua,3.0,3.0,0.0,0.0,2020-05-13
+Chihuahua,Cuauhtémoc,4.0,4.0,0.0,0.0,2020-05-13
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-05-13
+Ciudad de México,Muna,1.0,8.0,0.0,0.0,2020-05-13
+Ciudad de México,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2020-05-13
+Guanajuato,León,3.0,3.0,0.0,0.0,2020-05-13
+Guanajuato,Purísima Del Rincón,1.0,1.0,0.0,0.0,2020-05-13
+Guanajuato,Romita,1.0,1.0,0.0,0.0,2020-05-13
+Guanajuato,San José Iturbide,2.0,2.0,0.0,0.0,2020-05-13
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-05-13
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2020-05-13
+Guerrero,Xochistlahuaca,1.0,1.0,0.0,0.0,2020-05-13
+Hidalgo,Tepeji Del Río De Ocampo,1.0,1.0,0.0,0.0,2020-05-13
+Morelos,Puebla,1.0,1.0,0.0,0.0,2020-05-13
+Morelos,Xochistlahuaca,1.0,1.0,0.0,0.0,2020-05-13
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-13
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2020-05-13
+Jalisco,Zapopan,2.0,1.0,1.0,0.0,2020-05-13
+Michoacán,Coalcomán De Vázquez Pallares,1.0,1.0,0.0,0.0,2020-05-13
+Michoacán,Zamora,2.0,0.0,2.0,0.0,2020-05-13
+Morelos,Cuernavaca,2.0,1.0,0.0,1.0,2020-05-13
+Morelos,Temixco,1.0,1.0,0.0,0.0,2020-05-13
+Estado de México,Chalco,2.0,2.0,0.0,0.0,2020-05-13
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2020-05-13
+Estado de México,Zumpango,1.0,1.0,0.0,0.0,2020-05-13
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-05-13
+Nuevo León,Santa Catarina,2.0,2.0,0.0,0.0,2020-05-13
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2020-05-13
+Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2020-05-13
+Oaxaca,Santa María Zacatepec,1.0,1.0,0.0,0.0,2020-05-13
+Puebla,Chiconcuautla,1.0,0.0,1.0,0.0,2020-05-13
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-05-13
+Quintana Roo,Benito Juárez,1.0,0.0,0.0,1.0,2020-05-13
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2020-05-13
+San Luis Potosí,Villa Juárez,1.0,1.0,0.0,0.0,2020-05-13
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2020-05-13
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-05-13
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-05-13
+Tlaxcala,Ixtacuixtla De Mariano Matamoros,1.0,0.0,1.0,0.0,2020-05-13
+Veracruz,Nanchital De Lázaro Cárdenas Del Río,1.0,1.0,0.0,0.0,2020-05-13
+Veracruz,Tezonapa,2.0,2.0,0.0,0.0,2020-05-13
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-05-13
+Zacatecas,Villanueva,1.0,1.0,0.0,0.0,2020-05-13
+Baja California,Tijuana,9.0,7.0,0.0,2.0,2020-05-14
+Chiapas,Suchiate,1.0,0.0,1.0,0.0,2020-05-14
+Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2020-05-14
+Chihuahua,Juárez,4.0,4.0,0.0,0.0,2020-05-14
+Chihuahua,Madera,5.0,5.0,0.0,0.0,2020-05-14
+Ciudad de México,Cuauhtémoc,1.0,0.0,1.0,0.0,2020-05-14
+Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2020-05-14
+Colima,Manzanillo,2.0,1.0,1.0,0.0,2020-05-14
+Durango,Poanas,1.0,1.0,0.0,0.0,2020-05-14
+Durango,Tamazula,1.0,1.0,0.0,0.0,2020-05-14
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-05-14
+Guanajuato,León,1.0,1.0,0.0,0.0,2020-05-14
+Guanajuato,Pueblo Nuevo,1.0,1.0,0.0,0.0,2020-05-14
+Guanajuato,Salamanca,2.0,1.0,1.0,0.0,2020-05-14
+Guanajuato,Salvatierra,2.0,2.0,0.0,0.0,2020-05-14
+Guerrero,Acapulco De Juárez,4.0,4.0,0.0,0.0,2020-05-14
+Guerrero,Ixcateopan De Cuauhtémoc,1.0,1.0,0.0,0.0,2020-05-14
+Guerrero,Juchitán,1.0,1.0,0.0,0.0,2020-05-14
+Guerrero,Ometepec,1.0,1.0,0.0,0.0,2020-05-14
+Hidalgo,Cuautepec De Hinojosa,1.0,1.0,0.0,0.0,2020-05-14
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-14
+Jalisco,Tonalá,2.0,2.0,0.0,0.0,2020-05-14
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-05-14
+Michoacán,Tancítaro,1.0,0.0,1.0,0.0,2020-05-14
+Michoacán,Zamora,2.0,0.0,2.0,0.0,2020-05-14
+Morelos,Temixco,1.0,1.0,0.0,0.0,2020-05-14
+Morelos,Xochitepec,1.0,1.0,0.0,0.0,2020-05-14
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2020-05-14
+Estado de México,Metepec,1.0,1.0,0.0,0.0,2020-05-14
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-05-14
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2020-05-14
+Nayarit,Compostela,1.0,1.0,0.0,0.0,2020-05-14
+Nayarit,Tepic,1.0,1.0,0.0,0.0,2020-05-14
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2020-05-14
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-05-14
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2020-05-14
+Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2020-05-14
+Oaxaca,Santa María Huatulco,1.0,1.0,0.0,0.0,2020-05-14
+Puebla,Chiconcuautla,1.0,0.0,1.0,0.0,2020-05-14
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2020-05-14
+San Luis Potosí,Ciudad Valles,1.0,1.0,0.0,0.0,2020-05-14
+Sonora,Empalme,1.0,1.0,0.0,0.0,2020-05-14
+Sonora,Magdalena,1.0,1.0,0.0,0.0,2020-05-14
+Tlaxcala,San Pablo Del Monte,2.0,1.0,1.0,0.0,2020-05-14
+Veracruz,Mariano Escobedo,2.0,2.0,0.0,0.0,2020-05-14
+Veracruz,Pánuco,1.0,1.0,0.0,0.0,2020-05-14
+Zacatecas,Calera,4.0,0.0,0.0,4.0,2020-05-14
+Zacatecas,General Francisco R. Murguía,4.0,0.0,0.0,4.0,2020-05-14
+Aguascalientes,Jesús María,1.0,1.0,0.0,0.0,2020-05-15
+Baja California,Mexicali,3.0,2.0,1.0,0.0,2020-05-15
+Baja California,Tijuana,7.0,4.0,2.0,1.0,2020-05-15
+Chiapas,Tapachula,1.0,0.0,1.0,0.0,2020-05-15
+Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2020-05-15
+Chihuahua,Juárez,2.0,0.0,1.0,1.0,2020-05-15
+Ciudad de México,Miguel Hidalgo,2.0,2.0,0.0,0.0,2020-05-15
+Ciudad de México,Xochimilco,1.0,1.0,0.0,0.0,2020-05-15
+Coahuila,Torreón,1.0,1.0,0.0,0.0,2020-05-15
+Colima,Armería,1.0,0.0,1.0,0.0,2020-05-15
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-05-15
+Colima,Tecomán,1.0,1.0,0.0,0.0,2020-05-15
+Colima,Villa De Álvarez,1.0,1.0,0.0,0.0,2020-05-15
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-05-15
+Guanajuato,Celaya,3.0,3.0,0.0,0.0,2020-05-15
+Guanajuato,Irapuato,4.0,1.0,0.0,3.0,2020-05-15
+Guanajuato,León,3.0,2.0,1.0,0.0,2020-05-15
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-05-15
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2020-05-15
+Guanajuato,Santa Cruz De Juventino Rosas,1.0,1.0,0.0,0.0,2020-05-15
+Guanajuato,Tarimoro,4.0,0.0,0.0,4.0,2020-05-15
+Guanajuato,Uriangato,1.0,1.0,0.0,0.0,2020-05-15
+Guanajuato,Yuriria,1.0,0.0,0.0,1.0,2020-05-15
+Guerrero,Acapulco De Juárez,1.0,0.0,1.0,0.0,2020-05-15
+Guerrero,Cuautepec,1.0,1.0,0.0,0.0,2020-05-15
+Guerrero,Xochistlahuaca,2.0,2.0,0.0,0.0,2020-05-15
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2020-05-15
+Jalisco,San Pedro Tlaquepaque,1.0,0.0,1.0,0.0,2020-05-15
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-05-15
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-05-15
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-05-15
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-05-15
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-05-15
+Morelos,Axochiapan,1.0,1.0,0.0,0.0,2020-05-15
+Estado de México,Nicolás Romero,1.0,1.0,0.0,0.0,2020-05-15
+Estado de México,Toluca,1.0,0.0,1.0,0.0,2020-05-15
+Oaxaca,Acatlán De Pérez Figueroa,6.0,6.0,0.0,0.0,2020-05-15
+Oaxaca,Santiago Pinotepa Nacional,1.0,1.0,0.0,0.0,2020-05-15
+Oaxaca,San Juan Bautista Tuxtepec,1.0,0.0,0.0,1.0,2020-05-15
+Oaxaca,Santiago,1.0,1.0,0.0,0.0,2020-05-15
+Oaxaca,Ocampo,1.0,1.0,0.0,0.0,2020-05-15
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-05-15
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-15
+Quintana Roo,Tulum,1.0,1.0,0.0,0.0,2020-05-15
+San Luis Potosí,Cárdenas,1.0,0.0,0.0,1.0,2020-05-15
+San Luis Potosí,Matehuala,1.0,1.0,0.0,0.0,2020-05-15
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-05-15
+Sinaloa,Choix,1.0,1.0,0.0,0.0,2020-05-15
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-05-15
+Sonora,Cajeme,1.0,0.0,1.0,0.0,2020-05-15
+Sonora,Magdalena,3.0,3.0,0.0,0.0,2020-05-15
+Tabasco,Centro,1.0,1.0,0.0,0.0,2020-05-15
+Tamaulipas,Reynosa,3.0,3.0,0.0,0.0,2020-05-15
+Veracruz,Xico,1.0,1.0,0.0,0.0,2020-05-15
+Baja California,Tijuana,2.0,2.0,0.0,0.0,2020-05-16
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-05-16
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-05-16
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-05-16
+Ciudad de México,Miguel Hidalgo,2.0,2.0,0.0,0.0,2020-05-16
+Ciudad de México,Venustiano Carranza,2.0,0.0,2.0,0.0,2020-05-16
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-05-16
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2020-05-16
+Guanajuato,Irapuato,4.0,2.0,2.0,0.0,2020-05-16
+Guanajuato,Jaral Del Progreso,2.0,2.0,0.0,0.0,2020-05-16
+Guanajuato,León,1.0,1.0,0.0,0.0,2020-05-16
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-05-16
+Guanajuato,Salvatierra,2.0,2.0,0.0,0.0,2020-05-16
+Guanajuato,Uriangato,1.0,0.0,1.0,0.0,2020-05-16
+Guerrero,Ayutla De Los Libres,3.0,3.0,0.0,0.0,2020-05-16
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-05-16
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-16
+Jalisco,Tonalá,2.0,1.0,1.0,0.0,2020-05-16
+Michoacán,Aquila,1.0,1.0,0.0,0.0,2020-05-16
+Michoacán,Nuevo Urecho,2.0,2.0,0.0,0.0,2020-05-16
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-05-16
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-05-16
+Morelos,Xochitepec,1.0,1.0,0.0,0.0,2020-05-16
+Estado de México,Chimalhuacán,1.0,0.0,0.0,1.0,2020-05-16
+Estado de México,Nicolás Romero,1.0,1.0,0.0,0.0,2020-05-16
+Estado de México,Sultepec,2.0,0.0,2.0,0.0,2020-05-16
+Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2020-05-16
+San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2020-05-16
+Sinaloa,Choix,4.0,0.0,0.0,4.0,2020-05-16
+Sinaloa,Culiacán,5.0,2.0,1.0,2.0,2020-05-16
+Sonora,Cajeme,2.0,2.0,0.0,0.0,2020-05-16
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-05-16
+Tamaulipas,Reynosa,3.0,3.0,0.0,0.0,2020-05-16
+Veracruz,Tuxpan,1.0,1.0,0.0,0.0,2020-05-16
+Zacatecas,Calera,2.0,2.0,0.0,0.0,2020-05-16
+Zacatecas,Fresnillo,2.0,2.0,0.0,0.0,2020-05-16
+Aguascalientes,Cosío,1.0,1.0,0.0,0.0,2020-05-17
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2020-05-17
+Baja California,Tijuana,2.0,2.0,0.0,0.0,2020-05-17
+Baja California Sur,Los Cabos,1.0,0.0,0.0,1.0,2020-05-17
+Chiapas,Tapachula,1.0,1.0,0.0,0.0,2020-05-17
+Chihuahua,Juárez,9.0,1.0,1.0,7.0,2020-05-17
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-05-17
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-05-17
+Ciudad de México,Tláhuac,1.0,1.0,0.0,0.0,2020-05-17
+Coahuila,Torreón,1.0,1.0,0.0,0.0,2020-05-17
+Colima,Armería,1.0,1.0,0.0,0.0,2020-05-17
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-05-17
+Guanajuato,Irapuato,2.0,1.0,1.0,0.0,2020-05-17
+Guanajuato,León,1.0,1.0,0.0,0.0,2020-05-17
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-05-17
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-05-17
+Guerrero,Chilpancingo De Los Bravo,1.0,0.0,1.0,0.0,2020-05-17
+Jalisco,Zapotlanejo,1.0,1.0,0.0,0.0,2020-05-17
+Michoacán,Indaparapeo,1.0,1.0,0.0,0.0,2020-05-17
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2020-05-17
+Michoacán,Tangancícuaro,1.0,1.0,0.0,0.0,2020-05-17
+Michoacán,Uruapan,4.0,4.0,0.0,0.0,2020-05-17
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-05-17
+Estado de México,Ecatepec De Morelos,1.0,0.0,0.0,1.0,2020-05-17
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-05-17
+Estado de México,Xalatlaco,1.0,1.0,0.0,0.0,2020-05-17
+Estado de México,Xonacatlán,1.0,1.0,0.0,0.0,2020-05-17
+Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2020-05-17
+Nuevo León,Monterrey,2.0,0.0,1.0,1.0,2020-05-17
+Nuevo León,Santiago,1.0,0.0,0.0,1.0,2020-05-17
+Puebla,Puebla,1.0,0.0,0.0,1.0,2020-05-17
+Puebla,Tecamachalco,2.0,1.0,1.0,0.0,2020-05-17
+Quintana Roo,Othón P. Blanco,1.0,1.0,0.0,0.0,2020-05-17
+Quintana Roo,Tulum,2.0,1.0,1.0,0.0,2020-05-17
+Sinaloa,Ahome,1.0,1.0,0.0,0.0,2020-05-17
+Sinaloa,Angostura,1.0,1.0,0.0,0.0,2020-05-17
+Sinaloa,Choix,2.0,0.0,0.0,2.0,2020-05-17
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-05-17
+Sonora,Cajeme,2.0,1.0,1.0,0.0,2020-05-17
+Veracruz,Acayucan,1.0,1.0,0.0,0.0,2020-05-17
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-05-17
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2020-05-18
+Baja California,Tijuana,6.0,6.0,0.0,0.0,2020-05-18
+Chiapas,Coapilla,3.0,0.0,1.0,2.0,2020-05-18
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-05-18
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-05-18
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-05-18
+Guanajuato,Apaseo El Grande,1.0,0.0,1.0,0.0,2020-05-18
+Guanajuato,Apaseo El Alto,9.0,7.0,2.0,0.0,2020-05-18
+Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2020-05-18
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-05-18
+Guanajuato,León,2.0,2.0,0.0,0.0,2020-05-18
+Guanajuato,Pénjamo,2.0,0.0,2.0,0.0,2020-05-18
+Guanajuato,Silao De La Victoria,2.0,2.0,0.0,0.0,2020-05-18
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-05-18
+Guerrero,Chilpancingo De Los Bravo,2.0,1.0,1.0,0.0,2020-05-18
+Hidalgo,Atotonilco De Tula,1.0,1.0,0.0,0.0,2020-05-18
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-05-18
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-18
+Jalisco,Tlajomulco De Zúñiga,3.0,3.0,0.0,0.0,2020-05-18
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-05-18
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-05-18
+Michoacán,Hidalgo,2.0,0.0,2.0,0.0,2020-05-18
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2020-05-18
+Michoacán,Zitácuaro,2.0,2.0,0.0,0.0,2020-05-18
+Michoacán,Álvaro Obregón,1.0,1.0,0.0,0.0,2020-05-18
+Morelos,Amacuzac,1.0,1.0,0.0,0.0,2020-05-18
+Morelos,Ayala,1.0,1.0,0.0,0.0,2020-05-18
+Morelos,Coatlán Del Río,1.0,1.0,0.0,0.0,2020-05-18
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-05-18
+Estado de México,Chimalhuacán,1.0,1.0,0.0,0.0,2020-05-18
+Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2020-05-18
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-05-18
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-05-18
+Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2020-05-18
+Estado de México,Valle De Chalco Solidaridad,2.0,1.0,1.0,0.0,2020-05-18
+Estado de México,Zinacantepec,1.0,1.0,0.0,0.0,2020-05-18
+Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2020-05-18
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-05-18
+Puebla,Cuautlancingo,2.0,2.0,0.0,0.0,2020-05-18
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2020-05-18
+Quintana Roo,Felipe Carrillo Puerto,2.0,2.0,0.0,0.0,2020-05-18
+Sonora,Caborca,1.0,1.0,0.0,0.0,2020-05-18
+Sonora,Empalme,2.0,2.0,0.0,0.0,2020-05-18
+Tabasco,Centro,1.0,0.0,1.0,0.0,2020-05-18
+Veracruz,Teocelo,1.0,1.0,0.0,0.0,2020-05-18
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2020-05-19
+Baja California,Tijuana,4.0,2.0,1.0,1.0,2020-05-19
+Baja California,Los Cabos,1.0,1.0,0.0,0.0,2020-05-19
+Chiapas,Villa Corzo,1.0,1.0,0.0,0.0,2020-05-19
+Chihuahua,Aldama,1.0,1.0,0.0,0.0,2020-05-19
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-05-19
+Chihuahua,Juárez,7.0,6.0,1.0,0.0,2020-05-19
+Ciudad de México,Tlalpan,3.0,3.0,0.0,0.0,2020-05-19
+Colima,Manzanillo,3.0,3.0,0.0,0.0,2020-05-19
+Durango,Durango,1.0,1.0,0.0,0.0,2020-05-19
+Durango,Lerdo,1.0,1.0,0.0,0.0,2020-05-19
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2020-05-19
+Guanajuato,Celaya,4.0,4.0,0.0,0.0,2020-05-19
+Guanajuato,Comonfort,1.0,1.0,0.0,0.0,2020-05-19
+Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2020-05-19
+Guanajuato,Irapuato,4.0,3.0,1.0,0.0,2020-05-19
+Guanajuato,León,3.0,3.0,0.0,0.0,2020-05-19
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-05-19
+Hidalgo,Nopala De Villagrán,1.0,1.0,0.0,0.0,2020-05-19
+Jalisco,Acatlán De Juárez,1.0,1.0,0.0,0.0,2020-05-19
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-05-19
+Jalisco,Lagos De Moreno,1.0,1.0,0.0,0.0,2020-05-19
+Michoacán,Morelia,1.0,0.0,1.0,0.0,2020-05-19
+Morelos,Huitzilac,2.0,2.0,0.0,0.0,2020-05-19
+Morelos,Tepoztlán,1.0,1.0,0.0,0.0,2020-05-19
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2020-05-19
+Estado de México,Lerma,1.0,1.0,0.0,0.0,2020-05-19
+Estado de México,Sultepec,2.0,2.0,0.0,0.0,2020-05-19
+Estado de México,Temoaya,3.0,3.0,0.0,0.0,2020-05-19
+Estado de México,Zumpango,1.0,1.0,0.0,0.0,2020-05-19
+Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2020-05-19
+Nuevo León,García,1.0,1.0,0.0,0.0,2020-05-19
+Oaxaca,Santo Domingo Petapa,1.0,1.0,0.0,0.0,2020-05-19
+Puebla,Izúcar De Matamoros,2.0,2.0,0.0,0.0,2020-05-19
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-05-19
+Querétaro,Querétaro,1.0,0.0,1.0,0.0,2020-05-19
+Quintana Roo,Benito Juárez,1.0,0.0,1.0,0.0,2020-05-19
+Quintana Roo,Isla Mujeres,1.0,1.0,0.0,0.0,2020-05-19
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2020-05-19
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2020-05-19
+Sinaloa,Badiraguato,1.0,1.0,0.0,0.0,2020-05-19
+Sinaloa,Choix,1.0,1.0,0.0,0.0,2020-05-19
+Sinaloa,Culiacán,4.0,4.0,0.0,0.0,2020-05-19
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-05-19
+Sonora,Nogales,1.0,1.0,0.0,0.0,2020-05-19
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2020-05-19
+Tamaulipas,El Mante,2.0,2.0,0.0,0.0,2020-05-19
+Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2020-05-19
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2020-05-19
+Veracruz,Sayula De Alemán,1.0,1.0,0.0,0.0,2020-05-19
+Zacatecas,Fresnillo,1.0,0.0,0.0,1.0,2020-05-19
+Baja California,Tijuana,6.0,6.0,0.0,0.0,2020-05-20
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-05-20
+Chihuahua,Juárez,2.0,0.0,2.0,0.0,2020-05-20
+Chihuahua,Nuevo Casas Grandes,1.0,0.0,0.0,1.0,2020-05-20
+Chihuahua,Valle De Zaragoza,1.0,1.0,0.0,0.0,2020-05-20
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-05-20
+Colima,Armería,1.0,1.0,0.0,0.0,2020-05-20
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-05-20
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-05-20
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-05-20
+Guanajuato,Cuerámaro,1.0,1.0,0.0,0.0,2020-05-20
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-05-20
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-05-20
+Guerrero,Cuajinicuilapa,1.0,1.0,0.0,0.0,2020-05-20
+Guerrero,Cuetzala Del Progreso,1.0,1.0,0.0,0.0,2020-05-20
+Guerrero,Huitzuco De Los Figueroa,1.0,1.0,0.0,0.0,2020-05-20
+Guerrero,Tlapehuala,1.0,1.0,0.0,0.0,2020-05-20
+Hidalgo,Tula De Allende,1.0,1.0,0.0,0.0,2020-05-20
+Jalisco,Puerto Vallarta,2.0,2.0,0.0,0.0,2020-05-20
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-20
+Michoacán,Cotija,1.0,1.0,0.0,0.0,2020-05-20
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2020-05-20
+Michoacán,Ocampo,1.0,1.0,0.0,0.0,2020-05-20
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-05-20
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-05-20
+Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2020-05-20
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-05-20
+Estado de México,Almoloya De Juárez,3.0,1.0,2.0,0.0,2020-05-20
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2020-05-20
+Estado de México,Valle De Chalco Solidaridad,1.0,0.0,1.0,0.0,2020-05-20
+Nuevo León,San Nicolás De Los Garza,2.0,2.0,0.0,0.0,2020-05-20
+Oaxaca,Mariscala De Juárez,2.0,2.0,0.0,0.0,2020-05-20
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-05-20
+Puebla,Tecamachalco,1.0,0.0,1.0,0.0,2020-05-20
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-20
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2020-05-20
+Sinaloa,Ahome,1.0,1.0,0.0,0.0,2020-05-20
+Sinaloa,Rosario,1.0,1.0,0.0,0.0,2020-05-20
+Sonora,Cajeme,1.0,0.0,1.0,0.0,2020-05-20
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-05-20
+Tabasco,Centro,1.0,1.0,0.0,0.0,2020-05-20
+Veracruz,Actopan,3.0,3.0,0.0,0.0,2020-05-20
+Veracruz,Álamo Temapache,1.0,1.0,0.0,0.0,2020-05-20
+Veracruz,Alto Lucero De Gutiérrez Barrios,2.0,2.0,0.0,0.0,2020-05-20
+Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2020-05-20
+Veracruz,Poza Rica De Hidalgo,1.0,1.0,0.0,0.0,2020-05-20
+Veracruz,Xalapa,1.0,1.0,0.0,0.0,2020-05-20
+Zacatecas,Juan Aldama,1.0,0.0,1.0,0.0,2020-05-20
+Aguascalientes,San Francisco De Los Romo,1.0,1.0,0.0,0.0,2020-05-21
+Baja California,Tijuana,7.0,6.0,0.0,1.0,2020-05-21
+Chiapas,Cintalapa,1.0,1.0,0.0,0.0,2020-05-21
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-05-21
+Chihuahua,Juárez,5.0,4.0,1.0,0.0,2020-05-21
+Coahuila,Torreón,2.0,1.0,1.0,0.0,2020-05-21
+Colima,Colima,1.0,1.0,0.0,0.0,2020-05-21
+Colima,Manzanillo,5.0,5.0,0.0,0.0,2020-05-21
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-05-21
+Guanajuato,Celaya,3.0,2.0,0.0,1.0,2020-05-21
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-05-21
+Guanajuato,León,2.0,2.0,0.0,0.0,2020-05-21
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-05-21
+Guanajuato,San José Iturbide,1.0,0.0,1.0,0.0,2020-05-21
+Guanajuato,Valle De Santiago,1.0,0.0,1.0,0.0,2020-05-21
+Guerrero,Acapulco De Juárez,3.0,3.0,0.0,0.0,2020-05-21
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2020-05-21
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-21
+Jalisco,Zapopan,3.0,3.0,0.0,0.0,2020-05-21
+Michoacán,Cuitzeo,2.0,1.0,1.0,0.0,2020-05-21
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-05-21
+Michoacán,Queréndaro,1.0,1.0,0.0,0.0,2020-05-21
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-05-21
+Morelos,Amacuzac,1.0,1.0,0.0,0.0,2020-05-21
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-05-21
+Morelos,Temixco,6.0,5.0,1.0,0.0,2020-05-21
+Estado de México,Chimalhuacán,2.0,2.0,0.0,0.0,2020-05-21
+Estado de México,Santo Tomás,1.0,1.0,0.0,0.0,2020-05-21
+Oaxaca,Santo Domingo Tehuantepec,1.0,1.0,0.0,0.0,2020-05-21
+Puebla,Chila,1.0,1.0,0.0,0.0,2020-05-21
+Puebla,Los Reyes De Juárez,1.0,1.0,0.0,0.0,2020-05-21
+Puebla,Yehualtepec,1.0,0.0,1.0,0.0,2020-05-21
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-05-21
+Veracruz,Acayucan,2.0,2.0,0.0,0.0,2020-05-21
+Veracruz,Orizaba,1.0,1.0,0.0,0.0,2020-05-21
+Zacatecas,Calera,1.0,1.0,0.0,0.0,2020-05-21
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2020-05-22
+Baja California,Tijuana,4.0,3.0,1.0,0.0,2020-05-22
+Baja California Sur,Los Cabos,1.0,0.0,0.0,1.0,2020-05-22
+Chihuahua,Juárez,4.0,3.0,1.0,0.0,2020-05-22
+Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2020-05-22
+Coahuila,Saltillo,2.0,1.0,1.0,0.0,2020-05-22
+Colima,Colima,1.0,1.0,0.0,0.0,2020-05-22
+Colima,Manzanillo,3.0,2.0,0.0,1.0,2020-05-22
+Colima,Villa De Álvarez,1.0,1.0,0.0,0.0,2020-05-22
+Guanajuato,Apaseo El Alto,4.0,4.0,0.0,0.0,2020-05-22
+Guanajuato,Celaya,2.0,2.0,0.0,0.0,2020-05-22
+Guanajuato,Irapuato,4.0,4.0,0.0,0.0,2020-05-22
+Guanajuato,Jaral Del Progreso,3.0,3.0,0.0,0.0,2020-05-22
+Guanajuato,León,3.0,3.0,0.0,0.0,2020-05-22
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-05-22
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-05-22
+Guerrero,Cochoapa El Grande,1.0,1.0,0.0,0.0,2020-05-22
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2020-05-22
+Hidalgo,Pachuca De Soto,1.0,1.0,0.0,0.0,2020-05-22
+Jalisco,El Salto,8.0,8.0,0.0,0.0,2020-05-22
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-22
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-05-22
+Michoacán,Huandacareo,1.0,1.0,0.0,0.0,2020-05-22
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-05-22
+Morelos,Xochitepec,1.0,1.0,0.0,0.0,2020-05-22
+Estado de México,Chimalhuacán,1.0,0.0,0.0,1.0,2020-05-22
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-05-22
+Estado de México,Lerma,1.0,1.0,0.0,0.0,2020-05-22
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-05-22
+Nuevo León,Dr. Belisario Domínguez,1.0,1.0,0.0,0.0,2020-05-22
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-05-22
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2020-05-22
+San Luis Potosí,Rioverde,2.0,0.0,0.0,2.0,2020-05-22
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-05-22
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2020-05-22
+Sonora,Empalme,1.0,1.0,0.0,0.0,2020-05-22
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-05-22
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2020-05-22
+Veracruz,Amatlán De Los Reyes,1.0,0.0,1.0,0.0,2020-05-22
+Veracruz,Poza Rica De Hidalgo,1.0,1.0,0.0,0.0,2020-05-22
+Veracruz,San Andrés Tuxtla,1.0,1.0,0.0,0.0,2020-05-22
+Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2020-05-23
+Baja California,Tijuana,6.0,6.0,0.0,0.0,2020-05-23
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-05-23
+Chihuahua,Juárez,4.0,3.0,1.0,0.0,2020-05-23
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-05-23
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-05-23
+Guanajuato,León,4.0,3.0,0.0,1.0,2020-05-23
+Guanajuato,Pueblo Nuevo,1.0,1.0,0.0,0.0,2020-05-23
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-05-23
+Guerrero,Coyuca De Benítez,1.0,1.0,0.0,0.0,2020-05-23
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2020-05-23
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-23
+Michoacán,Huetamo,12.0,12.0,0.0,0.0,2020-05-23
+Michoacán,Lázaro Cárdenas,2.0,2.0,0.0,0.0,2020-05-23
+Michoacán,Panindícuaro,5.0,1.0,4.0,0.0,2020-05-23
+Michoacán,Zamora,2.0,1.0,1.0,0.0,2020-05-23
+Oaxaca,Miahuatlán De Porfirio Díaz,1.0,1.0,0.0,0.0,2020-05-23
+Oaxaca,Santiago Pinotepa Nacional,1.0,0.0,1.0,0.0,2020-05-23
+Puebla,Yehualtepec,1.0,0.0,0.0,1.0,2020-05-23
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-23
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-05-23
+San Luis Potosí,Soledad De Graciano Sánchez,2.0,2.0,0.0,0.0,2020-05-23
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-05-23
+Tabasco,Cunduacán,1.0,1.0,0.0,0.0,2020-05-23
+Veracruz,Acultzingo,2.0,2.0,0.0,0.0,2020-05-23
+Veracruz,Cuichapa,1.0,1.0,0.0,0.0,2020-05-23
+Veracruz,Córdoba,1.0,0.0,1.0,0.0,2020-05-23
+Veracruz,Xalapa,1.0,1.0,0.0,0.0,2020-05-23
+Baja California,Ensenada,3.0,3.0,0.0,0.0,2020-05-24
+Baja California,Tijuana,7.0,7.0,0.0,0.0,2020-05-24
+Chiapas,Tuxtla Gutiérrez,1.0,0.0,0.0,1.0,2020-05-24
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-05-24
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2020-05-24
+Coahuila,Saltillo,1.0,1.0,0.0,0.0,2020-05-24
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-05-24
+Durango,Durango,1.0,0.0,0.0,1.0,2020-05-24
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-05-24
+Guanajuato,Jerécuaro,2.0,2.0,0.0,0.0,2020-05-24
+Guanajuato,León,1.0,0.0,1.0,0.0,2020-05-24
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-05-24
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-05-24
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2020-05-24
+Guerrero,Atoyac De Álvarez,1.0,1.0,0.0,0.0,2020-05-24
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2020-05-24
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-05-24
+Jalisco,Puerto Vallarta,1.0,1.0,0.0,0.0,2020-05-24
+Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2020-05-24
+Michoacán,Turicato,2.0,2.0,0.0,0.0,2020-05-24
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-05-24
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-05-24
+Estado de México,Chalco,3.0,3.0,0.0,0.0,2020-05-24
+Estado de México,Tepetlixpa,2.0,0.0,0.0,2.0,2020-05-24
+Estado de México,Toluca,1.0,0.0,1.0,0.0,2020-05-24
+Nuevo León,Dr. Belisario Domínguez,2.0,2.0,0.0,0.0,2020-05-24
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2020-05-24
+Nuevo León,Pesquería,1.0,1.0,0.0,0.0,2020-05-24
+Nuevo León,Salinas Victoria,1.0,1.0,0.0,0.0,2020-05-24
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2020-05-24
+Oaxaca,Miahuatlán De Porfirio Díaz,1.0,1.0,0.0,0.0,2020-05-24
+Oaxaca,Santa Cruz Xoxocotlán,1.0,1.0,0.0,0.0,2020-05-24
+Puebla,Huejotzingo,1.0,1.0,0.0,0.0,2020-05-24
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-24
+San Luis Potosí,Ciudad Fernández,1.0,1.0,0.0,0.0,2020-05-24
+San Luis Potosí,San Luis Potosí,3.0,3.0,0.0,0.0,2020-05-24
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-05-24
+Veracruz,Córdoba,1.0,0.0,1.0,0.0,2020-05-24
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2020-05-24
+Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2020-05-25
+Baja California,Tecate,3.0,2.0,1.0,0.0,2020-05-25
+Baja California,Tijuana,3.0,1.0,1.0,1.0,2020-05-25
+Baja California Sur,Comondú,1.0,1.0,0.0,0.0,2020-05-25
+Chiapas,Chiapa De Corzo,1.0,0.0,0.0,1.0,2020-05-25
+Chiapas,Suchiate,1.0,1.0,0.0,0.0,2020-05-25
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2020-05-25
+Chihuahua,Bocoyna,2.0,2.0,0.0,0.0,2020-05-25
+Chihuahua,Chihuahua,1.0,0.0,1.0,0.0,2020-05-25
+Chihuahua,Juárez,2.0,1.0,0.0,1.0,2020-05-25
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2020-05-25
+Colima,Villa De Álvarez,1.0,1.0,0.0,0.0,2020-05-25
+Guanajuato,Apaseo El Alto,2.0,2.0,0.0,0.0,2020-05-25
+Guanajuato,Celaya,2.0,2.0,0.0,0.0,2020-05-25
+Guanajuato,Irapuato,5.0,2.0,0.0,3.0,2020-05-25
+Guanajuato,León,3.0,3.0,0.0,0.0,2020-05-25
+Guanajuato,Purísima Del Rincón,2.0,2.0,0.0,0.0,2020-05-25
+Guanajuato,Salamanca,3.0,3.0,0.0,0.0,2020-05-25
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2020-05-25
+Guerrero,Leonardo Bravo,3.0,0.0,0.0,3.0,2020-05-25
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2020-05-25
+Jalisco,San Pedro Tlaquepaque,2.0,2.0,0.0,0.0,2020-05-25
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-05-25
+Michoacán,Huandacareo,2.0,2.0,0.0,0.0,2020-05-25
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-05-25
+Michoacán,Zitácuaro,4.0,4.0,0.0,0.0,2020-05-25
+Morelos,Ayala,6.0,6.0,0.0,0.0,2020-05-25
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2020-05-25
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-05-25
+Nayarit,Tepic,1.0,0.0,1.0,0.0,2020-05-25
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-05-25
+Puebla,Atlixco,1.0,1.0,0.0,0.0,2020-05-25
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-25
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-05-25
+San Luis Potosí,Villa De Reyes,2.0,2.0,0.0,0.0,2020-05-25
+Sinaloa,Ahome,1.0,1.0,0.0,0.0,2020-05-25
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2020-05-25
+Sonora,Cajeme,2.0,2.0,0.0,0.0,2020-05-25
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-05-25
+Tabasco,Comalcalco,1.0,1.0,0.0,0.0,2020-05-25
+Tabasco,Cunduacán,1.0,1.0,0.0,0.0,2020-05-25
+Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2020-05-25
+Tamaulipas,Río Bravo,1.0,1.0,0.0,0.0,2020-05-25
+Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2020-05-25
+Veracruz,Acayucan,1.0,1.0,0.0,0.0,2020-05-25
+Veracruz,Puente Nacional,1.0,1.0,0.0,0.0,2020-05-25
+Veracruz,Veracruz,1.0,1.0,0.0,0.0,2020-05-25
+Baja California,Mexicali,1.0,0.0,0.0,1.0,2020-05-26
+Baja California,Tijuana,8.0,6.0,2.0,0.0,2020-05-26
+Chihuahua,Juárez,1.0,0.0,0.0,1.0,2020-05-26
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-05-26
+Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2020-05-26
+Coahuila,Piedras Negras,1.0,1.0,0.0,0.0,2020-05-26
+Colima,Colima,3.0,1.0,2.0,0.0,2020-05-26
+Guanajuato,Acámbaro,2.0,2.0,0.0,0.0,2020-05-26
+Guanajuato,Celaya,4.0,3.0,1.0,0.0,2020-05-26
+Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2020-05-26
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-05-26
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-05-26
+Guanajuato,Salvatierra,3.0,3.0,0.0,0.0,2020-05-26
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2020-05-26
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-05-26
+Guerrero,Chilapa De Álvarez,1.0,0.0,1.0,0.0,2020-05-26
+Guerrero,Coyuca De Benítez,1.0,1.0,0.0,0.0,2020-05-26
+Guerrero,San Marcos,2.0,2.0,0.0,0.0,2020-05-26
+Jalisco,Guadalajara,1.0,0.0,1.0,0.0,2020-05-26
+Jalisco,Puerto Vallarta,2.0,2.0,0.0,0.0,2020-05-26
+Jalisco,San Pedro Tlaquepaque,2.0,2.0,0.0,0.0,2020-05-26
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-05-26
+Michoacán,Ocampo,1.0,1.0,0.0,0.0,2020-05-26
+Michoacán,Puruándiro,1.0,0.0,1.0,0.0,2020-05-26
+Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2020-05-26
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-05-26
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-05-26
+Michoacán,Zinapécuaro,1.0,1.0,0.0,0.0,2020-05-26
+Michoacán,Álvaro Obregón,1.0,1.0,0.0,0.0,2020-05-26
+Morelos,Temixco,1.0,1.0,0.0,0.0,2020-05-26
+Morelos,Xochitepec,1.0,1.0,0.0,0.0,2020-05-26
+Morelos,Yautepec,1.0,1.0,0.0,0.0,2020-05-26
+Estado de México,Toluca,1.0,0.0,1.0,0.0,2020-05-26
+Nayarit,Del Nayar,1.0,0.0,1.0,0.0,2020-05-26
+Nuevo León,Dr. Belisario Domínguez,1.0,1.0,0.0,0.0,2020-05-26
+Nuevo León,Guadalupe,1.0,0.0,1.0,0.0,2020-05-26
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2020-05-26
+Nuevo León,Monterrey,1.0,0.0,1.0,0.0,2020-05-26
+Oaxaca,Matías Romero Avendaño,1.0,1.0,0.0,0.0,2020-05-26
+Oaxaca,Santo Domingo Tehuantepec,1.0,0.0,0.0,1.0,2020-05-26
+Oaxaca,Zimatlán De Álvarez,3.0,2.0,1.0,0.0,2020-05-26
+Puebla,Izúcar De Matamoros,1.0,1.0,0.0,0.0,2020-05-26
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-05-26
+Puebla,Tilapa,1.0,1.0,0.0,0.0,2020-05-26
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-05-26
+San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2020-05-26
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-05-26
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-05-26
+Sonora,Nogales,1.0,1.0,0.0,0.0,2020-05-26
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-05-26
+Tlaxcala,Santa Isabel Xiloxoxtla,1.0,1.0,0.0,0.0,2020-05-26
+Veracruz,Fortín,1.0,1.0,0.0,0.0,2020-05-26
+Zacatecas,Calera,1.0,1.0,0.0,0.0,2020-05-26
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2020-05-26
+Baja California,Tecate,1.0,1.0,0.0,0.0,2020-05-27
+Baja California,Tijuana,8.0,8.0,0.0,0.0,2020-05-27
+Chiapas,San Cristóbal De Las Casas,2.0,2.0,0.0,0.0,2020-05-27
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-05-27
+Chihuahua,Cuauhtémoc,5.0,4.0,0.0,1.0,2020-05-27
+Chihuahua,Juárez,3.0,3.0,0.0,0.0,2020-05-27
+Ciudad de México,Benito Juárez,2.0,2.0,0.0,0.0,2020-05-27
+Colima,Manzanillo,4.0,4.0,0.0,0.0,2020-05-27
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-05-27
+Guanajuato,Celaya,7.0,5.0,2.0,0.0,2020-05-27
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-05-27
+Guanajuato,Pénjamo,3.0,2.0,1.0,0.0,2020-05-27
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-05-27
+Guanajuato,San José Iturbide,4.0,4.0,0.0,0.0,2020-05-27
+Guanajuato,Tierra Blanca,1.0,1.0,0.0,0.0,2020-05-27
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-05-27
+Guerrero,Coahuayutla De José María Izazaga,1.0,1.0,0.0,0.0,2020-05-27
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-27
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-05-27
+Michoacán,Queréndaro,1.0,1.0,0.0,0.0,2020-05-27
+Michoacán,Tumbiscatío,3.0,3.0,0.0,0.0,2020-05-27
+Michoacán,Zamora,2.0,1.0,1.0,0.0,2020-05-27
+Morelos,Puente De Ixtla,1.0,1.0,0.0,0.0,2020-05-27
+Morelos,Tlaltizapán De Zapata,1.0,0.0,1.0,0.0,2020-05-27
+Morelos,Zacatepec,1.0,1.0,0.0,0.0,2020-05-27
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2020-05-27
+Estado de México,La Paz,1.0,0.0,1.0,0.0,2020-05-27
+Estado de México,Texcoco,1.0,0.0,1.0,0.0,2020-05-27
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2020-05-27
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-05-27
+Nuevo León,Dr. Belisario Domínguez,1.0,1.0,0.0,0.0,2020-05-27
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2020-05-27
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-05-27
+Oaxaca,San Bartolo Coyotepec,1.0,1.0,0.0,0.0,2020-05-27
+Puebla,Puebla,3.0,1.0,0.0,2.0,2020-05-27
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-05-27
+Quintana Roo,Tulum,1.0,1.0,0.0,0.0,2020-05-27
+San Luis Potosí,San Luis Potosí,4.0,4.0,0.0,0.0,2020-05-27
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2020-05-27
+Sinaloa,Culiacán,6.0,6.0,0.0,0.0,2020-05-27
+Tabasco,Centro,1.0,1.0,0.0,0.0,2020-05-27
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-05-27
+Tamaulipas,Victoria,1.0,0.0,0.0,1.0,2020-05-27
+Zacatecas,Calera,1.0,1.0,0.0,0.0,2020-05-27
+Baja California,Tijuana,8.0,6.0,0.0,2.0,2020-05-28
+Campeche,Carmen,1.0,1.0,0.0,0.0,2020-05-28
+Chihuahua,Chihuahua,2.0,1.0,1.0,0.0,2020-05-28
+Chihuahua,Cuauhtémoc,2.0,2.0,0.0,0.0,2020-05-28
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-05-28
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-05-28
+Ciudad de México,Miguel Hidalgo,1.0,0.0,1.0,0.0,2020-05-28
+Guanajuato,Celaya,3.0,3.0,0.0,0.0,2020-05-28
+Guanajuato,León,2.0,2.0,0.0,0.0,2020-05-28
+Guanajuato,Pénjamo,2.0,2.0,0.0,0.0,2020-05-28
+Guanajuato,Villagrán,5.0,4.0,1.0,0.0,2020-05-28
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-05-28
+Guerrero,La Unión De Isidoro Montes De Oca,1.0,1.0,0.0,0.0,2020-05-28
+Guerrero,Xochihuehuetlán,1.0,1.0,0.0,0.0,2020-05-28
+Jalisco,Acatlán De Juárez,1.0,1.0,0.0,0.0,2020-05-28
+Jalisco,San Pedro Tlaquepaque,4.0,3.0,1.0,0.0,2020-05-28
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-05-28
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-05-28
+Jalisco,Zapotlanejo,1.0,1.0,0.0,0.0,2020-05-28
+Michoacán,Jacona,2.0,2.0,0.0,0.0,2020-05-28
+Michoacán,Uruapan,3.0,3.0,0.0,0.0,2020-05-28
+Morelos,Jojutla,1.0,1.0,0.0,0.0,2020-05-28
+Morelos,Temixco,1.0,1.0,0.0,0.0,2020-05-28
+Morelos,Tlaltizapán De Zapata,1.0,0.0,1.0,0.0,2020-05-28
+Estado de México,Ecatepec De Morelos,2.0,2.0,0.0,0.0,2020-05-28
+Estado de México,Nezahualcóyotl,1.0,0.0,1.0,0.0,2020-05-28
+Nayarit,Xalisco,4.0,0.0,0.0,4.0,2020-05-28
+Nuevo León,Ciénega De Flores,1.0,1.0,0.0,0.0,2020-05-28
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-05-28
+Oaxaca,Tlacolula De Matamoros,1.0,1.0,0.0,0.0,2020-05-28
+Puebla,Izúcar De Matamoros,1.0,1.0,0.0,0.0,2020-05-28
+Puebla,Tlatlauquitepec,1.0,1.0,0.0,0.0,2020-05-28
+Puebla,Zacatlán,1.0,1.0,0.0,0.0,2020-05-28
+San Luis Potosí,Matehuala,1.0,0.0,1.0,0.0,2020-05-28
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-05-28
+Sinaloa,Ahome,1.0,1.0,0.0,0.0,2020-05-28
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2020-05-28
+Sonora,Empalme,1.0,1.0,0.0,0.0,2020-05-28
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-05-28
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-05-28
+Sonora,Nogales,1.0,1.0,0.0,0.0,2020-05-28
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-05-28
+Veracruz,Atzacan,1.0,1.0,0.0,0.0,2020-05-28
+Veracruz,Coatepec,1.0,0.0,1.0,0.0,2020-05-28
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2020-05-28
+Veracruz,Jáltipan,1.0,1.0,0.0,0.0,2020-05-28
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-05-28
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2020-05-28
+Zacatecas,Valparaíso,1.0,1.0,0.0,0.0,2020-05-28
+Aguascalientes,Aguascalientes,1.0,0.0,1.0,0.0,2020-05-29
+Baja California,Ensenada,5.0,5.0,0.0,0.0,2020-05-29
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2020-05-29
+Baja California,Tijuana,9.0,8.0,1.0,0.0,2020-05-29
+Campeche,Carmen,1.0,1.0,0.0,0.0,2020-05-29
+Chihuahua,Juárez,4.0,3.0,1.0,0.0,2020-05-29
+Ciudad de México,Gustavo A. Madero,3.0,3.0,0.0,0.0,2020-05-29
+Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2020-05-29
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2020-05-29
+Coahuila,Saltillo,1.0,1.0,0.0,0.0,2020-05-29
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-05-29
+Guanajuato,Celaya,4.0,4.0,0.0,0.0,2020-05-29
+Guanajuato,León,1.0,1.0,0.0,0.0,2020-05-29
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-05-29
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-05-29
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2020-05-29
+Guanajuato,Villagrán,1.0,1.0,0.0,0.0,2020-05-29
+Guerrero,Chilapa De Álvarez,1.0,1.0,0.0,0.0,2020-05-29
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-05-29
+Guerrero,Leonardo Bravo,3.0,3.0,0.0,0.0,2020-05-29
+Jalisco,Encarnación De Díaz,2.0,2.0,0.0,0.0,2020-05-29
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-29
+Jalisco,Tepatitlán De Morelos,1.0,1.0,0.0,0.0,2020-05-29
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-05-29
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-05-29
+Michoacán,Erongarícuaro,1.0,1.0,0.0,0.0,2020-05-29
+Michoacán,Gabriel Zamora,3.0,3.0,0.0,0.0,2020-05-29
+Michoacán,Irimbo,1.0,1.0,0.0,0.0,2020-05-29
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-05-29
+Michoacán,Tarímbaro,2.0,2.0,0.0,0.0,2020-05-29
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-05-29
+Michoacán,Zinapécuaro,1.0,1.0,0.0,0.0,2020-05-29
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-05-29
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-05-29
+Estado de México,La Paz,1.0,0.0,0.0,1.0,2020-05-29
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-05-29
+Estado de México,Tepotzotlán,1.0,1.0,0.0,0.0,2020-05-29
+Nayarit,Xalisco,2.0,0.0,0.0,2.0,2020-05-29
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2020-05-29
+Puebla,Coronango,2.0,1.0,1.0,0.0,2020-05-29
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-05-29
+Quintana Roo,Bacalar,2.0,1.0,1.0,0.0,2020-05-29
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-29
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-05-29
+San Luis Potosí,Tanlajás,1.0,1.0,0.0,0.0,2020-05-29
+Sinaloa,Choix,2.0,2.0,0.0,0.0,2020-05-29
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2020-05-29
+Sonora,Nogales,1.0,1.0,0.0,0.0,2020-05-29
+Veracruz,Acayucan,2.0,2.0,0.0,0.0,2020-05-29
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2020-05-29
+Zacatecas,Calera,1.0,1.0,0.0,0.0,2020-05-29
+Zacatecas,General Pánfilo Natera,3.0,3.0,0.0,0.0,2020-05-29
+Baja California,Mexicali,1.0,0.0,1.0,0.0,2020-05-30
+Baja California,Tijuana,9.0,7.0,2.0,0.0,2020-05-30
+Chihuahua,Juárez,4.0,4.0,0.0,0.0,2020-05-30
+Colima,Colima,1.0,1.0,0.0,0.0,2020-05-30
+Guanajuato,Acámbaro,2.0,0.0,0.0,2.0,2020-05-30
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2020-05-30
+Guanajuato,Celaya,2.0,2.0,0.0,0.0,2020-05-30
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-05-30
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2020-05-30
+Guanajuato,Uriangato,2.0,2.0,0.0,0.0,2020-05-30
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2020-05-30
+Guerrero,Acapulco De Juárez,3.0,3.0,0.0,0.0,2020-05-30
+Jalisco,Guadalajara,2.0,1.0,0.0,1.0,2020-05-30
+Michoacán,Morelia,3.0,2.0,1.0,0.0,2020-05-30
+Michoacán,Queréndaro,1.0,1.0,0.0,0.0,2020-05-30
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-05-30
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2020-05-30
+Oaxaca,Santa María Petapa,1.0,1.0,0.0,0.0,2020-05-30
+Puebla,Puebla,2.0,1.0,0.0,1.0,2020-05-30
+Quintana Roo,Benito Juárez,1.0,0.0,1.0,0.0,2020-05-30
+Quintana Roo,Solidaridad,1.0,0.0,0.0,1.0,2020-05-30
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-05-30
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2020-05-30
+Sonora,Nogales,3.0,2.0,0.0,1.0,2020-05-30
+Veracruz,Tierra Blanca,7.0,0.0,0.0,7.0,2020-05-30
+Zacatecas,Calera,1.0,1.0,0.0,0.0,2020-05-30
+Zacatecas,Fresnillo,3.0,3.0,0.0,0.0,2020-05-30
+Baja California,Tijuana,4.0,2.0,2.0,0.0,2020-05-31
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-05-31
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-05-31
+Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2020-05-31
+Ciudad de México,Venustiano Carranza,2.0,2.0,0.0,0.0,2020-05-31
+Guanajuato,Celaya,2.0,2.0,0.0,0.0,2020-05-31
+Guanajuato,Irapuato,4.0,4.0,0.0,0.0,2020-05-31
+Guanajuato,León,2.0,2.0,0.0,0.0,2020-05-31
+Guanajuato,Salamanca,3.0,2.0,1.0,0.0,2020-05-31
+Guerrero,Acapulco De Juárez,3.0,3.0,0.0,0.0,2020-05-31
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2020-05-31
+Hidalgo,Tizayuca,3.0,0.0,0.0,3.0,2020-05-31
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-05-31
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-05-31
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-05-31
+Jalisco,Zapotlanejo,2.0,2.0,0.0,0.0,2020-05-31
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2020-05-31
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-05-31
+Michoacán,Múgica,1.0,1.0,0.0,0.0,2020-05-31
+Michoacán,Parácuaro,1.0,1.0,0.0,0.0,2020-05-31
+Michoacán,Zamora,4.0,3.0,1.0,0.0,2020-05-31
+Estado de México,Naucalpan De Juárez,4.0,3.0,1.0,0.0,2020-05-31
+Estado de México,Teotihuacán,1.0,1.0,0.0,0.0,2020-05-31
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-05-31
+Nayarit,Tepic,1.0,1.0,0.0,0.0,2020-05-31
+Nayarit,Xalisco,5.0,0.0,0.0,5.0,2020-05-31
+Nuevo León,Monterrey,5.0,5.0,0.0,0.0,2020-05-31
+Oaxaca,Santo Domingo Tehuantepec,1.0,1.0,0.0,0.0,2020-05-31
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-05-31
+Quintana Roo,Bacalar,2.0,0.0,0.0,2.0,2020-05-31
+Sinaloa,Culiacán,3.0,1.0,0.0,2.0,2020-05-31
+Tabasco,Nacajuca,1.0,1.0,0.0,0.0,2020-05-31
+Veracruz,Fortín,1.0,1.0,0.0,0.0,2020-05-31
+Veracruz,Medellín De Bravo,2.0,2.0,0.0,0.0,2020-05-31
+Veracruz,San Andrés Tuxtla,1.0,1.0,0.0,0.0,2020-05-31
+Yucatán,Peto,1.0,1.0,0.0,0.0,2020-05-31

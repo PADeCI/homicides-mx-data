@@ -1,63 +1,45 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,5.0,4.0,1.0,0.0,2019-02-14
-Chiapas,"Angel Albino 
-Corzo",1.0,1.0,0.0,0.0,2019-02-14
+Chiapas,Angel Albino Corzo,1.0,1.0,0.0,0.0,2019-02-14
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-02-14
-Ciudad de México,"Gustavo A. 
-Madero",1.0,0.0,1.0,0.0,2019-02-14
+Ciudad de México,Gustavo A. Madero,1.0,0.0,1.0,0.0,2019-02-14
 Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2019-02-14
-Ciudad de México,"Álvaro 
-Obregón",1.0,0.0,0.0,1.0,2019-02-14
+Ciudad de México,Álvaro Obregón,1.0,0.0,0.0,1.0,2019-02-14
 Estado de México,Atlautla,1.0,1.0,0.0,0.0,2019-02-14
 Estado de México,Chalco,1.0,1.0,0.0,0.0,2019-02-14
 Estado de México,La Paz,1.0,1.0,0.0,0.0,2019-02-14
 Estado de México,Temoaya,1.0,1.0,0.0,0.0,2019-02-14
-Estado de México,"Valle de Chalco 
-Solidaridad",1.0,0.0,1.0,0.0,2019-02-14
+Estado de México,Valle De Chalco Solidaridad,1.0,0.0,1.0,0.0,2019-02-14
 Guanajuato,Celaya,2.0,2.0,0.0,0.0,2019-02-14
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-02-14
 Guanajuato,León,2.0,2.0,0.0,0.0,2019-02-14
 Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-02-14
 Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2019-02-14
-Guanajuato,"San Francisco 
-del Rincón",4.0,4.0,0.0,0.0,2019-02-14
+Guanajuato,San Francisco Del Rincón,4.0,4.0,0.0,0.0,2019-02-14
 Guanajuato,Tarandacuao,1.0,1.0,0.0,0.0,2019-02-14
-Guanajuato,"Valle de 
-Santiago",3.0,2.0,0.0,1.0,2019-02-14
-Guerrero,"Acapulco de 
-Juárez",3.0,2.0,1.0,0.0,2019-02-14
-Guerrero,"Chilapa de 
-Álvarez",1.0,1.0,0.0,0.0,2019-02-14
-Guerrero,"Coyuca de 
-Catalán",1.0,1.0,0.0,0.0,2019-02-14
+Guanajuato,Valle De Santiago,3.0,2.0,0.0,1.0,2019-02-14
+Guerrero,Acapulco De Juárez,3.0,2.0,1.0,0.0,2019-02-14
+Guerrero,Chilapa De Álvarez,1.0,1.0,0.0,0.0,2019-02-14
+Guerrero,Coyuca De Catalán,1.0,1.0,0.0,0.0,2019-02-14
 Guerrero,Ometepec,1.0,1.0,0.0,0.0,2019-02-14
-Guerrero,"Tlapa de 
-Comonfort",1.0,1.0,0.0,0.0,2019-02-14
-Guerrero,"Técpan de 
-Galeana",2.0,2.0,0.0,0.0,2019-02-14
+Guerrero,Tlapa De Comonfort,1.0,1.0,0.0,0.0,2019-02-14
+Guerrero,Técpan De Galeana,2.0,2.0,0.0,0.0,2019-02-14
 Jalisco,El Salto,2.0,0.0,0.0,2.0,2019-02-14
 Jalisco,Guadalajara,4.0,2.0,0.0,2.0,2019-02-14
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2019-02-14
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-02-14
 Jalisco,Tonalá,2.0,2.0,0.0,0.0,2019-02-14
 Michoacán,Morelia,3.0,1.0,1.0,0.0,2019-02-14
 Michoacán,Uruapan,3.0,3.0,0.0,0.0,2019-02-14
 Michoacán,Zinapécuaro,1.0,1.0,0.0,0.0,2019-02-14
-Morelos,"Emiliano 
-Zapata",1.0,1.0,0.0,0.0,2019-02-14
-Morelos,Puente de Ixtla,1.0,1.0,0.0,0.0,2019-02-14
-Nuevo León,"General 
-Escobedo",2.0,2.0,0.0,0.0,2019-02-14
+Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2019-02-14
+Morelos,Puente De Ixtla,1.0,1.0,0.0,0.0,2019-02-14
+Nuevo León,General Escobedo,2.0,2.0,0.0,0.0,2019-02-14
 Nuevo León,Monterrey,2.0,2.0,0.0,0.0,2019-02-14
-Oaxaca,"Miahuatlán de 
-Porfirio Díaz",1.0,1.0,0.0,0.0,2019-02-14
+Oaxaca,Miahuatlán De Porfirio Díaz,1.0,1.0,0.0,0.0,2019-02-14
 Puebla,Atlixco,1.0,1.0,0.0,0.0,2019-02-14
-Puebla,"Palmar de 
-Bravo",2.0,2.0,0.0,0.0,2019-02-14
-Puebla,"San Martín 
-Texmelucan",1.0,1.0,0.0,0.0,2019-02-14
-Puebla,"Santa Inés 
-Ahuatempan",1.0,1.0,0.0,0.0,2019-02-14
+Puebla,Palmar De Bravo,2.0,2.0,0.0,0.0,2019-02-14
+Puebla,San Martín Texmelucan,1.0,1.0,0.0,0.0,2019-02-14
+Puebla,Santa Inés Ahuatempan,1.0,1.0,0.0,0.0,2019-02-14
 Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-02-14
 Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-02-14
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-02-14
@@ -67,9 +49,7 @@ Tabasco,Centro,1.0,1.0,0.0,0.0,2019-02-14
 Tamaulipas,Reynosa,1.0,0.0,0.0,1.0,2019-02-14
 Veracruz,Altotonga,2.0,2.0,0.0,0.0,2019-02-14
 Veracruz,Coatzacoalcos,1.0,0.0,1.0,0.0,2019-02-14
-Veracruz,Medellín,1.0,0.0,0.0,1.0,2019-02-14
+Veracruz,Medellín De Bravo,1.0,0.0,0.0,1.0,2019-02-14
 Veracruz,Papantla,1.0,1.0,0.0,0.0,2019-02-14
-Veracruz,"Puente 
-Nacional",1.0,1.0,0.0,0.0,2019-02-14
-Veracruz,"San Juan 
-Evangelista",1.0,1.0,0.0,0.0,2019-02-14
+Veracruz,Puente Nacional,1.0,1.0,0.0,0.0,2019-02-14
+Veracruz,San Juan Evangelista,1.0,1.0,0.0,0.0,2019-02-14

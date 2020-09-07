@@ -1,57 +1,47 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado
-Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0
-Baja California,Tijuana,7.0,4.0,1.0,2.0
-Chihuahua,Juárez,2.0,2.0,0.0,0.0
-Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0
-Colima,Villa de Álvarez,1.0,1.0,0.0,0.0
-Guanajuato,Acámbaro,1.0,0.0,0.0,1.0
-Guanajuato,Celaya,1.0,1.0,0.0,0.0
-Guanajuato,Comonfort,1.0,0.0,1.0,0.0
-Guanajuato,Irapuato,2.0,2.0,0.0,0.0
-Guanajuato,León,5.0,4.0,0.0,1.0
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0
-Guanajuato,"Silao de la 
-Victoria",2.0,2.0,0.0,0.0
-Guanajuato,Villagrán,2.0,2.0,0.0,0.0
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0
-Guerrero,"Alcozauca de 
-Guerrero",1.0,1.0,0.0,0.0
-Hidalgo,"Cuautepec de 
-Hinojosa",2.0,0.0,0.0,2.0
-Hidalgo,"Tepeji del Río de 
-Ocampo",1.0,1.0,0.0,0.0
-Hidalgo,Zempoala,2.0,2.0,0.0,0.0
-Jalisco,"San Pedro 
-Tlaquepaque",3.0,3.0,0.0,0.0
-Jalisco,Zapopan,1.0,0.0,1.0,0.0
-Michoacán,Aquila,4.0,3.0,1.0,0.0
-Michoacán,Buenavista,1.0,1.0,0.0,0.0
-Michoacán,Lázaro Cárdenas,1.0,1.0,0.0,0.0
-Michoacán,Morelia,4.0,2.0,1.0,1.0
-Michoacán,Sahuayo,2.0,2.0,0.0,0.0
-Michoacán,Uruapan,1.0,1.0,0.0,0.0
-Michoacán,Zamora,3.0,3.0,0.0,0.0
-Morelos,Cuernavaca,2.0,1.0,1.0,0.0
-Morelos,Xochitepec,1.0,0.0,0.0,1.0
-Ciudad de México,Atizapán,1.0,0.0,1.0,0.0
-Ciudad de México,Chalco,1.0,1.0,0.0,0.0
-Ciudad de México,"Ecatepec de 
-Morelos",2.0,1.0,0.0,1.0
-Ciudad de México,Nezahualcóyotl,1.0,1.0,0.0,0.0
-Ciudad de México,Zinacantepec,1.0,1.0,0.0,0.0
-Nuevo León,Los Aldamas,1.0,0.0,0.0,1.0
-Oaxaca,"San Miguel 
-Quetzaltepec",2.0,0.0,0.0,2.0
-Oaxaca,"San Pablo Villa 
-de Mitla",1.0,0.0,1.0,0.0
-Puebla,Acajete,1.0,1.0,0.0,0.0
-Puebla,Puebla,1.0,1.0,0.0,0.0
-Puebla,Tecamachalco,1.0,0.0,0.0,1.0
-Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0
-Sinaloa,Culiacán,2.0,2.0,0.0,0.0
-Tabasco,Paraíso,1.0,0.0,0.0,1.0
-Tamaulipas,Reynosa,1.0,1.0,0.0,0.0
-Veracruz,Tezonapa,2.0,1.0,1.0,0.0
-Veracruz,Veracruz,2.0,0.0,2.0,0.0
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1,1,0,0,2019-09-10
+Baja California,Tijuana,7,4,1,2,2019-09-10
+Chihuahua,Juárez,2,2,0,0,2019-09-10
+Ciudad de México,Iztapalapa,1,1,0,0,2019-09-10
+Colima,Villa De Álvarez,1,1,0,0,2019-09-10
+Guanajuato,Acámbaro,1,0,0,1,2019-09-10
+Guanajuato,Celaya,1,1,0,0,2019-09-10
+Guanajuato,Comonfort,1,0,1,0,2019-09-10
+Guanajuato,Irapuato,2,2,0,0,2019-09-10
+Guanajuato,León,5,4,0,1,2019-09-10
+Guanajuato,San Miguel De Allende,1,1,0,0,2019-09-10
+Guanajuato,Silao De La Victoria,2,2,0,0,2019-09-10
+Guanajuato,Villagrán,2,2,0,0,2019-09-10
+Guerrero,Acapulco De Juárez,2,2,0,0,2019-09-10
+Guerrero,Alcozauca De Guerrero,1,1,0,0,2019-09-10
+Hidalgo,Cuautepec De Hinojosa,2,0,0,2,2019-09-10
+Hidalgo,Tepeji Del Río De Ocampo,1,1,0,0,2019-09-10
+Hidalgo,Zempoala,2,2,0,0,2019-09-10
+Jalisco,San Pedro Tlaquepaque,3,3,0,0,2019-09-10
+Jalisco,Zapopan,1,0,1,0,2019-09-10
+Michoacán,Aquila,4,3,1,0,2019-09-10
+Michoacán,Buenavista,1,1,0,0,2019-09-10
+Michoacán,Lázaro Cárdenas,1,1,0,0,2019-09-10
+Michoacán,Morelia,4,2,1,1,2019-09-10
+Michoacán,Sahuayo,2,2,0,0,2019-09-10
+Michoacán,Uruapan,1,1,0,0,2019-09-10
+Michoacán,Zamora,3,3,0,0,2019-09-10
+Morelos,Cuernavaca,2,1,1,0,2019-09-10
+Morelos,Xochitepec,1,0,0,1,2019-09-10
+Estado de México,Atizapán,1,0,1,0,2019-09-10
+Estado de México,Chalco,1,1,0,0,2019-09-10
+Estado de México,Ecatepec De Morelos,2,1,0,1,2019-09-10
+Estado de México,Nezahualcóyotl,1,1,0,0,2019-09-10
+Estado de México,Zinacantepec,1,1,0,0,2019-09-10
+Nuevo León,Los Aldamas,1,0,0,1,2019-09-10
+Oaxaca,San Miguel Quetzaltepec,2,0,0,2,2019-09-10
+Oaxaca,San Pablo Villa De Mitla,1,0,1,0,2019-09-10
+Puebla,Acajete,1,1,0,0,2019-09-10
+Puebla,Puebla,1,1,0,0,2019-09-10
+Puebla,Tecamachalco,1,0,0,1,2019-09-10
+Quintana Roo,Solidaridad,1,1,0,0,2019-09-10
+Sinaloa,Culiacán,2,2,0,0,2019-09-10
+Tabasco,Paraíso,1,0,0,1,2019-09-10
+Tamaulipas,Reynosa,1,1,0,0,2019-09-10
+Veracruz,Tezonapa,2,1,1,0,2019-09-10
+Veracruz,Veracruz,2,0,2,0,2019-09-10

@@ -1,54 +1,39 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tecate,2.0,2.0,0.0,0.0,2019-08-17
 Baja California,Tijuana,4.0,3.0,1.0,0.0,2019-08-17
-Chiapas,"Tuxtla 
-Gutiérrez",1.0,1.0,0.0,0.0,2019-08-17
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2019-08-17
 Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2019-08-17
 Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-08-17
 Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-08-17
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2019-08-17
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-17
 Ciudad de México,Iztapalapa,3.0,3.0,0.0,0.0,2019-08-17
-Ciudad de México,"La Magdalena 
-Contreras",1.0,1.0,0.0,0.0,2019-08-17
+Ciudad de México,La Magdalena Contreras,1.0,1.0,0.0,0.0,2019-08-17
 Colima,Armería,1.0,1.0,0.0,0.0,2019-08-17
 Colima,Manzanillo,3.0,3.0,0.0,0.0,2019-08-17
-Durango,"Guadalupe 
-Victoria",1.0,0.0,1.0,0.0,2019-08-17
+Durango,Guadalupe Victoria,1.0,0.0,1.0,0.0,2019-08-17
 Guanajuato,Acámbaro,2.0,2.0,0.0,0.0,2019-08-17
 Guanajuato,Celaya,4.0,4.0,0.0,0.0,2019-08-17
 Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-08-17
-Guerrero,"Acapulco de 
-Juárez",5.0,4.0,0.0,1.0,2019-08-17
-Guerrero,"Taxco de 
-Alarcón",2.0,2.0,0.0,0.0,2019-08-17
+Guerrero,Acapulco De Juárez,5.0,4.0,0.0,1.0,2019-08-17
+Guerrero,Taxco De Alarcón,2.0,2.0,0.0,0.0,2019-08-17
 Hidalgo,Tecozautla,3.0,3.0,0.0,0.0,2019-08-17
 Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-08-17
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,2.0,0.0,0.0,2019-08-17
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2019-08-17
 Jalisco,Zapopan,1.0,1.0,0.0,0.0,2019-08-17
 Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-08-17
 Michoacán,Uruapan,1.0,0.0,1.0,0.0,2019-08-17
 Michoacán,Zamora,3.0,3.0,0.0,0.0,2019-08-17
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2019-08-17
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-08-17
 Estado de México,Toluca,2.0,2.0,0.0,0.0,2019-08-17
 Estado de México,Tultitlán,1.0,0.0,1.0,0.0,2019-08-17
 Oaxaca,El Espinal,2.0,2.0,0.0,0.0,2019-08-17
 Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2019-08-17
-Oaxaca,"San Miguel 
-Soyaltepec",1.0,1.0,0.0,0.0,2019-08-17
-Oaxaca,"Santo 
-Domingo 
-Tehuantepec",1.0,1.0,0.0,0.0,2019-08-17
-Oaxaca,"Villa de 
-Tututepec de 
-Melchor 
-Ocampo",2.0,1.0,1.0,0.0,2019-08-17
+Oaxaca,San Miguel Soyaltepec,1.0,1.0,0.0,0.0,2019-08-17
+Oaxaca,Santo Domingo Tehuantepec,1.0,1.0,0.0,0.0,2019-08-17
+Oaxaca,Ocampo,2.0,1.0,1.0,0.0,2019-08-17
 Puebla,Chignahuapan,1.0,0.0,1.0,0.0,2019-08-17
 Puebla,Cuautinchán,1.0,0.0,1.0,0.0,2019-08-17
-Puebla,"San Andrés 
-Cholula",1.0,1.0,0.0,0.0,2019-08-17
+Puebla,San Andrés Cholula,1.0,1.0,0.0,0.0,2019-08-17
 Puebla,Xicotepec,1.0,1.0,0.0,0.0,2019-08-17
 Quintana Roo,Isla Mujeres,3.0,3.0,0.0,0.0,2019-08-17
 Tabasco,Centro,2.0,2.0,0.0,0.0,2019-08-17

@@ -1,52 +1,42 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Tijuana,9.0,7.0,2.0,0.0,2020-07-07
-Baja California,La Paz,1.0,1.0,0.0,0.0,2020-07-07
-Chiapas,Chamula,1.0,1.0,0.0,0.0,2020-07-07
-Chihuahua,Chihuahua,2.0,2.0,0.0,0.0,2020-07-07
-Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-07-07
-Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-07-07
-Colima,Manzanillo,4.0,4.0,0.0,0.0,2020-07-07
-Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-07-07
-Guanajuato,Celaya,3.0,3.0,0.0,0.0,2020-07-07
-Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-07-07
-Guanajuato,León,4.0,4.0,0.0,0.0,2020-07-07
-Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-07-07
-Guanajuato,"Santiago 
-Maravatío",1.0,1.0,0.0,0.0,2020-07-07
-Guanajuato,"Silao de la 
-Victoria",1.0,1.0,0.0,0.0,2020-07-07
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2020-07-07
-Guerrero,"Acapulco de 
-Juárez",1.0,0.0,1.0,0.0,2020-07-07
-Guerrero,"Iguala de la 
-Independencia",1.0,0.0,1.0,0.0,2020-07-07
-Guerrero,"Tepecoacuilco 
-de Trujano",1.0,1.0,0.0,0.0,2020-07-07
-Jalisco,Guadalajara,3.0,3.0,0.0,0.0,2020-07-07
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-07-07
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,1.0,1.0,0.0,2020-07-07
-Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-07-07
-Michoacán,Múgica,1.0,0.0,1.0,0.0,2020-07-07
-Estado de México,Ixtlahuaca,1.0,0.0,1.0,0.0,2020-07-07
-Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-07-07
-Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-07-07
-Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-07-07
-Tamaulipas,Nuevo Laredo,1.0,1.0,0.0,0.0,2020-07-07
-Tamaulipas,Río Bravo,1.0,1.0,0.0,0.0,2020-07-07
-Veracruz,Agua Dulce,1.0,1.0,0.0,0.0,2020-07-07
-Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2020-07-07
-Veracruz,Ixtaczoquitlán,2.0,2.0,0.0,0.0,2020-07-07
-Veracruz,La Perla,1.0,0.0,0.0,1.0,2020-07-07
-Veracruz,Naolinco,1.0,0.0,1.0,0.0,2020-07-07
-Veracruz,Soconusco,1.0,0.0,1.0,0.0,2020-07-07
-Zacatecas,Calera,1.0,1.0,0.0,0.0,2020-07-07
-Zacatecas,Fresnillo,2.0,2.0,0.0,0.0,2020-07-07
-Zacatecas,"General 
-Pánfilo Natera",1.0,1.0,0.0,0.0,2020-07-07
-Zacatecas,Guadalupe,2.0,2.0,0.0,0.0,2020-07-07
-Ciudad de México,Múgica,1.0,0.0,1.0,0.0,2020-07-07
-Ciudad de México,Oaxaca (1)  Ciudad Ixtepec,1.0,1.0,0.0,0.0,2020-07-07
-Ciudad de México,Uruapan,1.0,1.0,0.0,0.0,2020-07-07
+Baja California,Tijuana,9,7,2,0,2020-07-07
+Baja California Sur,La Paz,1,1,0,0,2020-07-07
+Chiapas,Chamula,1,1,0,0,2020-07-07
+Chihuahua,Chihuahua,2,2,0,0,2020-07-07
+Chihuahua,Juárez,2,2,0,0,2020-07-07
+Ciudad de México,Iztapalapa,1,1,0,0,2020-07-07
+Colima,Manzanillo,4,4,0,0,2020-07-07
+Guanajuato,Acámbaro,1,1,0,0,2020-07-07
+Guanajuato,Celaya,3,3,0,0,2020-07-07
+Guanajuato,Irapuato,2,2,0,0,2020-07-07
+Guanajuato,León,4,4,0,0,2020-07-07
+Guanajuato,Salamanca,2,2,0,0,2020-07-07
+Guanajuato,Santiago Maravatío,1,1,0,0,2020-07-07
+Guanajuato,Silao De La Victoria,1,1,0,0,2020-07-07
+Guanajuato,Valle De Santiago,1,1,0,0,2020-07-07
+Guerrero,Acapulco De Juárez,1,0,1,0,2020-07-07
+Guerrero,Iguala De La Independencia,1,0,1,0,2020-07-07
+Guerrero,Tepecoacuilco De Trujano,1,1,0,0,2020-07-07
+Jalisco,Guadalajara,3,3,0,0,2020-07-07
+Jalisco,San Pedro Tlaquepaque,1,1,0,0,2020-07-07
+Jalisco,Tlajomulco De Zúñiga,2,1,1,0,2020-07-07
+Jalisco,Tonalá,1,1,0,0,2020-07-07
+Michoacán,Múgica,1,0,1,0,2020-07-07
+Michoacán,Uruapan,1,1,0,0,2020-07-07
+Estado de México,Ixtlahuaca,1,0,1,0,2020-07-07
+Estado de México,La Paz,1,1,0,0,2020-07-07
+Querétaro,Querétaro,1,1,0,0,2020-07-07
+Sinaloa,Culiacán,2,2,0,0,2020-07-07
+Tamaulipas,Nuevo Laredo,1,1,0,0,2020-07-07
+Tamaulipas,Río Bravo,1,1,0,0,2020-07-07
+Veracruz,Agua Dulce,1,1,0,0,2020-07-07
+Veracruz,Coatzacoalcos,1,1,0,0,2020-07-07
+Veracruz,Ixtaczoquitlán,2,2,0,0,2020-07-07
+Veracruz,La Perla,1,0,0,1,2020-07-07
+Veracruz,Naolinco,1,0,1,0,2020-07-07
+Veracruz,Soconusco,1,0,1,0,2020-07-07
+Zacatecas,Calera,1,1,0,0,2020-07-07
+Zacatecas,Fresnillo,2,2,0,0,2020-07-07
+Zacatecas,General Pánfilo Natera,1,1,0,0,2020-07-07
+Zacatecas,Guadalupe,2,2,0,0,2020-07-07
+Oaxaca,Ciudad Ixtepec,1,1,0,0,2020-07-07

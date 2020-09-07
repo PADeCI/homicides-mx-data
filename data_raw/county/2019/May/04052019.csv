@@ -2,19 +2,15 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,3,3.0,0.0,0.0,2019-05-04
 Chihuahua,Juárez,4,4.0,0.0,0.0,2019-05-04
 Ciudad de México,Cuauhtémoc,2,2.0,0.0,0.0,2019-05-04
-Ciudad de México,"Gustavo A. 
-Madero",3,3.0,0.0,0.0,2019-05-04
-Ciudad de México,"Venustiano 
-Carranza",1,0.0,1.0,0.0,2019-05-04
+Ciudad de México,Gustavo A. Madero,3,3.0,0.0,0.0,2019-05-04
+Ciudad de México,Venustiano Carranza,1,0.0,1.0,0.0,2019-05-04
 Guanajuato,Celaya,2,2.0,0.0,0.0,2019-05-04
 Guanajuato,Irapuato,3,3.0,0.0,0.0,2019-05-04
 Guanajuato,León,1,1.0,0.0,0.0,2019-05-04
 Guanajuato,Salvatierra,1,1.0,0.0,0.0,2019-05-04
-Guerrero,"Acapulco de 
-Juárez",3,3.0,0.0,0.0,2019-05-04
+Guerrero,Acapulco De Juárez,3,3.0,0.0,0.0,2019-05-04
 Jalisco,Guadalajara,2,1.0,0.0,1.0,2019-05-04
-Jalisco,"Tlajomulco de 
-Zúñiga",1,0.0,0.0,1.0,2019-05-04
+Jalisco,Tlajomulco De Zúñiga,1,0.0,0.0,1.0,2019-05-04
 Jalisco,Zapopan,1,1.0,0.0,0.0,2019-05-04
 Michoacán,Erongarícuaro,5,5.0,0.0,0.0,2019-05-04
 Michoacán,Morelia,2,2.0,0.0,0.0,2019-05-04
@@ -23,18 +19,14 @@ Michoacán,Zamora,1,1.0,0.0,0.0,2019-05-04
 Morelos,Cuernavaca,1,1.0,0.0,0.0,2019-05-04
 Morelos,Temixco,1,0.0,1.0,0.0,2019-05-04
 Oaxaca,Loma Bonita,1,1.0,0.0,0.0,2019-05-04
-Oaxaca,"Miahuatlán de 
-Porfirio Díaz",1,1.0,0.0,0.0,2019-05-04
-Oaxaca,"Oaxaca de 
-Juárez",1,0.0,0.0,1.0,2019-05-04
-Puebla,"Izúcar de 
-Matamoros",1,1.0,0.0,0.0,2019-05-04
+Oaxaca,Miahuatlán De Porfirio Díaz,1,1.0,0.0,0.0,2019-05-04
+Oaxaca,Oaxaca De Juárez,1,0.0,0.0,1.0,2019-05-04
+Puebla,Izúcar De Matamoros,1,1.0,0.0,0.0,2019-05-04
 Puebla,Xicotepec,1,1.0,0.0,0.0,2019-05-04
 Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2019-05-04
 San Luis Potosí,San Luis Potosí,1,1.0,0.0,0.0,2019-05-04
 Sinaloa,Culiacán,2,2.0,0.0,0.0,2019-05-04
 Sonora,Cajeme,3,3.0,0.0,0.0,2019-05-04
 Sonora,Hermosillo,1,1.0,0.0,0.0,2019-05-04
-Veracruz,"Manlio Fabio 
-Altamirano",1,1.0,0.0,0.0,2019-05-04
+Veracruz,Manlio Fabio Altamirano,1,1.0,0.0,0.0,2019-05-04
 Veracruz,Minatitlán,3,3.0,0.0,0.0,2019-05-04

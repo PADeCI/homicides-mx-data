@@ -1,7 +1,6 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Mexicali,1.0,1.0,0.0,0.0,2020-08-17
-Baja California,"Playas de 
-Rosarito",1.0,1.0,0.0,0.0,2020-08-17
+Baja California,Playas De Rosarito,1.0,1.0,0.0,0.0,2020-08-17
 Baja California,Tijuana,11.0,7.0,0.0,4.0,2020-08-17
 Baja California,Los Cabos,1.0,1.0,0.0,0.0,2020-08-17
 Baja California,Mulegé,1.0,1.0,0.0,0.0,2020-08-17
@@ -9,59 +8,45 @@ Chiapas,Suchiate,1.0,1.0,0.0,0.0,2020-08-17
 Chihuahua,Juárez,6.0,5.0,0.0,1.0,2020-08-17
 Ciudad de México,Iztapalapa,2.0,2.0,0.0,0.0,2020-08-17
 Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2020-08-17
-Ciudad de México,"Álvaro 
-Obregón",1.0,1.0,0.0,0.0,2020-08-17
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2020-08-17
 Coahuila,Nava,1.0,1.0,0.0,0.0,2020-08-17
 Coahuila,Saltillo,2.0,2.0,0.0,0.0,2020-08-17
 Colima,Tecomán,1.0,0.0,0.0,1.0,2020-08-17
 Durango,Tamazula,2.0,2.0,0.0,0.0,2020-08-17
-Durango,"Vicente 
-Guerrero",1.0,0.0,1.0,0.0,2020-08-17
+Durango,Vicente Guerrero,1.0,0.0,1.0,0.0,2020-08-17
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-08-17
 Guanajuato,Jerécuaro,1.0,1.0,0.0,0.0,2020-08-17
 Guanajuato,Pénjamo,2.0,0.0,2.0,0.0,2020-08-17
 Guanajuato,Salvatierra,1.0,0.0,0.0,1.0,2020-08-17
-Guanajuato,"Santa Cruz de 
-Juventino 
-Rosas",1.0,1.0,0.0,0.0,2020-08-17
+Guanajuato,Santa Cruz De Juventino Rosas,1.0,1.0,0.0,0.0,2020-08-17
 Guanajuato,Uriangato,2.0,2.0,0.0,0.0,2020-08-17
 Guanajuato,Villagrán,1.0,1.0,0.0,0.0,2020-08-17
 Guanajuato,Yuriria,2.0,2.0,0.0,0.0,2020-08-17
-Guerrero,"Acapulco de 
-Juárez",3.0,2.0,1.0,0.0,2020-08-17
-Guerrero,"Chilapa de 
-Álvarez",3.0,0.0,0.0,3.0,2020-08-17
-Hidalgo,"Villa de 
-Tezontepec",1.0,1.0,0.0,0.0,2020-08-17
+Guerrero,Acapulco De Juárez,3.0,2.0,1.0,0.0,2020-08-17
+Guerrero,Chilapa De Álvarez,3.0,0.0,0.0,3.0,2020-08-17
+Hidalgo,Villa De Tezontepec,1.0,1.0,0.0,0.0,2020-08-17
 Jalisco,Tala,1.0,0.0,1.0,0.0,2020-08-17
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,0.0,0.0,1.0,2020-08-17
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,0.0,1.0,2020-08-17
 Coahuila,Rafael Delgado,1.0,1.0,0.0,0.0,2020-08-17
 Coahuila,Veracruz,1.0,0.0,0.0,1.0,2020-08-17
 Michoacán,Uruapan,6.0,3.0,0.0,3.0,2020-08-17
 Morelos,Cuautla,1.0,1.0,0.0,0.0,2020-08-17
-Morelos,"Emiliano 
-Zapata",1.0,1.0,0.0,0.0,2020-08-17
-Morelos,Puente de Ixtla,1.0,1.0,0.0,0.0,2020-08-17
+Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2020-08-17
+Morelos,Puente De Ixtla,1.0,1.0,0.0,0.0,2020-08-17
 Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-08-17
 Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2020-08-17
-Nuevo León,Gral. Escobedo,1.0,1.0,0.0,0.0,2020-08-17
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2020-08-17
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-08-17
 Nuevo León,Salinas Victoria,1.0,1.0,0.0,0.0,2020-08-17
 Oaxaca,Loma Bonita,2.0,2.0,0.0,0.0,2020-08-17
-Oaxaca,"Putla Villa de 
-Guerrero",1.0,0.0,0.0,1.0,2020-08-17
-Puebla,"Izúcar de 
-Matamoros",1.0,1.0,0.0,0.0,2020-08-17
+Oaxaca,Putla Villa De Guerrero,1.0,0.0,0.0,1.0,2020-08-17
+Puebla,Izúcar De Matamoros,1.0,1.0,0.0,0.0,2020-08-17
 Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2020-08-17
 San Luis Potosí,El Naranjo,1.0,1.0,0.0,0.0,2020-08-17
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",2.0,2.0,0.0,0.0,2020-08-17
+San Luis Potosí,Soledad De Graciano Sánchez,2.0,2.0,0.0,0.0,2020-08-17
 Sinaloa,Culiacán,3.0,2.0,0.0,1.0,2020-08-17
 Sonora,Caborca,1.0,1.0,0.0,0.0,2020-08-17
 Tabasco,Cárdenas,2.0,2.0,0.0,0.0,2020-08-17
 Tabasco,Macuspana,1.0,1.0,0.0,0.0,2020-08-17
 Tamaulipas,Miguel Alemán,9.0,9.0,0.0,0.0,2020-08-17
-Veracruz,"Poza Rica de 
-Hidalgo",1.0,1.0,0.0,0.0,2020-08-17
+Veracruz,Poza Rica De Hidalgo,1.0,1.0,0.0,0.0,2020-08-17

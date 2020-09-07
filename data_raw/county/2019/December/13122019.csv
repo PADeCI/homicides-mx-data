@@ -1,40 +1,29 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,4.0,3.0,1.0,0.0,2019-12-13
-Chiapas,"Tuxtla 
-Gutiérrez",1.0,1.0,0.0,0.0,2019-12-13
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2019-12-13
 Chihuahua,Guerrero,1.0,1.0,0.0,0.0,2019-12-13
 Chihuahua,Juárez,3.0,2.0,1.0,0.0,2019-12-13
-Ciudad de México,"Álvaro 
-Obregón",1.0,1.0,0.0,0.0,2019-12-13
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2019-12-13
 Colima,Manzanillo,1.0,0.0,0.0,1.0,2019-12-13
 Durango,Durango,1.0,1.0,0.0,0.0,2019-12-13
 Durango,Lerdo,1.0,1.0,0.0,0.0,2019-12-13
-Guanajuato,"Apaseo el 
-Grande",2.0,2.0,0.0,0.0,2019-12-13
-Guanajuato,Apaseo el Alto,2.0,2.0,0.0,0.0,2019-12-13
+Guanajuato,Apaseo El Grande,2.0,2.0,0.0,0.0,2019-12-13
+Guanajuato,Apaseo El Alto,2.0,2.0,0.0,0.0,2019-12-13
 Guanajuato,Irapuato,4.0,3.0,1.0,0.0,2019-12-13
 Guanajuato,León,3.0,3.0,0.0,0.0,2019-12-13
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-12-13
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-12-13
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-12-13
 Guanajuato,Villagrán,4.0,0.0,0.0,4.0,2019-12-13
-Guerrero,"Acapulco de 
-Juárez",6.0,0.0,0.0,6.0,2019-12-13
-Guerrero,Catalán,1.0,0.0,0.0,1.0,2019-12-13
-Guerrero,Coyuca de,1.0,0.0,0.0,1.0,2019-12-13
+Guerrero,Acapulco De Juárez,6.0,0.0,0.0,6.0,2019-12-13
+Guerrero,Coyuca De Catalán,1.0,0.0,0.0,1.0,2019-12-13
+Guerrero,Coyuca De Benítez,1.0,0.0,0.0,1.0,2019-12-13
 Guerrero,Pilcaya,2.0,2.0,0.0,0.0,2019-12-13
-Hidalgo,"Atotonilco de 
-Tula",1.0,0.0,1.0,0.0,2019-12-13
-Hidalgo,"Nopala de 
-Villagrán",1.0,1.0,0.0,0.0,2019-12-13
-Hidalgo,"Tulancingo de 
-Bravo",1.0,0.0,1.0,0.0,2019-12-13
-Jalisco,"Cuautitlán de 
-García 
-Barragán",1.0,0.0,1.0,0.0,2019-12-13
+Hidalgo,Atotonilco De Tula,1.0,0.0,1.0,0.0,2019-12-13
+Hidalgo,Nopala De Villagrán,1.0,1.0,0.0,0.0,2019-12-13
+Hidalgo,Tulancingo De Bravo,1.0,0.0,1.0,0.0,2019-12-13
+Jalisco,Cuautitlán De García Barragán,1.0,0.0,1.0,0.0,2019-12-13
 Jalisco,Guadalajara,2.0,1.0,0.0,1.0,2019-12-13
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,0.0,1.0,0.0,2019-12-13
+Jalisco,San Pedro Tlaquepaque,1.0,0.0,1.0,0.0,2019-12-13
 Jalisco,Zapopan,2.0,2.0,0.0,0.0,2019-12-13
 Jalisco,Zapotlanejo,1.0,1.0,0.0,0.0,2019-12-13
 Michoacán,Buenavista,1.0,1.0,0.0,0.0,2019-12-13
@@ -44,14 +33,11 @@ Michoacán,Puruándiro,1.0,1.0,0.0,0.0,2019-12-13
 Michoacán,Zamora,4.0,3.0,1.0,0.0,2019-12-13
 Morelos,Temixco,2.0,2.0,0.0,0.0,2019-12-13
 Morelos,Xochitepec,1.0,1.0,0.0,0.0,2019-12-13
-Estado de México,"San Martín de 
-las Pirámides",1.0,1.0,0.0,0.0,2019-12-13
+Estado de México,San Martín De Las Pirámides,1.0,1.0,0.0,0.0,2019-12-13
 Estado de México,Zinacantepec,2.0,1.0,1.0,0.0,2019-12-13
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0,2019-12-13
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2019-12-13
 Oaxaca,Juárez,1.0,1.0,0.0,0.0,2019-12-13
-Oaxaca,Oaxaca de,1.0,1.0,0.0,0.0,2019-12-13
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2019-12-13
 Puebla,Puebla,1.0,1.0,0.0,0.0,2019-12-13
 Puebla,Zihuateutla,1.0,0.0,1.0,0.0,2019-12-13
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-12-13

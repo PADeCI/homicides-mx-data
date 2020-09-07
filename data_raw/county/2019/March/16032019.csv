@@ -2,22 +2,17 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,6,4.0,1.0,1.0,2019-03-16
 Chihuahua,Juárez,2,1.0,0.0,1.0,2019-03-16
 Ciudad de México,Cuauhtémoc,1,1.0,0.0,0.0,2019-03-16
-Ciudad de México,"Venustiano 
-Carranza",1,1.0,0.0,0.0,2019-03-16
+Ciudad de México,Venustiano Carranza,1,1.0,0.0,0.0,2019-03-16
 Colima,Armería,1,1.0,0.0,0.0,2019-03-16
 Guanajuato,Abasolo,2,2.0,0.0,0.0,2019-03-16
 Guanajuato,Irapuato,1,1.0,0.0,0.0,2019-03-16
 Guanajuato,León,3,3.0,0.0,0.0,2019-03-16
 Guanajuato,Salvatierra,1,1.0,0.0,0.0,2019-03-16
-Guerrero,"Acapulco de 
-Juárez",6,3.0,2.0,1.0,2019-03-16
-Guerrero,"Atoyac de 
-Álvarez",1,1.0,0.0,0.0,2019-03-16
-Guerrero,"Taxco de 
-Alarcón",2,2.0,0.0,0.0,2019-03-16
+Guerrero,Acapulco De Juárez,6,3.0,2.0,1.0,2019-03-16
+Guerrero,Atoyac De Álvarez,1,1.0,0.0,0.0,2019-03-16
+Guerrero,Taxco De Alarcón,2,2.0,0.0,0.0,2019-03-16
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2019-03-16
-Jalisco,"Tlajomulco de 
-Zúñiga",1,1.0,0.0,0.0,2019-03-16
+Jalisco,Tlajomulco De Zúñiga,1,1.0,0.0,0.0,2019-03-16
 Jalisco,Zapopan,1,1.0,0.0,0.0,2019-03-16
 Michoacán,Acuitzio,1,1.0,0.0,0.0,2019-03-16
 Michoacán,Buenavista,2,2.0,0.0,0.0,2019-03-16
@@ -25,22 +20,16 @@ Morelos,Temixco,1,0.0,0.0,1.0,2019-03-16
 Morelos,Zacatepec,1,1.0,0.0,0.0,2019-03-16
 Estado de México,Nezahualcóyotl,2,2.0,0.0,0.0,2019-03-16
 Estado de México,Temoaya,1,1.0,0.0,0.0,2019-03-16
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",2,2.0,0.0,0.0,2019-03-16
+Oaxaca,Zaragoza,2,2.0,0.0,0.0,2019-03-16
 Puebla,Huejotzingo,1,0.0,0.0,1.0,2019-03-16
 Quintana Roo,Benito Juárez,2,1.0,0.0,1.0,2019-03-16
 Quintana Roo,Solidaridad,5,2.0,0.0,3.0,2019-03-16
-Sonora,"General 
-Plutarco Elías 
-Calles",1,1.0,0.0,0.0,2019-03-16
-Sonora,"San Luis Río 
-Colorado",1,1.0,0.0,0.0,2019-03-16
+Sonora,General Plutarco Elías Calles,1,1.0,0.0,0.0,2019-03-16
+Sonora,San Luis Río Colorado,1,1.0,0.0,0.0,2019-03-16
 Tabasco,Comalcalco,1,1.0,0.0,0.0,2019-03-16
 Tabasco,Huimanguillo,2,2.0,0.0,0.0,2019-03-16
 Tabasco,Macuspana,1,1.0,0.0,0.0,2019-03-16
-Veracruz,"Carlos A. 
-Carrillo",1,1.0,0.0,0.0,2019-03-16
+Veracruz,Carlos A. Carrillo,1,1.0,0.0,0.0,2019-03-16
 Veracruz,Coatzacoalcos,2,0.0,0.0,2.0,2019-03-16
 Veracruz,Minatitlán,2,2.0,0.0,0.0,2019-03-16
 Veracruz,Texistepec,2,2.0,0.0,0.0,2019-03-16

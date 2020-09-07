@@ -1,42 +1,32 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Ensenada,6.0,6.0,0.0,0.0,2020-07-29
 Baja California,Tijuana,10.0,10.0,0.0,0.0,2020-07-29
-Chiapas,"Tuxtla 
-Gutiérrez",1.0,1.0,0.0,0.0,2020-07-29
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2020-07-29
 Chihuahua,Cuauhtémoc,2.0,2.0,0.0,0.0,2020-07-29
-Chihuahua,"Hidalgo del 
-Parral",2.0,2.0,0.0,0.0,2020-07-29
+Chihuahua,Hidalgo Del Parral,2.0,2.0,0.0,0.0,2020-07-29
 Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-07-29
 Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2020-07-29
-Ciudad de México,"Venustiano 
-Carranza",1.0,1.0,0.0,0.0,2020-07-29
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2020-07-29
 Colima,Tecomán,1.0,1.0,0.0,0.0,2020-07-29
-Durango,"Guadalupe 
-Victoria",1.0,1.0,0.0,0.0,2020-07-29
-Durango,"Santiago 
-Papasquiaro",1.0,1.0,0.0,0.0,2020-07-29
+Durango,Guadalupe Victoria,1.0,1.0,0.0,0.0,2020-07-29
+Durango,Santiago Papasquiaro,1.0,1.0,0.0,0.0,2020-07-29
 Guanajuato,Acámbaro,2.0,2.0,0.0,0.0,2020-07-29
 Guanajuato,Celaya,3.0,2.0,1.0,0.0,2020-07-29
 Guanajuato,Comonfort,2.0,1.0,1.0,0.0,2020-07-29
 Guanajuato,Salamanca,1.0,0.0,0.0,1.0,2020-07-29
 Guanajuato,Salvatierra,1.0,0.0,1.0,0.0,2020-07-29
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,0.0,0.0,1.0,2020-07-29
-Guerrero,"Tepecoacuilco 
-de Trujano",1.0,1.0,0.0,0.0,2020-07-29
-Guerrero,"Zihuatanejo de 
-Azueta",2.0,2.0,0.0,0.0,2020-07-29
+Guerrero,Chilpancingo De Los Bravo,1.0,0.0,0.0,1.0,2020-07-29
+Guerrero,Tepecoacuilco De Trujano,1.0,1.0,0.0,0.0,2020-07-29
+Guerrero,Zihuatanejo De Azueta,2.0,2.0,0.0,0.0,2020-07-29
 Hidalgo,Acatlán,2.0,2.0,0.0,0.0,2020-07-29
-Hidalgo,"Atotonilco de 
-Tula",2.0,1.0,1.0,0.0,2020-07-29
+Hidalgo,Atotonilco De Tula,2.0,1.0,1.0,0.0,2020-07-29
 Hidalgo,El Arenal,1.0,1.0,0.0,0.0,2020-07-29
 Jalisco,Zapopan,1.0,0.0,0.0,1.0,2020-07-29
 Morelos,Atlatlahucan,1.0,1.0,0.0,0.0,2020-07-29
 Morelos,Ocuituco,1.0,1.0,0.0,0.0,2020-07-29
 Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-07-29
 Nuevo León,Pesquería,1.0,1.0,0.0,0.0,2020-07-29
-Oaxaca,"Miahuatlán de 
-Porfirio Díaz",1.0,1.0,0.0,0.0,2020-07-29
+Oaxaca,Miahuatlán De Porfirio Díaz,1.0,1.0,0.0,0.0,2020-07-29
 Puebla,Puebla,1.0,1.0,0.0,0.0,2020-07-29
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-07-29
 San Luis Potosí,Matehuala,1.0,1.0,0.0,0.0,2020-07-29
@@ -45,8 +35,7 @@ Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2020-07-29
 Sonora,Caborca,2.0,2.0,0.0,0.0,2020-07-29
 Sonora,Empalme,1.0,1.0,0.0,0.0,2020-07-29
 Sonora,Hermosillo,1.0,0.0,1.0,0.0,2020-07-29
-Sonora,"San Pedro de la 
-Cueva",1.0,1.0,0.0,0.0,2020-07-29
+Sonora,San Pedro De La Cueva,1.0,1.0,0.0,0.0,2020-07-29
 Tabasco,Huimanguillo,2.0,0.0,2.0,0.0,2020-07-29
 Veracruz,Agua Dulce,1.0,0.0,1.0,0.0,2020-07-29
 Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2020-07-29

@@ -3,29 +3,25 @@ Aguascalientes,Aguascalientes,1.0,0.0,1.0,0.0,2020-07-13
 Baja California,Mexicali,1.0,1.0,0.0,0.0,2020-07-13
 Baja California,Tijuana,4.0,4.0,0.0,0.0,2020-07-13
 Chiapas,Ixtacomitán,1.0,1.0,0.0,0.0,2020-07-13
-Chiapas,"Tuxtla 
-Gutiérrez",1.0,1.0,0.0,0.0,2020-07-13
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2020-07-13
 Chihuahua,Guerrero,1.0,1.0,0.0,0.0,2020-07-13
 Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-07-13
 Chihuahua,Ocampo,4.0,4.0,0.0,0.0,2020-07-13
 Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-07-13
-Ciudad de México,"Álvaro 
-Obregón",2.0,2.0,0.0,0.0,2020-07-13
+Ciudad de México,Álvaro Obregón,2.0,2.0,0.0,0.0,2020-07-13
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-07-13
 Durango,Durango,1.0,1.0,0.0,0.0,2020-07-13
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2020-07-13
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2020-07-13
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-07-13
 Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-07-13
 Guanajuato,León,5.0,5.0,0.0,0.0,2020-07-13
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-07-13
 Guanajuato,Salamanca,3.0,3.0,0.0,0.0,2020-07-13
-Guerrero,"Coyuca de 
-Benítez",1.0,1.0,0.0,0.0,2020-07-13
+Guerrero,Coyuca De Benítez,1.0,1.0,0.0,0.0,2020-07-13
 Hidalgo,Calnali,1.0,1.0,0.0,0.0,2020-07-13
 Hidalgo,Tepeapulco,1.0,0.0,1.0,0.0,2020-07-13
 Jalisco,Jocotepec,4.0,4.0,0.0,0.0,2020-07-13
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2020-07-13
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-07-13
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-07-13
 Jalisco,Zapopan,2.0,2.0,0.0,0.0,2020-07-13
 Michoacán,Cuitzeo,1.0,0.0,1.0,0.0,2020-07-13
@@ -39,18 +35,12 @@ Estado de México,La Paz,2.0,2.0,0.0,0.0,2020-07-13
 Nuevo León,Linares,1.0,1.0,0.0,0.0,2020-07-13
 Nuevo León,Monterrey,2.0,2.0,0.0,0.0,2020-07-13
 Nuevo León,Santa Catarina,1.0,1.0,0.0,0.0,2020-07-13
-Oaxaca,"Heroica 
-Ciudad de 
-Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0,2020-07-13
-Oaxaca,"Santiago 
-Pinotepa 
-Nacional",1.0,0.0,1.0,0.0,2020-07-13
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2020-07-13
+Oaxaca,Santiago Pinotepa Nacional,1.0,0.0,1.0,0.0,2020-07-13
 Puebla,Chignahuapan,1.0,0.0,1.0,0.0,2020-07-13
 Puebla,Puebla,1.0,1.0,0.0,0.0,2020-07-13
 Quintana Roo,Benito Juárez,3.0,2.0,1.0,0.0,2020-07-13
-Sinaloa,"Salvador 
-Alvarado",1.0,1.0,0.0,0.0,2020-07-13
+Sinaloa,Salvador Alvarado,1.0,1.0,0.0,0.0,2020-07-13
 Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-07-13
 Sonora,Nogales,1.0,1.0,0.0,0.0,2020-07-13
 Sonora,Soyopa,1.0,1.0,0.0,0.0,2020-07-13
@@ -59,8 +49,7 @@ Tabasco,Tenosique,1.0,0.0,1.0,0.0,2020-07-13
 Tamaulipas,Reynosa,2.0,1.0,1.0,0.0,2020-07-13
 Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2020-07-13
 Tlaxcala,Natívitas,3.0,2.0,1.0,0.0,2020-07-13
-Veracruz,"Mariano 
-Escobedo",2.0,2.0,0.0,0.0,2020-07-13
+Veracruz,Mariano Escobedo,2.0,2.0,0.0,0.0,2020-07-13
 Veracruz,Tuxpan,1.0,1.0,0.0,0.0,2020-07-13
 Zacatecas,Calera,1.0,1.0,0.0,0.0,2020-07-13
 Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-07-13

@@ -4,40 +4,28 @@ Baja California,Tijuana,3.0,3.0,0.0,0.0,2020-06-17
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-06-17
 Colima,Manzanillo,5.0,3.0,2.0,0.0,2020-06-17
 Guanajuato,Acámbaro,4.0,3.0,1.0,0.0,2020-06-17
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0,2020-06-17
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2020-06-17
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-06-17
 Guanajuato,Irapuato,5.0,4.0,1.0,0.0,2020-06-17
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-06-17
 Guanajuato,Pueblo Nuevo,1.0,1.0,0.0,0.0,2020-06-17
-Guanajuato,"Purísima del 
-Rincón",3.0,3.0,0.0,0.0,2020-06-17
+Guanajuato,Purísima Del Rincón,3.0,3.0,0.0,0.0,2020-06-17
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-06-17
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2020-06-17
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2020-06-17
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-06-17
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2020-06-17
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,2.0,0.0,0.0,2020-06-17
-Michoacán,"Coalcomán de 
-Vázquez 
-Pallares",1.0,1.0,0.0,0.0,2020-06-17
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-06-17
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2020-06-17
+Michoacán,Coalcomán De Vázquez Pallares,1.0,1.0,0.0,0.0,2020-06-17
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-06-17
 Morelos,Amacuzac,1.0,1.0,0.0,0.0,2020-06-17
 Estado de México,Acolman,1.0,1.0,0.0,0.0,2020-06-17
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2020-06-17
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-06-17
 Estado de México,Teotihuacán,1.0,1.0,0.0,0.0,2020-06-17
-Estado de México,"Tlalnepantla de 
-Baz",1.0,1.0,0.0,0.0,2020-06-17
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2020-06-17
 Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2020-06-17
-Nuevo León,"Cadereyta 
-Jiménez",1.0,1.0,0.0,0.0,2020-06-17
-Oaxaca,"Oaxaca de 
-Juárez",1.0,1.0,0.0,0.0,2020-06-17
-Oaxaca,"Putla Villa de 
-Guerrero",1.0,1.0,0.0,0.0,2020-06-17
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2020-06-17
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2020-06-17
+Oaxaca,Putla Villa De Guerrero,1.0,1.0,0.0,0.0,2020-06-17
 Puebla,Puebla,1.0,1.0,0.0,0.0,2020-06-17
 San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2020-06-17
 Sinaloa,Choix,2.0,2.0,0.0,0.0,2020-06-17
@@ -51,15 +39,12 @@ Tabasco,Nacajuca,1.0,1.0,0.0,0.0,2020-06-17
 Tlaxcala,Xicohtzinco,1.0,1.0,0.0,0.0,2020-06-17
 Veracruz,Acayucan,1.0,1.0,0.0,0.0,2020-06-17
 Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2020-06-17
-Veracruz,"Huiloapan de 
-Cuauhtémoc",1.0,1.0,0.0,0.0,2020-06-17
-Veracruz,"Martínez de la 
-Torre",1.0,1.0,0.0,0.0,2020-06-17
+Veracruz,Huiloapan De Cuauhtémoc,1.0,1.0,0.0,0.0,2020-06-17
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2020-06-17
 Veracruz,Papantla,1.0,1.0,0.0,0.0,2020-06-17
-Veracruz,"Álamo 
-Temapache",1.0,1.0,0.0,0.0,2020-06-17
+Veracruz,Álamo Temapache,1.0,1.0,0.0,0.0,2020-06-17
 Zacatecas,Guadalupe,2.0,2.0,0.0,0.0,2020-06-17
 Zacatecas,Morelos,3.0,3.0,0.0,0.0,2020-06-17
 Zacatecas,Vetagrande,2.0,0.0,2.0,0.0,2020-06-17
-Zacatecas,Villa de Cos,2.0,1.0,1.0,0.0,2020-06-17
+Zacatecas,Villa De Cos,2.0,1.0,1.0,0.0,2020-06-17
 Zacatecas,Zacatecas,3.0,2.0,0.0,1.0,2020-06-17

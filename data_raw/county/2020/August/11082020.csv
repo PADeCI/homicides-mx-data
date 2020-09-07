@@ -1,42 +1,39 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,Aguascalientes,1,1.0,0.0,0.0,2020-08-11
-Baja California,Tecate,3,3.0,0.0,0.0,2020-08-11
-Baja California,Tijuana,19,9.0,0.0,10.0,2020-08-11
-Chiapas,Jiquipilas,1,1.0,0.0,0.0,2020-08-11
-Chihuahua,Madera,1,0.0,0.0,1.0,2020-08-11
-Ciudad de México,Iztapalapa,1,1.0,0.0,0.0,2020-08-11
-Durango,Mezquital,3,3.0,0.0,0.0,2020-08-11
-Guanajuato,Celaya,3,2.0,1.0,0.0,2020-08-11
-Guanajuato,Guerrero (1)  San Luis Acatlán,1,1.0,0.0,0.0,2020-08-11
-Guanajuato,León,3,3.0,0.0,0.0,2020-08-11
-Jalisco,Chapala,1,1.0,0.0,0.0,2020-08-11
-Jalisco,Guadalajara,1,0.0,1.0,0.0,2020-08-11
-Jalisco,Jocotepec,4,0.0,0.0,4.0,2020-08-11
-Jalisco,Zapopan,1,1.0,0.0,0.0,2020-08-11
-Michoacán,Jacona,1,1.0,0.0,0.0,2020-08-11
-Michoacán,Morelia,1,1.0,0.0,0.0,2020-08-11
-Michoacán,Uruapan,1,0.0,1.0,0.0,2020-08-11
-Michoacán,Zamora,2,2.0,0.0,0.0,2020-08-11
-Estado de México,Hueypoxtla,1,0.0,1.0,0.0,2020-08-11
-Estado de México,Teoloyucan,1,1.0,0.0,0.0,2020-08-11
-Estado de México,Toluca,1,1.0,0.0,0.0,2020-08-11
-Estado de México,Tonanitla,1,1.0,0.0,0.0,2020-08-11
-Nuevo León,Guadalupe,3,0.0,0.0,3.0,2020-08-11
-Puebla,"San Andrés 
-Cholula",1,1.0,0.0,0.0,2020-08-11
-Puebla,Tepeaca,1,1.0,0.0,0.0,2020-08-11
-Puebla,Tlahuapan,1,1.0,0.0,0.0,2020-08-11
-Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2020-08-11
-Quintana Roo,Cozumel,1,1.0,0.0,0.0,2020-08-11
-San Luis Potosí,Matehuala,2,1.0,1.0,0.0,2020-08-11
-San Luis Potosí,San Luis Potosí,1,1.0,0.0,0.0,2020-08-11
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1,1.0,0.0,0.0,2020-08-11
-Sonora,Cajeme,1,1.0,0.0,0.0,2020-08-11
-Sonora,Nogales,1,1.0,0.0,0.0,2020-08-11
-Tamaulipas,Matamoros,1,0.0,1.0,0.0,2020-08-11
-Tamaulipas,Nuevo Laredo,1,1.0,0.0,0.0,2020-08-11
-Veracruz,Coacoatzintla,1,1.0,0.0,0.0,2020-08-11
-Veracruz,Veracruz,1,1.0,0.0,0.0,2020-08-11
-Zacatecas,Fresnillo,3,1.0,2.0,0.0,2020-08-11
+Aguascalientes,Aguascalientes,1,1,0,0,2020-08-11
+Baja California,Tecate,3,3,0,0,2020-08-11
+Baja California,Tijuana,19,9,0,10,2020-08-11
+Chiapas,Jiquipilas,1,1,0,0,2020-08-11
+Chihuahua,Madera,1,0,0,1,2020-08-11
+Ciudad de México,Iztapalapa,1,1,0,0,2020-08-11
+Durango,Mezquital,3,3,0,0,2020-08-11
+Guanajuato,Celaya,3,2,1,0,2020-08-11
+Guerrero,San Luis Acatlán,1,1,0,0,2020-08-11
+Guanajuato,León,3,3,0,0,2020-08-11
+Jalisco,Chapala,1,1,0,0,2020-08-11
+Jalisco,Guadalajara,1,0,1,0,2020-08-11
+Jalisco,Jocotepec,4,0,0,4,2020-08-11
+Jalisco,Zapopan,1,1,0,0,2020-08-11
+Michoacán,Jacona,1,1,0,0,2020-08-11
+Michoacán,Morelia,1,1,0,0,2020-08-11
+Michoacán,Uruapan,1,0,1,0,2020-08-11
+Michoacán,Zamora,2,2,0,0,2020-08-11
+Estado de México,Hueypoxtla,1,0,1,0,2020-08-11
+Estado de México,Teoloyucan,1,1,0,0,2020-08-11
+Estado de México,Toluca,1,1,0,0,2020-08-11
+Estado de México,Tonanitla,1,1,0,0,2020-08-11
+Nuevo León,Guadalupe,3,0,0,3,2020-08-11
+Puebla,San Andrés Cholula,1,1,0,0,2020-08-11
+Puebla,Tepeaca,1,1,0,0,2020-08-11
+Puebla,Tlahuapan,1,1,0,0,2020-08-11
+Quintana Roo,Benito Juárez,1,1,0,0,2020-08-11
+Quintana Roo,Cozumel,1,1,0,0,2020-08-11
+San Luis Potosí,Matehuala,2,1,1,0,2020-08-11
+San Luis Potosí,San Luis Potosí,1,1,0,0,2020-08-11
+San Luis Potosí,Soledad De Graciano Sánchez,1,1,0,0,2020-08-11
+Sonora,Cajeme,1,1,0,0,2020-08-11
+Sonora,Nogales,1,1,0,0,2020-08-11
+Tamaulipas,Matamoros,1,0,1,0,2020-08-11
+Tamaulipas,Nuevo Laredo,1,1,0,0,2020-08-11
+Veracruz,Coacoatzintla,1,1,0,0,2020-08-11
+Veracruz,Veracruz,1,1,0,0,2020-08-11
+Zacatecas,Fresnillo,3,1,2,0,2020-08-11

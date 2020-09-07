@@ -1,6 +1,5 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,"Aguascalien
-tes",1,0.0,0.0,1.0,2020-08-26
+Aguascalientes,Aguascalientes,1,0.0,0.0,1.0,2020-08-26
 Baja California,Ensenada,3,1.0,2.0,0.0,2020-08-26
 Baja California,Mexicali,1,1.0,0.0,0.0,2020-08-26
 Baja California,Tijuana,5,2.0,0.0,3.0,2020-08-26
@@ -8,76 +7,53 @@ Baja California Sur,Los Cabos,1,1.0,0.0,0.0,2020-08-26
 Chihuahua,Chihuahua,2,2.0,0.0,0.0,2020-08-26
 Chihuahua,Juárez,6,6.0,0.0,0.0,2020-08-26
 Ciudad de México,Iztapalapa,1,1.0,0.0,0.0,2020-08-26
-Ciudad de México,"La 
-Magdalena 
-Contreras",1,1.0,0.0,0.0,2020-08-26
+Ciudad de México,La Magdalena Contreras,1,1.0,0.0,0.0,2020-08-26
 Coahuila,Torreón,1,1.0,0.0,0.0,2020-08-26
 Durango,Durango,2,0.0,0.0,2.0,2020-08-26
 Guanajuato,Celaya,1,0.0,1.0,0.0,2020-08-26
 Guanajuato,León,3,3.0,0.0,0.0,2020-08-26
 Guanajuato,Salamanca,1,0.0,1.0,0.0,2020-08-26
-Guanajuato,"Santiago 
-Maravatío",1,1.0,0.0,0.0,2020-08-26
+Guanajuato,Santiago Maravatío,1,1.0,0.0,0.0,2020-08-26
 Guanajuato,Yuriria,1,0.0,1.0,0.0,2020-08-26
-Guerrero,"Acapulco 
-de Juárez",2,2.0,0.0,0.0,2020-08-26
+Guerrero,Acapulco De Juárez,2,2.0,0.0,0.0,2020-08-26
 Guerrero,Copala,1,0.0,0.0,1.0,2020-08-26
-Guerrero,"Tixtla de 
-Guerrero",1,1.0,0.0,0.0,2020-08-26
+Guerrero,Tixtla De Guerrero,1,1.0,0.0,0.0,2020-08-26
 Jalisco,Guadalajara,1,0.0,1.0,0.0,2020-08-26
 Michoacán,Ario,1,1.0,0.0,0.0,2020-08-26
 Michoacán,Morelia,1,1.0,0.0,0.0,2020-08-26
 Michoacán,Uruapan,1,1.0,0.0,0.0,2020-08-26
 Michoacán,Zamora,1,1.0,0.0,0.0,2020-08-26
 Morelos,Ayala,1,1.0,0.0,0.0,2020-08-26
-Morelos,"Puente de 
-Ixtla",1,1.0,0.0,0.0,2020-08-26
+Morelos,Puente De Ixtla,1,1.0,0.0,0.0,2020-08-26
 Morelos,Totolapan,1,1.0,0.0,0.0,2020-08-26
 Estado de México,Acolman,1,0.0,1.0,0.0,2020-08-26
-Estado de México,"Donato 
-Guerra",2,2.0,0.0,0.0,2020-08-26
-Estado de México,"Ecatepec 
-de Morelos",1,0.0,0.0,1.0,2020-08-26
-Estado de México,"Nezahualcó
-yotl",2,2.0,0.0,0.0,2020-08-26
+Estado de México,Donato Guerra,2,2.0,0.0,0.0,2020-08-26
+Estado de México,Ecatepec De Morelos,1,0.0,0.0,1.0,2020-08-26
+Estado de México,Nezahualcóyotl,2,2.0,0.0,0.0,2020-08-26
 Estado de México,Ocoyoacac,1,1.0,0.0,0.0,2020-08-26
-Estado de México,"Zinacantep
-ec",1,1.0,0.0,0.0,2020-08-26
-Nuevo León,"Cadereyta 
-Jiménez",1,1.0,0.0,0.0,2020-08-26
+Estado de México,Zinacantepec,1,1.0,0.0,0.0,2020-08-26
+Nuevo León,Cadereyta Jiménez,1,1.0,0.0,0.0,2020-08-26
 Nuevo León,Monterrey,1,1.0,0.0,0.0,2020-08-26
-Oaxaca,"Heroica 
-Ciudad de 
-Huajuapan 
-de León",3,3.0,0.0,0.0,2020-08-26
-Puebla,"Venustiano 
-Carranza",1,1.0,0.0,0.0,2020-08-26
-Quintana Roo,"Benito 
-Juárez",2,2.0,0.0,0.0,2020-08-26
-San Luis Potosí,"Tamazunch
-ale",1,1.0,0.0,0.0,2020-08-26
+Oaxaca,Heroica Ciudad De Huajuapan De León,3,3.0,0.0,0.0,2020-08-26
+Puebla,Venustiano Carranza,1,1.0,0.0,0.0,2020-08-26
+Quintana Roo,Benito Juárez,2,2.0,0.0,0.0,2020-08-26
+San Luis Potosí,Tamazunchale,1,1.0,0.0,0.0,2020-08-26
 Sinaloa,Ahome,1,0.0,1.0,0.0,2020-08-26
 Sinaloa,Culiacán,2,2.0,0.0,0.0,2020-08-26
 Sonora,Caborca,1,1.0,0.0,0.0,2020-08-26
 Sonora,Hermosillo,1,1.0,0.0,0.0,2020-08-26
 Sonora,Yécora,1,1.0,0.0,0.0,2020-08-26
-Tamaulipas,"Nuevo 
-Laredo",1,1.0,0.0,0.0,2020-08-26
-Tamaulipas,"San 
-Fernando",1,0.0,1.0,0.0,2020-08-26
+Tamaulipas,Nuevo Laredo,1,1.0,0.0,0.0,2020-08-26
+Tamaulipas,San Fernando,1,0.0,1.0,0.0,2020-08-26
 Tlaxcala,Huamantla,1,0.0,0.0,1.0,2020-08-26
 Veracruz,Atoyac,1,1.0,0.0,0.0,2020-08-26
 Veracruz,Catemaco,1,1.0,0.0,0.0,2020-08-26
-Veracruz,"Coatzacoalc
-os",1,1.0,0.0,0.0,2020-08-26
-Veracruz,"Cosamaloa
-pan",1,1.0,0.0,0.0,2020-08-26
+Veracruz,Coatzacoalcos,1,1.0,0.0,0.0,2020-08-26
+Veracruz,Cosamaloapan De Carpio,1,1.0,0.0,0.0,2020-08-26
 Veracruz,Huatusco,1,1.0,0.0,0.0,2020-08-26
 Veracruz,Minatitlán,2,2.0,0.0,0.0,2020-08-26
-Veracruz,"Poza Rica 
-de Hidalgo",1,1.0,0.0,0.0,2020-08-26
-Veracruz,"Puente 
-Nacional",2,0.0,2.0,0.0,2020-08-26
+Veracruz,Poza Rica De Hidalgo,1,1.0,0.0,0.0,2020-08-26
+Veracruz,Puente Nacional,2,0.0,2.0,0.0,2020-08-26
 Veracruz,Pánuco,1,1.0,0.0,0.0,2020-08-26
 Veracruz,Veracruz,1,1.0,0.0,0.0,2020-08-26
 Veracruz,Xalapa,1,1.0,0.0,0.0,2020-08-26

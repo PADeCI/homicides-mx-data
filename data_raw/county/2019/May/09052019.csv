@@ -1,8 +1,7 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Ensenada,1,1.0,0.0,0.0,2019-05-09
 Baja California,Tijuana,7,6.0,1.0,0.0,2019-05-09
-Chihuahua,"Hidalgo del 
-Parral",1,1.0,0.0,0.0,2019-05-09
+Chihuahua,Hidalgo Del Parral,1,1.0,0.0,0.0,2019-05-09
 Chihuahua,Juárez,4,3.0,1.0,0.0,2019-05-09
 Ciudad de México,Álvaro Obregón,2,1.0,0.0,1.0,2019-05-09
 Colima,Tecomán,3,0.0,0.0,3.0,2019-05-09
@@ -13,19 +12,14 @@ Guanajuato,Irapuato,1,0.0,1.0,0.0,2019-05-09
 Guanajuato,León,5,4.0,1.0,0.0,2019-05-09
 Guanajuato,Pénjamo,3,0.0,0.0,3.0,2019-05-09
 Guanajuato,Salamanca,1,0.0,1.0,0.0,2019-05-09
-Guanajuato,"San Miguel de 
-Allende",2,1.0,1.0,0.0,2019-05-09
-Guerrero,"Acapulco de 
-Juárez",1,1.0,0.0,0.0,2019-05-09
-Guerrero,"Iguala de la 
-Independencia",1,1.0,0.0,0.0,2019-05-09
+Guanajuato,San Miguel De Allende,2,1.0,1.0,0.0,2019-05-09
+Guerrero,Acapulco De Juárez,1,1.0,0.0,0.0,2019-05-09
+Guerrero,Iguala De La Independencia,1,1.0,0.0,0.0,2019-05-09
 Guerrero,Xalpatláhuac,1,1.0,0.0,0.0,2019-05-09
-Hidalgo,Tula de Allende,1,0.0,1.0,0.0,2019-05-09
-Jalisco,"Tlajomulco de 
-Zúñiga",2,2.0,0.0,0.0,2019-05-09
+Hidalgo,Tula De Allende,1,0.0,1.0,0.0,2019-05-09
+Jalisco,Tlajomulco De Zúñiga,2,2.0,0.0,0.0,2019-05-09
 Michoacán,Hidalgo,1,1.0,0.0,0.0,2019-05-09
-Michoacán,"José Sixto 
-Verduzco",1,1.0,0.0,0.0,2019-05-09
+Michoacán,José Sixto Verduzco,1,1.0,0.0,0.0,2019-05-09
 Michoacán,Sahuayo,1,1.0,0.0,0.0,2019-05-09
 Michoacán,Uruapan,1,1.0,0.0,0.0,2019-05-09
 Estado de México,Cuautitlán,2,1.0,1.0,0.0,2019-05-09
@@ -34,17 +28,15 @@ Estado de México,Juchitepec,1,1.0,0.0,0.0,2019-05-09
 Estado de México,Zumpango,2,2.0,0.0,0.0,2019-05-09
 Nuevo León,Apodaca,1,1.0,0.0,0.0,2019-05-09
 Nuevo León,Juárez,2,2.0,0.0,0.0,2019-05-09
-Oaxaca,Oaxaca de Juárez,1,1.0,0.0,0.0,2019-05-09
-Oaxaca,"San Juan Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2019-05-09
-Puebla,"San Martín 
-Texmelucan",1,1.0,0.0,0.0,2019-05-09
+Oaxaca,Oaxaca De Juárez,1,1.0,0.0,0.0,2019-05-09
+Oaxaca,San Juan Bautista Tuxtepec,1,1.0,0.0,0.0,2019-05-09
+Puebla,San Martín Texmelucan,1,1.0,0.0,0.0,2019-05-09
 Puebla,Yehualtepec,1,0.0,1.0,0.0,2019-05-09
 San Luis Potosí,Ciudad Valles,1,1.0,0.0,0.0,2019-05-09
 Sinaloa,Culiacán,5,1.0,0.0,4.0,2019-05-09
 Sinaloa,Sinaloa,2,2.0,0.0,0.0,2019-05-09
-Tlaxcala,Nativitas,1,1.0,0.0,0.0,2019-05-09
+Tlaxcala,Natívitas,1,1.0,0.0,0.0,2019-05-09
 Tlaxcala,Xaloztoc,1,1.0,0.0,0.0,2019-05-09
-Veracruz,Boca del Río,1,0.0,1.0,0.0,2019-05-09
+Veracruz,Boca Del Río,1,0.0,1.0,0.0,2019-05-09
 Veracruz,Omealca,1,1.0,0.0,0.0,2019-05-09
 Yucatán,Tixkokob,1,1.0,0.0,0.0,2019-05-09

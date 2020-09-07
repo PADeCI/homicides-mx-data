@@ -1,4 +1,4 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No identificado,Fecha
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,7,,,,2019-01-01
 Chiapas,Ocosingo,1,,,,2019-01-01
 Chihuahua,Chihuahua,1,,,,2019-01-01
@@ -10,18 +10,16 @@ Ciudad de México,Álvaro Obregón,1,,,,2019-01-01
 Coahuila,Saltillo,1,,,,2019-01-01
 Durango,Lerdo,1,,,,2019-01-01
 Estado de México,Chalco,1,,,,2019-01-01
-Estado de México,Naucalpan de Juárez,1,,,,2019-01-01
+Estado de México,Naucalpan De Juárez,1,,,,2019-01-01
 Guanajuato,Celaya,1,,,,2019-01-01
 Guanajuato,Salamanca,1,,,,2019-01-01
-Guanajuato,Silao,1,,,,2019-01-01
+Guanajuato,Silao De La Victoria,1,,,,2019-01-01
 Guanajuato,Villagrán,1,,,,2019-01-01
-Guerrero,Acapulco de Juárez,1,,,,2019-01-01
-Guerrero,"Chilpancingo de los 
-Bravo",2,,,,2019-01-01
+Guerrero,Acapulco De Juárez,1,,,,2019-01-01
+Guerrero,Chilpancingo De Los Bravo,2,,,,2019-01-01
 Jalisco,El Salto,1,,,,2019-01-01
 Jalisco,Guadalajara,1,,,,2019-01-01
-Jalisco,"San Pedro 
-Tlaquepaque",1,,,,2019-01-01
+Jalisco,San Pedro Tlaquepaque,1,,,,2019-01-01
 Jalisco,Zapopan,1,,,,2019-01-01
 Michoacán,Jacona,1,,,,2019-01-01
 Michoacán,Morelia,3,,,,2019-01-01
@@ -29,10 +27,8 @@ Michoacán,Tarímbaro,1,,,,2019-01-01
 Nuevo León,Monterrey,1,,,,2019-01-01
 Nuevo León,Santa Catarina,1,,,,2019-01-01
 Oaxaca,Chahuites,2,,,,2019-01-01
-Oaxaca,"Heroica Ciudad de 
-Tlaxiaco",1,,,,2019-01-01
-Oaxaca,"Matías Romero 
-Avendaño",1,,,,2019-01-01
+Oaxaca,Heroica Ciudad De Tlaxiaco,1,,,,2019-01-01
+Oaxaca,Matías Romero Avendaño,1,,,,2019-01-01
 Puebla,Puebla,1,,,,2019-01-01
 Quintana Roo,Tulum,1,,,,2019-01-01
 San Luis Potosí,Moctezuma,1,,,,2019-01-01
@@ -41,5 +37,5 @@ Sonora,Cajeme,1,,,,2019-01-01
 Sonora,Hermosillo,1,,,,2019-01-01
 Veracruz,Atzalan,4,,,,2019-01-01
 Veracruz,Córdoba,2,,,,2019-01-01
-Veracruz,Poza Rica de Hidalgo,1,,,,2019-01-01
+Veracruz,Poza Rica De Hidalgo,1,,,,2019-01-01
 Zacatecas,Fresnillo,5,,,,2019-01-01

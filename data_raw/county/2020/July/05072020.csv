@@ -2,21 +2,17 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Mexicali,1.0,1.0,0.0,0.0,2020-07-05
 Baja California,Tijuana,5.0,4.0,0.0,1.0,2020-07-05
 Campeche,Carmen,1.0,1.0,0.0,0.0,2020-07-05
-Chiapas,"Frontera 
-Comalapa",1.0,1.0,0.0,0.0,2020-07-05
-Chiapas,"Frontera 
-Hidalgo",1.0,0.0,1.0,0.0,2020-07-05
+Chiapas,Frontera Comalapa,1.0,1.0,0.0,0.0,2020-07-05
+Chiapas,Frontera Hidalgo,1.0,0.0,1.0,0.0,2020-07-05
 Chiapas,San Fernando,1.0,1.0,0.0,0.0,2020-07-05
 Chihuahua,Juárez,3.0,3.0,0.0,0.0,2020-07-05
 Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-07-05
 Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2020-07-05
-Ciudad de México,"Venustiano 
-Carranza",1.0,1.0,0.0,0.0,2020-07-05
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2020-07-05
 Ciudad de México,Xochimilco,1.0,1.0,0.0,0.0,2020-07-05
 Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2020-07-05
 Coahuila,Monclova,1.0,1.0,0.0,0.0,2020-07-05
-Guanajuato,"Apaseo el 
-Grande",1.0,0.0,1.0,0.0,2020-07-05
+Guanajuato,Apaseo El Grande,1.0,0.0,1.0,0.0,2020-07-05
 Guanajuato,Celaya,1.0,0.0,1.0,0.0,2020-07-05
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-07-05
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-07-05
@@ -24,13 +20,10 @@ Guanajuato,Moroleón,3.0,1.0,2.0,0.0,2020-07-05
 Guanajuato,Salvatierra,1.0,0.0,1.0,0.0,2020-07-05
 Guanajuato,Uriangato,2.0,1.0,1.0,0.0,2020-07-05
 Guerrero,Ometepec,1.0,1.0,0.0,0.0,2020-07-05
-Guerrero,"Zihuatanejo de 
-Azueta",1.0,1.0,0.0,0.0,2020-07-05
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2020-07-05
 Jalisco,El Salto,1.0,1.0,0.0,0.0,2020-07-05
-Jalisco,"Lagos de 
-Moreno",4.0,3.0,1.0,0.0,2020-07-05
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2020-07-05
+Jalisco,Lagos De Moreno,4.0,3.0,1.0,0.0,2020-07-05
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-07-05
 Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-07-05
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-07-05
 Michoacán,Zamora,3.0,3.0,0.0,0.0,2020-07-05
@@ -38,21 +31,15 @@ Morelos,Cuernavaca,1.0,0.0,1.0,0.0,2020-07-05
 Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2020-07-05
 Morelos,Yautepec,1.0,1.0,0.0,0.0,2020-07-05
 Estado de México,Otzolotepec,1.0,1.0,0.0,0.0,2020-07-05
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0,2020-07-05
-Oaxaca,"San Agustín de 
-las Juntas",1.0,1.0,0.0,0.0,2020-07-05
-Puebla,"Cuetzalan del 
-Progreso",1.0,1.0,0.0,0.0,2020-07-05
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2020-07-05
+Oaxaca,San Agustín De Las Juntas,1.0,1.0,0.0,0.0,2020-07-05
+Puebla,Cuetzalan Del Progreso,1.0,1.0,0.0,0.0,2020-07-05
 Puebla,Puebla,1.0,1.0,0.0,0.0,2020-07-05
 Puebla,Tehuacán,1.0,1.0,0.0,0.0,2020-07-05
 Querétaro,Huimilpan,1.0,1.0,0.0,0.0,2020-07-05
 San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2020-07-05
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-07-05
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1.0,1.0,0.0,0.0,2020-07-05
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2020-07-05
 Sinaloa,Badiraguato,1.0,1.0,0.0,0.0,2020-07-05
 Sinaloa,Culiacán,3.0,2.0,1.0,0.0,2020-07-05
 Sinaloa,Guasave,2.0,2.0,0.0,0.0,2020-07-05

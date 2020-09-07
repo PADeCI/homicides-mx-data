@@ -1,55 +1,38 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,4.0,3.0,1.0,0.0,2020-03-23
 Chiapas,Suchiate,2.0,2.0,0.0,0.0,2020-03-23
-Chiapas,"Venustiano 
-Carranza",1.0,0.0,1.0,0.0,2020-03-23
+Chiapas,Venustiano Carranza,1.0,0.0,1.0,0.0,2020-03-23
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-03-23
 Chihuahua,Cuauhtémoc,1.0,0.0,0.0,1.0,2020-03-23
 Chihuahua,Juárez,5.0,2.0,3.0,0.0,2020-03-23
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2020-03-23
-Ciudad de México,"Venustiano 
-Carranza",2.0,2.0,0.0,0.0,2020-03-23
-Ciudad de México,"Álvaro 
-Obregón",1.0,1.0,0.0,0.0,2020-03-23
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2020-03-23
+Ciudad de México,Venustiano Carranza,2.0,2.0,0.0,0.0,2020-03-23
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2020-03-23
 Guanajuato,Celaya,1.0,0.0,1.0,0.0,2020-03-23
 Guanajuato,Irapuato,4.0,4.0,0.0,0.0,2020-03-23
 Guanajuato,León,2.0,1.0,1.0,0.0,2020-03-23
-Guanajuato,"Valle de 
-Santiago",2.0,2.0,0.0,0.0,2020-03-23
-Guerrero,"Acapulco de 
-Juárez",9.0,1.0,0.0,8.0,2020-03-23
+Guanajuato,Valle De Santiago,2.0,2.0,0.0,0.0,2020-03-23
+Guerrero,Acapulco De Juárez,9.0,1.0,0.0,8.0,2020-03-23
 Guerrero,Pilcaya,1.0,1.0,0.0,0.0,2020-03-23
-Guerrero,"Zihuatanejo 
-de Azueta",1.0,0.0,1.0,0.0,2020-03-23
-Hidalgo,"Tulancingo 
-de Bravo",1.0,1.0,0.0,0.0,2020-03-23
-Jalisco,"Lagos de 
-Moreno",1.0,1.0,0.0,0.0,2020-03-23
-Jalisco,"Tlajomulco 
-de Zúñiga",1.0,1.0,0.0,0.0,2020-03-23
+Guerrero,Zihuatanejo De Azueta,1.0,0.0,1.0,0.0,2020-03-23
+Hidalgo,Tulancingo De Bravo,1.0,1.0,0.0,0.0,2020-03-23
+Jalisco,Lagos De Moreno,1.0,1.0,0.0,0.0,2020-03-23
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-03-23
 Michoacán,Maravatío,2.0,2.0,0.0,0.0,2020-03-23
 Michoacán,Morelia,3.0,2.0,1.0,0.0,2020-03-23
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-03-23
 Michoacán,Zamora,3.0,2.0,1.0,0.0,2020-03-23
 Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-03-23
 Estado de México,Xonacatlán,1.0,1.0,0.0,0.0,2020-03-23
-Oaxaca,"Asunción 
-Ixtaltepec",1.0,1.0,0.0,0.0,2020-03-23
-Oaxaca,"Candelaria 
-Loxicha",1.0,1.0,0.0,0.0,2020-03-23
-Oaxaca,"Heroica 
-Ciudad de 
-Juchitán de 
-Zaragoza",1.0,0.0,0.0,1.0,2020-03-23
+Oaxaca,Asunción Ixtaltepec,1.0,1.0,0.0,0.0,2020-03-23
+Oaxaca,Candelaria Loxicha,1.0,1.0,0.0,0.0,2020-03-23
+Oaxaca,Zaragoza,1.0,0.0,0.0,1.0,2020-03-23
 Puebla,Acatzingo,2.0,2.0,0.0,0.0,2020-03-23
 Puebla,Amozoc,6.0,6.0,0.0,0.0,2020-03-23
 Puebla,Puebla,1.0,0.0,0.0,1.0,2020-03-23
-Puebla,"San Martín 
-Texmelucan",1.0,1.0,0.0,0.0,2020-03-23
+Puebla,San Martín Texmelucan,1.0,1.0,0.0,0.0,2020-03-23
 Querétaro,Querétaro,4.0,4.0,0.0,0.0,2020-03-23
-Quintana Roo,"Benito 
-Juárez",2.0,1.0,0.0,1.0,2020-03-23
+Quintana Roo,Benito Juárez,2.0,1.0,0.0,1.0,2020-03-23
 Sonora,Cajeme,1.0,1.0,0.0,0.0,2020-03-23
 Tabasco,Centro,2.0,2.0,0.0,0.0,2020-03-23
 Tabasco,Cárdenas,1.0,0.0,0.0,1.0,2020-03-23

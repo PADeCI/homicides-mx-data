@@ -3,41 +3,32 @@ Baja California,Tijuana,5.0,5.0,0.0,0.0,2020-07-08
 Campeche,Escárcega,1.0,1.0,0.0,0.0,2020-07-08
 Chihuahua,Chihuahua,3.0,1.0,2.0,0.0,2020-07-08
 Chihuahua,Juárez,1.0,0.0,1.0,0.0,2020-07-08
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2020-07-08
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2020-07-08
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-07-08
 Guanajuato,Salamanca,9.0,6.0,0.0,3.0,2020-07-08
-Guanajuato,"Santiago 
-Maravatío",1.0,1.0,0.0,0.0,2020-07-08
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2020-07-08
-Guerrero,"Acapulco de 
-Juárez",5.0,5.0,0.0,0.0,2020-07-08
+Guanajuato,Santiago Maravatío,1.0,1.0,0.0,0.0,2020-07-08
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2020-07-08
+Guerrero,Acapulco De Juárez,5.0,5.0,0.0,0.0,2020-07-08
 Guerrero,Benito Juárez,1.0,1.0,0.0,0.0,2020-07-08
-Hidalgo,"Tezontepec de 
-Aldama",1.0,1.0,0.0,0.0,2020-07-08
-Jalisco,Lagos de,1.0,1.0,0.0,0.0,2020-07-08
-Jalisco,Moreno,1.0,1.0,0.0,0.0,2020-07-08
+Hidalgo,Tezontepec De Aldama,1.0,1.0,0.0,0.0,2020-07-08
+Jalisco,Lagos De Moreno,1.0,1.0,0.0,0.0,2020-07-08
+Jalisco,Lagos De Moreno,1.0,1.0,0.0,0.0,2020-07-08
 Michoacán,Apatzingán,1.0,1.0,0.0,0.0,2020-07-08
 Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2020-07-08
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-07-08
 Michoacán,Zamora,1.0,0.0,1.0,0.0,2020-07-08
 Michoacán,Zitácuaro,3.0,3.0,0.0,0.0,2020-07-08
-Morelos,"Emiliano 
-Zapata",1.0,1.0,0.0,0.0,2020-07-08
-Estado de México,"Naucalpan de 
-Juárez",4.0,4.0,0.0,0.0,2020-07-08
+Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2020-07-08
+Estado de México,Naucalpan De Juárez,4.0,4.0,0.0,0.0,2020-07-08
 Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-07-08
-Nuevo León,Gral. Escobedo,1.0,1.0,0.0,0.0,2020-07-08
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2020-07-08
 Nuevo León,Monterrey,1.0,0.0,1.0,0.0,2020-07-08
-Oaxaca,"Heroica 
-Ciudad de 
-Tlaxiaco",1.0,0.0,1.0,0.0,2020-07-08
+Oaxaca,Heroica Ciudad De Tlaxiaco,1.0,0.0,1.0,0.0,2020-07-08
 Puebla,Pantepec,1.0,1.0,0.0,0.0,2020-07-08
 Puebla,Tlaola,1.0,1.0,0.0,0.0,2020-07-08
 Quintana Roo,Bacalar,1.0,1.0,0.0,0.0,2020-07-08
 Quintana Roo,Isla Mujeres,2.0,1.0,1.0,0.0,2020-07-08
-Quintana Roo,"Puerto 
-Morelos",1.0,1.0,0.0,0.0,2020-07-08
+Quintana Roo,Puerto Morelos,1.0,1.0,0.0,0.0,2020-07-08
 Quintana Roo,Tulum,1.0,1.0,0.0,0.0,2020-07-08
 San Luis Potosí,Zaragoza,1.0,0.0,1.0,0.0,2020-07-08
 Sinaloa,Choix,3.0,3.0,0.0,0.0,2020-07-08
@@ -47,12 +38,10 @@ Sonora,Empalme,3.0,3.0,0.0,0.0,2020-07-08
 Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-07-08
 Sonora,Hermosillo,4.0,2.0,2.0,0.0,2020-07-08
 Tabasco,Centro,2.0,2.0,0.0,0.0,2020-07-08
-Tamaulipas,"Gustavo Díaz 
-Ordaz",1.0,1.0,0.0,0.0,2020-07-08
+Tamaulipas,Gustavo Díaz Ordaz,1.0,1.0,0.0,0.0,2020-07-08
 Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2020-07-08
 Veracruz,Coatepec,1.0,1.0,0.0,0.0,2020-07-08
-Veracruz,"Rafael 
-Delgado",1.0,1.0,0.0,0.0,2020-07-08
+Veracruz,Rafael Delgado,1.0,1.0,0.0,0.0,2020-07-08
 Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2020-07-08
 Zacatecas,Jerez,1.0,1.0,0.0,0.0,2020-07-08
 Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2020-07-08

@@ -3,25 +3,21 @@ Baja California,Ensenada,2,2.0,0.0,0.0,2020-03-07
 Baja California,Tijuana,4,4.0,0.0,0.0,2020-03-07
 Chihuahua,Juárez,3,3.0,0.0,0.0,2020-03-07
 Ciudad de México,Benito Juárez,2,2.0,0.0,0.0,2020-03-07
-Ciudad de México,"Cuajimalpa de 
-Morelos",1,1.0,0.0,0.0,2020-03-07
+Ciudad de México,Cuajimalpa De Morelos,1,1.0,0.0,0.0,2020-03-07
 Ciudad de México,Tláhuac,1,1.0,0.0,0.0,2020-03-07
-Ciudad de México,"Venustiano 
-Carranza",1,1.0,0.0,0.0,2020-03-07
+Ciudad de México,Venustiano Carranza,1,1.0,0.0,0.0,2020-03-07
 Colima,Tecomán,1,1.0,0.0,0.0,2020-03-07
-Guanajuato,Apaseo el Grande,1,1.0,0.0,0.0,2020-03-07
+Guanajuato,Apaseo El Grande,1,1.0,0.0,0.0,2020-03-07
 Guanajuato,Cortazar,1,1.0,0.0,0.0,2020-03-07
 Guanajuato,León,1,1.0,0.0,0.0,2020-03-07
 Guanajuato,Salvatierra,1,1.0,0.0,0.0,2020-03-07
-Guanajuato,"San Francisco del 
-Rincón",1,0.0,0.0,1.0,2020-03-07
+Guanajuato,San Francisco Del Rincón,1,0.0,0.0,1.0,2020-03-07
 Guanajuato,Tarimoro,1,1.0,0.0,0.0,2020-03-07
-Guerrero,"Acapulco de 
-Juárez",5,0.0,0.0,5.0,2020-03-07
-Guerrero,Chilapa de Álvarez,1,1.0,0.0,0.0,2020-03-07
+Guerrero,Acapulco De Juárez,5,0.0,0.0,5.0,2020-03-07
+Guerrero,Chilapa De Álvarez,1,1.0,0.0,0.0,2020-03-07
 Jalisco,El Salto,1,1.0,0.0,0.0,2020-03-07
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2020-03-07
-Jalisco,Lagos de Moreno,4,0.0,0.0,4.0,2020-03-07
+Jalisco,Lagos De Moreno,4,0.0,0.0,4.0,2020-03-07
 Michoacán,Indaparapeo,1,1.0,0.0,0.0,2020-03-07
 Michoacán,Jacona,1,1.0,0.0,0.0,2020-03-07
 Michoacán,Morelia,1,1.0,0.0,0.0,2020-03-07
@@ -32,8 +28,7 @@ Morelos,Emiliano Zapata,1,0.0,1.0,0.0,2020-03-07
 Morelos,Zacatepec,1,0.0,1.0,0.0,2020-03-07
 Estado de México,Nezahualcóyotl,1,1.0,0.0,0.0,2020-03-07
 Estado de México,Tianguistenco,1,1.0,0.0,0.0,2020-03-07
-Oaxaca,"Tlacolula de 
-Matamoros",1,1.0,0.0,0.0,2020-03-07
+Oaxaca,Tlacolula De Matamoros,1,1.0,0.0,0.0,2020-03-07
 Puebla,Teziutlán,1,1.0,0.0,0.0,2020-03-07
 Quintana Roo,Bacalar,2,1.0,1.0,0.0,2020-03-07
 Quintana Roo,Benito Juárez,2,2.0,0.0,0.0,2020-03-07
@@ -44,8 +39,7 @@ Sinaloa,Culiacán,2,2.0,0.0,0.0,2020-03-07
 Sinaloa,Navolato,1,1.0,0.0,0.0,2020-03-07
 Tabasco,Centro,1,1.0,0.0,0.0,2020-03-07
 Tamaulipas,Reynosa,1,1.0,0.0,0.0,2020-03-07
-Veracruz,"Mariano 
-Escobedo",1,0.0,0.0,1.0,2020-03-07
+Veracruz,Mariano Escobedo,1,0.0,0.0,1.0,2020-03-07
 Veracruz,Papantla,2,2.0,0.0,0.0,2020-03-07
 Zacatecas,Jerez,2,2.0,0.0,0.0,2020-03-07
 Zacatecas,Río Grande,2,2.0,0.0,0.0,2020-03-07

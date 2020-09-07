@@ -1,4 +1,4 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No identificado,Fecha
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Mexicali,1,,,,2019-01-31
 Baja California,Tijuana,1,,,,2019-01-31
 Baja California Sur,Los Cabos,2,,,,2019-01-31
@@ -12,17 +12,16 @@ Guanajuato,Guanajuato,1,,,,2019-01-31
 Guanajuato,Irapuato,2,,,,2019-01-31
 Guanajuato,León,1,,,,2019-01-31
 Guanajuato,Salvatierra,1,,,,2019-01-31
-Guanajuato,"San Miguel de 
-Allende",2,,,,2019-01-31
-Guanajuato,Silao,1,,,,2019-01-31
-Guerrero,Acapulco de Juárez,4,,,,2019-01-31
-Guerrero,Chilapa,1,,,,2019-01-31
+Guanajuato,San Miguel De Allende,2,,,,2019-01-31
+Guanajuato,Silao De La Victoria,1,,,,2019-01-31
+Guerrero,Acapulco De Juárez,4,,,,2019-01-31
+Guerrero,Chilapa De Álvarez,1,,,,2019-01-31
 Guerrero,Ometepec,1,,,,2019-01-31
 Guerrero,Pungarabato,1,,,,2019-01-31
 Jalisco,Acatic,2,,,,2019-01-31
 Jalisco,El Salto,1,,,,2019-01-31
 Jalisco,Guadalajara,1,,,,2019-01-31
-Jalisco,Tlquepaque,1,,,,2019-01-31
+Jalisco,San Pedro Tlaquepaque,1,,,,2019-01-31
 Jalisco,Tonalá,1,,,,2019-01-31
 Jalisco,Zapopan,1,,,,2019-01-31
 Michoacán,Apatzingán,1,,,,2019-01-31
@@ -34,8 +33,7 @@ Michoacán,Zitácuaro,1,,,,2019-01-31
 Morelos,Emiliano Zapata,1,,,,2019-01-31
 Nuevo León,Linares,1,,,,2019-01-31
 Nuevo León,Santa Catarina,1,,,,2019-01-31
-Puebla,"Tlacotepec de Benito 
-Juárez",1,,,,2019-01-31
+Puebla,Tlacotepec De Benito Juárez,1,,,,2019-01-31
 Quintana Roo,Benito Juárez,1,,,,2019-01-31
 Quintana Roo,Solidaridad,3,,,,2019-01-31
 San Luis Potosí,San Luis Potosí,1,,,,2019-01-31

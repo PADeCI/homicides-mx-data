@@ -7,18 +7,14 @@ Chihuahua,Juárez,5,4.0,1.0,0.0,2019-04-30
 Ciudad de México,Coyoacán,1,1.0,0.0,0.0,2019-04-30
 Durango,Durango,1,0.0,1.0,0.0,2019-04-30
 Guanajuato,Celaya,1,1.0,0.0,0.0,2019-04-30
-Guanajuato,"San Miguel de 
-Allende",1,1.0,0.0,0.0,2019-04-30
-Guanajuato,"Silao de la 
-Victoria",1,1.0,0.0,0.0,2019-04-30
+Guanajuato,San Miguel De Allende,1,1.0,0.0,0.0,2019-04-30
+Guanajuato,Silao De La Victoria,1,1.0,0.0,0.0,2019-04-30
 Guanajuato,Villagrán,2,2.0,0.0,0.0,2019-04-30
-Guerrero,"Acapulco de 
-Juárez",1,0.0,0.0,1.0,2019-04-30
+Guerrero,Acapulco De Juárez,1,0.0,0.0,1.0,2019-04-30
 Guerrero,Atlixtac,1,1.0,0.0,0.0,2019-04-30
 Guerrero,Ometepec,1,1.0,0.0,0.0,2019-04-30
 Guerrero,Petatlán,1,1.0,0.0,0.0,2019-04-30
-Jalisco,"Lagos de 
-Moreno",1,1.0,0.0,0.0,2019-04-30
+Jalisco,Lagos De Moreno,1,1.0,0.0,0.0,2019-04-30
 Jalisco,Zapopan,1,0.0,0.0,1.0,2019-04-30
 Michoacán,Morelia,5,5.0,0.0,0.0,2019-04-30
 Michoacán,Quiroga,3,0.0,0.0,3.0,2019-04-30
@@ -27,21 +23,16 @@ Michoacán,Uruapan,1,1.0,0.0,0.0,2019-04-30
 Morelos,Cuernavaca,1,1.0,0.0,0.0,2019-04-30
 Estado de México,Tecámac,1,1.0,0.0,0.0,2019-04-30
 Estado de México,Toluca,1,0.0,1.0,0.0,2019-04-30
-Nuevo León,Gral. Escobedo,2,2.0,0.0,0.0,2019-04-30
+Nuevo León,Escobedo,2,2.0,0.0,0.0,2019-04-30
 Nuevo León,Juárez,1,1.0,0.0,0.0,2019-04-30
-Oaxaca,"Matías Romero 
-Avendaño",1,1.0,0.0,0.0,2019-04-30
-Oaxaca,"Oaxaca de 
-Juárez",1,1.0,0.0,0.0,2019-04-30
+Oaxaca,Matías Romero Avendaño,1,1.0,0.0,0.0,2019-04-30
+Oaxaca,Oaxaca De Juárez,1,1.0,0.0,0.0,2019-04-30
 Puebla,Atlixco,1,1.0,0.0,0.0,2019-04-30
-Puebla,"San Martín 
-Texmelucan",1,1.0,0.0,0.0,2019-04-30
+Puebla,San Martín Texmelucan,1,1.0,0.0,0.0,2019-04-30
 Puebla,Tehuacán,1,1.0,0.0,0.0,2019-04-30
 Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2019-04-30
 Quintana Roo,Solidaridad,2,2.0,0.0,0.0,2019-04-30
-San Luis Potosí,"Soledad de 
-Graciano 
-Sánchez",1,1.0,0.0,0.0,2019-04-30
+San Luis Potosí,Soledad De Graciano Sánchez,1,1.0,0.0,0.0,2019-04-30
 San Luis Potosí,Tamasopo,1,1.0,0.0,0.0,2019-04-30
 Sinaloa,Culiacán,2,2.0,0.0,0.0,2019-04-30
 Tabasco,Centro,1,1.0,0.0,0.0,2019-04-30
@@ -49,7 +40,5 @@ Tabasco,Huimanguillo,1,1.0,0.0,0.0,2019-04-30
 Tamaulipas,Tampico,1,1.0,0.0,0.0,2019-04-30
 Veracruz,Chocamán,1,1.0,0.0,0.0,2019-04-30
 Veracruz,Cosoleacaque,2,1.0,1.0,0.0,2019-04-30
-Veracruz,"Martínez de la 
-Torre",1,1.0,0.0,0.0,2019-04-30
-Veracruz,"Álamo 
-Temapache",1,1.0,0.0,0.0,2019-04-30
+Veracruz,Martínez De La Torre,1,1.0,0.0,0.0,2019-04-30
+Veracruz,Álamo Temapache,1,1.0,0.0,0.0,2019-04-30

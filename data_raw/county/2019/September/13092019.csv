@@ -1,67 +1,61 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado
-Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0
-Baja California,Tijuana,5.0,5.0,0.0,0.0
-Campeche,Carmen,1.0,1.0,0.0,0.0
-Chihuahua,Chihuahua,1.0,1.0,0.0,0.0
-Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0
-Chihuahua,Juárez,1.0,1.0,0.0,0.0
-Ciudad de México,Iztapalapa,1.0,0.0,0.0,1.0
-Colima,Manzanillo,1.0,1.0,0.0,0.0
-Guanajuato,Acámbaro,2.0,0.0,0.0,2.0
-Guanajuato,Cortázar,1.0,1.0,0.0,0.0
-Guanajuato,Irapuato,3.0,1.0,0.0,2.0
-Guanajuato,Salvatierra,1.0,1.0,0.0,0.0
-Guanajuato,San Luis de la Paz,2.0,2.0,0.0,0.0
-Guanajuato,Villagrán,2.0,2.0,0.0,0.0
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0
-Guerrero,Petatlán,1.0,1.0,0.0,0.0
-Guerrero,"Tixtla de 
-Guerrero",1.0,1.0,0.0,0.0
-Jalisco,Guachinango,1.0,1.0,0.0,0.0
-Jalisco,Guadalajara,3.0,3.0,0.0,0.0
-Jalisco,Ojuelos de Jalisco,1.0,1.0,0.0,0.0
-Jalisco,Tonalá,2.0,2.0,0.0,0.0
-Jalisco,Zapopan,19.0,0.0,0.0,19.0
-Michoacán,Jacona,3.0,2.0,1.0,0.0
-Michoacán,Morelia,2.0,2.0,0.0,0.0
-Michoacán,Uruapan,1.0,0.0,1.0,0.0
-Michoacán,Zacapu,1.0,1.0,0.0,0.0
-Michoacán,Zamora,1.0,1.0,0.0,0.0
-Morelos,Cuautla,1.0,1.0,0.0,0.0
-Morelos,Puente de Ixtla,1.0,0.0,0.0,1.0
-Ciudad de México,"Almoloya de 
-Juárez",1.0,0.0,1.0,0.0
-Ciudad de México,Metepec,1.0,1.0,0.0,0.0
-Ciudad de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0
-Ciudad de México,Nezahualcóyotl,1.0,0.0,1.0,0.0
-Ciudad de México,Toluca,1.0,0.0,1.0,0.0
-Nuevo León,"Cadereyta 
-Jiménez",1.0,0.0,1.0,0.0
-Oaxaca,Oaxaca de Juárez,1.0,0.0,1.0,0.0
-Oaxaca,"San Juan 
-Guichicovi",1.0,0.0,1.0,0.0
-Puebla,Pantepec,1.0,1.0,0.0,0.0
-Puebla,Tepeaca,1.0,1.0,0.0,0.0
-Querétaro,Querétaro,1.0,1.0,0.0,0.0
-Quintana Roo,Benito Juárez,2.0,1.0,0.0,1.0
-Quintana Roo,Isla Mujeres,1.0,1.0,0.0,0.0
-Quintana Roo,Tulum,1.0,0.0,0.0,1.0
-San Luis Potosí,Graciano Sánchez,1.0,1.0,0.0,0.0
-San Luis Potosí,Moctezuma,1.0,0.0,0.0,1.0
-San Luis Potosí,Soledad de,1.0,1.0,0.0,0.0
-Sinaloa,Angostura,1.0,1.0,0.0,0.0
-Sinaloa,Culiacán,1.0,1.0,0.0,0.0
-Sinaloa,Guasave,1.0,1.0,0.0,0.0
-Sonora,Caborca,3.0,0.0,0.0,3.0
-Sonora,Cajeme,1.0,1.0,0.0,0.0
-Tabasco,Cárdenas,1.0,1.0,0.0,0.0
-Veracruz,Acayucan,1.0,1.0,0.0,0.0
-Veracruz,Coatzacoalcos,1.0,0.0,0.0,1.0
-Veracruz,Papantla,1.0,0.0,1.0,0.0
-Veracruz,Pánuco,1.0,1.0,0.0,0.0
-Veracruz,Tihuatlán,1.0,1.0,0.0,0.0
-Zacatecas,Calera,1.0,1.0,0.0,0.0
-Zacatecas,Fresnillo,1.0,1.0,0.0,0.0
-Zacatecas,Pánuco,1.0,1.0,0.0,0.0
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1,1,0,0,2019-09-13
+Baja California,Tijuana,5,5,0,0,2019-09-13
+Campeche,Carmen,1,1,0,0,2019-09-13
+Chihuahua,Chihuahua,1,1,0,0,2019-09-13
+Chihuahua,Cuauhtémoc,1,1,0,0,2019-09-13
+Chihuahua,Juárez,1,1,0,0,2019-09-13
+Ciudad de México,Iztapalapa,1,0,0,1,2019-09-13
+Colima,Manzanillo,1,1,0,0,2019-09-13
+Guanajuato,Acámbaro,2,0,0,2,2019-09-13
+Guanajuato,Cortazar,1,1,0,0,2019-09-13
+Guanajuato,Irapuato,3,1,0,2,2019-09-13
+Guanajuato,Salvatierra,1,1,0,0,2019-09-13
+Guanajuato,San Luis De La Paz,2,2,0,0,2019-09-13
+Guanajuato,Villagrán,2,2,0,0,2019-09-13
+Guerrero,Acapulco De Juárez,2,2,0,0,2019-09-13
+Guerrero,Petatlán,1,1,0,0,2019-09-13
+Guerrero,Tixtla De Guerrero,1,1,0,0,2019-09-13
+Jalisco,Guachinango,1,1,0,0,2019-09-13
+Jalisco,Guadalajara,3,3,0,0,2019-09-13
+Jalisco,Ojuelos De Jalisco,1,1,0,0,2019-09-13
+Jalisco,Tonalá,2,2,0,0,2019-09-13
+Jalisco,Zapopan,19,0,0,19,2019-09-13
+Michoacán,Jacona,3,2,1,0,2019-09-13
+Michoacán,Morelia,2,2,0,0,2019-09-13
+Michoacán,Uruapan,1,0,1,0,2019-09-13
+Michoacán,Zacapu,1,1,0,0,2019-09-13
+Michoacán,Zamora,1,1,0,0,2019-09-13
+Morelos,Cuautla,1,1,0,0,2019-09-13
+Morelos,Puente De Ixtla,1,0,0,1,2019-09-13
+Estado de México,Almoloya De Juárez,1,0,1,0,2019-09-13
+Estado de México,Metepec,1,1,0,0,2019-09-13
+Estado de México,Naucalpan De Juárez,1,1,0,0,2019-09-13
+Estado de México,Nezahualcóyotl,1,0,1,0,2019-09-13
+Estado de México,Toluca,1,0,1,0,2019-09-13
+Nuevo León,Cadereyta Jiménez,1,0,1,0,2019-09-13
+Oaxaca,Oaxaca De Juárez,1,0,1,0,2019-09-13
+Oaxaca,San Juan Guichicovi,1,0,1,0,2019-09-13
+Puebla,Pantepec,1,1,0,0,2019-09-13
+Puebla,Tepeaca,1,1,0,0,2019-09-13
+Querétaro,Querétaro,1,1,0,0,2019-09-13
+Quintana Roo,Benito Juárez,2,1,0,1,2019-09-13
+Quintana Roo,Isla Mujeres,1,1,0,0,2019-09-13
+Quintana Roo,Tulum,1,0,0,1,2019-09-13
+San Luis Potosí,Soledad De Graciano Sánchez,1,1,0,0,2019-09-13
+San Luis Potosí,Moctezuma,1,0,0,1,2019-09-13
+San Luis Potosí,Soledad De Graciano Sánchez,1,1,0,0,2019-09-13
+Sinaloa,Angostura,1,1,0,0,2019-09-13
+Sinaloa,Culiacán,1,1,0,0,2019-09-13
+Sinaloa,Guasave,1,1,0,0,2019-09-13
+Sonora,Caborca,3,0,0,3,2019-09-13
+Sonora,Cajeme,1,1,0,0,2019-09-13
+Tabasco,Cárdenas,1,1,0,0,2019-09-13
+Veracruz,Acayucan,1,1,0,0,2019-09-13
+Veracruz,Coatzacoalcos,1,0,0,1,2019-09-13
+Veracruz,Papantla,1,0,1,0,2019-09-13
+Veracruz,Pánuco,1,1,0,0,2019-09-13
+Veracruz,Tihuatlán,1,1,0,0,2019-09-13
+Zacatecas,Calera,1,1,0,0,2019-09-13
+Zacatecas,Fresnillo,1,1,0,0,2019-09-13
+Zacatecas,Pánuco,1,1,0,0,2019-09-13

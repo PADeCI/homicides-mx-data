@@ -1,8 +1,7 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,4.0,4.0,0.0,0.0,2020-08-15
 Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-08-15
-Chihuahua,"Hidalgo del 
-Parral",2.0,1.0,1.0,0.0,2020-08-15
+Chihuahua,Hidalgo Del Parral,2.0,1.0,1.0,0.0,2020-08-15
 Chihuahua,Juárez,5.0,5.0,0.0,0.0,2020-08-15
 Chihuahua,Santa Bárbara,1.0,0.0,1.0,0.0,2020-08-15
 Colima,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-08-15
@@ -11,16 +10,13 @@ Durango,Mapimí,1.0,1.0,0.0,0.0,2020-08-15
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-08-15
 Guanajuato,León,2.0,2.0,0.0,0.0,2020-08-15
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-08-15
-Guanajuato,"San Luis de la 
-Paz",1.0,1.0,0.0,0.0,2020-08-15
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2020-08-15
-Guerrero,Chilpancingo de,1.0,0.0,1.0,0.0,2020-08-15
-Guerrero,los Bravo,1.0,0.0,1.0,0.0,2020-08-15
+Guanajuato,San Luis De La Paz,1.0,1.0,0.0,0.0,2020-08-15
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-08-15
+Guerrero,Chilpancingo De Los Bravo,1.0,0.0,1.0,0.0,2020-08-15
+Guerrero,Chilpancingo De Los Bravo,1.0,0.0,1.0,0.0,2020-08-15
 Jalisco,El Salto,1.0,1.0,0.0,0.0,2020-08-15
 Jalisco,Guadalajara,5.0,2.0,0.0,3.0,2020-08-15
-Jalisco,"Lagos de 
-Moreno",2.0,1.0,0.0,1.0,2020-08-15
+Jalisco,Lagos De Moreno,2.0,1.0,0.0,1.0,2020-08-15
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-08-15
 Michoacán,Cuitzeo,1.0,1.0,0.0,0.0,2020-08-15
 Michoacán,Lázaro Cárdenas,1.0,1.0,0.0,0.0,2020-08-15
@@ -28,24 +24,19 @@ Michoacán,Morelia,2.0,2.0,0.0,0.0,2020-08-15
 Michoacán,Pátzcuaro,1.0,1.0,0.0,0.0,2020-08-15
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-08-15
 Estado de México,Cuautitlán,1.0,1.0,0.0,0.0,2020-08-15
-Estado de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0,2020-08-15
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2020-08-15
 Nuevo León,Pesquería,1.0,0.0,1.0,0.0,2020-08-15
-Oaxaca,"Putla Villa de 
-Guerrero",2.0,0.0,2.0,0.0,2020-08-15
+Oaxaca,Putla Villa De Guerrero,2.0,0.0,2.0,0.0,2020-08-15
 Quintana Roo,Benito Juárez,1.0,0.0,0.0,1.0,2020-08-15
-San Luis Potosí,"Ciudad 
-Fernández",1.0,1.0,0.0,0.0,2020-08-15
+San Luis Potosí,Ciudad Fernández,1.0,1.0,0.0,0.0,2020-08-15
 Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-08-15
 Sinaloa,Guasave,2.0,2.0,0.0,0.0,2020-08-15
 Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-08-15
 Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2020-08-15
 Tamaulipas,Padilla,1.0,1.0,0.0,0.0,2020-08-15
-Tlaxcala,"Nanacamilpa de 
-Mariano Arista",1.0,1.0,0.0,0.0,2020-08-15
+Tlaxcala,Nanacamilpa De Mariano Arista,1.0,1.0,0.0,0.0,2020-08-15
 Veracruz,Las Choapas,1.0,1.0,0.0,0.0,2020-08-15
-Veracruz,"Martínez de la 
-Torre",2.0,2.0,0.0,0.0,2020-08-15
+Veracruz,Martínez De La Torre,2.0,2.0,0.0,0.0,2020-08-15
 Veracruz,Tecolutla,1.0,1.0,0.0,0.0,2020-08-15
 Veracruz,Veracruz,1.0,1.0,0.0,0.0,2020-08-15
 Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-08-15

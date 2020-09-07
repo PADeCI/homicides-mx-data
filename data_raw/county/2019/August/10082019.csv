@@ -2,45 +2,34 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,5.0,5.0,0.0,0.0,2019-08-10
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-08-10
 Chihuahua,Juárez,2.0,2.0,0.0,0.0,2019-08-10
-Ciudad de México,"Venustiano 
-Carranza",4.0,4.0,0.0,0.0,2019-08-10
+Ciudad de México,Venustiano Carranza,4.0,4.0,0.0,0.0,2019-08-10
 Colima,Manzanillo,2.0,1.0,1.0,0.0,2019-08-10
-Guanajuato,"Apaseo el 
-Grande",1.0,0.0,0.0,1.0,2019-08-10
+Guanajuato,Apaseo El Grande,1.0,0.0,0.0,1.0,2019-08-10
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2019-08-10
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-08-10
 Guanajuato,Jerécuaro,1.0,1.0,0.0,0.0,2019-08-10
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-08-10
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2019-08-10
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2019-08-10
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-08-10
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-08-10
 Guanajuato,Yuriria,5.0,5.0,0.0,0.0,2019-08-10
-Guerrero,"Chilapa de 
-Álvarez",3.0,0.0,3.0,0.0,2019-08-10
+Guerrero,Chilapa De Álvarez,3.0,0.0,3.0,0.0,2019-08-10
 Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-08-10
-Jalisco,Lagos de,2.0,1.0,1.0,0.0,2019-08-10
-Jalisco,Moreno,2.0,1.0,1.0,0.0,2019-08-10
+Jalisco,Lagos De Moreno,2.0,1.0,1.0,0.0,2019-08-10
+Jalisco,Lagos De Moreno,2.0,1.0,1.0,0.0,2019-08-10
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-08-10
 Michoacán,Zamora,2.0,2.0,0.0,0.0,2019-08-10
 Morelos,Cuernavaca,1.0,0.0,1.0,0.0,2019-08-10
 Estado de México,Jilotzingo,1.0,1.0,0.0,0.0,2019-08-10
 Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2019-08-10
-Estado de México,"Tenango del 
-Valle",1.0,1.0,0.0,0.0,2019-08-10
+Estado de México,Tenango Del Valle,1.0,1.0,0.0,0.0,2019-08-10
 Estado de México,Toluca,1.0,1.0,0.0,0.0,2019-08-10
 Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2019-08-10
-Nuevo León,"San Nicolás de 
-los Garza",1.0,1.0,0.0,0.0,2019-08-10
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0,2019-08-10
-Oaxaca,"Santiago 
-Juxtlahuaca",1.0,1.0,0.0,0.0,2019-08-10
+Nuevo León,San Nicolás De Los Garza,1.0,1.0,0.0,0.0,2019-08-10
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2019-08-10
+Oaxaca,Santiago Juxtlahuaca,1.0,1.0,0.0,0.0,2019-08-10
 Puebla,Atlixco,1.0,1.0,0.0,0.0,2019-08-10
 Puebla,Puebla,1.0,1.0,0.0,0.0,2019-08-10
-Puebla,"Santo Tomás 
-Hueyotlipan",1.0,1.0,0.0,0.0,2019-08-10
+Puebla,Santo Tomás Hueyotlipan,1.0,1.0,0.0,0.0,2019-08-10
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-08-10
 San Luis Potosí,San Luis Potosí,4.0,2.0,2.0,0.0,2019-08-10
 Sinaloa,Ahome,2.0,0.0,0.0,2.0,2019-08-10
@@ -49,6 +38,5 @@ Sinaloa,Escuinapa,1.0,1.0,0.0,0.0,2019-08-10
 Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2019-08-10
 Tamaulipas,Victoria,2.0,2.0,0.0,0.0,2019-08-10
 Veracruz,Acayucan,1.0,1.0,0.0,0.0,2019-08-10
-Veracruz,"Emiliano 
-Zapata",2.0,2.0,0.0,0.0,2019-08-10
+Veracruz,Emiliano Zapata,2.0,2.0,0.0,0.0,2019-08-10
 Veracruz,Papantla,1.0,1.0,0.0,0.0,2019-08-10

@@ -1,44 +1,37 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Tijuana,2,2.0,0.0,0.0,2020-05-16
-Chihuahua,Juárez,1,1.0,0.0,0.0,2020-05-16
-Ciudad de México,Cuauhtémoc,1,1.0,0.0,0.0,2020-05-16
-Ciudad de México,Iztapalapa,1,1.0,0.0,0.0,2020-05-16
-Ciudad de México,"Miguel 
-Hidalgo",2,2.0,0.0,0.0,2020-05-16
-Ciudad de México,"Venustiano 
-Carranza",2,0.0,2.0,0.0,2020-05-16
-Colima,Manzanillo,1,1.0,0.0,0.0,2020-05-16
-Guanajuato,Apaseo el Alto,1,1.0,0.0,0.0,2020-05-16
-Guanajuato,Irapuato,4,2.0,2.0,0.0,2020-05-16
-Guanajuato,"Jaral del 
-Progreso",2,2.0,0.0,0.0,2020-05-16
-Guanajuato,León,1,1.0,0.0,0.0,2020-05-16
-Guanajuato,Salamanca,2,2.0,0.0,0.0,2020-05-16
-Guanajuato,Salvatierra,2,2.0,0.0,0.0,2020-05-16
-Guanajuato,Uriangato,1,0.0,1.0,0.0,2020-05-16
-Guerrero,"Ayutla de los 
-Libres",3,3.0,0.0,0.0,2020-05-16
-Guerrero,"Chilpancingo 
-de los Bravo",1,1.0,0.0,0.0,2020-05-16
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0,2020-05-16
-Jalisco,Tonalá,2,1.0,1.0,0.0,2020-05-16
-Michoacán,Aquila,1,1.0,0.0,0.0,2020-05-16
-Morelos,Jiutepec,1,1.0,0.0,0.0,2020-05-16
-Morelos,Xochitepec,1,1.0,0.0,0.0,2020-05-16
-Estado de México,Chimalhuacán,1,0.0,0.0,1.0,2020-05-16
-Estado de México,"Nicolás 
-Romero",1,1.0,0.0,0.0,2020-05-16
-Estado de México,Sultepec,2,0.0,2.0,0.0,2020-05-16
-Oaxaca,Salina Cruz,1,1.0,0.0,0.0,2020-05-16
-San Luis Potosí,Rioverde,1,1.0,0.0,0.0,2020-05-16
-Sinaloa,Choix,4,0.0,0.0,4.0,2020-05-16
-Sinaloa,Culiacán,5,2.0,1.0,2.0,2020-05-16
-Sonora,Cajeme,2,2.0,0.0,0.0,2020-05-16
-Sonora,Hermosillo,1,1.0,0.0,0.0,2020-05-16
-Tamaulipas,Reynosa,3,3.0,0.0,0.0,2020-05-16
-Veracruz,Tuxpan,1,1.0,0.0,0.0,2020-05-16
-Zacatecas,Calera,2,2.0,0.0,0.0,2020-05-16
-Zacatecas,Fresnillo,2,2.0,0.0,0.0,2020-05-16
-Ciudad de México,Nuevo Urecho,2,2.0,0.0,0.0,2020-05-16
-Ciudad de México,Uruapan,1,1.0,0.0,0.0,2020-05-16
+Baja California,Tijuana,2,2,0,0,2020-05-16
+Chihuahua,Juárez,1,1,0,0,2020-05-16
+Ciudad de México,Cuauhtémoc,1,1,0,0,2020-05-16
+Ciudad de México,Iztapalapa,1,1,0,0,2020-05-16
+Ciudad de México,Miguel Hidalgo,2,2,0,0,2020-05-16
+Ciudad de México,Venustiano Carranza,2,0,2,0,2020-05-16
+Colima,Manzanillo,1,1,0,0,2020-05-16
+Guanajuato,Apaseo El Alto,1,1,0,0,2020-05-16
+Guanajuato,Irapuato,4,2,2,0,2020-05-16
+Guanajuato,Jaral Del Progreso,2,2,0,0,2020-05-16
+Guanajuato,León,1,1,0,0,2020-05-16
+Guanajuato,Salamanca,2,2,0,0,2020-05-16
+Guanajuato,Salvatierra,2,2,0,0,2020-05-16
+Guanajuato,Uriangato,1,0,1,0,2020-05-16
+Guerrero,Ayutla De Los Libres,3,3,0,0,2020-05-16
+Guerrero,Chilpancingo De Los Bravo,1,1,0,0,2020-05-16
+Jalisco,San Pedro Tlaquepaque,1,1,0,0,2020-05-16
+Jalisco,Tonalá,2,1,1,0,2020-05-16
+Michoacán,Aquila,1,1,0,0,2020-05-16
+Michoacán,Nuevo Urecho,2,2,0,0,2020-05-16
+Michoacán,Uruapan,1,1,0,0,2020-05-16
+Morelos,Jiutepec,1,1,0,0,2020-05-16
+Morelos,Xochitepec,1,1,0,0,2020-05-16
+Estado de México,Chimalhuacán,1,0,0,1,2020-05-16
+Estado de México,Nicolás Romero,1,1,0,0,2020-05-16
+Estado de México,Sultepec,2,0,2,0,2020-05-16
+Oaxaca,Salina Cruz,1,1,0,0,2020-05-16
+San Luis Potosí,Rioverde,1,1,0,0,2020-05-16
+Sinaloa,Choix,4,0,0,4,2020-05-16
+Sinaloa,Culiacán,5,2,1,2,2020-05-16
+Sonora,Cajeme,2,2,0,0,2020-05-16
+Sonora,Hermosillo,1,1,0,0,2020-05-16
+Tamaulipas,Reynosa,3,3,0,0,2020-05-16
+Veracruz,Tuxpan,1,1,0,0,2020-05-16
+Zacatecas,Calera,2,2,0,0,2020-05-16
+Zacatecas,Fresnillo,2,2,0,0,2020-05-16

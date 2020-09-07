@@ -4,20 +4,16 @@ Chihuahua,Bocoyna,1.0,1.0,0.0,0.0,2020-05-05
 Chihuahua,Juárez,2.0,1.0,0.0,1.0,2020-05-05
 Colima,Manzanillo,1.0,0.0,0.0,1.0,2020-05-05
 Durango,Durango,1.0,1.0,0.0,0.0,2020-05-05
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2020-05-05
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2020-05-05
 Guanajuato,Irapuato,3.0,2.0,1.0,0.0,2020-05-05
 Guanajuato,León,6.0,5.0,1.0,0.0,2020-05-05
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-05-05
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2020-05-05
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,1.0,0.0,0.0,2020-05-05
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-05-05
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2020-05-05
 Guerrero,Ometepec,2.0,2.0,0.0,0.0,2020-05-05
 Jalisco,Guadalajara,4.0,3.0,0.0,1.0,2020-05-05
 Jalisco,Zapopan,4.0,4.0,0.0,0.0,2020-05-05
-Michoacán,"Coalcomán de 
-Vázquez 
-Pallares",1.0,1.0,0.0,0.0,2020-05-05
+Michoacán,Coalcomán De Vázquez Pallares,1.0,1.0,0.0,0.0,2020-05-05
 Michoacán,Jacona,1.0,1.0,0.0,0.0,2020-05-05
 Michoacán,Morelia,2.0,2.0,0.0,0.0,2020-05-05
 Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-05-05
@@ -25,8 +21,7 @@ Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-05-05
 Estado de México,Ecatzingo,2.0,1.0,1.0,0.0,2020-05-05
 Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2020-05-05
 Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-05-05
-Estado de México,"Naucalpan de 
-Juárez",1.0,1.0,0.0,0.0,2020-05-05
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2020-05-05
 Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2020-05-05
 Nuevo León,Juárez,1.0,0.0,1.0,0.0,2020-05-05
 Puebla,Puebla,3.0,2.0,0.0,1.0,2020-05-05
@@ -36,12 +31,10 @@ Sonora,Hermosillo,1.0,0.0,0.0,1.0,2020-05-05
 Tabasco,Comalcalco,1.0,1.0,0.0,0.0,2020-05-05
 Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2020-05-05
 Tamaulipas,Reynosa,4.0,4.0,0.0,0.0,2020-05-05
-Tlaxcala,Altzayanca,1.0,1.0,0.0,0.0,2020-05-05
+Tlaxcala,Atltzayanca,1.0,1.0,0.0,0.0,2020-05-05
 Tlaxcala,Atlangatepec,1.0,1.0,0.0,0.0,2020-05-05
 Tlaxcala,Huamantla,1.0,0.0,1.0,0.0,2020-05-05
 Veracruz,Coatzacoalcos,1.0,0.0,0.0,1.0,2020-05-05
 Veracruz,Jáltipan,1.0,1.0,0.0,0.0,2020-05-05
-Zacatecas,"Tlaltenango de 
-Sánchez 
-Román",1.0,1.0,0.0,0.0,2020-05-05
+Zacatecas,Tlaltenango De Sánchez Román,1.0,1.0,0.0,0.0,2020-05-05
 Zacatecas,Trancoso,2.0,2.0,0.0,0.0,2020-05-05

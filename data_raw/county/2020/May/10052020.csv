@@ -2,40 +2,28 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,6.0,5.0,0.0,1.0,2020-05-10
 Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-05-10
 Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-05-10
-Guanajuato,Apaseo el Alto,4.0,3.0,0.0,1.0,2020-05-10
+Guanajuato,Apaseo El Alto,4.0,3.0,0.0,1.0,2020-05-10
 Guanajuato,Celaya,2.0,2.0,0.0,0.0,2020-05-10
-Guanajuato,"Dolores 
-Hidalgo Cuna 
-de la 
-Independencia 
-Nacional",1.0,1.0,0.0,0.0,2020-05-10
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,1.0,1.0,0.0,0.0,2020-05-10
 Guanajuato,Irapuato,2.0,1.0,1.0,0.0,2020-05-10
 Guanajuato,León,4.0,3.0,1.0,0.0,2020-05-10
 Guanajuato,Moroleón,2.0,2.0,0.0,0.0,2020-05-10
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-05-10
-Guerrero,"Huitzuco de los 
-Figueroa",1.0,1.0,0.0,0.0,2020-05-10
+Guerrero,Huitzuco De Los Figueroa,1.0,1.0,0.0,0.0,2020-05-10
 Jalisco,El Salto,25.0,0.0,0.0,25.0,2020-05-10
-Michoacán,"Lázaro 
-Cárdenas",1.0,0.0,1.0,0.0,2020-05-10
+Michoacán,Lázaro Cárdenas,1.0,0.0,1.0,0.0,2020-05-10
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-05-10
 Michoacán,Uruapan,1.0,0.0,0.0,1.0,2020-05-10
 Michoacán,Zamora,3.0,2.0,1.0,0.0,2020-05-10
 Michoacán,Zinapécuaro,1.0,1.0,0.0,0.0,2020-05-10
 Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-05-10
-Estado de México,"Almoloya de 
-Juárez",1.0,1.0,0.0,0.0,2020-05-10
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2020-05-10
+Estado de México,Almoloya De Juárez,1.0,1.0,0.0,0.0,2020-05-10
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-05-10
 Estado de México,Xalatlaco,2.0,2.0,0.0,0.0,2020-05-10
-Nuevo León,"Cadereyta 
-Jiménez",2.0,0.0,0.0,2.0,2020-05-10
+Nuevo León,Cadereyta Jiménez,2.0,0.0,0.0,2.0,2020-05-10
 Nuevo León,Pesquería,1.0,1.0,0.0,0.0,2020-05-10
-Oaxaca,"Oaxaca de 
-Juárez",1.0,1.0,0.0,0.0,2020-05-10
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1.0,1.0,0.0,0.0,2020-05-10
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2020-05-10
+Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2020-05-10
 Puebla,Huejotzingo,1.0,1.0,0.0,0.0,2020-05-10
 Quintana Roo,Bacalar,3.0,1.0,2.0,0.0,2020-05-10
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-10
@@ -43,5 +31,5 @@ Sinaloa,Navolato,1.0,1.0,0.0,0.0,2020-05-10
 Tabasco,Centro,1.0,1.0,0.0,0.0,2020-05-10
 Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-05-10
 Veracruz,Coatzacoalcos,2.0,1.0,1.0,0.0,2020-05-10
-Zacatecas,Villa de Cos,1.0,1.0,0.0,0.0,2020-05-10
+Zacatecas,Villa De Cos,1.0,1.0,0.0,0.0,2020-05-10
 Zacatecas,Zacatecas,4.0,4.0,0.0,0.0,2020-05-10

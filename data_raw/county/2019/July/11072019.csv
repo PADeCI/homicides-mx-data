@@ -9,18 +9,16 @@ Colima,Colima,1,1.0,0.0,0.0,2019-07-11
 Colima,Tecomán,1,0.0,1.0,0.0,2019-07-11
 Durango,Mezquital,7,7.0,0.0,0.0,2019-07-11
 Guanajuato,Acámbaro,1,1.0,0.0,0.0,2019-07-11
-Guanajuato,Apaseo el Alto,2,2.0,0.0,0.0,2019-07-11
+Guanajuato,Apaseo El Alto,2,2.0,0.0,0.0,2019-07-11
 Guanajuato,Guanajuato,4,4.0,0.0,0.0,2019-07-11
 Guanajuato,Irapuato,1,0.0,1.0,0.0,2019-07-11
 Guanajuato,Salvatierra,1,1.0,0.0,0.0,2019-07-11
-Guanajuato,"San Francisco del 
-Rincón",1,0.0,1.0,0.0,2019-07-11
+Guanajuato,San Francisco Del Rincón,1,0.0,1.0,0.0,2019-07-11
 Guanajuato,Villagrán,1,0.0,0.0,1.0,2019-07-11
 Guanajuato,Yuriria,2,1.0,0.0,1.0,2019-07-11
-Guerrero,Acapulco de Juárez,3,2.0,0.0,1.0,2019-07-11
-Guerrero,Chilapa de Álvarez,4,3.0,1.0,0.0,2019-07-11
-Guerrero,"Chilpancingo de los 
-Bravo",2,0.0,2.0,0.0,2019-07-11
+Guerrero,Acapulco De Juárez,3,2.0,0.0,1.0,2019-07-11
+Guerrero,Chilapa De Álvarez,4,3.0,1.0,0.0,2019-07-11
+Guerrero,Chilpancingo De Los Bravo,2,0.0,2.0,0.0,2019-07-11
 Jalisco,El Salto,1,1.0,0.0,0.0,2019-07-11
 Jalisco,Puerto Vallarta,1,0.0,1.0,0.0,2019-07-11
 Jalisco,Zapopan,1,1.0,0.0,0.0,2019-07-11
@@ -30,22 +28,17 @@ Michoacán,Zamora,2,2.0,0.0,0.0,2019-07-11
 Morelos,Axochiapan,1,1.0,0.0,0.0,2019-07-11
 Morelos,Cuautla,1,1.0,0.0,0.0,2019-07-11
 Morelos,Cuernavaca,1,0.0,1.0,0.0,2019-07-11
-Estado de México,Naucalpan de Juárez,1,1.0,0.0,0.0,2019-07-11
+Estado de México,Naucalpan De Juárez,1,1.0,0.0,0.0,2019-07-11
 Estado de México,Nezahualcóyotl,1,1.0,0.0,0.0,2019-07-11
-Estado de México,"San Simón de 
-Guerrero",1,1.0,0.0,0.0,2019-07-11
+Estado de México,San Simón De Guerrero,1,1.0,0.0,0.0,2019-07-11
 Estado de México,Tejupilco,2,2.0,0.0,0.0,2019-07-11
 Estado de México,Tianguistenco,1,1.0,0.0,0.0,2019-07-11
 Estado de México,Toluca,1,1.0,0.0,0.0,2019-07-11
 Nuevo León,Guadalupe,1,1.0,0.0,0.0,2019-07-11
-Oaxaca,"Matías Romero 
-Avendaño",1,1.0,0.0,0.0,2019-07-11
-Oaxaca,"San Juan 
-Ozolotepec",1,1.0,0.0,0.0,2019-07-11
-Oaxaca,"San Juan Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2019-07-11
-Oaxaca,"Santa María 
-Chilchotla",1,1.0,0.0,0.0,2019-07-11
+Oaxaca,Matías Romero Avendaño,1,1.0,0.0,0.0,2019-07-11
+Oaxaca,San Juan Ozolotepec,1,1.0,0.0,0.0,2019-07-11
+Oaxaca,San Juan Bautista Tuxtepec,1,1.0,0.0,0.0,2019-07-11
+Oaxaca,Santa María Chilchotla,1,1.0,0.0,0.0,2019-07-11
 Puebla,Ahuazotepec,3,2.0,1.0,0.0,2019-07-11
 Puebla,Esperanza,1,1.0,0.0,0.0,2019-07-11
 Querétaro,Corregidora,1,1.0,0.0,0.0,2019-07-11
@@ -57,9 +50,8 @@ Sinaloa,Mocorito,1,1.0,0.0,0.0,2019-07-11
 Sonora,Cajeme,4,0.0,0.0,4.0,2019-07-11
 Tabasco,Comalcalco,1,1.0,0.0,0.0,2019-07-11
 Veracruz,Acultzingo,1,1.0,0.0,0.0,2019-07-11
-Veracruz,"Ixhuatlán de 
-Madero",2,2.0,0.0,0.0,2019-07-11
-Veracruz,Ixhuatlán del Café,1,0.0,1.0,0.0,2019-07-11
-Veracruz,Martínez de la Torre,2,2.0,0.0,0.0,2019-07-11
+Veracruz,Ixhuatlán De Madero,2,2.0,0.0,0.0,2019-07-11
+Veracruz,Ixhuatlán Del Café,1,0.0,1.0,0.0,2019-07-11
+Veracruz,Martínez De La Torre,2,2.0,0.0,0.0,2019-07-11
 Veracruz,San Juan Evangelista,1,1.0,0.0,0.0,2019-07-11
 Veracruz,San Rafael,1,1.0,0.0,0.0,2019-07-11

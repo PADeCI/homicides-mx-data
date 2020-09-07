@@ -1,45 +1,42 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Tijuana,9.0,7.0,1.0,1.0,2020-07-14
-Campeche,Campeche,1.0,1.0,0.0,0.0,2020-07-14
-Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-07-14
-Chihuahua,Julimes,1.0,1.0,0.0,0.0,2020-07-14
-Chihuahua,Juárez,2.0,1.0,1.0,0.0,2020-07-14
-Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2020-07-14
-Ciudad de México,Tlalpan,2.0,0.0,0.0,2.0,2020-07-14
-Coahuila,Saltillo,1.0,1.0,0.0,0.0,2020-07-14
-Durango,Tepehuanes,1.0,0.0,1.0,0.0,2020-07-14
-Ciudad de México,Comonfort,1.0,1.0,0.0,0.0,2020-07-14
-Ciudad de México,Cortazar,1.0,0.0,0.0,1.0,2020-07-14
-Ciudad de México,Culiacán,4.0,4.0,0.0,0.0,2020-07-14
-Ciudad de México,León,6.0,6.0,0.0,0.0,2020-07-14
-Ciudad de México,Municipio,1.0,3.0,0.0,0.0,2020-07-14
-Ciudad de México,Navolato,1.0,1.0,0.0,0.0,2020-07-14
-Ciudad de México,"San Francisco 
-del Rincón",4.0,4.0,0.0,0.0,2020-07-14
-Ciudad de México,Yuriria,1.0,1.0,0.0,0.0,2020-07-14
-Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-07-14
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2020-07-14
-Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-07-14
-Morelos,Celaya,1.0,1.0,0.0,0.0,2020-07-14
-Morelos,Choix,1.0,1.0,0.0,0.0,2020-07-14
-Jalisco,"San Pedro 
-Tlaquepaque",2.0,1.0,1.0,0.0,2020-07-14
-Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-07-14
-Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-07-14
-Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2020-07-14
-Estado de México,Chicoloapan,1.0,1.0,0.0,0.0,2020-07-14
-Estado de México,Ixtapaluca,1.0,0.0,1.0,0.0,2020-07-14
-Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-07-14
-Estado de México,Toluca,4.0,4.0,0.0,0.0,2020-07-14
-Puebla,"Izúcar de 
-Matamoros",1.0,1.0,0.0,0.0,2020-07-14
-Puebla,Querétaro (2)  San Juan del Río,2.0,2.0,0.0,0.0,2020-07-14
-San Luis Potosí,San Luis Potosí,2.0,1.0,1.0,0.0,2020-07-14
-Sinaloa,Choix,1.0,1.0,0.0,0.0,2020-07-14
-Sonora,Guaymas,3.0,3.0,0.0,0.0,2020-07-14
-Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-07-14
-Tabasco,Centro,1.0,1.0,0.0,0.0,2020-07-14
-Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2020-07-14
-Veracruz,Agua Dulce,1.0,1.0,0.0,0.0,2020-07-14
-Zacatecas,Calera,1.0,1.0,0.0,0.0,2020-07-14
-Zacatecas,Río Grande,3.0,3.0,0.0,0.0,2020-07-14
+Baja California,Tijuana,9,7,1,1,2020-07-14
+Campeche,Campeche,1,1,0,0,2020-07-14
+Chihuahua,Chihuahua,1,1,0,0,2020-07-14
+Chihuahua,Julimes,1,1,0,0,2020-07-14
+Chihuahua,Juárez,2,1,1,0,2020-07-14
+Ciudad de México,Miguel Hidalgo,1,1,0,0,2020-07-14
+Ciudad de México,Tlalpan,2,0,0,2,2020-07-14
+Coahuila,Saltillo,1,1,0,0,2020-07-14
+Durango,Tepehuanes,1,0,1,0,2020-07-14
+Ciudad de México,Comonfort,1,1,0,0,2020-07-14
+Ciudad de México,Cortazar,1,0,0,1,2020-07-14
+Ciudad de México,Culiacán,4,4,0,0,2020-07-14
+Ciudad de México,León,6,6,0,0,2020-07-14
+Ciudad de México,Muna,1,3,0,0,2020-07-14
+Ciudad de México,Navolato,1,1,0,0,2020-07-14
+Ciudad de México,San Francisco Del Rincón,4,4,0,0,2020-07-14
+Ciudad de México,Yuriria,1,1,0,0,2020-07-14
+Guanajuato,Acámbaro,1,1,0,0,2020-07-14
+Guanajuato,Apaseo El Alto,1,1,0,0,2020-07-14
+Guanajuato,Celaya,1,1,0,0,2020-07-14
+Morelos,Celaya,1,1,0,0,2020-07-14
+Morelos,Choix,1,1,0,0,2020-07-14
+Jalisco,San Pedro Tlaquepaque,2,1,1,0,2020-07-14
+Jalisco,Tonalá,1,1,0,0,2020-07-14
+Jalisco,Zapopan,1,1,0,0,2020-07-14
+Morelos,Emiliano Zapata,1,1,0,0,2020-07-14
+Estado de México,Chicoloapan,1,1,0,0,2020-07-14
+Estado de México,Ixtapaluca,1,0,1,0,2020-07-14
+Estado de México,Nezahualcóyotl,1,1,0,0,2020-07-14
+Estado de México,Toluca,4,4,0,0,2020-07-14
+Puebla,Izúcar De Matamoros,1,1,0,0,2020-07-14
+Querétaro,San Juan Del Río,2,2,0,0,2020-07-14
+San Luis Potosí,San Luis Potosí,2,1,1,0,2020-07-14
+Sinaloa,Choix,1,1,0,0,2020-07-14
+Sonora,Guaymas,3,3,0,0,2020-07-14
+Sonora,Hermosillo,1,1,0,0,2020-07-14
+Tabasco,Centro,1,1,0,0,2020-07-14
+Tabasco,Huimanguillo,1,1,0,0,2020-07-14
+Veracruz,Agua Dulce,1,1,0,0,2020-07-14
+Zacatecas,Calera,1,1,0,0,2020-07-14
+Zacatecas,Río Grande,3,3,0,0,2020-07-14

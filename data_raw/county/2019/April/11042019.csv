@@ -6,36 +6,25 @@ Chiapas,Mapastepec,1.0,1.0,0.0,0.0,2019-04-11
 Chihuahua,Balleza,2.0,2.0,0.0,0.0,2019-04-11
 Chihuahua,Chihuahua,1.0,0.0,1.0,0.0,2019-04-11
 Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-04-11
-Chihuahua,"Hidalgo del 
-Parral",1.0,1.0,0.0,0.0,2019-04-11
+Chihuahua,Hidalgo Del Parral,1.0,1.0,0.0,0.0,2019-04-11
 Chihuahua,Juárez,1.0,1.0,0.0,0.0,2019-04-11
-Ciudad de México,"Venustiano 
-Carranza",1.0,1.0,0.0,0.0,2019-04-11
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2019-04-11
 Coahuila,Torreón,1.0,1.0,0.0,0.0,2019-04-11
 Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-04-11
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2019-04-11
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2019-04-11
 Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-04-11
-Guanajuato,"Jaral del 
-Progreso",2.0,2.0,0.0,0.0,2019-04-11
+Guanajuato,Jaral Del Progreso,2.0,2.0,0.0,0.0,2019-04-11
 Guanajuato,León,2.0,1.0,0.0,1.0,2019-04-11
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-04-11
-Guanajuato,"San Francisco 
-del Rincón",1.0,1.0,0.0,0.0,2019-04-11
-Guanajuato,"Santa Cruz de 
-Juventino 
-Rosas",1.0,0.0,1.0,0.0,2019-04-11
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2019-04-11
-Guerrero,"Acapulco de 
-Juárez",4.0,4.0,0.0,0.0,2019-04-11
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2019-04-11
+Guanajuato,Santa Cruz De Juventino Rosas,1.0,0.0,1.0,0.0,2019-04-11
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-04-11
+Guerrero,Acapulco De Juárez,4.0,4.0,0.0,0.0,2019-04-11
 Guerrero,Ahuacuotzingo,1.0,0.0,1.0,0.0,2019-04-11
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,1.0,0.0,0.0,2019-04-11
-Guerrero,"Huitzuco de 
-los Figueroa",1.0,1.0,0.0,0.0,2019-04-11
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2019-04-11
+Guerrero,Huitzuco De Los Figueroa,1.0,1.0,0.0,0.0,2019-04-11
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-04-11
-Jalisco,"Tlajomulco de 
-Zúñiga",2.0,1.0,0.0,1.0,2019-04-11
+Jalisco,Tlajomulco De Zúñiga,2.0,1.0,0.0,1.0,2019-04-11
 Jalisco,Tonalá,1.0,0.0,0.0,1.0,2019-04-11
 Michoacán,Buenavista,1.0,1.0,0.0,0.0,2019-04-11
 Michoacán,Jacona,1.0,1.0,0.0,0.0,2019-04-11
@@ -44,24 +33,16 @@ Michoacán,Uruapan,2.0,2.0,0.0,0.0,2019-04-11
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-04-11
 Morelos,Cuautla,1.0,1.0,0.0,0.0,2019-04-11
 Morelos,Cuernavaca,1.0,0.0,0.0,1.0,2019-04-11
-Morelos,"Emiliano 
-Zapata",1.0,0.0,1.0,0.0,2019-04-11
+Morelos,Emiliano Zapata,1.0,0.0,1.0,0.0,2019-04-11
 Morelos,Temixco,1.0,1.0,0.0,0.0,2019-04-11
 Morelos,Xochitepec,1.0,1.0,0.0,0.0,2019-04-11
-Estado de México,"Ecatepec de 
-Morelos",1.0,0.0,0.0,1.0,2019-04-11
-Oaxaca,"Heroica 
-Ciudad de 
-Juchitán de 
-Zaragoza",2.0,1.0,1.0,0.0,2019-04-11
-Oaxaca,"Putla Villa de 
-Guerrero",1.0,1.0,0.0,0.0,2019-04-11
+Estado de México,Ecatepec De Morelos,1.0,0.0,0.0,1.0,2019-04-11
+Oaxaca,Zaragoza,2.0,1.0,1.0,0.0,2019-04-11
+Oaxaca,Putla Villa De Guerrero,1.0,1.0,0.0,0.0,2019-04-11
 Puebla,Acatlán,1.0,1.0,0.0,0.0,2019-04-11
-Puebla,"Guadalupe 
-Victoria",1.0,1.0,0.0,0.0,2019-04-11
+Puebla,Guadalupe Victoria,1.0,1.0,0.0,0.0,2019-04-11
 Puebla,Tehuitzingo,1.0,0.0,1.0,0.0,2019-04-11
-Puebla,"Tlacotepec de 
-Benito Juárez",1.0,0.0,1.0,0.0,2019-04-11
+Puebla,Tlacotepec De Benito Juárez,1.0,0.0,1.0,0.0,2019-04-11
 Puebla,Zaragoza,1.0,1.0,0.0,0.0,2019-04-11
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-04-11
 Sinaloa,Ahome,1.0,1.0,0.0,0.0,2019-04-11
@@ -70,5 +51,4 @@ Tabasco,Centro,2.0,2.0,0.0,0.0,2019-04-11
 Tlaxcala,Chiautempan,1.0,1.0,0.0,0.0,2019-04-11
 Tlaxcala,Hueyotlipan,1.0,1.0,0.0,0.0,2019-04-11
 Veracruz,Minatitlán,2.0,2.0,0.0,0.0,2019-04-11
-Veracruz,"Sayula de 
-Alemán",1.0,0.0,1.0,0.0,2019-04-11
+Veracruz,Sayula De Alemán,1.0,0.0,1.0,0.0,2019-04-11

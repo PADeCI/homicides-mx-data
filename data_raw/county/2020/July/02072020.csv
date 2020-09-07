@@ -1,49 +1,42 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Tijuana,4.0,3.0,1.0,0.0,2020-07-02
-Chihuahua,"Hidalgo del 
-Parral",4.0,4.0,0.0,0.0,2020-07-02
-Chihuahua,Juárez,2.0,2.0,0.0,0.0,2020-07-02
-Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-07-02
-Guanajuato,Apaseo el Alto,2.0,2.0,0.0,0.0,2020-07-02
-Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2020-07-02
-Guanajuato,Irapuato,4.0,4.0,0.0,0.0,2020-07-02
-Guanajuato,León,2.0,2.0,0.0,0.0,2020-07-02
-Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-07-02
-Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-07-02
-Guanajuato,Uriangato,1.0,1.0,0.0,0.0,2020-07-02
-Guerrero,"Chilpancingo 
-de los Bravo",1.0,1.0,0.0,0.0,2020-07-02
-Guerrero,"Iguala de la 
-Independencia",4.0,3.0,1.0,0.0,2020-07-02
-Jalisco,México (2)  Nezahualcóyotl,2.0,2.0,0.0,0.0,2020-07-02
-Jalisco,"San Pedro 
-Tlaquepaque",3.0,2.0,0.0,1.0,2020-07-02
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2020-07-02
-Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-07-02
-Michoacán,Aquila,2.0,2.0,0.0,0.0,2020-07-02
-Michoacán,Queréndaro,2.0,1.0,1.0,0.0,2020-07-02
-Michoacán,Zamora,1.0,0.0,1.0,0.0,2020-07-02
-Nayarit,Ruíz,1.0,0.0,1.0,0.0,2020-07-02
-Nayarit,Tepic,1.0,1.0,0.0,0.0,2020-07-02
-Nuevo León,"San Nicolás de 
-los Garza",1.0,1.0,0.0,0.0,2020-07-02
-Puebla,Puebla,1.0,1.0,0.0,0.0,2020-07-02
-Puebla,"San Pedro 
-Cholula",1.0,0.0,0.0,1.0,2020-07-02
-Puebla,Xicotepec,1.0,1.0,0.0,0.0,2020-07-02
-San Luis Potosí,El Naranjo,1.0,0.0,1.0,0.0,2020-07-02
-Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-07-02
-Sonora,Caborca,1.0,1.0,0.0,0.0,2020-07-02
-Sonora,Guaymas,1.0,1.0,0.0,0.0,2020-07-02
-Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-07-02
-Sonora,Nogales,1.0,1.0,0.0,0.0,2020-07-02
-Tabasco,Comalcalco,1.0,1.0,0.0,0.0,2020-07-02
-Tamaulipas,El Mante,1.0,1.0,0.0,0.0,2020-07-02
-Tamaulipas,Victoria,1.0,0.0,0.0,1.0,2020-07-02
-Veracruz,Agua Dulce,1.0,1.0,0.0,0.0,2020-07-02
-Veracruz,Las Choapas,1.0,1.0,0.0,0.0,2020-07-02
-Veracruz,Papantla,1.0,0.0,1.0,0.0,2020-07-02
-Yucatán,Mérida,1.0,1.0,0.0,0.0,2020-07-02
-Zacatecas,Fresnillo,1.0,0.0,1.0,0.0,2020-07-02
-Zacatecas,Sombrerete,5.0,0.0,0.0,5.0,2020-07-02
+Baja California,Tijuana,4,3,1,0,2020-07-02
+Chihuahua,Hidalgo Del Parral,4,4,0,0,2020-07-02
+Chihuahua,Juárez,2,2,0,0,2020-07-02
+Guanajuato,Acámbaro,1,1,0,0,2020-07-02
+Guanajuato,Apaseo El Alto,2,2,0,0,2020-07-02
+Guanajuato,Cortazar,1,1,0,0,2020-07-02
+Guanajuato,Irapuato,4,4,0,0,2020-07-02
+Guanajuato,León,2,2,0,0,2020-07-02
+Guanajuato,Salamanca,2,2,0,0,2020-07-02
+Guanajuato,Salvatierra,1,1,0,0,2020-07-02
+Guanajuato,Uriangato,1,1,0,0,2020-07-02
+Guerrero,Chilpancingo De Los Bravo,1,1,0,0,2020-07-02
+Guerrero,Iguala De La Independencia,4,3,1,0,2020-07-02
+Estado de México,Nezahualcóyotl,2,2,0,0,2020-07-02
+Jalisco,San Pedro Tlaquepaque,3,2,0,1,2020-07-02
+Jalisco,Tlajomulco De Zúñiga,1,1,0,0,2020-07-02
+Jalisco,Zapopan,1,1,0,0,2020-07-02
+Michoacán,Aquila,2,2,0,0,2020-07-02
+Michoacán,Queréndaro,2,1,1,0,2020-07-02
+Michoacán,Zamora,1,0,1,0,2020-07-02
+Nayarit,Ruíz,1,0,1,0,2020-07-02
+Nayarit,Tepic,1,1,0,0,2020-07-02
+Nuevo León,San Nicolás De Los Garza,1,1,0,0,2020-07-02
+Puebla,Puebla,1,1,0,0,2020-07-02
+Puebla,San Pedro Cholula,1,0,0,1,2020-07-02
+Puebla,Xicotepec,1,1,0,0,2020-07-02
+San Luis Potosí,El Naranjo,1,0,1,0,2020-07-02
+Sinaloa,Culiacán,2,2,0,0,2020-07-02
+Sonora,Caborca,1,1,0,0,2020-07-02
+Sonora,Guaymas,1,1,0,0,2020-07-02
+Sonora,Hermosillo,1,1,0,0,2020-07-02
+Sonora,Nogales,1,1,0,0,2020-07-02
+Tabasco,Comalcalco,1,1,0,0,2020-07-02
+Tamaulipas,El Mante,1,1,0,0,2020-07-02
+Tamaulipas,Victoria,1,0,0,1,2020-07-02
+Veracruz,Agua Dulce,1,1,0,0,2020-07-02
+Veracruz,Las Choapas,1,1,0,0,2020-07-02
+Veracruz,Papantla,1,0,1,0,2020-07-02
+Yucatán,Mérida,1,1,0,0,2020-07-02
+Zacatecas,Fresnillo,1,0,1,0,2020-07-02
+Zacatecas,Sombrerete,5,0,0,5,2020-07-02

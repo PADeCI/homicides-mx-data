@@ -4,51 +4,36 @@ Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-04-01
 Chihuahua,Juárez,2.0,1.0,0.0,1.0,2020-04-01
 Ciudad de México,Cuauhtémoc,1.0,0.0,1.0,0.0,2020-04-01
 Ciudad de México,Tlalpan,1.0,0.0,1.0,0.0,2020-04-01
-Ciudad de México,"Álvaro 
-Obregón",1.0,1.0,0.0,0.0,2020-04-01
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2020-04-01
 Colima,Manzanillo,4.0,4.0,0.0,0.0,2020-04-01
 Colima,Tecomán,1.0,0.0,0.0,1.0,2020-04-01
-Guanajuato,"Apaseo el 
-Grande",1.0,0.0,1.0,0.0,2020-04-01
+Guanajuato,Apaseo El Grande,1.0,0.0,1.0,0.0,2020-04-01
 Guanajuato,León,1.0,0.0,1.0,0.0,2020-04-01
-Guanajuato,"San Francisco 
-del Rincón",1.0,1.0,0.0,0.0,2020-04-01
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2020-04-01
-Guerrero,"Acapulco de 
-Juárez",4.0,3.0,1.0,0.0,2020-04-01
-Guerrero,Alarcón,4.0,4.0,0.0,0.0,2020-04-01
-Guerrero,"Huitzuco de 
-los Figueroa",2.0,2.0,0.0,0.0,2020-04-01
-Guerrero,Taxco de,4.0,4.0,0.0,0.0,2020-04-01
-Hidalgo,"Santiago 
-Tulantepec de 
-Lugo Guerrero",1.0,1.0,0.0,0.0,2020-04-01
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2020-04-01
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2020-04-01
+Guerrero,Acapulco De Juárez,4.0,3.0,1.0,0.0,2020-04-01
+Guerrero,Taxco De Alarcón,4.0,4.0,0.0,0.0,2020-04-01
+Guerrero,Huitzuco De Los Figueroa,2.0,2.0,0.0,0.0,2020-04-01
+Guerrero,Taxco De Alarcón,4.0,4.0,0.0,0.0,2020-04-01
+Hidalgo,Santiago Tulantepec De Lugo Guerrero,1.0,1.0,0.0,0.0,2020-04-01
 Jalisco,El Salto,1.0,1.0,0.0,0.0,2020-04-01
 Jalisco,Guadalajara,6.0,4.0,2.0,0.0,2020-04-01
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-04-01
-Jalisco,"Zacoalco de 
-Torres",1.0,0.0,0.0,1.0,2020-04-01
+Jalisco,Zacoalco De Torres,1.0,0.0,0.0,1.0,2020-04-01
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-04-01
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-04-01
 Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-04-01
-Morelos,"Tlaltizapán de 
-Zapata",1.0,1.0,0.0,0.0,2020-04-01
+Morelos,Tlaltizapán De Zapata,1.0,1.0,0.0,0.0,2020-04-01
 Morelos,Yautepec,1.0,1.0,0.0,0.0,2020-04-01
 Estado de México,Chimalhuacán,2.0,1.0,1.0,0.0,2020-04-01
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2020-04-01
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-04-01
 Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-04-01
-Estado de México,"Naucalpan de 
-Juárez",1.0,0.0,1.0,0.0,2020-04-01
-Estado de México,"Nicolás 
-Romero",1.0,1.0,0.0,0.0,2020-04-01
-Oaxaca,"Bautista 
-Tuxtepec",1.0,0.0,0.0,1.0,2020-04-01
+Estado de México,Naucalpan De Juárez,1.0,0.0,1.0,0.0,2020-04-01
+Estado de México,Nicolás Romero,1.0,1.0,0.0,0.0,2020-04-01
+Oaxaca,San Juan Bautista Tuxtepec,1.0,0.0,0.0,1.0,2020-04-01
 Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2020-04-01
-Oaxaca,San Juan,1.0,0.0,0.0,1.0,2020-04-01
-Puebla,"San Martín 
-Texmelucan",1.0,1.0,0.0,0.0,2020-04-01
+Oaxaca,San Juan Ñumí,1.0,0.0,0.0,1.0,2020-04-01
+Puebla,San Martín Texmelucan,1.0,1.0,0.0,0.0,2020-04-01
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-04-01
 San Luis Potosí,Villa Hidalgo,4.0,4.0,0.0,0.0,2020-04-01
 Sinaloa,Rosario,1.0,1.0,0.0,0.0,2020-04-01
@@ -59,4 +44,4 @@ Veracruz,Tezonapa,1.0,0.0,0.0,1.0,2020-04-01
 Veracruz,Tihuatlán,1.0,0.0,1.0,0.0,2020-04-01
 Zacatecas,Fresnillo,3.0,3.0,0.0,0.0,2020-04-01
 Zacatecas,Guadalupe,2.0,2.0,0.0,0.0,2020-04-01
-Zacatecas,Villa de Cos,1.0,1.0,0.0,0.0,2020-04-01
+Zacatecas,Villa De Cos,1.0,1.0,0.0,0.0,2020-04-01

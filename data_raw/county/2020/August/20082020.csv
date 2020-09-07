@@ -4,41 +4,28 @@ Chihuahua,Bocoyna,2.0,2.0,0.0,0.0,2020-08-20
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-08-20
 Chihuahua,Juárez,3.0,3.0,0.0,0.0,2020-08-20
 Coahuila,Saltillo,1.0,1.0,0.0,0.0,2020-08-20
-Guanajuato,"Apaseo el 
-Grande",2.0,2.0,0.0,0.0,2020-08-20
+Guanajuato,Apaseo El Grande,2.0,2.0,0.0,0.0,2020-08-20
 Guanajuato,Celaya,3.0,2.0,0.0,1.0,2020-08-20
 Guanajuato,León,5.0,4.0,1.0,0.0,2020-08-20
 Guanajuato,Salamanca,1.0,0.0,1.0,0.0,2020-08-20
-Guanajuato,"San José 
-Iturbide",1.0,1.0,0.0,0.0,2020-08-20
-Guanajuato,"Santa Cruz de 
-Juventino 
-Rosas",1.0,1.0,0.0,0.0,2020-08-20
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2020-08-20
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2020-08-20
-Jalisco,"Encarnación de 
-Díaz",1.0,1.0,0.0,0.0,2020-08-20
+Guanajuato,San José Iturbide,1.0,1.0,0.0,0.0,2020-08-20
+Guanajuato,Santa Cruz De Juventino Rosas,1.0,1.0,0.0,0.0,2020-08-20
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2020-08-20
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-08-20
+Jalisco,Encarnación De Díaz,1.0,1.0,0.0,0.0,2020-08-20
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-08-20
 Jalisco,Tala,1.0,1.0,0.0,0.0,2020-08-20
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,0.0,0.0,1.0,2020-08-20
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,0.0,1.0,2020-08-20
 Michoacán,Charo,1.0,1.0,0.0,0.0,2020-08-20
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-08-20
 Estado de México,Atizapán,1.0,1.0,0.0,0.0,2020-08-20
-Estado de México,"Valle de Chalco 
-Solidaridad",1.0,0.0,1.0,0.0,2020-08-20
+Estado de México,Valle De Chalco Solidaridad,1.0,0.0,1.0,0.0,2020-08-20
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-08-20
-Oaxaca,"Santiago 
-Pinotepa 
-Nacional",1.0,0.0,0.0,1.0,2020-08-20
+Oaxaca,Santiago Pinotepa Nacional,1.0,0.0,0.0,1.0,2020-08-20
 Puebla,Aquixtla,1.0,1.0,0.0,0.0,2020-08-20
 Puebla,Atlixco,1.0,0.0,1.0,0.0,2020-08-20
-Puebla,"Tepexi de 
-Rodríguez",1.0,1.0,0.0,0.0,2020-08-20
-Querétaro,"San Juan del 
-Río",1.0,1.0,0.0,0.0,2020-08-20
+Puebla,Tepexi De Rodríguez,1.0,1.0,0.0,0.0,2020-08-20
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2020-08-20
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-08-20
 San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2020-08-20
 San Luis Potosí,San Luis Potosí,6.0,5.0,0.0,1.0,2020-08-20
@@ -52,6 +39,5 @@ Tamaulipas,Nuevo Laredo,8.0,0.0,0.0,8.0,2020-08-20
 Veracruz,Actopan,1.0,1.0,0.0,0.0,2020-08-20
 Veracruz,Agua Dulce,2.0,0.0,0.0,2.0,2020-08-20
 Veracruz,Cuitláhuac,1.0,0.0,0.0,1.0,2020-08-20
-Veracruz,"Poza Rica de 
-Hidalgo",2.0,1.0,0.0,1.0,2020-08-20
+Veracruz,Poza Rica De Hidalgo,2.0,1.0,0.0,1.0,2020-08-20
 Yucatán,Mérida,1.0,0.0,1.0,0.0,2020-08-20

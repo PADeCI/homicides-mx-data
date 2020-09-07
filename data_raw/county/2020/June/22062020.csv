@@ -1,57 +1,38 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,"Playas de 
-Rosarito",3.0,2.0,1.0,0.0,2020-06-22
+Baja California,Playas De Rosarito,3.0,2.0,1.0,0.0,2020-06-22
 Baja California,Tecate,1.0,1.0,0.0,0.0,2020-06-22
 Baja California,Tijuana,6.0,5.0,0.0,1.0,2020-06-22
 Chiapas,Suchiate,1.0,1.0,0.0,0.0,2020-06-22
 Chihuahua,Jiménez,1.0,0.0,1.0,0.0,2020-06-22
 Chihuahua,Juárez,3.0,3.0,0.0,0.0,2020-06-22
-Ciudad de México,"Álvaro 
-Obregón",1.0,0.0,0.0,1.0,2020-06-22
-Colima,"Villa de 
-Álvarez",1.0,1.0,0.0,0.0,2020-06-22
-Guanajuato,"Apaseo el 
-Alto",3.0,3.0,0.0,0.0,2020-06-22
+Ciudad de México,Álvaro Obregón,1.0,0.0,0.0,1.0,2020-06-22
+Colima,Villa De Álvarez,1.0,1.0,0.0,0.0,2020-06-22
+Guanajuato,Apaseo El Alto,3.0,3.0,0.0,0.0,2020-06-22
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-06-22
-Guanajuato,"Dolores 
-Hidalgo 
-Cuna de la 
-Independenc",3.0,2.0,1.0,0.0,2020-06-22
+Guanajuato,Hidalgo,3.0,2.0,1.0,0.0,2020-06-22
 Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-06-22
 Guanajuato,León,5.0,3.0,2.0,0.0,2020-06-22
-Guanajuato,"Purísima del 
-Rincón",2.0,2.0,0.0,0.0,2020-06-22
+Guanajuato,Purísima Del Rincón,2.0,2.0,0.0,0.0,2020-06-22
 Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-06-22
 Guanajuato,Tarimoro,1.0,1.0,0.0,0.0,2020-06-22
-Guanajuato,ia Nacional,3.0,2.0,0.0,1.0,2020-06-22
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,3.0,2.0,0.0,1.0,2020-06-22
 Jalisco,Guadalajara,3.0,3.0,0.0,0.0,2020-06-22
 Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-06-22
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-06-22
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-06-22
 Morelos,Temixco,1.0,1.0,0.0,0.0,2020-06-22
 Morelos,Zacatepec,1.0,1.0,0.0,0.0,2020-06-22
-Estado de México,"Coacalco de 
-Berriozábal",2.0,1.0,1.0,0.0,2020-06-22
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2020-06-22
+Estado de México,Coacalco De Berriozábal,2.0,1.0,1.0,0.0,2020-06-22
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2020-06-22
 Estado de México,La Paz,1.0,1.0,0.0,0.0,2020-06-22
-Estado de México,"Nezahualcóy
-otl",3.0,2.0,1.0,0.0,2020-06-22
-Nayarit,"Santiago 
-Ixcuintla",1.0,1.0,0.0,0.0,2020-06-22
-Nuevo León,"Santa 
-Catarina",2.0,1.0,1.0,0.0,2020-06-22
-Oaxaca,"Heroica 
-Ciudad de 
-Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0,2020-06-22
-Oaxaca,"San Mateo 
-del Mar",15.0,0.0,0.0,15.0,2020-06-22
-Oaxaca,"San Miguel 
-Chimalapa",2.0,2.0,0.0,0.0,2020-06-22
+Estado de México,Nezahualcóyotl,3.0,2.0,1.0,0.0,2020-06-22
+Nayarit,Santiago Ixcuintla,1.0,1.0,0.0,0.0,2020-06-22
+Nuevo León,Santa Catarina,2.0,1.0,1.0,0.0,2020-06-22
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2020-06-22
+Oaxaca,San Mateo Del Mar,15.0,0.0,0.0,15.0,2020-06-22
+Oaxaca,San Miguel Chimalapa,2.0,2.0,0.0,0.0,2020-06-22
 Puebla,Puebla,1.0,0.0,1.0,0.0,2020-06-22
-Quintana Roo,"Othón P. 
-Blanco",1.0,1.0,0.0,0.0,2020-06-22
+Quintana Roo,Othón P. Blanco,1.0,1.0,0.0,0.0,2020-06-22
 Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2020-06-22
 Sinaloa,Ahome,1.0,1.0,0.0,0.0,2020-06-22
 Sinaloa,Choix,3.0,2.0,0.0,1.0,2020-06-22
@@ -62,13 +43,11 @@ Tabasco,Comalcalco,1.0,1.0,0.0,0.0,2020-06-22
 Tabasco,Paraíso,1.0,1.0,0.0,0.0,2020-06-22
 Tamaulipas,Tampico,1.0,1.0,0.0,0.0,2020-06-22
 Veracruz,Coatepec,1.0,1.0,0.0,0.0,2020-06-22
-Veracruz,"Huayacocotl
-a",1.0,0.0,1.0,0.0,2020-06-22
+Veracruz,Huayacocotla,1.0,0.0,1.0,0.0,2020-06-22
 Veracruz,Isla,2.0,2.0,0.0,0.0,2020-06-22
 Veracruz,Misantla,2.0,2.0,0.0,0.0,2020-06-22
 Veracruz,Papantla,1.0,1.0,0.0,0.0,2020-06-22
-Veracruz,"Paso de 
-Ovejas",1.0,1.0,0.0,0.0,2020-06-22
+Veracruz,Paso De Ovejas,1.0,1.0,0.0,0.0,2020-06-22
 Veracruz,Veracruz,1.0,1.0,0.0,0.0,2020-06-22
 Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2020-06-22
 Zacatecas,Río Grande,1.0,1.0,0.0,0.0,2020-06-22

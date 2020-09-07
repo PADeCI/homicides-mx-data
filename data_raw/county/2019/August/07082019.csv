@@ -6,20 +6,17 @@ Chiapas,Cacahoatán,1.0,1.0,0.0,0.0,2019-08-07
 Chiapas,Reforma,1.0,1.0,0.0,0.0,2019-08-07
 Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-08-07
 Chihuahua,Juárez,4.0,3.0,1.0,0.0,2019-08-07
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2019-08-07
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-08-07
 Colima,Manzanillo,2.0,2.0,0.0,0.0,2019-08-07
 Durango,Mapimí,1.0,1.0,0.0,0.0,2019-08-07
 Guanajuato,Acámbaro,1.0,0.0,1.0,0.0,2019-08-07
-Guanajuato,Apaseo el Alto,1.0,1.0,0.0,0.0,2019-08-07
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2019-08-07
 Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2019-08-07
 Guanajuato,León,2.0,1.0,0.0,1.0,2019-08-07
-Guanajuato,"Purísima del 
-Rincón",1.0,1.0,0.0,0.0,2019-08-07
+Guanajuato,Purísima Del Rincón,1.0,1.0,0.0,0.0,2019-08-07
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-08-07
 Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-08-07
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2019-08-07
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2019-08-07
 Jalisco,El Salto,1.0,1.0,0.0,0.0,2019-08-07
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-08-07
 Jalisco,Puerto Vallarta,1.0,0.0,1.0,0.0,2019-08-07
@@ -33,30 +30,22 @@ Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-08-07
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-08-07
 Morelos,Cuernavaca,2.0,1.0,1.0,0.0,2019-08-07
 Morelos,Jojutla,1.0,1.0,0.0,0.0,2019-08-07
-Morelos,"Tlaltizapán de 
-Zapata",1.0,1.0,0.0,0.0,2019-08-07
-Estado de México,"Cuautitlán 
-Izcalli",1.0,1.0,0.0,0.0,2019-08-07
-Estado de México,"Ecatepec de 
-Morelos",1.0,1.0,0.0,0.0,2019-08-07
+Morelos,Tlaltizapán De Zapata,1.0,1.0,0.0,0.0,2019-08-07
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2019-08-07
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2019-08-07
 Estado de México,Jilotepec,1.0,0.0,1.0,0.0,2019-08-07
 Estado de México,Metepec,2.0,2.0,0.0,0.0,2019-08-07
-Estado de México,"Nicolás 
-Romero",2.0,2.0,0.0,0.0,2019-08-07
+Estado de México,Nicolás Romero,2.0,2.0,0.0,0.0,2019-08-07
 Nayarit,Tepic,1.0,0.0,0.0,1.0,2019-08-07
-Nuevo León,Gral. Zuazua,1.0,1.0,0.0,0.0,2019-08-07
+Nuevo León,General Zuazua,1.0,1.0,0.0,0.0,2019-08-07
 Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2019-08-07
-Oaxaca,"Putla Villa de 
-Guerrero",2.0,2.0,0.0,0.0,2019-08-07
-Oaxaca,"San Francisco 
-Ixhuatán",1.0,1.0,0.0,0.0,2019-08-07
+Oaxaca,Putla Villa De Guerrero,2.0,2.0,0.0,0.0,2019-08-07
+Oaxaca,San Francisco Ixhuatán,1.0,1.0,0.0,0.0,2019-08-07
 Puebla,Cohuecan,5.0,5.0,0.0,0.0,2019-08-07
 Puebla,Tehuacán,1.0,0.0,0.0,1.0,2019-08-07
-Sinaloa,"Salvador 
-Alvarado",1.0,0.0,1.0,0.0,2019-08-07
+Sinaloa,Salvador Alvarado,1.0,0.0,1.0,0.0,2019-08-07
 Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-08-07
-Sonora,"San Luis Río 
-Colorado",2.0,2.0,0.0,0.0,2019-08-07
+Sonora,San Luis Río Colorado,2.0,2.0,0.0,0.0,2019-08-07
 Tabasco,Centro,1.0,1.0,0.0,0.0,2019-08-07
 Tabasco,Cunduacán,1.0,1.0,0.0,0.0,2019-08-07
 Tabasco,Tenosique,1.0,0.0,1.0,0.0,2019-08-07
@@ -67,5 +56,4 @@ Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-08-07
 Veracruz,Cuitláhuac,2.0,0.0,0.0,2.0,2019-08-07
 Veracruz,Córdoba,1.0,1.0,0.0,0.0,2019-08-07
 Veracruz,Río Blanco,1.0,0.0,1.0,0.0,2019-08-07
-Zacatecas,"Villa González 
-Ortega",1.0,1.0,0.0,0.0,2019-08-07
+Zacatecas,Villa González Ortega,1.0,1.0,0.0,0.0,2019-08-07

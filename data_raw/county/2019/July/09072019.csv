@@ -1,26 +1,20 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Mexicali,1,1.0,0.0,0.0,2019-07-09
 Baja California,Tijuana,9,8.0,0.0,1.0,2019-07-09
-Ciudad de México,"Gustavo A. 
-Madero",1,1.0,0.0,0.0,2019-07-09
+Ciudad de México,Gustavo A. Madero,1,1.0,0.0,0.0,2019-07-09
 Ciudad de México,Tlalpan,2,0.0,2.0,0.0,2019-07-09
 Colima,Tecomán,2,1.0,0.0,1.0,2019-07-09
 Durango,Nazas,1,1.0,0.0,0.0,2019-07-09
-Guanajuato,Apaseo el Grande,2,0.0,0.0,2.0,2019-07-09
+Guanajuato,Apaseo El Grande,2,0.0,0.0,2.0,2019-07-09
 Guanajuato,Celaya,5,0.0,0.0,5.0,2019-07-09
 Guanajuato,León,1,1.0,0.0,0.0,2019-07-09
-Guerrero,"Acapulco de 
-Juárez",1,1.0,0.0,0.0,2019-07-09
-Guerrero,Chilapa de Álvarez,2,2.0,0.0,0.0,2019-07-09
-Guerrero,"Chilpancingo de 
-los Bravo",2,2.0,0.0,0.0,2019-07-09
-Guerrero,"José Joaquin de 
-Herrera",1,1.0,0.0,0.0,2019-07-09
+Guerrero,Acapulco De Juárez,1,1.0,0.0,0.0,2019-07-09
+Guerrero,Chilapa De Álvarez,2,2.0,0.0,0.0,2019-07-09
+Guerrero,Chilpancingo De Los Bravo,2,2.0,0.0,0.0,2019-07-09
+Guerrero,José Joaquín De Herrera,1,1.0,0.0,0.0,2019-07-09
 Guerrero,Tlacoachistlahuaca,1,1.0,0.0,0.0,2019-07-09
-Hidalgo,"Tepeji del Río de 
-Ocampo",1,1.0,0.0,0.0,2019-07-09
-Jalisco,"San Pedro 
-Tlaquepaque",4,0.0,0.0,4.0,2019-07-09
+Hidalgo,Tepeji Del Río De Ocampo,1,1.0,0.0,0.0,2019-07-09
+Jalisco,San Pedro Tlaquepaque,4,0.0,0.0,4.0,2019-07-09
 Jalisco,Zapopan,1,1.0,0.0,0.0,2019-07-09
 Michoacán,Apatzingán,1,1.0,0.0,0.0,2019-07-09
 Michoacán,Cotija,1,1.0,0.0,0.0,2019-07-09
@@ -30,7 +24,7 @@ Michoacán,Morelia,1,0.0,1.0,0.0,2019-07-09
 Michoacán,Uruapan,3,2.0,1.0,0.0,2019-07-09
 Michoacán,Vista Hermosa,1,1.0,0.0,0.0,2019-07-09
 Morelos,Cuernavaca,1,1.0,0.0,0.0,2019-07-09
-Morelos,Puente de Ixtla,1,1.0,0.0,0.0,2019-07-09
+Morelos,Puente De Ixtla,1,1.0,0.0,0.0,2019-07-09
 Morelos,Temixco,1,1.0,0.0,0.0,2019-07-09
 Morelos,Yautepec,2,1.0,1.0,0.0,2019-07-09
 Estado de México,La Paz,1,1.0,0.0,0.0,2019-07-09
@@ -39,13 +33,11 @@ Estado de México,Zumpango,1,1.0,0.0,0.0,2019-07-09
 Nuevo León,Cadereyta Jiménez,2,2.0,0.0,0.0,2019-07-09
 Nuevo León,Santa Catarina,1,1.0,0.0,0.0,2019-07-09
 Oaxaca,San Blas Atempa,1,1.0,0.0,0.0,2019-07-09
-Oaxaca,"San Pedro 
-Mixtepec (22)",1,1.0,0.0,0.0,2019-07-09
+Oaxaca,San Pedro Mixtepec,1,1.0,0.0,0.0,2019-07-09
 Puebla,Atlixco,1,0.0,1.0,0.0,2019-07-09
 Puebla,Libres,1,0.0,1.0,0.0,2019-07-09
 Puebla,Puebla,1,1.0,0.0,0.0,2019-07-09
-Querétaro,"Cadereyta de 
-Montes",2,2.0,0.0,0.0,2019-07-09
+Querétaro,Cadereyta De Montes,2,2.0,0.0,0.0,2019-07-09
 Quintana Roo,Benito Juárez,3,2.0,1.0,0.0,2019-07-09
 San Luis Potosí,San Luis Potosí,1,1.0,0.0,0.0,2019-07-09
 Sinaloa,Ahome,6,0.0,0.0,6.0,2019-07-09
@@ -56,8 +48,7 @@ Sonora,Hermosillo,1,0.0,0.0,1.0,2019-07-09
 Veracruz,Acayucan,1,1.0,0.0,0.0,2019-07-09
 Veracruz,Coatzacoalcos,1,1.0,0.0,0.0,2019-07-09
 Veracruz,Misantla,1,1.0,0.0,0.0,2019-07-09
-Veracruz,Paso de Ovejas,1,1.0,0.0,0.0,2019-07-09
-Veracruz,"Poza Rica de 
-Hidalgo",1,1.0,0.0,0.0,2019-07-09
+Veracruz,Paso De Ovejas,1,1.0,0.0,0.0,2019-07-09
+Veracruz,Poza Rica De Hidalgo,1,1.0,0.0,0.0,2019-07-09
 Veracruz,Tihuatlán,2,1.0,1.0,0.0,2019-07-09
 Zacatecas,Juan Aldama,1,1.0,0.0,0.0,2019-07-09

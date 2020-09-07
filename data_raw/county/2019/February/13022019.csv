@@ -3,36 +3,26 @@ Baja California,Ensenada,1,1.0,0.0,0.0,2019-02-13
 Chihuahua,Juárez,1,0.0,1.0,0.0,2019-02-13
 Ciudad de México,Coyoacán,1,0.0,0.0,1.0,2019-02-13
 Ciudad de México,Cuauhtémoc,1,1.0,0.0,0.0,2019-02-13
-Ciudad de México,"Gustavo A. 
-Madero",1,1.0,0.0,0.0,2019-02-13
-Ciudad de México,"Venustiano 
-Carranza",1,0.0,1.0,0.0,2019-02-13
+Ciudad de México,Gustavo A. Madero,1,1.0,0.0,0.0,2019-02-13
+Ciudad de México,Venustiano Carranza,1,0.0,1.0,0.0,2019-02-13
 Colima,Manzanillo,1,1.0,0.0,0.0,2019-02-13
 Estado de México,Acolman,1,1.0,0.0,0.0,2019-02-13
-Estado de México,"Ecatepec de 
-Morelos",2,1.0,1.0,0.0,2019-02-13
+Estado de México,Ecatepec De Morelos,2,1.0,1.0,0.0,2019-02-13
 Estado de México,Huehuetoca,1,0.0,1.0,0.0,2019-02-13
 Estado de México,Nicolás Romero,1,0.0,1.0,0.0,2019-02-13
 Estado de México,Toluca,2,1.0,1.0,0.0,2019-02-13
 Guanajuato,Irapuato,3,3.0,0.0,0.0,2019-02-13
 Guanajuato,León,6,6.0,0.0,0.0,2019-02-13
 Guanajuato,Salamanca,1,1.0,0.0,0.0,2019-02-13
-Guanajuato,"San Miguel de 
-Allende",1,1.0,0.0,0.0,2019-02-13
-Guerrero,"Acapulco de 
-Juárez",2,2.0,0.0,0.0,2019-02-13
+Guanajuato,San Miguel De Allende,1,1.0,0.0,0.0,2019-02-13
+Guerrero,Acapulco De Juárez,2,2.0,0.0,0.0,2019-02-13
 Guerrero,Eduardo Neri,1,1.0,0.0,0.0,2019-02-13
-Guerrero,"La Unión de 
-Isidoro Montes 
-de Oca",2,2.0,0.0,0.0,2019-02-13
+Guerrero,La Unión De Isidoro Montes De Oca,2,2.0,0.0,0.0,2019-02-13
 Guerrero,Petatlán,1,1.0,0.0,0.0,2019-02-13
-Hidalgo,"Tezontepec de 
-Aldama",1,1.0,0.0,0.0,2019-02-13
+Hidalgo,Tezontepec De Aldama,1,1.0,0.0,0.0,2019-02-13
 Jalisco,Guadalajara,3,2.0,0.0,1.0,2019-02-13
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0,2019-02-13
-Jalisco,"Tlajomulco de 
-Zúñiga",1,0.0,1.0,0.0,2019-02-13
+Jalisco,San Pedro Tlaquepaque,1,1.0,0.0,0.0,2019-02-13
+Jalisco,Tlajomulco De Zúñiga,1,0.0,1.0,0.0,2019-02-13
 Jalisco,Tonalá,1,1.0,0.0,0.0,2019-02-13
 Jalisco,Zapopan,2,1.0,0.0,1.0,2019-02-13
 Michoacán,Cuitzeo,1,1.0,0.0,0.0,2019-02-13
@@ -40,26 +30,19 @@ Michoacán,Morelia,1,1.0,0.0,0.0,2019-02-13
 Michoacán,Uruapan,2,1.0,1.0,0.0,2019-02-13
 Michoacán,Zamora,1,1.0,0.0,0.0,2019-02-13
 Morelos,Jiutepec,1,1.0,0.0,0.0,2019-02-13
-Morelos,Puente de Ixtla,1,1.0,0.0,0.0,2019-02-13
+Morelos,Puente De Ixtla,1,1.0,0.0,0.0,2019-02-13
 Morelos,Tepoztlán,1,1.0,0.0,0.0,2019-02-13
 Morelos,Xochitepec,1,0.0,0.0,1.0,2019-02-13
 Nayarit,Tepic,1,1.0,0.0,0.0,2019-02-13
 Nuevo León,García,1,1.0,0.0,0.0,2019-02-13
 Nuevo León,Monterrey,4,4.0,0.0,0.0,2019-02-13
 Oaxaca,Loma Bonita,1,1.0,0.0,0.0,2019-02-13
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2019-02-13
-Oaxaca,"San Juan 
-Evangelista 
-Analco",1,1.0,0.0,0.0,2019-02-13
-Oaxaca,"San Pedro 
-Pochutla",1,0.0,1.0,0.0,2019-02-13
+Oaxaca,San Juan Bautista Tuxtepec,1,1.0,0.0,0.0,2019-02-13
+Oaxaca,San Juan Evangelista Analco,1,1.0,0.0,0.0,2019-02-13
+Oaxaca,San Pedro Pochutla,1,0.0,1.0,0.0,2019-02-13
 Puebla,Puebla,1,1.0,0.0,0.0,2019-02-13
-Puebla,"San Martín 
-Texmelucan",1,1.0,0.0,0.0,2019-02-13
-Puebla,"San Nicolás 
-Buenos Aires",1,1.0,0.0,0.0,2019-02-13
+Puebla,San Martín Texmelucan,1,1.0,0.0,0.0,2019-02-13
+Puebla,San Nicolás Buenos Aires,1,1.0,0.0,0.0,2019-02-13
 Puebla,Tecamachalco,1,1.0,0.0,0.0,2019-02-13
 Querétaro,Corregidora,1,0.0,0.0,1.0,2019-02-13
 Sinaloa,Culiacán,2,2.0,0.0,0.0,2019-02-13

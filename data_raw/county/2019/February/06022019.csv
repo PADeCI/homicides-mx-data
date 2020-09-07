@@ -3,18 +3,15 @@ Baja California,Ensenada,1,1.0,0.0,0.0,2019-02-06
 Baja California,Mexicali,1,0.0,1.0,0.0,2019-02-06
 Baja California,Tijuana,7,7.0,0.0,0.0,2019-02-06
 Chihuahua,Chihuahua,1,1.0,0.0,0.0,2019-02-06
-Chihuahua,"Hidalgo del 
-Parral",1,1.0,0.0,0.0,2019-02-06
+Chihuahua,Hidalgo Del Parral,1,1.0,0.0,0.0,2019-02-06
 Chihuahua,Jiménez,1,1.0,0.0,0.0,2019-02-06
 Chihuahua,Juárez,2,2.0,0.0,0.0,2019-02-06
 Ciudad de México,Xochimilco,1,1.0,0.0,0.0,2019-02-06
 Coahuila,Torreón,1,0.0,1.0,0.0,2019-02-06
 Colima,Manzanillo,1,0.0,1.0,0.0,2019-02-06
 Colima,Tecomán,1,1.0,0.0,0.0,2019-02-06
-Estado de México,"Ecatepec de 
-Morelos",3,3.0,0.0,0.0,2019-02-06
-Estado de México,"Naucalpan de 
-Juárez",2,2.0,0.0,0.0,2019-02-06
+Estado de México,Ecatepec De Morelos,3,3.0,0.0,0.0,2019-02-06
+Estado de México,Naucalpan De Juárez,2,2.0,0.0,0.0,2019-02-06
 Estado de México,Zinacantepec,1,0.0,1.0,0.0,2019-02-06
 Guanajuato,Abasolo,2,2.0,0.0,0.0,2019-02-06
 Guanajuato,Celaya,1,0.0,1.0,0.0,2019-02-06
@@ -22,15 +19,11 @@ Guanajuato,Comonfort,1,0.0,0.0,1.0,2019-02-06
 Guanajuato,Irapuato,3,2.0,1.0,0.0,2019-02-06
 Guanajuato,León,2,1.0,1.0,0.0,2019-02-06
 Guanajuato,Salamanca,8,8.0,0.0,0.0,2019-02-06
-Guanajuato,"San Miguel de 
-Allende",1,1.0,0.0,0.0,2019-02-06
-Guerrero,"Acapulco de 
-Juárez",2,2.0,0.0,0.0,2019-02-06
-Jalisco,"San Pedro 
-Tlaquepaque",3,3.0,0.0,0.0,2019-02-06
+Guanajuato,San Miguel De Allende,1,1.0,0.0,0.0,2019-02-06
+Guerrero,Acapulco De Juárez,2,2.0,0.0,0.0,2019-02-06
+Jalisco,San Pedro Tlaquepaque,3,3.0,0.0,0.0,2019-02-06
 Jalisco,Tala,1,1.0,0.0,0.0,2019-02-06
-Jalisco,"Tlajomulco de 
-Zúñiga",1,1.0,0.0,0.0,2019-02-06
+Jalisco,Tlajomulco De Zúñiga,1,1.0,0.0,0.0,2019-02-06
 Michoacán,Apatzingán,1,1.0,0.0,0.0,2019-02-06
 Michoacán,Purépero,1,1.0,0.0,0.0,2019-02-06
 Michoacán,Zinapécuaro,1,1.0,0.0,0.0,2019-02-06

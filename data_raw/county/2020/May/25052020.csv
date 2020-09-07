@@ -3,47 +3,37 @@ Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2020-05-25
 Baja California,Tecate,3.0,2.0,1.0,0.0,2020-05-25
 Baja California,Tijuana,3.0,1.0,1.0,1.0,2020-05-25
 Baja California Sur,Comondú,1.0,1.0,0.0,0.0,2020-05-25
-Chiapas,"Chiapa de 
-Corzo",1.0,0.0,0.0,1.0,2020-05-25
+Chiapas,Chiapa De Corzo,1.0,0.0,0.0,1.0,2020-05-25
 Chiapas,Suchiate,1.0,1.0,0.0,0.0,2020-05-25
-Chiapas,"Tuxtla 
-Gutiérrez",1.0,1.0,0.0,0.0,2020-05-25
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2020-05-25
 Chihuahua,Bocoyna,2.0,2.0,0.0,0.0,2020-05-25
 Chihuahua,Chihuahua,1.0,0.0,1.0,0.0,2020-05-25
 Chihuahua,Juárez,2.0,1.0,0.0,1.0,2020-05-25
-Ciudad de México,"Venustiano 
-Carranza",1.0,1.0,0.0,0.0,2020-05-25
-Colima,Villa de Álvarez,1.0,1.0,0.0,0.0,2020-05-25
-Guanajuato,Apaseo el Alto,2.0,2.0,0.0,0.0,2020-05-25
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2020-05-25
+Colima,Villa De Álvarez,1.0,1.0,0.0,0.0,2020-05-25
+Guanajuato,Apaseo El Alto,2.0,2.0,0.0,0.0,2020-05-25
 Guanajuato,Celaya,2.0,2.0,0.0,0.0,2020-05-25
 Guanajuato,Irapuato,5.0,2.0,0.0,3.0,2020-05-25
 Guanajuato,León,3.0,3.0,0.0,0.0,2020-05-25
-Guanajuato,"Purísima del 
-Rincón",2.0,2.0,0.0,0.0,2020-05-25
+Guanajuato,Purísima Del Rincón,2.0,2.0,0.0,0.0,2020-05-25
 Guanajuato,Salamanca,3.0,3.0,0.0,0.0,2020-05-25
-Guanajuato,"San Francisco 
-del Rincón",1.0,1.0,0.0,0.0,2020-05-25
-Guerrero,"Leonardo 
-Bravo",3.0,0.0,0.0,3.0,2020-05-25
-Guerrero,"Zihuatanejo de 
-Azueta",1.0,1.0,0.0,0.0,2020-05-25
-Jalisco,"San Pedro 
-Tlaquepaque",2.0,2.0,0.0,0.0,2020-05-25
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2020-05-25
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2020-05-25
+Guerrero,Leonardo Bravo,3.0,0.0,0.0,3.0,2020-05-25
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2020-05-25
+Jalisco,San Pedro Tlaquepaque,2.0,2.0,0.0,0.0,2020-05-25
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-05-25
 Michoacán,Huandacareo,2.0,2.0,0.0,0.0,2020-05-25
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-05-25
 Michoacán,Zitácuaro,4.0,4.0,0.0,0.0,2020-05-25
 Morelos,Ayala,6.0,6.0,0.0,0.0,2020-05-25
-Estado de México,"Cuautitlán 
-Izcalli",1.0,1.0,0.0,0.0,2020-05-25
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2020-05-25
 Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-05-25
 Nayarit,Tepic,1.0,0.0,1.0,0.0,2020-05-25
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-05-25
 Puebla,Atlixco,1.0,1.0,0.0,0.0,2020-05-25
 Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-05-25
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-05-25
-San Luis Potosí,Villa de Reyes,2.0,2.0,0.0,0.0,2020-05-25
+San Luis Potosí,Villa De Reyes,2.0,2.0,0.0,0.0,2020-05-25
 Sinaloa,Ahome,1.0,1.0,0.0,0.0,2020-05-25
 Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2020-05-25
 Sonora,Cajeme,2.0,2.0,0.0,0.0,2020-05-25
@@ -54,6 +44,5 @@ Tamaulipas,Matamoros,1.0,1.0,0.0,0.0,2020-05-25
 Tamaulipas,Río Bravo,1.0,1.0,0.0,0.0,2020-05-25
 Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2020-05-25
 Veracruz,Acayucan,1.0,1.0,0.0,0.0,2020-05-25
-Veracruz,"Puente 
-Nacional",1.0,1.0,0.0,0.0,2020-05-25
+Veracruz,Puente Nacional,1.0,1.0,0.0,0.0,2020-05-25
 Veracruz,Veracruz,1.0,1.0,0.0,0.0,2020-05-25

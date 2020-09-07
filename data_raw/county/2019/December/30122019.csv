@@ -2,72 +2,55 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Aguascalientes,Aguascalientes,1,1.0,0.0,0.0,2019-12-30
 Baja California,Mexicali,1,0.0,0.0,1.0,2019-12-30
 Baja California,Tijuana,4,3.0,1.0,0.0,2019-12-30
-Chiapas,"Villa 
-Comaltitlán",1,1.0,0.0,0.0,2019-12-30
+Chiapas,Villa Comaltitlán,1,1.0,0.0,0.0,2019-12-30
 Chihuahua,Cuauhtémoc,1,1.0,0.0,0.0,2019-12-30
 Chihuahua,Juárez,1,1.0,0.0,0.0,2019-12-30
 Ciudad de México,Tláhuac,1,1.0,0.0,0.0,2019-12-30
 Coahuila,Torreón,1,1.0,0.0,0.0,2019-12-30
-Guanajuato,Apaseo el Alto,3,3.0,0.0,0.0,2019-12-30
+Guanajuato,Apaseo El Alto,3,3.0,0.0,0.0,2019-12-30
 Guanajuato,Celaya,2,2.0,0.0,0.0,2019-12-30
 Guanajuato,Irapuato,1,1.0,0.0,0.0,2019-12-30
 Guanajuato,León,4,3.0,1.0,0.0,2019-12-30
 Guanajuato,Pénjamo,1,1.0,0.0,0.0,2019-12-30
 Guanajuato,Salamanca,2,0.0,0.0,2.0,2019-12-30
-Guanajuato,"Santiago 
-Maravatío",1,1.0,0.0,0.0,2019-12-30
+Guanajuato,Santiago Maravatío,1,1.0,0.0,0.0,2019-12-30
 Guanajuato,Tarimoro,1,1.0,0.0,0.0,2019-12-30
-Guerrero,"Acapulco de 
-Juárez",1,0.0,0.0,1.0,2019-12-30
-Guerrero,"Chilapa de 
-Álvarez",1,1.0,0.0,0.0,2019-12-30
-Guerrero,"Taxco de 
-Alarcón",1,1.0,0.0,0.0,2019-12-30
-Hidalgo,"Pachuca de 
-Soto",1,1.0,0.0,0.0,2019-12-30
+Guerrero,Acapulco De Juárez,1,0.0,0.0,1.0,2019-12-30
+Guerrero,Chilapa De Álvarez,1,1.0,0.0,0.0,2019-12-30
+Guerrero,Taxco De Alarcón,1,1.0,0.0,0.0,2019-12-30
+Hidalgo,Pachuca De Soto,1,1.0,0.0,0.0,2019-12-30
 Jalisco,Guadalajara,5,4.0,1.0,0.0,2019-12-30
 Jalisco,Tonalá,2,2.0,0.0,0.0,2019-12-30
 Michoacán,Jacona,1,1.0,0.0,0.0,2019-12-30
 Michoacán,Lagunillas,1,0.0,1.0,0.0,2019-12-30
 Michoacán,Morelia,4,2.0,2.0,0.0,2019-12-30
-Michoacán,"Salvador 
-Escalante",1,1.0,0.0,0.0,2019-12-30
+Michoacán,Salvador Escalante,1,1.0,0.0,0.0,2019-12-30
 Michoacán,Uruapan,2,1.0,1.0,0.0,2019-12-30
 Michoacán,Zamora,1,0.0,0.0,1.0,2019-12-30
 Morelos,Amacuzac,1,0.0,1.0,0.0,2019-12-30
 Estado de México,Ixtapaluca,1,1.0,0.0,0.0,2019-12-30
 Estado de México,La Paz,1,1.0,0.0,0.0,2019-12-30
 Estado de México,Lerma,1,1.0,0.0,0.0,2019-12-30
-Estado de México,"Tenango del 
-Valle",1,1.0,0.0,0.0,2019-12-30
+Estado de México,Tenango Del Valle,1,1.0,0.0,0.0,2019-12-30
 Estado de México,Tultitlán,1,1.0,0.0,0.0,2019-12-30
 Nayarit,Tepic,1,1.0,0.0,0.0,2019-12-30
 Nuevo León,Monterrey,2,1.0,1.0,0.0,2019-12-30
-Nuevo León,"San Nicolás de 
-los Garza",1,0.0,0.0,1.0,2019-12-30
+Nuevo León,San Nicolás De Los Garza,1,0.0,0.0,1.0,2019-12-30
 Oaxaca,El Espinal,2,1.0,0.0,1.0,2019-12-30
-Oaxaca,"Heroica Ciudad 
-de Tlaxiaco",2,2.0,0.0,0.0,2019-12-30
-Oaxaca,"Reforma de 
-Pineda",4,4.0,0.0,0.0,2019-12-30
-Oaxaca,"San Bartolomé 
-Loxicha",1,1.0,0.0,0.0,2019-12-30
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",2,1.0,1.0,0.0,2019-12-30
+Oaxaca,Heroica Ciudad De Tlaxiaco,2,2.0,0.0,0.0,2019-12-30
+Oaxaca,Reforma De Pineda,4,4.0,0.0,0.0,2019-12-30
+Oaxaca,San Bartolomé Loxicha,1,1.0,0.0,0.0,2019-12-30
+Oaxaca,San Juan Bautista Tuxtepec,2,1.0,1.0,0.0,2019-12-30
 Puebla,Huauchinango,2,2.0,0.0,0.0,2019-12-30
-Puebla,"San Andrés 
-Cholula",1,0.0,1.0,0.0,2019-12-30
+Puebla,San Andrés Cholula,1,0.0,1.0,0.0,2019-12-30
 Quintana Roo,Benito Juárez,1,0.0,1.0,0.0,2019-12-30
-Quintana Roo,"Felipe Carrillo 
-Puerto",1,1.0,0.0,0.0,2019-12-30
+Quintana Roo,Felipe Carrillo Puerto,1,1.0,0.0,0.0,2019-12-30
 San Luis Potosí,San Luis Potosí,1,1.0,0.0,0.0,2019-12-30
 Sinaloa,Culiacán,1,1.0,0.0,0.0,2019-12-30
 Sonora,Cajeme,5,1.0,0.0,4.0,2019-12-30
 Tamaulipas,Victoria,1,0.0,1.0,0.0,2019-12-30
 Veracruz,Coatzacoalcos,1,1.0,0.0,0.0,2019-12-30
-Veracruz,"Martínez de la 
-Torre",1,1.0,0.0,0.0,2019-12-30
+Veracruz,Martínez De La Torre,1,1.0,0.0,0.0,2019-12-30
 Veracruz,Papantla,1,1.0,0.0,0.0,2019-12-30
 Zacatecas,Vetagrande,1,1.0,0.0,0.0,2019-12-30
-Zacatecas,Villa de Cos,1,1.0,0.0,0.0,2019-12-30
+Zacatecas,Villa De Cos,1,1.0,0.0,0.0,2019-12-30

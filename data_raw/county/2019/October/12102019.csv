@@ -1,30 +1,24 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,2,1.0,1.0,0.0,2019-10-12
 Chihuahua,Chihuahua,3,3.0,0.0,0.0,2019-10-12
-Chihuahua,"Hidalgo del 
-Parral",2,2.0,0.0,0.0,2019-10-12
+Chihuahua,Hidalgo Del Parral,2,2.0,0.0,0.0,2019-10-12
 Chihuahua,Juárez,2,2.0,0.0,0.0,2019-10-12
 Ciudad de México,Azcapotzalco,1,1.0,0.0,0.0,2019-10-12
 Ciudad de México,Iztapalapa,1,0.0,1.0,0.0,2019-10-12
 Ciudad de México,Tlalpan,1,1.0,0.0,0.0,2019-10-12
-Ciudad de México,"Álvaro 
-Obregón",1,1.0,0.0,0.0,2019-10-12
+Ciudad de México,Álvaro Obregón,1,1.0,0.0,0.0,2019-10-12
 Colima,Tecomán,1,1.0,0.0,0.0,2019-10-12
 Durango,Gómez Palacio,1,1.0,0.0,0.0,2019-10-12
 Guanajuato,Acámbaro,2,1.0,1.0,0.0,2019-10-12
-Guanajuato,Apaseo el Alto,1,0.0,0.0,1.0,2019-10-12
+Guanajuato,Apaseo El Alto,1,0.0,0.0,1.0,2019-10-12
 Guanajuato,León,1,1.0,0.0,0.0,2019-10-12
 Guanajuato,Pénjamo,1,0.0,1.0,0.0,2019-10-12
 Guanajuato,Salamanca,3,3.0,0.0,0.0,2019-10-12
-Guanajuato,"San Francisco 
-del Rincón",1,1.0,0.0,0.0,2019-10-12
-Guanajuato,"Valle de 
-Santiago",1,1.0,0.0,0.0,2019-10-12
-Guerrero,"Acapulco de 
-Juárez",6,5.0,1.0,0.0,2019-10-12
+Guanajuato,San Francisco Del Rincón,1,1.0,0.0,0.0,2019-10-12
+Guanajuato,Valle De Santiago,1,1.0,0.0,0.0,2019-10-12
+Guerrero,Acapulco De Juárez,6,5.0,1.0,0.0,2019-10-12
 Guerrero,Eduardo Neri,3,1.0,0.0,2.0,2019-10-12
-Jalisco,"Tlajomulco de 
-Zúñiga",1,0.0,0.0,1.0,2019-10-12
+Jalisco,Tlajomulco De Zúñiga,1,0.0,0.0,1.0,2019-10-12
 Michoacán,Buenavista,1,1.0,0.0,0.0,2019-10-12
 Michoacán,Jacona,1,1.0,0.0,0.0,2019-10-12
 Michoacán,Morelia,2,2.0,0.0,0.0,2019-10-12
@@ -32,13 +26,9 @@ Morelos,Cuernavaca,1,1.0,0.0,0.0,2019-10-12
 Estado de México,Nezahualcóyotl,1,1.0,0.0,0.0,2019-10-12
 Estado de México,Toluca,1,1.0,0.0,0.0,2019-10-12
 Nuevo León,Monterrey,2,2.0,0.0,0.0,2019-10-12
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2019-10-12
-Oaxaca,"San Pedro 
-Mixtepec (22)",1,1.0,0.0,0.0,2019-10-12
-Puebla,"Izúcar de 
-Matamoros",1,1.0,0.0,0.0,2019-10-12
+Oaxaca,San Juan Bautista Tuxtepec,1,1.0,0.0,0.0,2019-10-12
+Oaxaca,San Pedro Mixtepec,1,1.0,0.0,0.0,2019-10-12
+Puebla,Izúcar De Matamoros,1,1.0,0.0,0.0,2019-10-12
 Puebla,Puebla,2,2.0,0.0,0.0,2019-10-12
 Quintana Roo,Benito Juárez,4,2.0,1.0,1.0,2019-10-12
 Quintana Roo,Solidaridad,1,1.0,0.0,0.0,2019-10-12

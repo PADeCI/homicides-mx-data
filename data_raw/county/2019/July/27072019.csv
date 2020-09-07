@@ -1,12 +1,10 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,4.0,3.0,0.0,1.0,2019-07-27
 Baja California Sur,Los Cabos,1.0,1.0,0.0,0.0,2019-07-27
-Chiapas,"San Cristóbal 
-de las Casas",2.0,1.0,1.0,0.0,2019-07-27
+Chiapas,San Cristóbal De Las Casas,2.0,1.0,1.0,0.0,2019-07-27
 Chihuahua,Juárez,10.0,7.0,2.0,1.0,2019-07-27
 Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-07-27
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2019-07-27
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-07-27
 Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2019-07-27
 Ciudad de México,Tláhuac,1.0,1.0,0.0,0.0,2019-07-27
 Colima,Armería,1.0,1.0,0.0,0.0,2019-07-27
@@ -15,31 +13,23 @@ Guanajuato,Celaya,2.0,2.0,0.0,0.0,2019-07-27
 Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2019-07-27
 Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2019-07-27
 Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2019-07-27
-Guanajuato,"San Luis de la 
-Paz",1.0,1.0,0.0,0.0,2019-07-27
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2019-07-27
-Guerrero,"Acapulco de 
-Juárez",3.0,3.0,0.0,0.0,2019-07-27
+Guanajuato,San Luis De La Paz,1.0,1.0,0.0,0.0,2019-07-27
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-07-27
+Guerrero,Acapulco De Juárez,3.0,3.0,0.0,0.0,2019-07-27
 Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2019-07-27
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2019-07-27
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2019-07-27
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-07-27
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-07-27
 Michoacán,Cotija,1.0,1.0,0.0,0.0,2019-07-27
 Michoacán,La Piedad,1.0,1.0,0.0,0.0,2019-07-27
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-07-27
 Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2019-07-27
 Morelos,Yautepec,2.0,1.0,1.0,0.0,2019-07-27
-Estado de México,"Nicolás 
-Romero",1.0,1.0,0.0,0.0,2019-07-27
+Estado de México,Nicolás Romero,1.0,1.0,0.0,0.0,2019-07-27
 Estado de México,Zumpango,2.0,2.0,0.0,0.0,2019-07-27
 Nayarit,Tepic,1.0,1.0,0.0,0.0,2019-07-27
 Nuevo León,García,1.0,0.0,1.0,0.0,2019-07-27
-Oaxaca,"El Barrio de la 
-Soledad",1.0,1.0,0.0,0.0,2019-07-27
-Oaxaca,"Putla Villa de 
-Guerrero",1.0,1.0,0.0,0.0,2019-07-27
+Oaxaca,El Barrio De La Soledad,1.0,1.0,0.0,0.0,2019-07-27
+Oaxaca,Putla Villa De Guerrero,1.0,1.0,0.0,0.0,2019-07-27
 Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2019-07-27
 San Luis Potosí,San Luis Potosí,1.0,0.0,0.0,1.0,2019-07-27
 Sinaloa,Culiacán,4.0,1.0,0.0,3.0,2019-07-27

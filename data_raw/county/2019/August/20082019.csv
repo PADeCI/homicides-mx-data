@@ -2,33 +2,23 @@ Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,4.0,3.0,0.0,1.0,2019-08-20
 Baja California Sur,La Paz,1.0,1.0,0.0,0.0,2019-08-20
 Chiapas,Cacahoatán,1.0,1.0,0.0,0.0,2019-08-20
-Chiapas,"Pueblo Nuevo 
-Solistahuacán",1.0,1.0,0.0,0.0,2019-08-20
+Chiapas,Pueblo Nuevo Solistahuacán,1.0,1.0,0.0,0.0,2019-08-20
 Chihuahua,Cuauhtémoc,5.0,3.0,2.0,0.0,2019-08-20
 Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2019-08-20
-Ciudad de México,"Miguel 
-Hidalgo",1.0,0.0,1.0,0.0,2019-08-20
-Ciudad de México,"Venustiano 
-Carranza",1.0,1.0,0.0,0.0,2019-08-20
+Ciudad de México,Miguel Hidalgo,1.0,0.0,1.0,0.0,2019-08-20
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2019-08-20
 Durango,Súchil,1.0,1.0,0.0,0.0,2019-08-20
 Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2019-08-20
-Guanajuato,"Apaseo el 
-Grande",1.0,1.0,0.0,0.0,2019-08-20
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2019-08-20
 Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2019-08-20
-Guanajuato,"San Francisco 
-del Rincón",1.0,1.0,0.0,0.0,2019-08-20
-Guanajuato,"San Luis de la 
-Paz",4.0,2.0,2.0,0.0,2019-08-20
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2019-08-20
-Guerrero,"Acapulco de 
-Juárez",1.0,1.0,0.0,0.0,2019-08-20
-Guerrero,Atenango del,2.0,2.0,0.0,0.0,2019-08-20
-Guerrero,Río,2.0,2.0,0.0,0.0,2019-08-20
-Jalisco,"San Pedro 
-Tlaquepaque",3.0,3.0,0.0,0.0,2019-08-20
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2019-08-20
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2019-08-20
+Guanajuato,San Luis De La Paz,4.0,2.0,2.0,0.0,2019-08-20
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-08-20
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2019-08-20
+Guerrero,Atenango Del Río,2.0,2.0,0.0,0.0,2019-08-20
+Guerrero,Rincón De Romos,2.0,2.0,0.0,0.0,2019-08-20
+Jalisco,San Pedro Tlaquepaque,3.0,3.0,0.0,0.0,2019-08-20
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-08-20
 Michoacán,Morelia,2.0,2.0,0.0,0.0,2019-08-20
 Michoacán,Uruapan,2.0,2.0,0.0,0.0,2019-08-20
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-08-20
@@ -36,20 +26,14 @@ Morelos,Cuautla,1.0,1.0,0.0,0.0,2019-08-20
 Morelos,Cuernavaca,1.0,0.0,0.0,1.0,2019-08-20
 Estado de México,Chimalhuacán,2.0,2.0,0.0,0.0,2019-08-20
 Estado de México,La Paz,4.0,0.0,1.0,3.0,2019-08-20
-Estado de México,"Nicolás 
-Romero",3.0,2.0,1.0,0.0,2019-08-20
+Estado de México,Nicolás Romero,3.0,2.0,1.0,0.0,2019-08-20
 Nayarit,Acaponeta,1.0,1.0,0.0,0.0,2019-08-20
-Nuevo León,"Gral. 
-Escobedo",3.0,3.0,0.0,0.0,2019-08-20
+Nuevo León,Escobedo,3.0,3.0,0.0,0.0,2019-08-20
 Nuevo León,Montemorelos,1.0,0.0,1.0,0.0,2019-08-20
 Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2019-08-20
-Oaxaca,"San Agustín 
-Chayuco",1.0,0.0,1.0,0.0,2019-08-20
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",2.0,2.0,0.0,0.0,2019-08-20
-Puebla,"San Felipe 
-Teotlalcingo",1.0,0.0,0.0,1.0,2019-08-20
+Oaxaca,San Agustín Chayuco,1.0,0.0,1.0,0.0,2019-08-20
+Oaxaca,San Juan Bautista Tuxtepec,2.0,2.0,0.0,0.0,2019-08-20
+Puebla,San Felipe Teotlalcingo,1.0,0.0,0.0,1.0,2019-08-20
 Puebla,Tehuacán,1.0,1.0,0.0,0.0,2019-08-20
 Puebla,Tlahuapan,1.0,1.0,0.0,0.0,2019-08-20
 Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-08-20
@@ -61,12 +45,9 @@ Sonora,Empalme,1.0,1.0,0.0,0.0,2019-08-20
 Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-08-20
 Tabasco,Comalcalco,1.0,1.0,0.0,0.0,2019-08-20
 Tamaulipas,San Fernando,2.0,2.0,0.0,0.0,2019-08-20
-Tlaxcala,"La Magdalena 
-Tlaltelulco",1.0,1.0,0.0,0.0,2019-08-20
-Tlaxcala,"Santa Ana 
-Nopalucan",1.0,0.0,0.0,1.0,2019-08-20
+Tlaxcala,La Magdalena Tlaltelulco,1.0,1.0,0.0,0.0,2019-08-20
+Tlaxcala,Santa Ana Nopalucan,1.0,0.0,0.0,1.0,2019-08-20
 Veracruz,Coatzacoalcos,1.0,0.0,0.0,1.0,2019-08-20
 Veracruz,Fortín,2.0,2.0,0.0,0.0,2019-08-20
-Veracruz,"Ixhuatlán de 
-Madero",1.0,1.0,0.0,0.0,2019-08-20
+Veracruz,Ixhuatlán De Madero,1.0,1.0,0.0,0.0,2019-08-20
 Veracruz,Tihuatlán,1.0,1.0,0.0,0.0,2019-08-20

@@ -1,8 +1,7 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tecate,1,1.0,0.0,0.0,2020-06-24
 Baja California,Tijuana,5,4.0,1.0,0.0,2020-06-24
-Chiapas,"Ocozocoautla 
-de Espinosa",2,2.0,0.0,0.0,2020-06-24
+Chiapas,Ocozocoautla De Espinosa,2,2.0,0.0,0.0,2020-06-24
 Chihuahua,Chihuahua,1,1.0,0.0,0.0,2020-06-24
 Chihuahua,Cuauhtémoc,2,2.0,0.0,0.0,2020-06-24
 Coahuila,Monclova,1,0.0,0.0,1.0,2020-06-24
@@ -11,38 +10,30 @@ Guanajuato,Abasolo,1,1.0,0.0,0.0,2020-06-24
 Guanajuato,Cortazar,1,0.0,1.0,0.0,2020-06-24
 Guanajuato,Irapuato,4,4.0,0.0,0.0,2020-06-24
 Guanajuato,Salamanca,3,2.0,0.0,1.0,2020-06-24
-Guanajuato,"San José 
-Iturbide",3,1.0,0.0,2.0,2020-06-24
+Guanajuato,San José Iturbide,3,1.0,0.0,2.0,2020-06-24
 Guanajuato,Villagrán,1,1.0,0.0,0.0,2020-06-24
-Guerrero,"Tlapa de 
-Comonfort",1,0.0,1.0,0.0,2020-06-24
-Guerrero,"Zihuatanejo de 
-Azueta",1,1.0,0.0,0.0,2020-06-24
+Guerrero,Tlapa De Comonfort,1,0.0,1.0,0.0,2020-06-24
+Guerrero,Zihuatanejo De Azueta,1,1.0,0.0,0.0,2020-06-24
 Jalisco,Guadalajara,1,1.0,0.0,0.0,2020-06-24
-Jalisco,"San Pedro 
-Tlaquepaque",2,0.0,0.0,2.0,2020-06-24
-Jalisco,"Tlajomulco de 
-Zúñiga",1,1.0,0.0,0.0,2020-06-24
+Jalisco,San Pedro Tlaquepaque,2,0.0,0.0,2.0,2020-06-24
+Jalisco,Tlajomulco De Zúñiga,1,1.0,0.0,0.0,2020-06-24
 Michoacán,Tacámbaro,2,2.0,0.0,0.0,2020-06-24
 Michoacán,Tangancícuaro,1,1.0,0.0,0.0,2020-06-24
 Michoacán,Uruapan,1,0.0,1.0,0.0,2020-06-24
 Morelos,Cuernavaca,1,0.0,0.0,1.0,2020-06-24
 Estado de México,Nezahualcóyotl,1,1.0,0.0,0.0,2020-06-24
 Estado de México,Tultitlán,1,1.0,0.0,0.0,2020-06-24
-Nuevo León,Gral. Escobedo,1,1.0,0.0,0.0,2020-06-24
-Oaxaca,"Huautla de 
-Jiménez",2,0.0,2.0,0.0,2020-06-24
+Nuevo León,Escobedo,1,1.0,0.0,0.0,2020-06-24
+Oaxaca,Huautla De Jiménez,2,0.0,2.0,0.0,2020-06-24
 Oaxaca,Loma Bonita,2,2.0,0.0,0.0,2020-06-24
 Oaxaca,Taniche,1,1.0,0.0,0.0,2020-06-24
 Puebla,Amozoc,1,1.0,0.0,0.0,2020-06-24
-Puebla,"Palmar de 
-Bravo",1,0.0,1.0,0.0,2020-06-24
+Puebla,Palmar De Bravo,1,0.0,1.0,0.0,2020-06-24
 Puebla,Puebla,1,1.0,0.0,0.0,2020-06-24
 San Luis Potosí,San Luis Potosí,1,1.0,0.0,0.0,2020-06-24
 Sinaloa,Culiacán,9,9.0,0.0,0.0,2020-06-24
 Veracruz,Agua Dulce,1,0.0,0.0,1.0,2020-06-24
-Veracruz,"Alamo 
-Temapache",2,2.0,0.0,0.0,2020-06-24
+Veracruz,Álamo Temapache,2,2.0,0.0,0.0,2020-06-24
 Veracruz,Cosoleacaque,1,1.0,0.0,0.0,2020-06-24
 Veracruz,Rafael Delgado,1,1.0,0.0,0.0,2020-06-24
 Veracruz,Tezonapa,1,1.0,0.0,0.0,2020-06-24

@@ -1,60 +1,48 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Mexicali,2.0,2.0,0.0,0.0,2020-07-20
 Baja California,Tijuana,8.0,7.0,0.0,1.0,2020-07-20
-Chiapas,"Chiapa de 
-Corzo",1.0,1.0,0.0,0.0,2020-07-20
+Chiapas,Chiapa De Corzo,1.0,1.0,0.0,0.0,2020-07-20
 Chiapas,Cintalapa,1.0,1.0,0.0,0.0,2020-07-20
 Chiapas,Pijijiapan,1.0,1.0,0.0,0.0,2020-07-20
 Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-07-20
 Coahuila,Saltillo,1.0,1.0,0.0,0.0,2020-07-20
 Coahuila,Torreón,2.0,2.0,0.0,0.0,2020-07-20
-Durango,"Vicente 
-Guerrero",1.0,1.0,0.0,0.0,2020-07-20
+Durango,Vicente Guerrero,1.0,1.0,0.0,0.0,2020-07-20
 Guanajuato,Acámbaro,2.0,0.0,0.0,2.0,2020-07-20
-Guanajuato,Apaseo el Alto,1.0,0.0,0.0,1.0,2020-07-20
+Guanajuato,Apaseo El Alto,1.0,0.0,0.0,1.0,2020-07-20
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-07-20
 Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2020-07-20
 Guanajuato,Irapuato,2.0,1.0,1.0,0.0,2020-07-20
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-07-20
 Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2020-07-20
 Guanajuato,Uriangato,1.0,1.0,0.0,0.0,2020-07-20
-Guanajuato,"Valle de 
-Santiago",1.0,0.0,1.0,0.0,2020-07-20
-Guerrero,"Acapulco de 
-Juárez",8.0,7.0,1.0,0.0,2020-07-20
-Guerrero,"Coyuca de 
-Benítez",1.0,1.0,0.0,0.0,2020-07-20
+Guanajuato,Valle De Santiago,1.0,0.0,1.0,0.0,2020-07-20
+Guerrero,Acapulco De Juárez,8.0,7.0,1.0,0.0,2020-07-20
+Guerrero,Coyuca De Benítez,1.0,1.0,0.0,0.0,2020-07-20
 Hidalgo,Huichapan,1.0,1.0,0.0,0.0,2020-07-20
-Hidalgo,"San Agustín 
-Tlaxiaca",1.0,1.0,0.0,0.0,2020-07-20
+Hidalgo,San Agustín Tlaxiaca,1.0,1.0,0.0,0.0,2020-07-20
 Jalisco,El Salto,6.0,1.0,0.0,5.0,2020-07-20
 Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2020-07-20
 Jalisco,San Pedro,1.0,1.0,0.0,0.0,2020-07-20
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,0.0,0.0,1.0,2020-07-20
-Jalisco,Tlaquepaque,1.0,1.0,0.0,0.0,2020-07-20
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,0.0,1.0,2020-07-20
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2020-07-20
 Jalisco,Tonalá,1.0,0.0,1.0,0.0,2020-07-20
 Michoacán,Aguililla,3.0,3.0,0.0,0.0,2020-07-20
 Michoacán,Los Reyes,1.0,1.0,0.0,0.0,2020-07-20
-Michoacán,"Lázaro 
-Cárdenas",1.0,1.0,0.0,0.0,2020-07-20
+Michoacán,Lázaro Cárdenas,1.0,1.0,0.0,0.0,2020-07-20
 Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-07-20
 Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-07-20
 Morelos,Cuernavaca,4.0,4.0,0.0,0.0,2020-07-20
-Morelos,"Tlaltizapán de 
-Zapata",1.0,1.0,0.0,0.0,2020-07-20
+Morelos,Tlaltizapán De Zapata,1.0,1.0,0.0,0.0,2020-07-20
 Estado de México,Acolman,1.0,1.0,0.0,0.0,2020-07-20
 Estado de México,Aculco,2.0,1.0,1.0,0.0,2020-07-20
 Estado de México,Capulhuac,1.0,1.0,0.0,0.0,2020-07-20
 Estado de México,Huehuetoca,1.0,1.0,0.0,0.0,2020-07-20
 Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2020-07-20
-Nuevo León,Gral. Escobedo,1.0,1.0,0.0,0.0,2020-07-20
-Oaxaca,"Acatlán de 
-Pérez Figueroa",1.0,1.0,0.0,0.0,2020-07-20
-Oaxaca,"San Dionisio 
-Ocotepec",1.0,1.0,0.0,0.0,2020-07-20
-Oaxaca,"Santa María 
-Mixtequilla",1.0,1.0,0.0,0.0,2020-07-20
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2020-07-20
+Oaxaca,Acatlán De Pérez Figueroa,1.0,1.0,0.0,0.0,2020-07-20
+Oaxaca,San Dionisio Ocotepec,1.0,1.0,0.0,0.0,2020-07-20
+Oaxaca,Santa María Mixtequilla,1.0,1.0,0.0,0.0,2020-07-20
 Puebla,Esperanza,2.0,0.0,2.0,0.0,2020-07-20
 Puebla,Hueytamalco,1.0,1.0,0.0,0.0,2020-07-20
 Puebla,Jalpan,1.0,1.0,0.0,0.0,2020-07-20
@@ -66,5 +54,4 @@ Tabasco,Centro,1.0,1.0,0.0,0.0,2020-07-20
 Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2020-07-20
 Veracruz,Coatzintla,2.0,2.0,0.0,0.0,2020-07-20
 Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2020-07-20
-Veracruz,"Poza Rica de 
-Hidalgo",1.0,1.0,0.0,0.0,2020-07-20
+Veracruz,Poza Rica De Hidalgo,1.0,1.0,0.0,0.0,2020-07-20

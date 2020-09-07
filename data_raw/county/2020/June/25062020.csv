@@ -6,40 +6,27 @@ Chihuahua,Juárez,4.0,1.0,2.0,1.0,2020-06-25
 Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2020-06-25
 Ciudad de México,Tláhuac,4.0,3.0,0.0,1.0,2020-06-25
 Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-06-25
-Guanajuato,"Dolores Hidalgo 
-Cuna de la 
-Independencia 
-Nacional",2.0,2.0,0.0,0.0,2020-06-25
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,2.0,2.0,0.0,0.0,2020-06-25
 Guanajuato,Irapuato,4.0,2.0,1.0,1.0,2020-06-25
 Guanajuato,León,1.0,1.0,0.0,0.0,2020-06-25
 Guanajuato,Moroleón,1.0,1.0,0.0,0.0,2020-06-25
 Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-06-25
-Guanajuato,"San Miguel de 
-Allende",1.0,1.0,0.0,0.0,2020-06-25
-Guerrero,"Acapulco de 
-Juárez",2.0,2.0,0.0,0.0,2020-06-25
-Jalisco,"Lagos de 
-Moreno",9.0,4.0,0.0,5.0,2020-06-25
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,1.0,0.0,0.0,2020-06-25
+Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2020-06-25
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2020-06-25
+Jalisco,Lagos De Moreno,9.0,4.0,0.0,5.0,2020-06-25
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2020-06-25
 Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-06-25
 Michoacán,Purépero,4.0,1.0,3.0,0.0,2020-06-25
-Michoacán,"Tangamandapi
-o",1.0,1.0,0.0,0.0,2020-06-25
+Michoacán,Tangamandapio,1.0,1.0,0.0,0.0,2020-06-25
 Estado de México,Ixtlahuaca,2.0,1.0,1.0,0.0,2020-06-25
 Estado de México,Texcoco,1.0,1.0,0.0,0.0,2020-06-25
 Nayarit,Tepic,1.0,1.0,0.0,0.0,2020-06-25
 Nayarit,Xalisco,1.0,0.0,1.0,0.0,2020-06-25
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0,2020-06-25
-Oaxaca,"Oaxaca de 
-Juárez",1.0,1.0,0.0,0.0,2020-06-25
-Oaxaca,"San Mateo del 
-Mar",2.0,0.0,0.0,2.0,2020-06-25
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2020-06-25
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2020-06-25
+Oaxaca,San Mateo Del Mar,2.0,0.0,0.0,2.0,2020-06-25
 Puebla,Puebla,1.0,1.0,0.0,0.0,2020-06-25
-Querétaro,"Ezequiel 
-Montes",1.0,1.0,0.0,0.0,2020-06-25
+Querétaro,Ezequiel Montes,1.0,1.0,0.0,0.0,2020-06-25
 San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-06-25
 Sinaloa,Culiacán,10.0,1.0,0.0,9.0,2020-06-25
 Sinaloa,Mazatlán,1.0,1.0,0.0,0.0,2020-06-25
@@ -51,6 +38,4 @@ Veracruz,Agua Dulce,1.0,1.0,0.0,0.0,2020-06-25
 Veracruz,Fortín,1.0,0.0,1.0,0.0,2020-06-25
 Veracruz,Papantla,1.0,0.0,1.0,0.0,2020-06-25
 Veracruz,Tomatlán,2.0,0.0,2.0,0.0,2020-06-25
-Zacatecas,"General 
-Francisco R. 
-Murguía",1.0,1.0,0.0,0.0,2020-06-25
+Zacatecas,General Francisco R. Murguía,1.0,1.0,0.0,0.0,2020-06-25

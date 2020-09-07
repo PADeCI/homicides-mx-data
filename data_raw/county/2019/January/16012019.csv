@@ -1,4 +1,4 @@
-Entidad,Municipio,Homicidios,Hombre,Mujer,No identificado,Fecha
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
 Baja California,Tijuana,2,,,,2019-01-16
 Chiapas,Tonalá,1,,,,2019-01-16
 Chihuahua,Cuauhtémoc,1,,,,2019-01-16
@@ -11,32 +11,27 @@ Coahuila,Torreón,1,,,,2019-01-16
 Colima,Cuauhtémoc,1,,,,2019-01-16
 Colima,Manzanillo,1,,,,2019-01-16
 Estado de México,Chalco,2,,,,2019-01-16
-Estado de México,Ecatepec de Morelos,1,,,,2019-01-16
-Estado de México,"Valle de Chalco 
-Solidaridad",1,,,,2019-01-16
+Estado de México,Ecatepec De Morelos,1,,,,2019-01-16
+Estado de México,Valle De Chalco Solidaridad,1,,,,2019-01-16
 Guanajuato,Irapuato,2,,,,2019-01-16
-Guanajuato,Jaral del Progreso,1,,,,2019-01-16
+Guanajuato,Jaral Del Progreso,1,,,,2019-01-16
 Guanajuato,Salamanca,2,,,,2019-01-16
-Guanajuato,"San Miguel de 
-Allende",1,,,,2019-01-16
+Guanajuato,San Miguel De Allende,1,,,,2019-01-16
 Guanajuato,Tarimoro,2,,,,2019-01-16
 Guanajuato,Yuriria,2,,,,2019-01-16
-Guerrero,Acapulco de Juárez,3,,,,2019-01-16
-Guerrero,"Chilpancingo de los 
-Bravo",2,,,,2019-01-16
+Guerrero,Acapulco De Juárez,3,,,,2019-01-16
+Guerrero,Chilpancingo De Los Bravo,2,,,,2019-01-16
 Guerrero,Eduardo Neri,1,,,,2019-01-16
 Jalisco,Guadalajara,1,,,,2019-01-16
-Jalisco,"San Pedro 
-Tlaquepaque",1,,,,2019-01-16
-Jalisco,Tlajomulco de Zúñiga,1,,,,2019-01-16
+Jalisco,San Pedro Tlaquepaque,1,,,,2019-01-16
+Jalisco,Tlajomulco De Zúñiga,1,,,,2019-01-16
 Michoacán,Tzitzio,1,,,,2019-01-16
 Michoacán,Uruapan,1,,,,2019-01-16
 Morelos,Cuernavaca,2,,,,2019-01-16
 Morelos,Temixco,2,,,,2019-01-16
 Morelos,Xochitepec,1,,,,2019-01-16
 Nuevo León,Monterrey,2,,,,2019-01-16
-Oaxaca,"Heroica Ciudad de 
-Juchitán de Zaragoza",1,,,,2019-01-16
+Oaxaca,Zaragoza,1,,,,2019-01-16
 Oaxaca,Salina Cruz,1,,,,2019-01-16
 Puebla,Atlixco,1,,,,2019-01-16
 Puebla,Tecamachalco,1,,,,2019-01-16
@@ -44,15 +39,14 @@ Puebla,Tehuacán,1,,,,2019-01-16
 Quintana Roo,Benito Juárez,1,,,,2019-01-16
 Quintana Roo,Tulum,1,,,,2019-01-16
 San Luis Potosí,San Luis Potosí,1,,,,2019-01-16
-San Luis Potosí,"Soledad de Graciano 
-Sánchez",1,,,,2019-01-16
+San Luis Potosí,Soledad De Graciano Sánchez,1,,,,2019-01-16
 Sinaloa,Culiacán,2,,,,2019-01-16
 Sonora,Hermosillo,1,,,,2019-01-16
 Tabasco,Cunduacán,1,,,,2019-01-16
 Tamaulipas,Miguel Alemán,6,,,,2019-01-16
 Tamaulipas,Reynosa,1,,,,2019-01-16
-Tlaxcala,Tetla de la Solidaridad,1,,,,2019-01-16
+Tlaxcala,Tetla De La Solidaridad,1,,,,2019-01-16
 Tlaxcala,Yauhquemehcan,1,,,,2019-01-16
 Veracruz,Fortín,2,,,,2019-01-16
-Veracruz,Martínez de la Torre,1,,,,2019-01-16
+Veracruz,Martínez De La Torre,1,,,,2019-01-16
 Veracruz,Tecolutla,1,,,,2019-01-16

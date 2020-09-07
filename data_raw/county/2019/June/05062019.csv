@@ -11,18 +11,15 @@ Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2019-06-05
 Ciudad de México,Milpa Alta,1.0,1.0,0.0,0.0,2019-06-05
 Colima,Comala,1.0,1.0,0.0,0.0,2019-06-05
 Colima,Tecomán,2.0,2.0,0.0,0.0,2019-06-05
-Durango,Gomez Palacios,1.0,1.0,0.0,0.0,2019-06-05
+Durango,Gómez Palacio,1.0,1.0,0.0,0.0,2019-06-05
 Guanajuato,Abasolo,1.0,1.0,0.0,0.0,2019-06-05
 Guanajuato,Acámbaro,2.0,2.0,0.0,0.0,2019-06-05
 Guanajuato,León,2.0,2.0,0.0,0.0,2019-06-05
 Guanajuato,Pénjamo,2.0,2.0,0.0,0.0,2019-06-05
 Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2019-06-05
-Guanajuato,"Valle de 
-Santiago",1.0,1.0,0.0,0.0,2019-06-05
-Guerrero,"Acapulco de 
-Juárez",1.0,0.0,1.0,0.0,2019-06-05
-Guerrero,"Iguala de la 
-Independencia",1.0,0.0,0.0,1.0,2019-06-05
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2019-06-05
+Guerrero,Acapulco De Juárez,1.0,0.0,1.0,0.0,2019-06-05
+Guerrero,Iguala De La Independencia,1.0,0.0,0.0,1.0,2019-06-05
 Guerrero,Marquelia,3.0,3.0,0.0,0.0,2019-06-05
 Guerrero,Ometepec,1.0,1.0,0.0,0.0,2019-06-05
 Guerrero,Petatlán,1.0,1.0,0.0,0.0,2019-06-05
@@ -32,21 +29,15 @@ Jalisco,Teocaltiche,1.0,1.0,0.0,0.0,2019-06-05
 Michoacán,Morelia,1.0,1.0,0.0,0.0,2019-06-05
 Morelos,Cuernavaca,2.0,2.0,0.0,0.0,2019-06-05
 Morelos,Zacatepec,1.0,1.0,0.0,0.0,2019-06-05
-Estado de México,"Tlalnepantla de 
-Baz",1.0,1.0,0.0,0.0,2019-06-05
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2019-06-05
 Estado de México,Villa Victoria,1.0,1.0,0.0,0.0,2019-06-05
 Nayarit,Huajicori,1.0,1.0,0.0,0.0,2019-06-05
-Nuevo León,"Cadereyta 
-Jiménez",1.0,0.0,1.0,0.0,2019-06-05
+Nuevo León,Cadereyta Jiménez,1.0,0.0,1.0,0.0,2019-06-05
 Nuevo León,Juárez,2.0,2.0,0.0,0.0,2019-06-05
 Nuevo León,Monterrey,1.0,0.0,0.0,1.0,2019-06-05
-Oaxaca,"Heroica Ciudad 
-de Huajuapan 
-de León",2.0,2.0,0.0,0.0,2019-06-05
-Oaxaca,"San Jerónimo 
-Tlacochahuaya",1.0,1.0,0.0,0.0,2019-06-05
-Oaxaca,"San Juan 
-Mixtepec",2.0,1.0,1.0,0.0,2019-06-05
+Oaxaca,Heroica Ciudad De Huajuapan De León,2.0,2.0,0.0,0.0,2019-06-05
+Oaxaca,San Jerónimo Tlacochahuaya,1.0,1.0,0.0,0.0,2019-06-05
+Oaxaca,San Juan Mixtepec,2.0,1.0,1.0,0.0,2019-06-05
 San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2019-06-05
 Puebla,Puebla,1.0,1.0,0.0,0.0,2019-06-05
 Quintana Roo,Bacalar,1.0,1.0,0.0,0.0,2019-06-05

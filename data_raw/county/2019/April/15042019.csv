@@ -6,39 +6,28 @@ Chihuahua,Bocoyna,1,0.0,1.0,0.0,2019-04-15
 Chihuahua,Guerrero,1,1.0,0.0,0.0,2019-04-15
 Chihuahua,Juárez,7,6.0,1.0,0.0,2019-04-15
 Ciudad de México,Azcapotzalco,2,1.0,1.0,0.0,2019-04-15
-Ciudad de México,"Gustavo A. 
-Madero",1,1.0,0.0,0.0,2019-04-15
+Ciudad de México,Gustavo A. Madero,1,1.0,0.0,0.0,2019-04-15
 Ciudad de México,Tláhuac,2,2.0,0.0,0.0,2019-04-15
 Ciudad de México,Álvaro Obregón,2,2.0,0.0,0.0,2019-04-15
 Colima,Manzanillo,1,1.0,0.0,0.0,2019-04-15
 Guanajuato,Celaya,1,1.0,0.0,0.0,2019-04-15
 Guanajuato,Irapuato,2,2.0,0.0,0.0,2019-04-15
 Guanajuato,Pénjamo,3,2.0,1.0,0.0,2019-04-15
-Guanajuato,"Valle de 
-Santiago",1,0.0,1.0,0.0,2019-04-15
-Guerrero,"Chilpancingo de 
-los Bravo",1,0.0,0.0,1.0,2019-04-15
-Guerrero,"Coyuca de 
-Benítez",1,1.0,0.0,0.0,2019-04-15
-Guerrero,"Huitzuco de los 
-Figueroa",1,1.0,0.0,0.0,2019-04-15
+Guanajuato,Valle De Santiago,1,0.0,1.0,0.0,2019-04-15
+Guerrero,Chilpancingo De Los Bravo,1,0.0,0.0,1.0,2019-04-15
+Guerrero,Coyuca De Benítez,1,1.0,0.0,0.0,2019-04-15
+Guerrero,Huitzuco De Los Figueroa,1,1.0,0.0,0.0,2019-04-15
 Guerrero,Tetipac,1,1.0,0.0,0.0,2019-04-15
-Hidalgo,"Cuautepec de 
-Hinojosa",1,1.0,0.0,0.0,2019-04-15
-Hidalgo,"Pachuca de 
-Soto",1,0.0,1.0,0.0,2019-04-15
+Hidalgo,Cuautepec De Hinojosa,1,1.0,0.0,0.0,2019-04-15
+Hidalgo,Pachuca De Soto,1,0.0,1.0,0.0,2019-04-15
 Jalisco,Guadalajara,2,2.0,0.0,0.0,2019-04-15
-Jalisco,"Lagos de 
-Moreno",1,1.0,0.0,0.0,2019-04-15
-Jalisco,"San Pedro 
-Tlaquepaque",1,1.0,0.0,0.0,2019-04-15
-Jalisco,"Tlajomulco de 
-Zúñiga",3,3.0,0.0,0.0,2019-04-15
+Jalisco,Lagos De Moreno,1,1.0,0.0,0.0,2019-04-15
+Jalisco,San Pedro Tlaquepaque,1,1.0,0.0,0.0,2019-04-15
+Jalisco,Tlajomulco De Zúñiga,3,3.0,0.0,0.0,2019-04-15
 Jalisco,Tonalá,1,1.0,0.0,0.0,2019-04-15
 Jalisco,Zapopan,1,0.0,0.0,1.0,2019-04-15
 Michoacán,Cuitzeo,2,2.0,0.0,0.0,2019-04-15
-Michoacán,"Lázaro 
-Cárdenas",1,1.0,0.0,0.0,2019-04-15
+Michoacán,Lázaro Cárdenas,1,1.0,0.0,0.0,2019-04-15
 Michoacán,Morelia,1,1.0,0.0,0.0,2019-04-15
 Michoacán,Quiroga,1,1.0,0.0,0.0,2019-04-15
 Michoacán,Tarímbaro,3,3.0,0.0,0.0,2019-04-15
@@ -46,18 +35,13 @@ Michoacán,Zamora,1,1.0,0.0,0.0,2019-04-15
 Morelos,Cuautla,1,1.0,0.0,0.0,2019-04-15
 Morelos,Cuernavaca,2,1.0,0.0,1.0,2019-04-15
 Morelos,Miacatlán,2,2.0,0.0,0.0,2019-04-15
-Morelos,Puente de Ixtla,1,1.0,0.0,0.0,2019-04-15
-Estado de México,"Ecatepec de 
-Morelos",1,1.0,0.0,0.0,2019-04-15
+Morelos,Puente De Ixtla,1,1.0,0.0,0.0,2019-04-15
+Estado de México,Ecatepec De Morelos,1,1.0,0.0,0.0,2019-04-15
 Estado de México,La Paz,1,1.0,0.0,0.0,2019-04-15
 Estado de México,Nezahualcóyotl,1,1.0,0.0,0.0,2019-04-15
-Oaxaca,"San Juan 
-Bautista 
-Tuxtepec",1,1.0,0.0,0.0,2019-04-15
-Oaxaca,"San Lorenzo 
-Cacaotepec",1,0.0,1.0,0.0,2019-04-15
-Oaxaca,"Santa María 
-Huatulco",1,1.0,0.0,0.0,2019-04-15
+Oaxaca,San Juan Bautista Tuxtepec,1,1.0,0.0,0.0,2019-04-15
+Oaxaca,San Lorenzo Cacaotepec,1,0.0,1.0,0.0,2019-04-15
+Oaxaca,Santa María Huatulco,1,1.0,0.0,0.0,2019-04-15
 Puebla,Huaquechula,1,1.0,0.0,0.0,2019-04-15
 Puebla,Puebla,3,3.0,0.0,0.0,2019-04-15
 Puebla,San José Chiapa,1,1.0,0.0,0.0,2019-04-15

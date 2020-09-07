@@ -5,8 +5,7 @@ Chiapas,Tapachula,1.0,0.0,0.0,1.0,2019-12-10
 Chihuahua,Chihuahua,1.0,0.0,1.0,0.0,2019-12-10
 Chihuahua,Juárez,3.0,3.0,0.0,0.0,2019-12-10
 Chihuahua,López,1.0,1.0,0.0,0.0,2019-12-10
-Ciudad de México,"Gustavo A. 
-Madero",1.0,1.0,0.0,0.0,2019-12-10
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2019-12-10
 Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2019-12-10
 Colima,Manzanillo,2.0,1.0,1.0,0.0,2019-12-10
 Durango,Durango,1.0,1.0,0.0,0.0,2019-12-10
@@ -16,45 +15,29 @@ Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2019-12-10
 Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2019-12-10
 Guanajuato,León,1.0,1.0,0.0,0.0,2019-12-10
 Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2019-12-10
-Guanajuato,"San Francisco 
-del Rincón",1.0,0.0,1.0,0.0,2019-12-10
+Guanajuato,San Francisco Del Rincón,1.0,0.0,1.0,0.0,2019-12-10
 Guanajuato,Yuriria,1.0,1.0,0.0,0.0,2019-12-10
-Guerrero,"Acapulco de 
-Juárez",7.0,5.0,2.0,0.0,2019-12-10
-Guerrero,"Chilpancingo 
-de los Bravo",2.0,2.0,0.0,0.0,2019-12-10
-Guerrero,"Zihuatanejo de 
-Azueta",1.0,0.0,1.0,0.0,2019-12-10
-Hidalgo,"San Agustín 
-Tlaxiaca",2.0,0.0,0.0,2.0,2019-12-10
-Jalisco,"San Pedro 
-Tlaquepaque",1.0,1.0,0.0,0.0,2019-12-10
-Jalisco,"Tlajomulco de 
-Zúñiga",1.0,0.0,1.0,0.0,2019-12-10
+Guerrero,Acapulco De Juárez,7.0,5.0,2.0,0.0,2019-12-10
+Guerrero,Chilpancingo De Los Bravo,2.0,2.0,0.0,0.0,2019-12-10
+Guerrero,Zihuatanejo De Azueta,1.0,0.0,1.0,0.0,2019-12-10
+Hidalgo,San Agustín Tlaxiaca,2.0,0.0,0.0,2.0,2019-12-10
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-12-10
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,1.0,0.0,2019-12-10
 Jalisco,Zapopan,1.0,0.0,0.0,1.0,2019-12-10
 Michoacán,Morelia,2.0,2.0,0.0,0.0,2019-12-10
 Michoacán,Paracho,1.0,1.0,0.0,0.0,2019-12-10
 Michoacán,Uruapan,2.0,2.0,0.0,0.0,2019-12-10
 Morelos,Cuernavaca,1.0,0.0,1.0,0.0,2019-12-10
 Estado de México,Metepec,1.0,1.0,0.0,0.0,2019-12-10
-Estado de México,"Nezahualcóyot
-l",1.0,1.0,0.0,0.0,2019-12-10
-Estado de México,"Tlalnepantla 
-de Baz",1.0,1.0,0.0,0.0,2019-12-10
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2019-12-10
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2019-12-10
 Estado de México,Toluca,1.0,0.0,1.0,0.0,2019-12-10
-Nuevo León,Gral. Zuazua,1.0,0.0,0.0,1.0,2019-12-10
-Oaxaca,"Heroica Ciudad 
-de Juchitán de 
-Zaragoza",1.0,1.0,0.0,0.0,2019-12-10
-Oaxaca,"Santiago 
-Pinotepa 
-Nacional",1.0,1.0,0.0,0.0,2019-12-10
-Oaxaca,"Santo 
-Domingo 
-Zanatepec",1.0,1.0,0.0,0.0,2019-12-10
+Nuevo León,General Zuazua,1.0,0.0,0.0,1.0,2019-12-10
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2019-12-10
+Oaxaca,Santiago Pinotepa Nacional,1.0,1.0,0.0,0.0,2019-12-10
+Oaxaca,Santo Domingo Zanatepec,1.0,1.0,0.0,0.0,2019-12-10
 Puebla,Acatzingo,1.0,1.0,0.0,0.0,2019-12-10
-Querétaro,"San Juan del 
-Río",1.0,1.0,0.0,0.0,2019-12-10
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2019-12-10
 Quintana Roo,Benito Juárez,2.0,1.0,0.0,1.0,2019-12-10
 Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2019-12-10
 Sonora,Cajeme,1.0,1.0,0.0,0.0,2019-12-10
