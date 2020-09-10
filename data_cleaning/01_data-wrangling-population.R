@@ -26,7 +26,7 @@ rm(list = ls())
 ##            1. Load data                                                 ####
 #-----------------------------------------------------------------------------#
 # Population data
-load("~/GitHub/homicides-mx-data/data_raw/df_pop_county_2019_2020.Rdata")
+load("data_raw/df_pop_county_2019_2020.Rdata")
 
 # Homicide data
 df_homicides <- read_csv("data_raw/county/2019_2020/df_homicides_daily_fuentesabiertas.csv")
