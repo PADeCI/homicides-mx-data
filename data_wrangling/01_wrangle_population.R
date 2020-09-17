@@ -3,7 +3,7 @@
 #              Homicide data 2019-2020 at municipal level                     ##
 #                                                                             ##
 #    Goal: Add population data                                                ##
-#    Authors: Regina Isabel Medina and Mariana Fernández                      ##
+#    Authors: Regina Isabel Medina and Mariana Consuelo Fernandez Espinosa    ##
 #    Date: September 7th, 2020                                                ##
 #                                                                             ##
 ################################################################################
@@ -46,7 +46,6 @@ df_pop <- df_pop_county_2019_2020 %>%
 df_homicides_county <- df_homicides  %>% 
         mutate(Año = year(as.Date(Fecha))) %>% 
         left_join(df_pop, by = c("Entidad", "Municipio", "Año"))
-
 # Estimate mortality rates 
 df_homicides_county_daily <- df_homicides_county %>% 
         # Estimate number of homicides per 100,000 people
@@ -62,31 +61,33 @@ df_homicides_county_daily <- df_homicides_county %>%
         
         #View(df_homicides_county_daily)
 
+# Rename for consistency with county data #
+# Convert into lower case
+df_homicides_county_daily <- df_homicides_county_daily %>% 
+        rename("entidad" = Entidad, "municipio" = Municipio, "county" = County, 
+                "fecha" = Fecha, "homicidios" = Homicidios, "hombre" = Hombre, 
+                "mujer" = Mujer, "no_identificado" = No.Identificado)
 
 #-----------------------------------------------------------------------------#
 ##            3. Check consistency of data                                 ####
 #-----------------------------------------------------------------------------#
-# Population 
-df_pop
-df_homicides_county_daily
-
 # Homicides
 # Total homicides
 sum(df_homicides$Homicidios)
-sum(df_homicides_county_daily$Homicidios)
+sum(df_homicides_county_daily$homicidios)
 
 # Men 
 sum(df_homicides$Hombre, na.rm = T)
-sum(df_homicides_county_daily$Hombre, na.rm = T)
+sum(df_homicides_county_daily$hombre, na.rm = T)
 
 
 # Women 
 sum(df_homicides$Mujer, na.rm = T)
-sum(df_homicides_county_daily$Mujer, na.rm = T)
+sum(df_homicides_county_daily$mujer, na.rm = T)
 
 # Non-identified 
 sum(df_homicides$No.Identificado, na.rm = T)
-sum(df_homicides_county_daily$No.Identificado, na.rm = T)
+sum(df_homicides_county_daily$no_identificado, na.rm = T)
 
 
 #-----------------------------------------------------------------------------#
@@ -96,6 +97,6 @@ sum(df_homicides_county_daily$No.Identificado, na.rm = T)
 df_homicides_fuentesabiertas_county_day <- df_homicides_county_daily
 
 # Save df
-save(df_homicides_fuentesabiertas_county_day, file = "data/df_homicides_fuentesabiertas_county_day.RData")
+save(df_homicides_fuentesabiertas_county_day, file = "data/county/df_homicides_fuentesabiertas_county_day.RData")
 
 

@@ -2,7 +2,7 @@
 #                                                                             ##
 #              Homicide data 2019-2020 at municipal level                     ##
 #                                                                             ##
-#    Goal: Check consistency in data frames create weekly and monthly         ##
+#    Goal: Create weekly and monthly data frames for state and county level   ##
 #    Authors: Regina Isabel Medina and Mariana Fernández                      ##
 #    Date: September 7th, 2020                                                ##
 #                                                                             ##
@@ -24,72 +24,139 @@ rm(list = ls())
 #-----------------------------------------------------------------------------#
 ##            1. Load data                                                 ####
 #-----------------------------------------------------------------------------#
-# Homicide data with population 
-load("~/GitHub/homicides-mx-data/data/df_homicides_fuentesabiertas_county_day.Rdata")
+# Homicide data with population at county level 
+load("~/GitHub/homicides-mx-data/data/county/df_homicides_fuentesabiertas_county_day.Rdata")
+
+# Homicide data with population at state level 
+load("~/GitHub/homicides-mx-data/data/state/df_homicidios_estado_fuentesabiertas_poblacion.RData")
+
 
 #-----------------------------------------------------------------------------#
-##            2. Create new df on time frames                              ####
+##            2. Create new df for each time unit                          ####
 #-----------------------------------------------------------------------------#
-# Create time variables
-df_homicides_fuentesabiertas_county_day <- df_homicides_fuentesabiertas_county_day %>% 
-        mutate("Año" = year(Fecha), "Year" = year(Fecha),
-                "Mes" = month(Fecha), "Month" = month(Fecha), 
-                "Semana" = isoweek(Fecha), "Week"= isoweek(Fecha)) 
-
-# Rename for simplicity 
-df_dates <- df_homicides_fuentesabiertas_county_day        
-
+## 2.1 COUNTY LEVEL ####
+# Create time variables and rename df for simplicity 
+df_dates_county <- df_homicides_fuentesabiertas_county_day %>% 
+        mutate("año" = year(fecha), "year" = year(fecha),
+                "mes" = month(fecha), "month" = month(fecha), 
+                "semana" = isoweek(fecha), "week"= isoweek(fecha)) 
 ## Monthly ##
-df_month <- df_dates %>%
-        group_by(Entidad, Municipio, County, Year, Año, Month, Mes) %>% 
-        summarise("Homicidios" = sum(Homicidios, na.rm = T), 
-                  "Hombre"     = sum(Hombre, na.rm = T), 
-                  "Mujer"      = sum(Mujer, na.rm = T), 
-                  "No.Identificado" = sum(No.Identificado, na.rm = T)) 
+df_month_county <- df_dates_county %>%
+        group_by(entidad, municipio, county, year, año, month, mes) %>% 
+        summarise("homicidios" = sum(homicidios, na.rm = T), 
+                  "hombre"     = sum(hombre, na.rm = T), 
+                  "mujer"      = sum(mujer, na.rm = T), 
+                  "no_identificado" = sum(no_identificado, na.rm = T)) 
 ## Weekly ##
-df_week <- df_dates %>% 
-        group_by(Entidad, Municipio, Year, Año, Month, Mes, Week, Semana) %>% 
-        summarise("Homicidios" = sum(Homicidios, na.rm = T), 
-                  "Hombre"     = sum(Hombre, na.rm = T), 
-                  "Mujer"      = sum(Mujer, na.rm = T),
-                  "No.Identificado" = sum(No.Identificado, na.rm = T)) 
+df_week_county <- df_dates_county %>% 
+        group_by(entidad, municipio, year, año, month, mes, week, semana) %>% 
+        summarise("homicidios" = sum(homicidios, na.rm = T), 
+                  "hombre"     = sum(hombre, na.rm = T), 
+                  "mujer"      = sum(mujer, na.rm = T),
+                  "no_identificado" = sum(no_identificado, na.rm = T))
 
-          
+
+## 2.2 STATE LEVEL ####          
+# Create time variables and rename df for simplicity 
+df_dates_state <- df_homicidios_estado_fuentesabiertas_poblacion %>% 
+        mutate("año" = year(fecha), "year" = year(fecha),
+                "mes" = month(fecha), "month" = month(fecha), 
+                "semana" = isoweek(fecha), "week"= isoweek(fecha)) 
+
+## Monthly ## 
+df_month_state <- df_dates_state %>% 
+        group_by(entidad, state, year, año, mes, month) %>% 
+        summarise("homicidios" = sum(homicidios, na.rm = T), 
+                "hombre"     = sum(hombre, na.rm = T), 
+                "mujer"      = sum(mujer, na.rm = T), 
+                "no_identificado" = sum(no_identificado, na.rm = T)) 
+
+## Weekly ##
+df_week_state <- df_dates_state %>% 
+        group_by(entidad, state, year, año, month, mes, week, semana) %>% 
+        summarise("homicidios" = sum(homicidios, na.rm = T), 
+                "hombre"     = sum(hombre, na.rm = T), 
+                "mujer"      = sum(mujer, na.rm = T),
+                "no_identificado" = sum(no_identificado, na.rm = T))
+        
 
 #-----------------------------------------------------------------------------#
 ##            3. Check consistency of data                                 ####
 #-----------------------------------------------------------------------------#
-# Total homicides
-sum(df_homicides_county_daily$Homicidios)
-sum(df_month$Homicidios)
-sum(df_week$Homicidios)
-        
-# Men 
-sum(df_homicides_county_daily$Hombre, na.rm = T)
-sum(df_month$Hombre)
-sum(df_week$Hombre)
+# Total homicides: 48,343 in all 8 data frames 
+# County level
+sum(df_homicides_fuentesabiertas_county_day$homicidios)
+sum(df_dates_county$homicidios)
+sum(df_month_county$homicidios)
+sum(df_week_county$homicidios)
+ 
+# State level
+sum(df_homicidios_estado_fuentesabiertas_poblacion$homicidios)
+sum(df_dates_state$homicidios)
+sum(df_week_state$homicidios)
+sum(df_month_state$homicidios)
+       
 
-# Women 
-sum(df_homicides_county_daily$Mujer, na.rm = T)
-sum(df_month$Mujer)
-sum(df_week$Mujer)
+# Men: 35,377 in all 8 data frames 
+# County level 
+sum(df_homicides_fuentesabiertas_county_day$hombre, na.rm = T)
+sum(df_dates_county$hombre, na.rm = T)
+sum(df_month_county$hombre)
+sum(df_week_county$hombre)
 
-# Non identified
-sum(df_homicides_county_daily$No.Identificado, na.rm = T)
-sum(df_month$No.Identificado)
-sum(df_week$No.Identificado)
+# State level 
+sum(df_homicidios_estado_fuentesabiertas_poblacion$hombre, na.rm = T)
+sum(df_dates_state$hombre, na.rm = T)
+sum(df_week_state$hombre)
+sum(df_month_state$hombre)
 
+
+# Women: 4,915 in all 8 data frames  
+# County level 
+sum(df_homicides_fuentesabiertas_county_day$mujer, na.rm = T)
+sum(df_dates_county$mujer, na.rm = T)
+sum(df_month_county$mujer)
+sum(df_week_county$mujer)
+
+# State level 
+sum(df_homicidios_estado_fuentesabiertas_poblacion$mujer, na.rm = T)
+sum(df_dates_state$mujer, na.rm = T)
+sum(df_week_state$mujer)
+sum(df_month_state$mujer)
+
+
+# Non identified gender: 5,777 in all 8 data frames 
+# County level
+sum(df_homicides_fuentesabiertas_county_day$no_identificado, na.rm = T)
+sum(df_dates_county$no_identificado)
+sum(df_month_county$no_identificado)
+sum(df_week_county$no_identificado)
+
+# State level
+sum(df_homicidios_estado_fuentesabiertas_poblacion$no_identificado, na.rm = T)
+sum(df_dates_state$no_identificado, na.rm = T)
+sum(df_week_state$no_identificado)
+sum(df_month_state$no_identificado)
 
 #-----------------------------------------------------------------------------#
 ##            4. Save data                                                 ####
 #-----------------------------------------------------------------------------#
-# Rename data 
-df_homicides_fuentesabiertas_county_day <- df_dates
-df_homicides_fuentesabiertas_county_week <- df_week
-df_homicides_fuentesabiertas_county_month <- df_month
+## Rename data ##
+df_homicides_fuentesabiertas_county_day <- df_dates_county
+df_homicides_fuentesabiertas_county_week <- df_week_county
+df_homicides_fuentesabiertas_county_month <- df_month_county
 
-# Save data
-save(df_homicides_fuentesabiertas_county_day, file = "data/df_homicides_fuentesabiertas_county_day.RData")
-save(df_homicides_fuentesabiertas_county_week, file = "data/df_homicides_fuentesabiertas_county_week.RData")
-save(df_homicides_fuentesabiertas_county_month, file = "data/df_homicides_fuentesabiertas_county_month.RData")
+df_homicides_fuentesabiertas_state_day <- df_dates_state
+df_homicides_fuentesabiertas_state_week <- df_week_state
+df_homicides_fuentesabiertas_state_month <- df_month_state
 
+## Save data ##
+# County level 
+save(df_homicides_fuentesabiertas_county_day, file = "data/county/df_homicides_fuentesabiertas_county_day.RData")
+save(df_homicides_fuentesabiertas_county_week, file = "data/county/df_homicides_fuentesabiertas_county_week.RData")
+save(df_homicides_fuentesabiertas_county_month, file = "data/county/df_homicides_fuentesabiertas_county_month.RData")
+
+# Sate level 
+save(df_homicides_fuentesabiertas_county_day, file = "data/state/df_homicides_fuentesabiertas_county_day.RData")
+save(df_homicides_fuentesabiertas_county_week, file = "data/state/df_homicides_fuentesabiertas_county_week.RData")
+save(df_homicides_fuentesabiertas_county_month, file = "data/state/df_homicides_fuentesabiertas_county_month.RData")
