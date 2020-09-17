@@ -25,10 +25,10 @@ rm(list = ls())
 ##            1. Load data                                                 ####
 #-----------------------------------------------------------------------------#
 # Homicide data with population at county level 
-load("~/GitHub/homicides-mx-data/data/county/df_homicides_fuentesabiertas_county_day.Rdata")
+load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_fuentesabiertas_county_day.Rdata")
 
 # Homicide data with population at state level 
-load("~/GitHub/homicides-mx-data/data/state/df_homicidios_estado_fuentesabiertas_poblacion.RData")
+load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_daily_population_sspc_fuentesabiertas.RData")
 
 
 #-----------------------------------------------------------------------------#
@@ -128,7 +128,7 @@ sum(df_month_state$mujer)
 # Non identified gender: 5,777 in all 8 data frames 
 # County level
 sum(df_homicides_fuentesabiertas_county_day$no_identificado, na.rm = T)
-sum(df_dates_county$no_identificado)
+sum(df_dates_county$no_identificado, na.rm = T)
 sum(df_month_county$no_identificado)
 sum(df_week_county$no_identificado)
 
@@ -142,21 +142,22 @@ sum(df_month_state$no_identificado)
 ##            4. Save data                                                 ####
 #-----------------------------------------------------------------------------#
 ## Rename data ##
-df_homicides_fuentesabiertas_county_day <- df_dates_county
-df_homicides_fuentesabiertas_county_week <- df_week_county
-df_homicides_fuentesabiertas_county_month <- df_month_county
+df_homicides_county_daily_sspc_fuentesabiertas <- df_dates_county
+df_homicides_county_weekly_sspc_fuentesabiertas <- df_week_county
+df_homicides_county_monthly_sspc_fuentesabiertas <- df_month_county
 
-df_homicides_fuentesabiertas_state_day <- df_dates_state
-df_homicides_fuentesabiertas_state_week <- df_week_state
-df_homicides_fuentesabiertas_state_month <- df_month_state
+df_homicides_state_daily_sspc_fuentesabiertas <- df_dates_state
+df_homicides_state_weekly_sspc_fuentesabiertas <- df_week_state
+df_homicides_state_monthly_sspc_fuentesabiertas <- df_month_state
+
 
 ## Save data ##
 # County level 
-save(df_homicides_fuentesabiertas_county_day, file = "data/county/df_homicides_fuentesabiertas_county_day.RData")
-save(df_homicides_fuentesabiertas_county_week, file = "data/county/df_homicides_fuentesabiertas_county_week.RData")
-save(df_homicides_fuentesabiertas_county_month, file = "data/county/df_homicides_fuentesabiertas_county_month.RData")
+save(df_homicides_county_daily_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
+save(df_homicides_county_weekly_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_county_weekly_sspc_fuentesabiertas.RData")
+save(df_homicides_county_monthly_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_county_monthly_sspc_fuentesabiertas.RData")
 
 # Sate level 
-save(df_homicides_fuentesabiertas_county_day, file = "data/state/df_homicides_fuentesabiertas_county_day.RData")
-save(df_homicides_fuentesabiertas_county_week, file = "data/state/df_homicides_fuentesabiertas_county_week.RData")
-save(df_homicides_fuentesabiertas_county_month, file = "data/state/df_homicides_fuentesabiertas_county_month.RData")
+save(df_homicides_state_daily_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
+save(df_homicides_state_weekly_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_state_weekly_sspc_fuentesabiertas.RData")
+save(df_homicides_state_monthly_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_county_monthly_sspc_fuentesabiertas.RData")
