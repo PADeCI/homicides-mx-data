@@ -153,11 +153,12 @@ df_homicides_state_monthly_sspc_fuentesabiertas <- df_month_state
 
 ## Save data ##
 # County level 
-save(df_homicides_county_daily_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
-save(df_homicides_county_weekly_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_county_weekly_sspc_fuentesabiertas.RData")
-save(df_homicides_county_monthly_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_county_monthly_sspc_fuentesabiertas.RData")
+save(df_homicides_county_daily_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
+save(df_homicides_county_weekly_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_weekly_sspc_fuentesabiertas.RData")
+save(df_homicides_county_monthly_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_monthly_sspc_fuentesabiertas.RData")
 
 # Sate level 
-save(df_homicides_state_daily_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
-save(df_homicides_state_weekly_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_state_weekly_sspc_fuentesabiertas.RData")
-save(df_homicides_state_monthly_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_county_monthly_sspc_fuentesabiertas.RData")
+save(df_homicides_state_daily_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
+save(df_homicides_state_weekly_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_weekly_sspc_fuentesabiertas.RData")
+save(df_homicides_state_monthly_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_monthly_sspc_fuentesabiertas.RData")
+
