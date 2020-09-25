@@ -39,78 +39,83 @@ df_homicides_open <- read.csv("data_raw/fuentes_abiertas/2019_2020/df_homicides_
 #-----------------------------------------------------------------------------#
 ##            2. Data wrangling                                            ####
 #-----------------------------------------------------------------------------#
+#### 2.1 POPULATION ####
 # Change variable names for compatibility, eliminate non-identified counties 
 # and make Oaxaca Regions a single category named "Oaxaca"
 df_pop <- df_pop_county_2019_2020                               %>%
-        filter(entidad != is.na(entidad))                       %>% 
-        rename(Entidad    = entidad, 
-                Municipio = county_name_esp, 
-                County    = county_name_eng, 
-                Año       = year)                               %>% 
-        mutate(Entidad = case_when(Entidad == "Oaxaca-Región Costa" ~ "Oaxaca",
-                                Entidad == "Oaxaca-Región Mixteca" ~ "Oaxaca",
-                                Entidad == "Oaxaca-Región Sierra Norte" ~ "Oaxaca",
-                                Entidad == "Oaxaca-Región Valles Centrales" ~ "Oaxaca",
-                                Entidad == "Oaxaca-Región Cañada" ~ "Oaxaca",
-                                Entidad == "Oaxaca-Región Istmo" ~ "Oaxaca",
-                                Entidad == "Oaxaca-Región Papaloapam" ~ "Oaxaca", 
-                                Entidad == "Oaxaca-Región Sierra Sur" ~ "Oaxaca", 
-                                Entidad != "Oaxaca" ~ Entidad))
-
+        rename(entidad    = entidad, 
+                municipio = county_name_esp, 
+                county    = county_name_eng, 
+                año       = year)                               %>% 
+        mutate(entidad = case_when(entidad == "Oaxaca-Región Costa" ~ "Oaxaca",
+                                entidad == "Oaxaca-Región Mixteca" ~ "Oaxaca",
+                                entidad == "Oaxaca-Región Sierra Norte" ~ "Oaxaca",
+                                entidad == "Oaxaca-Región Valles Centrales" ~ "Oaxaca",
+                                entidad == "Oaxaca-Región Cañada" ~ "Oaxaca",
+                                entidad == "Oaxaca-Región Istmo" ~ "Oaxaca",
+                                entidad == "Oaxaca-Región Papaloapam" ~ "Oaxaca", 
+                                entidad == "Oaxaca-Región Sierra Sur" ~ "Oaxaca", 
+                                entidad != "Oaxaca" ~ entidad)) %>% 
+        mutate(population = as.numeric(population))
 
 df_pop_state <- df_pop                                          %>% 
-        group_by(Entidad, Año)                                  %>%
+        filter(entidad != is.na(entidad))                       %>%                  
+        group_by(entidad, año)                                  %>%
         summarise(population = sum(population))
-        
-        
 
-#### INTERINSTITUTIONAL GROUP ####
+#### 2.2 INTERINSTITUTIONAL GROUP ####
 # Join data frames
 df_homicides_state <- df_homicides_gpo                          %>% 
-        mutate(Año = year(as.Date(Fecha)))                      %>% 
-        left_join(df_pop_state, by = c("Entidad", "Año"))
-
+        rename("entidad" = Entidad, 
+                "homicidios" = Homicidios,
+                "fecha" = Fecha)                                %>% 
+        mutate(año = year(as.Date(fecha)))                      %>% 
+        left_join(df_pop_state, by = c("entidad", "año"))
 
 # Estimate mortality rates 
-df_homicide_state_daily <- df_homicides_state                   %>% 
+df_homicides_state_daily <- df_homicides_state                  %>% 
         # Estimate number of homicides per 100,000 people
         # Convert implicit missing values to explicit missing values 
         # We will have data for every date
-        mutate(mort_rate = (Homicidios*100000/population))      %>% 
-        complete(Fecha, nesting(Entidad), 
-                 fill = list(Homicidios =0))                    %>%
+        mutate(mort_rate = (homicidios*100000/population))      %>% 
+        complete(fecha, nesting(entidad), 
+                 fill = list(homicidios =0))                    %>%
         # Select variables
-        mutate(Fecha = as.Date(Fecha))                          %>% 
-        select(Entidad, Año, Fecha, Homicidios, population, mort_rate)
+        mutate(fecha = as.Date(fecha))                          %>% 
+        select(entidad, año, fecha, homicidios, population, mort_rate)
         
-#### OPEN SOURCE ####
+#### 2.3 OPEN SOURCE ####
 # Join data frames
-df_homicides_county_open <- df_homicides_open        %>% 
-        mutate(Año = year(as.Date(Fecha)))      %>% 
-        left_join(df_pop, by = c("Entidad", "Municipio", "Año"))
+df_homicides_county_open <- df_homicides_open                   %>% 
+        rename("entidad"          = Entidad, 
+                "homicidios"      = Homicidios,
+                "fecha"           = Fecha, 
+                "municipio"       = Municipio, 
+                "hombre"          = Hombre, 
+                "mujer"           = Mujer, 
+                "no_identificado" = No.Identificado)            %>% 
+        mutate(año = year(as.Date(fecha)))                      %>% 
+        left_join(df_pop, by = c("entidad", "municipio", "año"))
 
 # Estimate mortality rates 
-df_homicides_county_open_daily <- df_homicides_county_open      %>% 
-        mutate(mort_rate = (Homicidios*100000/population))      %>%  
-        complete(Fecha, nesting(Entidad, Municipio),
-                fill = list(Homicidios = 0))                    %>% 
-        mutate(Fecha = as.Date(Fecha))                          %>% 
-        select(Entidad, Municipio, County, county_id, Fecha, Homicidios, Hombre, 
-                Mujer, No.Identificado, population, mort_rate)
+df_homicides_county_open_daily <- df_homicides_county_open      %>%
+        mutate(mort_rate = (homicidios*100000/population))      %>%  
+        complete(fecha, nesting(entidad, municipio),
+                fill = list(homicidios = 0))                    %>% 
+        mutate(fecha = as.Date(fecha))                          %>% 
+        select(entidad, municipio, county, county_id, fecha, homicidios, hombre, 
+                mujer, no_identificado, population, mort_rate)
         
         #View(df_homicides_county_daily)
-
-# Rename for consistency with county data #
-# Convert into lower case
-df_homicides_county_open_daily <- df_homicides_county_open_daily %>% 
-        rename("entidad" = Entidad, "municipio" = Municipio, "county" = County, 
-                "fecha" = Fecha, "homicidios" = Homicidios, "hombre" = Hombre, 
-                "mujer" = Mujer, "no_identificado" = No.Identificado)
 
 #-----------------------------------------------------------------------------#
 ##            3. Check consistency of data                                 ####
 #-----------------------------------------------------------------------------#
-# Homicides
+# Homicides according to interinstitutional group
+sum(df_homicides_gpo$Homicidios)
+sum(df_homicides_state_daily$homicidios)
+
+# Homicides according to open sources
 # Total homicides
 sum(df_homicides_open$Homicidios)
 sum(df_homicides_county_open_daily$homicidios)
@@ -133,9 +138,11 @@ sum(df_homicides_county_open_daily$no_identificado, na.rm = T)
 ##            4. Save data                                                 ####
 #-----------------------------------------------------------------------------#
 # Rename df
+df_homicides_state_daily_sspc_gpointerinstitucional <- df_homicides_state_daily
 df_homicides_county_daily_sspc_fuentesabiertas <- df_homicides_county_open_daily
 
 # Save df
+save(df_homicides_state_daily_sspc_gpointerinstitucional, file = "data/gpo_interinstitucional/df_homicides_state_daily_sspc_gpointerinstitucional.RData")
 save(df_homicides_county_daily_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
 
 

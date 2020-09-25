@@ -48,6 +48,11 @@ df_state_m <- df_homicides_state_monthly_sspc_fuentesabiertas  %>%
                                  suma != homicidios ~ FALSE), 
                 diff = homicidios - suma) 
 
+df_state_NAs <- df_state_m %>% 
+        mutate(hombre = case_when((hombre == 0 & mujer == 0 & no_identificado == 0) ~ NA))
+
+df_NA            <- df_state_m
+df_NA$hombre[df_NA$hombre==0 & df_NA&mujer == 0 & df_NA&no_identificado == 0]     <- NA
 
 length(df_state_m$equal)-sum(df_state_m$equal) # Amount of FALSE
 100*(length(df_state_m$equal)-sum(df_state_m$equal))/length(df_state_m$equal) # Percentage of FALSE
