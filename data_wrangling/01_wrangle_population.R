@@ -46,16 +46,7 @@ df_pop <- df_pop_county_2019_2020                               %>%
         rename(entidad    = entidad, 
                 municipio = county_name_esp, 
                 county    = county_name_eng, 
-                año       = year)                               %>% 
-        mutate(entidad = case_when(entidad == "Oaxaca-Región Costa" ~ "Oaxaca",
-                                entidad == "Oaxaca-Región Mixteca" ~ "Oaxaca",
-                                entidad == "Oaxaca-Región Sierra Norte" ~ "Oaxaca",
-                                entidad == "Oaxaca-Región Valles Centrales" ~ "Oaxaca",
-                                entidad == "Oaxaca-Región Cañada" ~ "Oaxaca",
-                                entidad == "Oaxaca-Región Istmo" ~ "Oaxaca",
-                                entidad == "Oaxaca-Región Papaloapam" ~ "Oaxaca", 
-                                entidad == "Oaxaca-Región Sierra Sur" ~ "Oaxaca", 
-                                entidad != "Oaxaca" ~ entidad)) %>% 
+                año       = year)                               %>%                  
         mutate(population = as.numeric(population))
 
 df_pop_state <- df_pop                                          %>% 
@@ -105,17 +96,16 @@ df_homicides_county_open_daily <- df_homicides_county_open      %>%
         mutate(fecha = as.Date(fecha))                          %>% 
         select(entidad, municipio, county, county_id, fecha, homicidios, hombre, 
                 mujer, no_identificado, population, mort_rate)
-        
         #View(df_homicides_county_daily)
 
 #-----------------------------------------------------------------------------#
 ##            3. Check consistency of data                                 ####
 #-----------------------------------------------------------------------------#
-# Homicides according to interinstitutional group
+#### Homicides according to interinstitutional group
 sum(df_homicides_gpo$Homicidios)
 sum(df_homicides_state_daily$homicidios)
 
-# Homicides according to open sources
+#### Homicides according to open sources
 # Total homicides
 sum(df_homicides_open$Homicidios)
 sum(df_homicides_county_open_daily$homicidios)
@@ -123,7 +113,6 @@ sum(df_homicides_county_open_daily$homicidios)
 # Men 
 sum(df_homicides_open$Hombre, na.rm = T)
 sum(df_homicides_county_open_daily$hombre, na.rm = T)
-
 
 # Women 
 sum(df_homicides_open$Mujer, na.rm = T)

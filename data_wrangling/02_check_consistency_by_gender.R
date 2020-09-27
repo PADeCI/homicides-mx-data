@@ -114,3 +114,11 @@ length(df_county_d$equal)-sum(df_county_d$equal, na.rm = T) # Amount of FALSE
 100*(length(df_county_d$equal)-sum(df_county_d$equal, na.rm = T))/length(df_county_d$equal) # Percentage of FALSE
 mean((df_county_d$diff)[df_county_d$diff != 0], na.rm = T)  # Average difference    
 
+# Trying to identify the inconsistencies 
+df_na_by_diff  <- df_county_d           %>% 
+        filter(diff != 0)
+
+df_na_by_equal <- df_county_m           %>% 
+        filter(equal == F)
+        
+        
