@@ -30,6 +30,8 @@ load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_fuentesabier
 # Homicide data with population at state level 
 load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_daily_population_sspc_fuentesabiertas.RData")
 
+View(df_homicides_fuentesabiertas_county_day)
+View(df_homicidios_estado_fuentesabiertas_poblacion)
 
 #-----------------------------------------------------------------------------#
 ##            2. Create new df for each time unit                          ####
@@ -54,6 +56,9 @@ df_week_county <- df_dates_county %>%
                   "hombre"     = sum(hombre, na.rm = T), 
                   "mujer"      = sum(mujer, na.rm = T),
                   "no_identificado" = sum(no_identificado, na.rm = T))
+
+## Replace 0s when NAs are needed 
+df_dates_county$hombres[df_dates_county$mujeres==0 & df_dates_county$hombres==0 & df_dates_county$no_identificado==0]
 
 
 ## 2.2 STATE LEVEL ####          

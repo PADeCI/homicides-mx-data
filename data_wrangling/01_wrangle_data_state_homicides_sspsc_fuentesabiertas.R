@@ -3,7 +3,8 @@
 ## Purpose:         
 ## 
 ##
-## Created: 2020-09-07                               
+## Created:             2020-09-07 
+## Last update:         2020-09-27
 ## Authors: Mariana Consuelo Fernandez Espinosa, Regina Isabel Medina
 ##          
 ## GitHub: marianafdz465  
@@ -13,6 +14,7 @@
 
 
 # Libraries ---------------------------------------------------------------
+
 library(tidyverse)
 library(readr)
 library(lubridate)
@@ -22,60 +24,63 @@ library(dplyr)
 library(magrittr)
 library(gapminder)
 
+# Clean the workspace
+rm(list = ls()) 
 
-# Load Data ---------------------------------------------------------------
 
-#States
+# Load Data --------------------------------------------------------------------
+
+# Population at state level
 source_data("https://github.com/PADeCI/demog-mx/blob/master/data/Estatal/df_pop_state.Rdata?raw=true")
 
-df_homicides_daily_fuentesabiertas <- read.csv("data_raw/county/2019_2020/df_homicidios_dia_fuentesabiertas.csv")
+# Homicides at state level (from open sources)
+df_homicides_daily_fuentesabiertas <- read.csv("data_raw/fuentes_abiertas/2019_2020/df_homicides_daily_2019_2020_sspc_fuentesabiertas.csv")
 
 
-# State Level -------------------------------------------------------------
+# Data relabeling and grouping -------------------------------------------------
 
-#Select columns of interest and rename columns
+# Select columns of interest and rename
 
-df_homicides_daily_state <- df_homicides_daily_fuentesabiertas %>% 
-        select(-Municipio) %>%
+df_homicides_daily_state <- df_homicides_daily_fuentesabiertas  %>% 
+        select(-Municipio)                                      %>%
         rename(entidad = "Entidad", 
                homicidios = "Homicidios",
                hombre = "Hombre",
-               mujer = "Mujer", no_identificado = "No.Identificado",
+               mujer = "Mujer", 
+               no_identificado = "No.Identificado",
                fecha = "Fecha")
+
 # Group by state
 
-df_homicides_daily_state <- df_homicides_daily_state %>% 
-        group_by(entidad,fecha) %>%
-        summarise_all(.funs = sum,na.rm=F)
+df_homicides_daily_state <- df_homicides_daily_state            %>% 
+        group_by(entidad, fecha)                                %>%
+        summarise_all(.funs = sum, na.rm=F)
 
-save(df_homicides_daily_state, file = "data/df_homicidios_estado_dia_fuentesabiertas.RData")
-
-
-
-# Add population and estimate homicide mortality rate -----------------------------------
-
-
-load("data/df_homicidios_estado_dia_fuentesabiertas.RData")
-
-df_homicides_state_daily_fuentesabiertas <- df_homicides_daily_state
 
 
 # # Vectors and relabeling that will be needed 
-df_pop_state <- df_pop_state %>%
+df_pop_state <- df_pop_state                                    %>%
         rename(state_code = "CVE_GEO")
 
 
+# Fill omitted dates with 0s  --------------------------------------------------
+df_homicides_state_daily_fuentesabiertas <-  df_homicides_daily_state %>% 
+        complete(fecha, nesting(entidad),
+                fill = list(homicidios=0, hombre=0, mujer=0, no_identificado=0))
+
+
+# Add population  --------------------------------------------------------------
+
 # Join data frames
 
-#Filter year 2019 and 2020
+# Filter year 2019 and 2020
 df_pop_2019_2020 <- df_pop_state %>% 
         filter(year == 2019 || year == 2020)
 
 df_homicides_state_daily_fuentesabiertas <- df_homicides_state_daily_fuentesabiertas 
                                               
-        
-df_homicides_daily <- df_homicides_state_daily_fuentesabiertas %>% 
-        
+# Create code variable for states
+df_homicides_daily <- df_homicides_state_daily_fuentesabiertas  %>% 
         mutate(state_code = case_when(
                 entidad == "Aguascalientes" ~ 1,
                 entidad == "Baja California" ~ 2,
@@ -111,23 +116,19 @@ df_homicides_daily <- df_homicides_state_daily_fuentesabiertas %>%
                 entidad == "Yucatán" ~ 31, 
                 entidad == "Zacatecas" ~ 32)) 
 
+# Give date format to date variables
 df_homicides_daily$fecha <- as.Date(df_homicides_daily$fecha) 
 df_homicides_daily$year <- format(as.Date(df_homicides_daily$fecha, format="%Y/%m/%d"),"%Y")
 df_homicides_daily$year <- as.integer(df_homicides_daily$year)
 
 df_homicides_daily$fecha<- as.Date(df_homicides_daily$fecha , format = "%Y/%m/%d")
 
-
-
-# Add population and estimate homicide mortality rate
-
-
-df_homicides_daily <- df_homicides_daily %>% 
+# Join data frames
+df_homicides_daily <- df_homicides_daily                        %>% 
         left_join(df_pop_2019_2020, by = c("state_code", "year")) 
         
-#Select columns
-
-df_homicides_daily <- df_homicides_daily %>% 
+# Select columns
+df_homicides_daily <- df_homicides_daily                        %>% 
         select(entidad,state,
                fecha, homicidios,
                hombre, mujer,
@@ -135,21 +136,17 @@ df_homicides_daily <- df_homicides_daily %>%
 
 df_homicidios_estado_fuentesabiertas_poblacion <- df_homicides_daily
 
-#Save with population column
-        
-save(df_homicidios_estado_fuentesabiertas_poblacion, file = "data/df_homicidios_estado_fuentesabiertas_poblacion.RData")
 
 
-# Mort Rate ---------------------------------------------------------------
+# Mort Rate --------------------------------------------------------------------
 
-df_homicidios_estado_fuentesabiertas_mort_rate <-  df_homicidios_estado_fuentesabiertas_poblacion%>% 
+df_homicides_state_daily_sspc_fuentesabiertas <- df_homicidios_estado_fuentesabiertas_poblacion%>% 
         mutate(mort_rate = round((homicidios/population)*100000, 2)) 
 
-save(df_homicidios_estado_fuentesabiertas_mort_rate, file = "data/df_homicidios_estado_fuentesabiertas_mort_rate.RData")
 
+# Save final data set ----------------------------------------------------------
 
-
-
+save(df_homicides_state_daily_sspc_fuentesabiertas, file = "data/df_homicides_state_daily_sspc_fuentesabiertas.RData")
 
         
         

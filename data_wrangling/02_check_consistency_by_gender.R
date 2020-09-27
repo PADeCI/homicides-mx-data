@@ -120,5 +120,24 @@ df_na_by_diff  <- df_county_d           %>%
 
 df_na_by_equal <- df_county_m           %>% 
         filter(equal == F)
-        
-        
+
+
+#-----------------------------------------------------------------------------#
+##            2. Replace NAs when necessary                                ####
+#-----------------------------------------------------------------------------#
+# There are two reasons why the reported total and the sum of homicides by gender
+# do not match: there is an error on the register or there is a 0 instead of an 
+# NA. Since the problem that we are interested in is the first one, we have to 
+# fix the second one. The reason why there are 0s instead of NAs is that grouping
+# by state requieres to have a number instead of NAs in order to get the state
+# totals.
+
+# Trying to replace 0 with NAs when there was no gender information 
+df_arranged <- df_county_d
+
+df_arranged$hombre[df_arranged$hombre==0 & df_arranged$mujer==0 & df_arranged$no_identificado==0] <- NA
+
+df_state_d_arr <- df_state_d
+df_state_d_arr$hombre[df_state_d_arr$hombre==0 & df_state_d_arr$mujer==0 & df_state_d_arr$no_identificado==0] <- NA
+
+df_state_
