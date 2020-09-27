@@ -13,8 +13,9 @@
 ##************************************************************************
 
 
-# Libraries ---------------------------------------------------------------
+# 00. Initial set up -----------------------------------------------------------
 
+# Load libraries
 library(tidyverse)
 library(readr)
 library(lubridate)
@@ -28,16 +29,19 @@ library(gapminder)
 rm(list = ls()) 
 
 
-# Load Data --------------------------------------------------------------------
 
-# Population at state level
+# 01. Load Data ----------------------------------------------------------------
+
+# Population data at state level
 source_data("https://github.com/PADeCI/demog-mx/blob/master/data/Estatal/df_pop_state.Rdata?raw=true")
 
 # Homicides at state level (from open sources)
 df_homicides_daily_fuentesabiertas <- read.csv("data_raw/fuentes_abiertas/2019_2020/df_homicides_daily_2019_2020_sspc_fuentesabiertas.csv")
 
 
-# Data relabeling and grouping -------------------------------------------------
+
+# 02. Data wrangling  ----------------------------------------------------------
+# 02.1 Relabel, group and select  ----------------------------------------------
 
 # Select columns of interest and rename
 
@@ -56,20 +60,18 @@ df_homicides_daily_state <- df_homicides_daily_state            %>%
         group_by(entidad, fecha)                                %>%
         summarise_all(.funs = sum, na.rm=F)
 
-
-
 # # Vectors and relabeling that will be needed 
 df_pop_state <- df_pop_state                                    %>%
         rename(state_code = "CVE_GEO")
 
 
-# Fill omitted dates with 0s  --------------------------------------------------
+# 02.2 Fill omitted dates with 0s  ---------------------------------------------
 df_homicides_state_daily_fuentesabiertas <-  df_homicides_daily_state %>% 
         complete(fecha, nesting(entidad),
                 fill = list(homicidios=0, hombre=0, mujer=0, no_identificado=0))
 
 
-# Add population  --------------------------------------------------------------
+# 02.3 Add population  ---------------------------------------------------------
 
 # Join data frames
 
@@ -137,14 +139,19 @@ df_homicides_daily <- df_homicides_daily                        %>%
 df_homicidios_estado_fuentesabiertas_poblacion <- df_homicides_daily
 
 
-
-# Mort Rate --------------------------------------------------------------------
+# 02.4 Estimate mortality rate -------------------------------------------------
 
 df_homicides_state_daily_sspc_fuentesabiertas <- df_homicidios_estado_fuentesabiertas_poblacion%>% 
         mutate(mort_rate = round((homicidios/population)*100000, 2)) 
 
 
-# Save final data set ----------------------------------------------------------
+
+
+# 03. Check consistency of data ------------------------------------------------
+
+
+
+# 04. Save final data set ------------------------------------------------------
 
 save(df_homicides_state_daily_sspc_fuentesabiertas, file = "data/df_homicides_state_daily_sspc_fuentesabiertas.RData")
 
