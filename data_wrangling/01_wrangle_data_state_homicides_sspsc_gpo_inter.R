@@ -28,7 +28,7 @@ rm(list = ls())
 load("~/GitHub/homicides-mx-data/data_raw/df_pop_county_2019_2020.Rdata")
 
 # Homicide data from interinstitutional group
-df_homicides_gpo <- read.csv("data_raw/gpo_interinstitucional/2019_2020/df_homicides_daily_2019_2020_sspc_gpointerinstitucional.csv", 
+df_homicides <- read.csv("data_raw/gpo_interinstitucional/2019_2020/df_homicides_daily_2019_2020_sspc_gpointerinstitucional.csv", 
         encoding = "UTF-8")
 
 
@@ -37,28 +37,37 @@ df_homicides_gpo <- read.csv("data_raw/gpo_interinstitucional/2019_2020/df_homic
 
 # 02.1 Relabel, filter,  group and select  -------------------------------------
 
-df_pop <- df_pop_county_2019_2020                               %>%
-        rename(entidad    = entidad, 
-                municipio = county_name_esp, 
-                county    = county_name_eng, 
-                año       = year)                               %>%                  
-        mutate(population = as.numeric(population))
+# Change variable names for compatibility, eliminate non-identified counties 
+df_pop <- df_pop_county_2019_2020                                       %>%
+        rename(entidad    = entidad,    
+                municipio = county_name_esp,    
+                county    = county_name_eng,    
+                año       = year)                                       %>%
+        mutate(entidad = case_when(entidad =="México" ~ "Estado de México", 
+                        entidad == entidad ~ entidad))                  %>%
+        filter(entidad != is.na(entidad))                               %>% 
+        mutate(population = as.numeric(population))     
 
-df_pop_state <- df_pop                                          %>% 
-        filter(entidad != is.na(entidad))                       %>%                  
-        group_by(entidad, año)                                  %>%
+# Create state level population data frame
+df_pop_state <- df_pop                                                  %>% 
+        group_by(entidad, año)                                          %>%
         summarise(population = sum(population))
 
+# Rename homicide data frame
+df_homicides_gpo <- df_homicides                                        %>% 
+        rename("entidad" = Entidad, 
+                "homicidios" = Homicidios,
+                "fecha" = Fecha)                                        %>% 
+        mutate(entidad = as.character(entidad))                         %>% 
+        mutate(entidad = case_when(entidad == "Total" ~ "Nacional", 
+                                   entidad == entidad ~ entidad))
 
 # 02.2 Add population for interinstitutional group  ----------------------------
 
 # Join data frames
-df_homicides_state <- df_homicides_gpo                          %>% 
-        rename("entidad" = Entidad, 
-                "homicidios" = Homicidios,
-                "fecha" = Fecha)                                %>% 
-        mutate(año = year(as.Date(fecha)))                      %>% 
-        left_join(df_pop_state, by = c("entidad", "año"))
+df_homicides_state <- df_homicides_gpo                                  %>% 
+        mutate(año = year(as.Date(fecha)))                              %>% 
+        left_join(df_pop_state, by = c("entidad", "año")) 
 
 
 # 02.3 Estimate mortality rate and fill missing dates  -------------------------
@@ -66,18 +75,18 @@ df_homicides_state <- df_homicides_gpo                          %>%
 # Estimate number of homicides per 100,000 people, convert implicit missing 
 # values to explicit missing values:we will have data for every date.
 
-df_homicides_state_daily <- df_homicides_state                  %>% 
-        mutate(mort_rate = (homicidios*100000/population))      %>% 
+df_homicides_state_daily <- df_homicides_state                          %>% 
+        mutate(mort_rate = (homicidios*100000/population))              %>% 
         complete(fecha, nesting(entidad), 
-                fill = list(homicidios =0))                     %>%
-        mutate(fecha = as.Date(fecha))                          %>% 
+                fill = list(homicidios =0))                             %>%
+        mutate(fecha = as.Date(fecha))                                  %>% 
         select(entidad, año, fecha, homicidios, population, mort_rate)
 
 
 
 # 03. Check consistency of data ------------------------------------------------
 
-sum(df_homicides_gpo$Homicidios)
+sum(df_homicides$Homicidios, na.rm = T)
 sum(df_homicides_state_daily$homicidios)
 
 
