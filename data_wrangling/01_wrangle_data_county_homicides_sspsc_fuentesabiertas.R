@@ -67,19 +67,42 @@ df_homicides_pop <- df_homicides_county                         %>%
         full_join(df_pop, by = c("entidad", "municipio", "año"))
 
 # 02.2 Find mistake  -----------------------------------------
-df_prev_mistake <- df_homicides_county %>% 
-        rename("antes" = homicidios)   %>%
-        select(entidad, municipio, fecha, antes)
+df_prev_mistake <- df_homicides_county                          %>% 
+        rename("antes_total" = homicidios, 
+                "antes_hombre" = hombre, 
+                "antes_mujer" = mujer, 
+                "antes_no_iden" = no_identificado)              %>%
+        select(entidad, municipio, fecha, antes_total, antes_hombre, antes_mujer,
+                antes_no_iden)
 
-df_afte_mistake <- df_homicides_pop %>% 
-        rename("después" = homicidios) %>% 
-        select(entidad, municipio, fecha, después)
+df_afte_mistake <- df_homicides_pop                             %>% 
+        rename("desp_total" = homicidios, 
+                "desp_hombre" = hombre, 
+                "desp_mujer" = mujer, 
+                "desp_no_iden" = no_identificado)               %>% 
+        select(entidad, municipio, fecha, desp_total, desp_hombre, desp_mujer,
+                desp_no_iden)
 
-df_mistake <- df_prev_mistake %>% 
+df_mistake_total <- df_prev_mistake                                   %>% 
         full_join(df_afte_mistake, by = c("entidad", "municipio", "fecha")) %>% 
-        mutate(diff = antes - después, 
-                equal = case_when(diff==0 ~ T, diff !=0 ~ F))
+        mutate(diff_total = antes_total - desp_total, 
+                equal_total = case_when(diff_total==0 ~ T, diff_total !=0 ~ F)) 
 
+df_mistake_hombre <- df_prev_mistake                                   %>% 
+        full_join(df_afte_mistake, by = c("entidad", "municipio", "fecha")) %>% 
+        mutate(diff_hombre = antes_hombre - desp_hombre, 
+                equal_hombre = case_when(diff_hombre==0 ~ T, diff_hombre !=0 ~ F))
+        
+df_mistake_mujer <- df_prev_mistake                                   %>% 
+        full_join(df_afte_mistake, by = c("entidad", "municipio", "fecha")) %>%         
+        mutate(diff_mujer = antes_mujer - desp_mujer, 
+                equal_mujer= case_when(diff_mujer==0 ~ T, diff_mujer !=0 ~ F))
+
+df_mistake_no_iden <- df_prev_mistake                                   %>% 
+        full_join(df_afte_mistake, by = c("entidad", "municipio", "fecha")) %>%
+        mutate(diff_no_iden = antes_no_iden - desp_no_iden, 
+                equal_no_iden = case_when(diff_no_iden==0 ~ T, diff_no_iden !=0 ~ F)) 
+        
 sum(df_mistake$diff[df_mistake$equal==F], na.rm = T)        
 
 
@@ -88,7 +111,7 @@ sum(df_mistake$diff[df_mistake$equal==F], na.rm = T)
 # Estimate number of homicides per 100,000 people, convert implicit missing 
 # values to explicit missing values:we will have data for every date.
 
-df_homicides_pop_mort <- df_homicides_pop              %>%
+df_homicides_pop_mort <- df_homicides_pop                       %>%
         mutate(mort_rate = (homicidios*100000/population))      %>%  
         mutate(fecha = as.Date(fecha))                          %>% 
         select(entidad, municipio, county, county_id, fecha, homicidios, hombre, 
@@ -99,7 +122,7 @@ df_final <- df_homicides_pop_mort
 
 # 02.4 Fill missing dates ------------------------------------------------------
 df_final <- df_homicides_pop_mort %>% 
-        mutate(mort_rate = (homicidios*100000/population)) %>% 
+        mutate(mort_rate = (homicidios*100000/population))      %>% 
         complete(fecha, nesting(entidad, municipio), 
                 fill = list(homicidios=0, hombres=0, mujeres=0, no_identificado=0))
 
@@ -113,19 +136,21 @@ sum(df_homicides_open$Homicidios)
         sum(df_homicides_pop$homicidios, na.rm = T)
         sum(df_homicides_pop_mort$homicidios, na.rm = T)
 sum(df_final$homicidios, na.rm = T)
-
+        # Difference: -28
 # Men 
 sum(df_homicides_open$Hombre, na.rm = T)
 sum(df_final$hombre, na.rm = T)
+        # Difference: -26
 
 # Women 
 sum(df_homicides_open$Mujer, na.rm = T)
 sum(df_final$mujer, na.rm = T)
+        # Difference: -1
 
 # Non-identified 
 sum(df_homicides_open$No.Identificado, na.rm = T)
 sum(df_final$no_identificado, na.rm = T)
-
+        # Difference: 0 
 
 
 # 04. Save final data sets -----------------------------------------------------

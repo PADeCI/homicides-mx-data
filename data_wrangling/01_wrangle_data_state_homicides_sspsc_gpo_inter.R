@@ -1,6 +1,6 @@
 ################################################################################
 #                                                                             ##
-#              Homicide data 2019-2020 at state level (gpo.interinsti.)       ##
+#              Homicide data 2019-2020 at state level (gpo.interinst.)        ##
 #                                                                             ##
 #    Goal: Add population data and estimate mortality rate                    ##
 #    Authors: Regina Isabel Medina and Mariana Consuelo Fernandez Espinosa    ##

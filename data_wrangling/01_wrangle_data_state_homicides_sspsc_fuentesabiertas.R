@@ -149,6 +149,21 @@ df_homicides_state_daily_sspc_fuentesabiertas <- df_homicidios_estado_fuentesabi
 
 # 03. Check consistency of data ------------------------------------------------
 
+# Total homicides
+sum(df_homicides_daily_fuentesabiertas$Homicidios)
+sum(df_homicides_state_daily_sspc_fuentesabiertas$homicidios)
+
+# Male 
+sum(df_homicides_daily_fuentesabiertas$Hombre, na.rm = T)
+sum(df_homicides_state_daily_sspc_fuentesabiertas$hombre)
+
+# Female 
+sum(df_homicides_daily_fuentesabiertas$Mujer, na.rm = T)
+sum(df_homicides_state_daily_sspc_fuentesabiertas$mujer)
+
+# Non identified
+sum(df_homicides_daily_fuentesabiertas$No.Identificado, na.rm = T)
+sum(df_homicides_state_daily_sspc_fuentesabiertas$no_identificado)
 
 
 # 04. Save final data set ------------------------------------------------------
