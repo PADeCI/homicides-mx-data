@@ -1,45 +1,45 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Mexicali,1.0,1.0,0.0,0.0,2019-03-28
-Baja California,Tijuana,2.0,1.0,1.0,0.0,2019-03-28
-Baja California,La Paz,1.0,1.0,0.0,0.0,2019-03-28
-Chihuahua,Juárez,1.0,1.0,0.0,0.0,2019-03-28
-Ciudad de México,Tláhuac,1.0,0.0,1.0,0.0,2019-03-28
-Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2019-03-28
-Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-03-28
-Guanajuato,Salamanca,4.0,0.0,0.0,4.0,2019-03-28
-Guanajuato,San Miguel De Allende,1.0,1.0,0.0,0.0,2019-03-28
-Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2019-03-28
-Guerrero,Cuajinicuilapa,1.0,1.0,0.0,0.0,2019-03-28
-Jalisco,Guadalajara,4.0,4.0,0.0,0.0,2019-03-28
-Jalisco,Lagos De Moreno,1.0,1.0,0.0,0.0,2019-03-28
-Jalisco,Tonalá,1.0,1.0,0.0,0.0,2019-03-28
-Michoacán,Zamora,1.0,1.0,0.0,0.0,2019-03-28
-Morelos,Cuautla,2.0,2.0,0.0,0.0,2019-03-28
-Morelos,Cuernavaca,4.0,2.0,2.0,0.0,2019-03-28
-Estado de México,Hueypoxtla,1.0,1.0,0.0,0.0,2019-03-28
-Estado de México,Morelia,3.0,3.0,0.0,0.0,2019-03-28
-Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2019-03-28
-Estado de México,Tecámac,1.0,1.0,0.0,0.0,2019-03-28
-Estado de México,Tianguistenco,1.0,0.0,1.0,0.0,2019-03-28
-Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2019-03-28
-Estado de México,Zumpango,1.0,1.0,0.0,0.0,2019-03-28
-Oaxaca,Soledad Etla,1.0,1.0,0.0,0.0,2019-03-28
-Puebla,Palmar De Bravo,1.0,1.0,0.0,0.0,2019-03-28
-Puebla,Puebla,1.0,1.0,0.0,0.0,2019-03-28
-Puebla,Tecamachalco,1.0,0.0,0.0,0.0,2019-03-28
-Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2019-03-28
-Sinaloa,Elota,1.0,0.0,1.0,0.0,2019-03-28
-Sonora,Guaymas,2.0,2.0,0.0,0.0,2019-03-28
-Tabasco,Centro,1.0,0.0,1.0,0.0,2019-03-28
-Tabasco,Comalcalco,3.0,2.0,1.0,0.0,2019-03-28
-Tamaulipas,Reynosa,2.0,1.0,1.0,0.0,2019-03-28
-Tlaxcala,Calpulalpan,1.0,1.0,0.0,0.0,2019-03-28
-Tlaxcala,Xaltocan,1.0,1.0,0.0,0.0,2019-03-28
-Veracruz,Acayucan,2.0,1.0,1.0,0.0,2019-03-28
-Veracruz,Cosoleacaque,1.0,1.0,0.0,0.0,2019-03-28
-Veracruz,Las Choapas,1.0,0.0,1.0,0.0,2019-03-28
-Veracruz,Minatitlán,2.0,2.0,0.0,0.0,2019-03-28
-Veracruz,Nogales,1.0,1.0,0.0,0.0,2019-03-28
-Veracruz,Veracruz,1.0,1.0,0.0,0.0,2019-03-28
-Zacatecas,Genaro Codina,1.0,1.0,0.0,0.0,2019-03-28
-Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2019-03-28
+Baja California,Mexicali,1,1,0,0,28/03/19
+Baja California,Tijuana,2,1,1,0,28/03/19
+Baja California,La Paz,1,1,0,0,28/03/19
+Chihuahua,Juárez,1,1,0,0,28/03/19
+Ciudad de México,Tláhuac,1,0,1,0,28/03/19
+Guanajuato,Apaseo El Grande,1,1,0,0,28/03/19
+Guanajuato,Irapuato,1,1,0,0,28/03/19
+Guanajuato,Salamanca,4,0,0,4,28/03/19
+Guanajuato,San Miguel De Allende,1,1,0,0,28/03/19
+Guerrero,Acapulco De Juárez,2,2,0,0,28/03/19
+Guerrero,Cuajinicuilapa,1,1,0,0,28/03/19
+Jalisco,Guadalajara,4,4,0,0,28/03/19
+Jalisco,Lagos De Moreno,1,1,0,0,28/03/19
+Jalisco,Tonalá,1,1,0,0,28/03/19
+Michoacán,Zamora,1,1,0,0,28/03/19
+Morelos,Cuautla,2,2,0,0,28/03/19
+Morelos,Cuernavaca,4,2,2,0,28/03/19
+Estado de México,Hueypoxtla,1,1,0,0,28/03/19
+Estado de México,Morelia,3,3,0,0,28/03/19
+Estado de México,Naucalpan De Juárez,1,1,0,0,28/03/19
+Estado de México,Tecámac,1,1,0,0,28/03/19
+Estado de México,Tianguistenco,1,0,1,0,28/03/19
+Estado de México,Tlalnepantla De Baz,1,1,0,0,28/03/19
+Estado de México,Zumpango,1,1,0,0,28/03/19
+Oaxaca,Soledad Etla,1,1,0,0,28/03/19
+Puebla,Palmar De Bravo,1,1,0,0,28/03/19
+Puebla,Puebla,1,1,0,0,28/03/19
+Puebla,Tecamachalco,1,0,0,1,28/03/19
+Quintana Roo,Benito Juárez,2,2,0,0,28/03/19
+Sinaloa,Elota,1,0,1,0,28/03/19
+Sonora,Guaymas,2,2,0,0,28/03/19
+Tabasco,Centro,1,0,1,0,28/03/19
+Tabasco,Comalcalco,3,2,1,0,28/03/19
+Tamaulipas,Reynosa,2,1,1,0,28/03/19
+Tlaxcala,Calpulalpan,1,1,0,0,28/03/19
+Tlaxcala,Xaltocan,1,1,0,0,28/03/19
+Veracruz,Acayucan,2,1,1,0,28/03/19
+Veracruz,Cosoleacaque,1,1,0,0,28/03/19
+Veracruz,Las Choapas,1,0,1,0,28/03/19
+Veracruz,Minatitlán,2,2,0,0,28/03/19
+Veracruz,Nogales,1,1,0,0,28/03/19
+Veracruz,Veracruz,1,1,0,0,28/03/19
+Zacatecas,Genaro Codina,1,1,0,0,28/03/19
+Zacatecas,Guadalupe,1,1,0,0,28/03/19

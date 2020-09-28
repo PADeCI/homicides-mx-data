@@ -1,55 +1,55 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Tijuana,5.0,4.0,1.0,0.0,2019-02-14
-Chiapas,Angel Albino Corzo,1.0,1.0,0.0,0.0,2019-02-14
-Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-02-14
-Ciudad de México,Gustavo A. Madero,1.0,0.0,1.0,0.0,2019-02-14
-Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2019-02-14
-Ciudad de México,Álvaro Obregón,1.0,0.0,0.0,1.0,2019-02-14
-Estado de México,Atlautla,1.0,1.0,0.0,0.0,2019-02-14
-Estado de México,Chalco,1.0,1.0,0.0,0.0,2019-02-14
-Estado de México,La Paz,1.0,1.0,0.0,0.0,2019-02-14
-Estado de México,Temoaya,1.0,1.0,0.0,0.0,2019-02-14
-Estado de México,Valle De Chalco Solidaridad,1.0,0.0,1.0,0.0,2019-02-14
-Guanajuato,Celaya,2.0,2.0,0.0,0.0,2019-02-14
-Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2019-02-14
-Guanajuato,León,2.0,2.0,0.0,0.0,2019-02-14
-Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2019-02-14
-Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2019-02-14
-Guanajuato,San Francisco Del Rincón,4.0,4.0,0.0,0.0,2019-02-14
-Guanajuato,Tarandacuao,1.0,1.0,0.0,0.0,2019-02-14
-Guanajuato,Valle De Santiago,3.0,2.0,0.0,1.0,2019-02-14
-Guerrero,Acapulco De Juárez,3.0,2.0,1.0,0.0,2019-02-14
-Guerrero,Chilapa De Álvarez,1.0,1.0,0.0,0.0,2019-02-14
-Guerrero,Coyuca De Catalán,1.0,1.0,0.0,0.0,2019-02-14
-Guerrero,Ometepec,1.0,1.0,0.0,0.0,2019-02-14
-Guerrero,Tlapa De Comonfort,1.0,1.0,0.0,0.0,2019-02-14
-Guerrero,Técpan De Galeana,2.0,2.0,0.0,0.0,2019-02-14
-Jalisco,El Salto,2.0,0.0,0.0,2.0,2019-02-14
-Jalisco,Guadalajara,4.0,2.0,0.0,2.0,2019-02-14
-Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-02-14
-Jalisco,Tonalá,2.0,2.0,0.0,0.0,2019-02-14
-Michoacán,Morelia,3.0,1.0,1.0,0.0,2019-02-14
-Michoacán,Uruapan,3.0,3.0,0.0,0.0,2019-02-14
-Michoacán,Zinapécuaro,1.0,1.0,0.0,0.0,2019-02-14
-Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2019-02-14
-Morelos,Puente De Ixtla,1.0,1.0,0.0,0.0,2019-02-14
-Nuevo León,General Escobedo,2.0,2.0,0.0,0.0,2019-02-14
-Nuevo León,Monterrey,2.0,2.0,0.0,0.0,2019-02-14
-Oaxaca,Miahuatlán De Porfirio Díaz,1.0,1.0,0.0,0.0,2019-02-14
-Puebla,Atlixco,1.0,1.0,0.0,0.0,2019-02-14
-Puebla,Palmar De Bravo,2.0,2.0,0.0,0.0,2019-02-14
-Puebla,San Martín Texmelucan,1.0,1.0,0.0,0.0,2019-02-14
-Puebla,Santa Inés Ahuatempan,1.0,1.0,0.0,0.0,2019-02-14
-Querétaro,Querétaro,1.0,1.0,0.0,0.0,2019-02-14
-Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2019-02-14
-San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-02-14
-San Luis Potosí,Tamasopo,1.0,1.0,0.0,0.0,2019-02-14
-Sonora,Nogales,1.0,0.0,0.0,1.0,2019-02-14
-Tabasco,Centro,1.0,1.0,0.0,0.0,2019-02-14
-Tamaulipas,Reynosa,1.0,0.0,0.0,1.0,2019-02-14
-Veracruz,Altotonga,2.0,2.0,0.0,0.0,2019-02-14
-Veracruz,Coatzacoalcos,1.0,0.0,1.0,0.0,2019-02-14
-Veracruz,Medellín De Bravo,1.0,0.0,0.0,1.0,2019-02-14
-Veracruz,Papantla,1.0,1.0,0.0,0.0,2019-02-14
-Veracruz,Puente Nacional,1.0,1.0,0.0,0.0,2019-02-14
-Veracruz,San Juan Evangelista,1.0,1.0,0.0,0.0,2019-02-14
+Baja California,Tijuana,5,4,1,0,14/02/19
+Chiapas,Angel Albino Corzo,1,1,0,0,14/02/19
+Chihuahua,Chihuahua,1,1,0,0,14/02/19
+Ciudad de México,Gustavo A. Madero,1,0,1,0,14/02/19
+Ciudad de México,Tlalpan,1,1,0,0,14/02/19
+Ciudad de México,Álvaro Obregón,1,0,0,1,14/02/19
+Estado de México,Atlautla,1,1,0,0,14/02/19
+Estado de México,Chalco,1,1,0,0,14/02/19
+Estado de México,La Paz,1,1,0,0,14/02/19
+Estado de México,Temoaya,1,1,0,0,14/02/19
+Estado de México,Valle De Chalco Solidaridad,1,0,1,0,14/02/19
+Guanajuato,Celaya,2,2,0,0,14/02/19
+Guanajuato,Irapuato,1,1,0,0,14/02/19
+Guanajuato,León,2,2,0,0,14/02/19
+Guanajuato,Salamanca,2,2,0,0,14/02/19
+Guanajuato,Salvatierra,1,1,0,0,14/02/19
+Guanajuato,San Francisco Del Rincón,4,4,0,0,14/02/19
+Guanajuato,Tarandacuao,1,1,0,0,14/02/19
+Guanajuato,Valle De Santiago,3,2,0,1,14/02/19
+Guerrero,Acapulco De Juárez,3,2,1,0,14/02/19
+Guerrero,Chilapa De Álvarez,1,1,0,0,14/02/19
+Guerrero,Coyuca De Catalán,1,1,0,0,14/02/19
+Guerrero,Ometepec,1,1,0,0,14/02/19
+Guerrero,Tlapa De Comonfort,1,1,0,0,14/02/19
+Guerrero,Técpan De Galeana,2,2,0,0,14/02/19
+Jalisco,El Salto,2,0,0,2,14/02/19
+Jalisco,Guadalajara,4,2,0,2,14/02/19
+Jalisco,San Pedro Tlaquepaque,1,1,0,0,14/02/19
+Jalisco,Tonalá,2,2,0,0,14/02/19
+Michoacán,Morelia,2,2,0,0,14/02/19
+Michoacán,Uruapan,3,3,0,0,14/02/19
+Michoacán,Zinapécuaro,1,1,0,0,14/02/19
+Morelos,Emiliano Zapata,1,1,0,0,14/02/19
+Morelos,Puente De Ixtla,1,1,0,0,14/02/19
+Nuevo León,General Escobedo,2,2,0,0,14/02/19
+Nuevo León,Monterrey,2,2,0,0,14/02/19
+Oaxaca,Miahuatlán De Porfirio Díaz,1,1,0,0,14/02/19
+Puebla,Atlixco,1,1,0,0,14/02/19
+Puebla,Palmar De Bravo,2,2,0,0,14/02/19
+Puebla,San Martín Texmelucan,1,1,0,0,14/02/19
+Puebla,Santa Inés Ahuatempan,1,1,0,0,14/02/19
+Querétaro,Querétaro,1,1,0,0,14/02/19
+Quintana Roo,Solidaridad,1,1,0,0,14/02/19
+San Luis Potosí,San Luis Potosí,1,1,0,0,14/02/19
+San Luis Potosí,Tamasopo,1,1,0,0,14/02/19
+Sonora,Nogales,1,0,0,1,14/02/19
+Tabasco,Centro,1,1,0,0,14/02/19
+Tamaulipas,Reynosa,1,0,0,1,14/02/19
+Veracruz,Altotonga,2,2,0,0,14/02/19
+Veracruz,Coatzacoalcos,1,0,1,0,14/02/19
+Veracruz,Medellín De Bravo,1,0,0,1,14/02/19
+Veracruz,Papantla,1,1,0,0,14/02/19
+Veracruz,Puente Nacional,1,1,0,0,14/02/19
+Veracruz,San Juan Evangelista,1,1,0,0,14/02/19

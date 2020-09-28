@@ -1,50 +1,49 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Playas De Rosarito,1.0,1.0,0.0,0.0,2019-04-10
-Baja California,Tijuana,3.0,2.0,0.0,1.0,2019-04-10
-Baja California Sur,Mulegé,1.0,0.0,1.0,0.0,2019-04-10
-Chiapas,Amatenango De La Frontera,1.0,1.0,0.0,0.0,2019-04-10
-Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2019-04-10
-Chihuahua,Guadalupe Y Calvo,1.0,1.0,0.0,0.0,2019-04-10
-Chihuahua,Guerrero,1.0,1.0,0.0,0.0,2019-04-10
-Chihuahua,Juárez,2.0,1.0,1.0,0.0,2019-04-10
-Ciudad de México,Coyoacán,1.0,1.0,0.0,0.0,2019-04-10
-Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2019-04-10
-Coahuila,Torreón,1.0,1.0,0.0,0.0,2019-04-10
-Colima,Manzanillo,1.0,1.0,0.0,0.0,2019-04-10
-Guanajuato,Abasolo,1.0,1.0,0.0,0.0,2019-04-10
-Guanajuato,León,1.0,1.0,0.0,0.0,2019-04-10
-Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2019-04-10
-Guanajuato,Valle De Santiago,2.0,2.0,0.0,0.0,2019-04-10
-Guanajuato,Yuriria,1.0,1.0,0.0,0.0,2019-04-10
-Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2019-04-10
-Guerrero,Atoyac De Álvarez,1.0,1.0,0.0,0.0,2019-04-10
-Guerrero,Taxco De Alarcón,4.0,4.0,0.0,0.0,2019-04-10
-Guerrero,Tetipac,1.0,1.0,0.0,0.0,2019-04-10
-Hidalgo,Cuautepec De Hinojosa,1.0,1.0,0.0,0.0,2019-04-10
-Jalisco,Tamazula De Gordiano,1.0,1.0,0.0,0.0,2019-04-10
-Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2019-04-10
-Michoacán,Jacona,3.0,3.0,0.0,0.0,2019-04-10
-Michoacán,Uruapan,1.0,1.0,0.0,0.0,2019-04-10
-Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2019-04-10
-Morelos,Yautepec,1.0,1.0,0.0,0.0,2019-04-10
-Estado de México,Ecatepec De Morelos,2.0,2.0,0.0,0.0,2019-04-10
-Estado de México,Tecámac,1.0,1.0,0.0,0.0,2019-04-10
-Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2019-04-10
-Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2019-04-10
-Puebla,Tepeaca,1.0,1.0,0.0,0.0,2019-04-10
-Puebla,Tuzamapan De Galeana,1.0,1.0,0.0,0.0,2019-04-10
-Querétaro,Corregidora,1.0,1.0,0.0,0.0,2019-04-10
-Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2019-04-10
-Quintana Roo,Othón P. Blanco,1.0,1.0,0.0,0.0,2019-04-10
-San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2019-04-10
-Sonora,Cajeme,1.0,0.0,0.0,1.0,2019-04-10
-Sonora,Hermosillo,1.0,1.0,0.0,0.0,2019-04-10
-Tabasco,Centro,1.0,1.0,0.0,0.0,2019-04-10
-Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2019-04-10
-Tamaulipas,El Mante,1.0,1.0,0.0,0.0,2019-04-10
-Tamaulipas,Reynosa,1.0,0.0,1.0,0.0,2019-04-10
-Veracruz,Agua Dulce,1.0,1.0,0.0,0.0,2019-04-10
-Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-04-10
-Veracruz,Río Blanco,2.0,1.0,1.0,0.0,2019-04-10
-Zacatecas,Aguascalientes,1.0,0.0,0.0,0.0,2019-04-10
-Zacatecas,Zacatecas,1.0,0.0,1.0,0.0,2019-04-10
+Baja California,Playas De Rosarito,1,1,0,0,10/04/19
+Baja California,Tijuana,3,2,0,1,10/04/19
+Baja California Sur,Mulegé,1,0,1,0,10/04/19
+Chiapas,Amatenango De La Frontera,1,1,0,0,10/04/19
+Chihuahua,Chihuahua,1,1,0,0,10/04/19
+Chihuahua,Guadalupe Y Calvo,1,1,0,0,10/04/19
+Chihuahua,Guerrero,1,1,0,0,10/04/19
+Chihuahua,Juárez,2,1,1,0,10/04/19
+Ciudad de México,Coyoacán,1,1,0,0,10/04/19
+Ciudad de México,Venustiano Carranza,1,1,0,0,10/04/19
+Coahuila,Torreón,1,1,0,0,10/04/19
+Colima,Manzanillo,1,1,0,0,10/04/19
+Guanajuato,Abasolo,1,1,0,0,10/04/19
+Guanajuato,León,1,1,0,0,10/04/19
+Guanajuato,Salamanca,1,1,0,0,10/04/19
+Guanajuato,Valle De Santiago,2,2,0,0,10/04/19
+Guanajuato,Yuriria,1,1,0,0,10/04/19
+Guerrero,Acapulco De Juárez,1,1,0,0,10/04/19
+Guerrero,Atoyac De Álvarez,1,1,0,0,10/04/19
+Guerrero,Taxco De Alarcón,4,4,0,0,10/04/19
+Guerrero,Tetipac,1,1,0,0,10/04/19
+Hidalgo,Cuautepec De Hinojosa,1,1,0,0,10/04/19
+Jalisco,Tamazula De Gordiano,1,1,0,0,10/04/19
+Jalisco,Tlajomulco De Zúñiga,1,1,0,0,10/04/19
+Michoacán,Jacona,3,3,0,0,10/04/19
+Michoacán,Uruapan,1,1,0,0,10/04/19
+Morelos,Emiliano Zapata,1,1,0,0,10/04/19
+Morelos,Yautepec,1,1,0,0,10/04/19
+Estado de México,Ecatepec De Morelos,2,2,0,0,10/04/19
+Estado de México,Tecámac,1,1,0,0,10/04/19
+Nuevo León,Apodaca,1,1,0,0,10/04/19
+Oaxaca,Salina Cruz,1,1,0,0,10/04/19
+Puebla,Tepeaca,1,1,0,0,10/04/19
+Puebla,Tuzamapan De Galeana,1,1,0,0,10/04/19
+Querétaro,Corregidora,1,1,0,0,10/04/19
+Quintana Roo,Benito Juárez,1,1,0,0,10/04/19
+Quintana Roo,Othón P. Blanco,1,1,0,0,10/04/19
+San Luis Potosí,San Luis Potosí,1,1,0,0,10/04/19
+Sonora,Cajeme,1,0,0,1,10/04/19
+Sonora,Hermosillo,1,1,0,0,10/04/19
+Tabasco,Centro,1,1,0,0,10/04/19
+Tabasco,Huimanguillo,1,1,0,0,10/04/19
+Tamaulipas,El Mante,1,1,0,0,10/04/19
+Tamaulipas,Reynosa,1,0,1,0,10/04/19
+Veracruz,Agua Dulce,1,1,0,0,10/04/19
+Veracruz,Coatzacoalcos,1,1,0,0,10/04/19
+Veracruz,Río Blanco,2,1,1,0,10/04/19
+Zacatecas,Zacatecas,2,1,1,0,10/04/19

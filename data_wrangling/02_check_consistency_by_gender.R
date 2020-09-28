@@ -24,14 +24,14 @@ rm(list = ls())
 # 01. Load Data ----------------------------------------------------------------
 
 # State level 
-load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
-load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_weekly_sspc_fuentesabiertas.RData")
-load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_monthly_sspc_fuentesabiertas.RData")
+load("./data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
+load("./data/fuentes_abiertas/df_homicides_state_weekly_sspc_fuentesabiertas.RData")
+load("./data/fuentes_abiertas/df_homicides_state_monthly_sspc_fuentesabiertas.RData")
 
 # County level 
-load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
-load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_weekly_sspc_fuentesabiertas.RData")
-load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_monthly_sspc_fuentesabiertas.RData")
+load("./data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
+load("./data/fuentes_abiertas/df_homicides_county_weekly_sspc_fuentesabiertas.RData")
+load("./data/fuentes_abiertas/df_homicides_county_monthly_sspc_fuentesabiertas.RData")
 
 
 # 02. Check sum of genders -----------------------------------------------------
@@ -128,3 +128,4 @@ length(unique(df_county_d_mistakes$fecha))
 
 # Dates with mistakes
 unique(df_county_d_mistakes$fecha)
+
