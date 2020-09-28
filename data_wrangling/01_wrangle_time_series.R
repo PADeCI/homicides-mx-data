@@ -56,9 +56,17 @@ df_week_county <- df_dates_county %>%
 
 ## Replace 0s when NAs are needed (before data by gender was reported)
 ## First report on gender was done on 2019-02-01
+# Male 
 df_month_county$hombre[df_month_county$month == 1 & df_month_county$year == 2019] <- NA
 df_week_county$hombre[df_week_county$month == 1 & df_week_county$year == 2019] <- NA
 
+# Female 
+df_month_county$mujer[df_month_county$month == 1 & df_month_county$year == 2019] <- NA
+df_week_county$mujer[df_week_county$month == 1 & df_week_county$year == 2019] <- NA
+
+# Non identified
+df_month_county$no_identificado[df_month_county$month == 1 & df_month_county$year == 2019] <- NA
+df_week_county$no_identificado[df_week_county$month == 1 & df_week_county$year == 2019] <- NA
 
 # 02.2 Data frames at state level ----------------------------------------------
 # Create time variables and rename df for simplicity 
@@ -85,10 +93,18 @@ df_week_state <- df_dates_state %>%
         
 ## Replace 0s when NAs are needed (before data by gender was reported)
 ## First report on gender was done on 2019-02-01
+
+# Male
 df_month_state$hombre[df_month_state$month == 1 & df_month_state$year == 2019] <- NA
 df_week_state$hombre[df_week_state$month == 1 & df_week_state$year == 2019] <- NA
 
+# Female 
+df_month_state$mujer[df_month_state$month == 1 & df_month_state$year == 2019] <- NA
+df_week_state$mujer[df_week_state$month == 1 & df_week_state$year == 2019] <- NA
 
+# Non identified
+df_month_state$no_identificado[df_month_state$month == 1 & df_month_state$year == 2019] <- NA
+df_week_state$no_identificado[df_week_state$month == 1 & df_week_state$year == 2019] <- NA
 
 # 03. Check consistency of data ------------------------------------------------
 
@@ -110,8 +126,8 @@ sum(df_month_state$homicidios)
 # County level 
 sum(df_homicides_fuentesabiertas_county_day$hombre, na.rm = T)
 sum(df_dates_county$hombre, na.rm = T)
-sum(df_month_county$hombre)
-sum(df_week_county$hombre)
+sum(df_month_county$hombre, na.rm = T)
+sum(df_week_county$hombre, na.rm = T)
 
 # State level 
 sum(df_homicides_fuentesabiertas_county_day$hombre, na.rm = T)
@@ -124,28 +140,28 @@ sum(df_month_state$hombre, na.rm = T)
 # County level 
 sum(df_homicides_fuentesabiertas_county_day$mujer, na.rm = T)
 sum(df_dates_county$mujer, na.rm = T)
-sum(df_month_county$mujer)
-sum(df_week_county$mujer)
+sum(df_month_county$mujer, na.rm = T)
+sum(df_week_county$mujer, na.rm = T)
 
 # State level 
 sum(df_homicides_fuentesabiertas_county_day$mujer, na.rm = T)
 sum(df_dates_state$mujer, na.rm = T)
-sum(df_week_state$mujer)
-sum(df_month_state$mujer)
+sum(df_week_state$mujer, na.rm = T)
+sum(df_month_state$mujer, na.rm = T)
 
 
 # Non identified gender: 5,777 in all 8 data frames 
 # County level
 sum(df_homicides_fuentesabiertas_county_day$no_identificado, na.rm = T)
 sum(df_dates_county$no_identificado, na.rm = T)
-sum(df_month_county$no_identificado)
-sum(df_week_county$no_identificado)
+sum(df_month_county$no_identificado, na.rm = T)
+sum(df_week_county$no_identificado, na.rm = T)
 
 # State level
 sum(df_homicides_fuentesabiertas_county_day$no_identificado, na.rm = T)
 sum(df_dates_state$no_identificado, na.rm = T)
-sum(df_week_state$no_identificado)
-sum(df_month_state$no_identificado)
+sum(df_week_state$no_identificado, na.rm = T)
+sum(df_month_state$no_identificado, na.rm = T)
 
 
 

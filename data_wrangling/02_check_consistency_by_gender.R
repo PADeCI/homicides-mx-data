@@ -8,22 +8,21 @@
 #                                                                             ##
 ################################################################################
 
-#-----------------------------------------------------------------------------#
-##            0. Initial set up                                            ####
-#-----------------------------------------------------------------------------#
+# 00. Initial set up -----------------------------------------------------------
+
 # Load libraries
 library(tidyverse)
 library(dplyr)
 library(readr)
 library(lubridate)
+library(magrittr)
 
 # Clean the workspace
 rm(list = ls()) 
 
 
-#-----------------------------------------------------------------------------#
-##            1. Load data                                                 ####
-#-----------------------------------------------------------------------------#
+# 01. Load Data ----------------------------------------------------------------
+
 # State level 
 load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
 load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_weekly_sspc_fuentesabiertas.RData")
@@ -34,29 +33,27 @@ load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_daily
 load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_weekly_sspc_fuentesabiertas.RData")
 load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_monthly_sspc_fuentesabiertas.RData")
 
-#-----------------------------------------------------------------------------#
-##            1. Check sum of genders                                      ####
-#-----------------------------------------------------------------------------#
+
+# 02. Check sum of genders -----------------------------------------------------
+
 # When producing the descriptive statistics, it was obivous that there was a 
 # problem with data, since the addition of homicides disagregated by gender 
 # is not equal to the total homicides that are reported. 
 
 ## State by month ####
 df_state_m <- df_homicides_state_monthly_sspc_fuentesabiertas  %>% 
-        mutate(suma  = hombre + mujer + no_identificado)       %>% 
+        mutate(suma  = sum(hombre, mujer, no_identificado, na.rm = T)) %>% 
         mutate(equal = case_when(suma == homicidios ~ TRUE, 
                                  suma != homicidios ~ FALSE), 
                 diff = homicidios - suma) 
 
-df_state_NAs <- df_state_m %>% 
-        mutate(hombre = case_when((hombre == 0 & mujer == 0 & no_identificado == 0) ~ NA))
-
-df_NA            <- df_state_m
-df_NA$hombre[df_NA$hombre==0 & df_NA&mujer == 0 & df_NA&no_identificado == 0]     <- NA
-
 length(df_state_m$equal)-sum(df_state_m$equal) # Amount of FALSE
 100*(length(df_state_m$equal)-sum(df_state_m$equal))/length(df_state_m$equal) # Percentage of FALSE
 mean((df_state_m$diff)[df_state_m$diff != 0])  # Average difference
+
+df_state_m_mistakes <-  df_state_m %>% 
+        filter(equal == FALSE) %>% 
+        filter(is.na(hombre) == FALSE)
 
 ## State by week #### 
 df_state_w <- df_homicides_state_weekly_sspc_fuentesabiertas   %>% 
@@ -104,7 +101,7 @@ length(df_county_w$equal)-sum(df_county_w$equal) # Amount of FALSE
 mean((df_county_w$diff)[df_county_w$diff != 0])  # Average difference    
 
  ## County by day ####
-df_county_d <- df_homicides_county_daily_sspc_fuentesabiertas %>% 
+df_county_d <- df_homicides_county_daily_sspc_fuentesabiertas   %>% 
         mutate(suma  = hombre + mujer + no_identificado)        %>% 
         mutate(equal = case_when(suma == homicidios ~ TRUE, 
                 suma != homicidios ~ FALSE), 
@@ -114,30 +111,20 @@ length(df_county_d$equal)-sum(df_county_d$equal, na.rm = T) # Amount of FALSE
 100*(length(df_county_d$equal)-sum(df_county_d$equal, na.rm = T))/length(df_county_d$equal) # Percentage of FALSE
 mean((df_county_d$diff)[df_county_d$diff != 0], na.rm = T)  # Average difference    
 
-# Trying to identify the inconsistencies 
-df_na_by_diff  <- df_county_d           %>% 
-        filter(diff != 0)
-
-df_na_by_equal <- df_county_m           %>% 
-        filter(equal == F)
 
 
-#-----------------------------------------------------------------------------#
-##            2. Replace NAs when necessary                                ####
-#-----------------------------------------------------------------------------#
-# There are two reasons why the reported total and the sum of homicides by gender
-# do not match: there is an error on the register or there is a 0 instead of an 
-# NA. Since the problem that we are interested in is the first one, we have to 
-# fix the second one. The reason why there are 0s instead of NAs is that grouping
-# by state requieres to have a number instead of NAs in order to get the state
-# totals.
+# 03. Identify inconsistencies  ------------------------------------------------
 
-# Trying to replace 0 with NAs when there was no gender information 
-df_arranged <- df_county_d
+# Get all the mistakes in a single df
+df_county_d_mistakes <- df_county_d %>% 
+        filter(equal == FALSE) %>% 
+        filter(is.na(hombre) == FALSE)
 
-df_arranged$hombre[df_arranged$hombre==0 & df_arranged$mujer==0 & df_arranged$no_identificado==0] <- NA
+# Total number of mistakes: 33 
+length(df_county_d_mistakes$fecha)
 
-df_state_d_arr <- df_state_d
-df_state_d_arr$hombre[df_state_d_arr$hombre==0 & df_state_d_arr$mujer==0 & df_state_d_arr$no_identificado==0] <- NA
+# Number of dates with mistakes: 20
+length(unique(df_county_d_mistakes$fecha))
 
-df_state_
+# Dates with mistakes
+unique(df_county_d_mistakes$fecha)
