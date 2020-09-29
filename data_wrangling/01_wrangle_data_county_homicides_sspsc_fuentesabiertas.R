@@ -160,3 +160,4 @@ df_homicides_county_daily_sspc_fuentesabiertas <- df_final
 
 # Save df
 save(df_homicides_county_daily_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
+

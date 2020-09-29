@@ -4,7 +4,7 @@
 #                                                                             ##
 #    Goal: Data validation for gendered data                                  ##
 #    Authors: Regina Isabel Medina and Mariana Fernández                      ##
-#    Date: September 18th, 2020                                                ##
+#    Date: September 18th, 2020                                               ##
 #                                                                             ##
 ################################################################################
 

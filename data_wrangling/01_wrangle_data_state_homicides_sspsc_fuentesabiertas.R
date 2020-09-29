@@ -170,5 +170,3 @@ sum(df_homicides_state_daily_sspc_fuentesabiertas$no_identificado)
 
 save(df_homicides_state_daily_sspc_fuentesabiertas, file = "data/df_homicides_state_daily_sspc_fuentesabiertas.RData")
 
-        
-        

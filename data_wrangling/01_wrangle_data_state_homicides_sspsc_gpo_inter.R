@@ -22,7 +22,7 @@ rm(list = ls())
 
 
 
-# 01. Load Data ----------------------------------------------------------------
+        # 01. Load Data ----------------------------------------------------------------
 
 # Population data at county level 
 load("~/GitHub/homicides-mx-data/data_raw/df_pop_county_2019_2020.Rdata")
@@ -98,3 +98,4 @@ df_homicides_state_daily_sspc_gpointerinstitucional <- df_homicides_state_daily
 
 # Save df
 save(df_homicides_state_daily_sspc_gpointerinstitucional, file = "data/gpo_interinstitucional/df_homicides_state_daily_sspc_gpointerinstitucional.RData")
+

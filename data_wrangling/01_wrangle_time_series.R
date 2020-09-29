@@ -28,8 +28,8 @@ load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_fuentesabier
 # Homicide data with population at state level 
 load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
 
-View(df_homicides_fuentesabiertas_county_day)
-View(df_homicides_state_daily_sspc_fuentesabiertas)
+        # View(df_homicides_fuentesabiertas_county_day)
+        # View(df_homicides_state_daily_sspc_fuentesabiertas)
 
 # 02. Create new df for each time unit -----------------------------------------
 
