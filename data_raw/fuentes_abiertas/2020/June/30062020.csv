@@ -1,43 +1,43 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Ensenada,1,0,1,0,30/06/20
-Baja California,Tijuana,6,3,1,2,30/06/20
-Baja California,Mulegé,1,0,1,0,30/06/20
-Chiapas,Chamula,3,0,3,0,30/06/20
-Chiapas,Comitán De Domínguez,1,0,1,0,30/06/20
-Chiapas,Tapachula,1,0,1,0,30/06/20
-Chihuahua,Chihuahua,7,0,6,1,30/06/20
-Chihuahua,Juárez,5,4,0,1,30/06/20
-Ciudad de México,Coyoacán,1,1,0,0,30/06/20
-Ciudad de México,Iztapalapa,1,1,0,0,30/06/20
-Colima,Tecomán,2,2,0,0,30/06/20
-Estado de México,Nicolás Romero,1,1,0,0,30/06/20
-Guanajuato,Celaya,3,3,0,0,30/06/20
-Guanajuato,Cortazar,1,1,0,0,30/06/20
-Guanajuato,León,2,2,0,0,30/06/20
-Guanajuato,Purísima Del Rincón,1,1,0,0,30/06/20
-Guanajuato,Salamanca,1,1,0,0,30/06/20
-Guanajuato,Silao De La Victoria,1,1,0,0,30/06/20
-Guanajuato,Tarimoro,1,1,0,0,30/06/20
-Jalisco,Puerto Vallarta,2,2,0,0,30/06/20
-Jalisco,Tonalá,1,1,0,0,30/06/20
-Jalisco,Zapopan,1,1,0,0,30/06/20
-Michoacán,Morelia,2,1,1,0,30/06/20
-Michoacán,Tarímbaro,2,2,0,0,30/06/20
-Morelos,Jantetelco,1,1,0,0,30/06/20
-Oaxaca,Heroica Ciudad De Ejutla De Crespo,2,1,1,0,30/06/20
-Oaxaca,Heroica Ciudad De Huajuapan De León,1,0,1,0,30/06/20
-Puebla,San Martín Texmelucan,1,0,1,0,30/06/20
-San Luis Potosí,Matehuala,1,1,0,0,30/06/20
-San Luis Potosí,Tamazunchale,1,1,0,0,30/06/20
-Sinaloa,Culiacán,1,0,1,0,30/06/20
-Sonora,Cajeme,1,1,0,0,30/06/20
-Sonora,Hermosillo,1,0,1,0,30/06/20
-Tabasco,Huimanguillo,1,1,0,0,30/06/20
-Tamaulipas,El Mante,1,1,0,0,30/06/20
-Tamaulipas,Reynosa,2,2,0,0,30/06/20
-Veracruz,Isla,1,1,0,0,30/06/20
-Veracruz,Manlio Fabio Altamirano,1,1,0,0,30/06/20
-Yucatán,Mérida,1,1,0,0,30/06/20
-Zacatecas,Cañitas De Felipe Pescador,2,2,0,0,30/06/20
-Zacatecas,Chalchihuites,1,0,0,1,30/06/20
-Zacatecas,General Francisco R. Murguía,2,0,0,2,30/06/20
+Baja California,Ensenada,1,0,1,0,2020-06-30
+Baja California,Tijuana,6,3,1,2,2020-06-30
+Baja California,Mulegé,1,0,1,0,2020-06-30
+Chiapas,Chamula,3,0,3,0,2020-06-30
+Chiapas,Comitán De Domínguez,1,0,1,0,2020-06-30
+Chiapas,Tapachula,1,0,1,0,2020-06-30
+Chihuahua,Chihuahua,7,0,6,1,2020-06-30
+Chihuahua,Juárez,5,4,0,1,2020-06-30
+Ciudad de México,Coyoacán,1,1,0,0,2020-06-30
+Ciudad de México,Iztapalapa,1,1,0,0,2020-06-30
+Colima,Tecomán,2,2,0,0,2020-06-30
+Estado de México,Nicolás Romero,1,1,0,0,2020-06-30
+Guanajuato,Celaya,3,3,0,0,2020-06-30
+Guanajuato,Cortazar,1,1,0,0,2020-06-30
+Guanajuato,León,2,2,0,0,2020-06-30
+Guanajuato,Purísima Del Rincón,1,1,0,0,2020-06-30
+Guanajuato,Salamanca,1,1,0,0,2020-06-30
+Guanajuato,Silao De La Victoria,1,1,0,0,2020-06-30
+Guanajuato,Tarimoro,1,1,0,0,2020-06-30
+Jalisco,Puerto Vallarta,2,2,0,0,2020-06-30
+Jalisco,Tonalá,1,1,0,0,2020-06-30
+Jalisco,Zapopan,1,1,0,0,2020-06-30
+Michoacán,Morelia,2,1,1,0,2020-06-30
+Michoacán,Tarímbaro,2,2,0,0,2020-06-30
+Morelos,Jantetelco,1,1,0,0,2020-06-30
+Oaxaca,Heroica Ciudad De Ejutla De Crespo,2,1,1,0,2020-06-30
+Oaxaca,Heroica Ciudad De Huajuapan De León,1,0,1,0,2020-06-30
+Puebla,San Martín Texmelucan,1,0,1,0,2020-06-30
+San Luis Potosí,Matehuala,1,1,0,0,2020-06-30
+San Luis Potosí,Tamazunchale,1,1,0,0,2020-06-30
+Sinaloa,Culiacán,1,0,1,0,2020-06-30
+Sonora,Cajeme,1,1,0,0,2020-06-30
+Sonora,Hermosillo,1,0,1,0,2020-06-30
+Tabasco,Huimanguillo,1,1,0,0,2020-06-30
+Tamaulipas,El Mante,1,1,0,0,2020-06-30
+Tamaulipas,Reynosa,2,2,0,0,2020-06-30
+Veracruz,Isla,1,1,0,0,2020-06-30
+Veracruz,Manlio Fabio Altamirano,1,1,0,0,2020-06-30
+Yucatán,Mérida,1,1,0,0,2020-06-30
+Zacatecas,Cañitas De Felipe Pescador,2,2,0,0,2020-06-30
+Zacatecas,Chalchihuites,1,0,0,1,2020-06-30
+Zacatecas,General Francisco R. Murguía,2,0,0,2,2020-06-30

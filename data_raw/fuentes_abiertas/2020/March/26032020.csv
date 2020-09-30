@@ -1,46 +1,46 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Tijuana,8,2,5,1,26/03/20
-Campeche,Carmen,1,1,0,0,26/03/20
-Chihuahua,Bocoyna,3,3,0,0,26/03/20
-Chihuahua,Juárez,3,3,0,0,26/03/20
-Ciudad de México,Álvaro Obregón,2,1,1,0,26/03/20
-Ciudad de México,Tlalpan,3,1,2,0,26/03/20
-Colima,Colima,1,1,0,0,26/03/20
-Durango,Mezquital,1,1,0,0,26/03/20
-Guanajuato,Apaseo El Alto,2,0,2,0,26/03/20
-Guanajuato,Comonfort,1,1,0,0,26/03/20
-Guanajuato,León,4,1,0,3,26/03/20
-Guanajuato,Pénjamo,1,1,0,0,26/03/20
-Guanajuato,Salamanca,1,0,1,0,26/03/20
-Guanajuato,Valle De Santiago,1,0,0,1,26/03/20
-Guerrero,Acapulco De Juárez,4,2,1,1,26/03/20
-Guerrero,Ayutla De Los Libres,1,1,0,0,26/03/20
-Guerrero,Chilpancingo De Los Bravo,1,1,0,0,26/03/20
-Guerrero,Taxco De Alarcón,1,0,1,0,26/03/20
-Jalisco,San Pedro Tlaquepaque,3,2,1,0,26/03/20
-Jalisco,Zapopan,2,2,0,0,26/03/20
-Estado de México,La Paz,1,1,0,0,26/03/20
-Estado de México,Teotihuacán,1,0,1,0,26/03/20
-Michoacán,Uruapan,1,1,0,0,26/03/20
-Michoacán,Zitácuaro,1,1,0,0,26/03/20
-Morelos,Cuernavaca,5,4,1,0,26/03/20
-Morelos,Jiutepec,1,1,0,0,26/03/20
-Morelos,Tlaltizapán De Zapata,1,1,0,0,26/03/20
-Morelos,Yautepec,1,0,1,0,26/03/20
-Nuevo León,Apodaca,1,1,0,0,26/03/20
-Nuevo León,Santa Catarina,1,1,0,0,26/03/20
-Oaxaca,Santa Cruz Xoxocotlán,1,1,0,0,26/03/20
-Puebla,Amozoc,1,0,1,0,26/03/20
-Puebla,Puebla,1,0,0,1,26/03/20
-Quintana Roo,Benito Juárez,2,1,0,1,26/03/20
-San Luis Potosí,Matehuala,1,1,0,0,26/03/20
-Sinaloa,Culiacán,1,1,0,0,26/03/20
-Sonora,Caborca,1,1,0,0,26/03/20
-Sonora,Hermosillo,2,2,0,0,26/03/20
-Tamaulipas,Reynosa,1,0,0,1,26/03/20
-Veracruz,Cosoleacaque,2,2,0,0,26/03/20
-Veracruz,Jáltipan,2,2,0,0,26/03/20
-Veracruz,Minatitlán,1,1,0,0,26/03/20
-Veracruz,Nanchital De Lázaro Cárdenas Del Río,1,0,1,0,26/03/20
-Yucatán,Mérida,1,0,1,0,26/03/20
-Zacatecas,Villa De Cos,1,1,0,0,26/03/20
+Baja California,Tijuana,8,2,5,1,2020-03-26
+Campeche,Carmen,1,1,0,0,2020-03-26
+Chihuahua,Bocoyna,3,3,0,0,2020-03-26
+Chihuahua,Juárez,3,3,0,0,2020-03-26
+Ciudad de México,Álvaro Obregón,2,1,1,0,2020-03-26
+Ciudad de México,Tlalpan,3,1,2,0,2020-03-26
+Colima,Colima,1,1,0,0,2020-03-26
+Durango,Mezquital,1,1,0,0,2020-03-26
+Guanajuato,Apaseo El Alto,2,0,2,0,2020-03-26
+Guanajuato,Comonfort,1,1,0,0,2020-03-26
+Guanajuato,León,4,1,0,3,2020-03-26
+Guanajuato,Pénjamo,1,1,0,0,2020-03-26
+Guanajuato,Salamanca,1,0,1,0,2020-03-26
+Guanajuato,Valle De Santiago,1,0,0,1,2020-03-26
+Guerrero,Acapulco De Juárez,4,2,1,1,2020-03-26
+Guerrero,Ayutla De Los Libres,1,1,0,0,2020-03-26
+Guerrero,Chilpancingo De Los Bravo,1,1,0,0,2020-03-26
+Guerrero,Taxco De Alarcón,1,0,1,0,2020-03-26
+Jalisco,San Pedro Tlaquepaque,3,2,1,0,2020-03-26
+Jalisco,Zapopan,2,2,0,0,2020-03-26
+Estado de México,La Paz,1,1,0,0,2020-03-26
+Estado de México,Teotihuacán,1,0,1,0,2020-03-26
+Michoacán,Uruapan,1,1,0,0,2020-03-26
+Michoacán,Zitácuaro,1,1,0,0,2020-03-26
+Morelos,Cuernavaca,5,4,1,0,2020-03-26
+Morelos,Jiutepec,1,1,0,0,2020-03-26
+Morelos,Tlaltizapán De Zapata,1,1,0,0,2020-03-26
+Morelos,Yautepec,1,0,1,0,2020-03-26
+Nuevo León,Apodaca,1,1,0,0,2020-03-26
+Nuevo León,Santa Catarina,1,1,0,0,2020-03-26
+Oaxaca,Santa Cruz Xoxocotlán,1,1,0,0,2020-03-26
+Puebla,Amozoc,1,0,1,0,2020-03-26
+Puebla,Puebla,1,0,0,1,2020-03-26
+Quintana Roo,Benito Juárez,2,1,0,1,2020-03-26
+San Luis Potosí,Matehuala,1,1,0,0,2020-03-26
+Sinaloa,Culiacán,1,1,0,0,2020-03-26
+Sonora,Caborca,1,1,0,0,2020-03-26
+Sonora,Hermosillo,2,2,0,0,2020-03-26
+Tamaulipas,Reynosa,1,0,0,1,2020-03-26
+Veracruz,Cosoleacaque,2,2,0,0,2020-03-26
+Veracruz,Jáltipan,2,2,0,0,2020-03-26
+Veracruz,Minatitlán,1,1,0,0,2020-03-26
+Veracruz,Nanchital De Lázaro Cárdenas Del Río,1,0,1,0,2020-03-26
+Yucatán,Mérida,1,0,1,0,2020-03-26
+Zacatecas,Villa De Cos,1,1,0,0,2020-03-26

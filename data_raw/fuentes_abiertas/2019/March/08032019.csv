@@ -1,45 +1,45 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Chihuahua,Gómez Farías,3,3,0,0,08/03/19
-Chihuahua,Juárez,3,2,1,0,08/03/19
-Ciudad de México,Cuauhtémoc,1,1,0,0,08/03/19
-Ciudad de México,Tláhuac,1,1,0,0,08/03/19
-Coahuila,Francisco I. Madero,1,1,0,0,08/03/19
-Coahuila,Sabinas,1,1,0,0,08/03/19
-Colima,Coquimatlán,4,4,0,0,08/03/19
-Guanajuato,Apaseo El Alto,1,1,0,0,08/03/19
-Guanajuato,León,3,2,1,0,08/03/19
-Guanajuato,Salamanca,9,6,2,1,08/03/19
-Guanajuato,Yuriria,1,1,0,0,08/03/19
-Guerrero,Iguala De La Independencia,1,1,0,0,08/03/19
-Guerrero,Quechultenango,1,0,1,0,08/03/19
-Hidalgo,Huichapan,2,2,0,0,08/03/19
-Jalisco,Guadalajara,2,2,0,0,08/03/19
-Jalisco,Zapopan,2,2,0,0,08/03/19
-Michoacán,Apatzingán,1,1,0,0,08/03/19
-Michoacán,Uruapan,3,3,0,0,08/03/19
-Estado de México,Coacalco De Berriozábal,1,1,0,0,08/03/19
-Estado de México,Ecatepec De Morelos,1,1,0,0,08/03/19
-Estado de México,Metepec,1,0,0,1,08/03/19
-Estado de México,Naucalpan De Juárez,1,1,0,0,08/03/19
-Estado de México,Valle De Chalco Solidaridad,2,2,0,0,08/03/19
-Nayarit,Santiago Ixcuintla,1,1,0,0,08/03/19
-Nuevo León,Ciénega De Flores,1,1,0,0,08/03/19
-Oaxaca,Oaxaca De Juárez,2,0,2,0,08/03/19
-Oaxaca,Salina Cruz,1,1,0,0,08/03/19
-Puebla,Chiautla,1,1,0,0,08/03/19
-Puebla,Puebla,1,1,0,0,08/03/19
-Puebla,Venustiano Carranza,3,2,1,0,08/03/19
-Quintana Roo,Solidaridad,1,1,0,0,08/03/19
-San Luis Potosí,Santa María Del Río,1,1,0,0,08/03/19
-Sinaloa,Culiacán,1,0,0,0,08/03/19
-Sinaloa,Mazatlán,1,0,0,1,08/03/19
-Sonora,Nogales,1,0,1,0,08/03/19
-Tabasco,Cárdenas,1,0,0,1,08/03/19
-Tabasco,Huimanguillo,1,1,0,0,08/03/19
-Tlaxcala,Santa Cruz Quilehtla,1,1,0,0,08/03/19
-Veracruz,Atzacan,1,1,0,0,08/03/19
-Veracruz,Coatzacoalcos,1,1,0,0,08/03/19
-Veracruz,Río Blanco,6,0,0,6,08/03/19
-Veracruz,Xalapa,1,1,0,0,08/03/19
-Zacatecas,Fresnillo,1,0,0,1,08/03/19
-Zacatecas,Guadalupe,2,2,0,0,08/03/19
+Chihuahua,Gómez Farías,3,3,0,0,2019-03-08
+Chihuahua,Juárez,3,2,1,0,2019-03-08
+Ciudad de México,Cuauhtémoc,1,1,0,0,2019-03-08
+Ciudad de México,Tláhuac,1,1,0,0,2019-03-08
+Coahuila,Francisco I. Madero,1,1,0,0,2019-03-08
+Coahuila,Sabinas,1,1,0,0,2019-03-08
+Colima,Coquimatlán,4,4,0,0,2019-03-08
+Guanajuato,Apaseo El Alto,1,1,0,0,2019-03-08
+Guanajuato,León,3,2,1,0,2019-03-08
+Guanajuato,Salamanca,9,6,2,1,2019-03-08
+Guanajuato,Yuriria,1,1,0,0,2019-03-08
+Guerrero,Iguala De La Independencia,1,1,0,0,2019-03-08
+Guerrero,Quechultenango,1,0,1,0,2019-03-08
+Hidalgo,Huichapan,2,2,0,0,2019-03-08
+Jalisco,Guadalajara,2,2,0,0,2019-03-08
+Jalisco,Zapopan,2,2,0,0,2019-03-08
+Michoacán,Apatzingán,1,1,0,0,2019-03-08
+Michoacán,Uruapan,3,3,0,0,2019-03-08
+Estado de México,Coacalco De Berriozábal,1,1,0,0,2019-03-08
+Estado de México,Ecatepec De Morelos,1,1,0,0,2019-03-08
+Estado de México,Metepec,1,0,0,1,2019-03-08
+Estado de México,Naucalpan De Juárez,1,1,0,0,2019-03-08
+Estado de México,Valle De Chalco Solidaridad,2,2,0,0,2019-03-08
+Nayarit,Santiago Ixcuintla,1,1,0,0,2019-03-08
+Nuevo León,Ciénega De Flores,1,1,0,0,2019-03-08
+Oaxaca,Oaxaca De Juárez,2,0,2,0,2019-03-08
+Oaxaca,Salina Cruz,1,1,0,0,2019-03-08
+Puebla,Chiautla,1,1,0,0,2019-03-08
+Puebla,Puebla,1,1,0,0,2019-03-08
+Puebla,Venustiano Carranza,3,2,1,0,2019-03-08
+Quintana Roo,Solidaridad,1,1,0,0,2019-03-08
+San Luis Potosí,Santa María Del Río,1,1,0,0,2019-03-08
+Sinaloa,Culiacán,1,0,0,0,2019-03-08
+Sinaloa,Mazatlán,1,0,0,1,2019-03-08
+Sonora,Nogales,1,0,1,0,2019-03-08
+Tabasco,Cárdenas,1,0,0,1,2019-03-08
+Tabasco,Huimanguillo,1,1,0,0,2019-03-08
+Tlaxcala,Santa Cruz Quilehtla,1,1,0,0,2019-03-08
+Veracruz,Atzacan,1,1,0,0,2019-03-08
+Veracruz,Coatzacoalcos,1,1,0,0,2019-03-08
+Veracruz,Río Blanco,6,0,0,6,2019-03-08
+Veracruz,Xalapa,1,1,0,0,2019-03-08
+Zacatecas,Fresnillo,1,0,0,1,2019-03-08
+Zacatecas,Guadalupe,2,2,0,0,2019-03-08

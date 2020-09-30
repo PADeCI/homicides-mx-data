@@ -168,10 +168,6 @@ Guanajuato,León,1.0,1.0,0.0,0.0,2019-04-04
 Guanajuato,Salamanca,4.0,4.0,0.0,0.0,2019-04-04
 Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2019-04-04
 Hidalgo,Tecozautla,1.0,0.0,1.0,0.0,2019-04-04
-Colima,Atoyac,1.0,1.0,0.0,0.0,2019-04-04
-Colima,Maltrata,1.0,1.0,0.0,0.0,2019-04-04
-Colima,Naranjos Amatlán,1.0,1.0,0.0,0.0,2019-04-04
-Colima,Huejutla De Reyes,1.0,1.0,0.0,0.0,2019-04-04
 Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2019-04-04
 Jalisco,San Pedro Tlaquepaque,1.0,0.0,0.0,1.0,2019-04-04
 Jalisco,Tlajomulco De Zúñiga,4.0,1.0,0.0,3.0,2019-04-04
@@ -192,7 +188,7 @@ Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2019-04-04
 Oaxaca,Loma Bonita,1.0,1.0,0.0,0.0,2019-04-04
 Oaxaca,San Juan Bautista Tuxtepec,1.0,1.0,0.0,0.0,2019-04-04
 Oaxaca,Santiago Juxtlahuaca,1.0,1.0,0.0,0.0,2019-04-04
-Puebla,Amozoc,1.0,0.0,0.0,0.0,2019-04-04
+Puebla,Amozoc,1.0,0.0,0.0,1.0,2019-04-04
 Puebla,Francisco Z. Mena,1.0,1.0,0.0,0.0,2019-04-04
 Puebla,Huejotzingo,1.0,0.0,1.0,0.0,2019-04-04
 Quintana Roo,Tulum,1.0,1.0,0.0,0.0,2019-04-04
@@ -203,6 +199,10 @@ Tabasco,Huimanguillo,2.0,2.0,0.0,0.0,2019-04-04
 Tamaulipas,San Carlos,1.0,1.0,0.0,0.0,2019-04-04
 Tlaxcala,Calpulalpan,1.0,1.0,0.0,0.0,2019-04-04
 Veracruz,Amatlán De Los Reyes,1.0,1.0,0.0,0.0,2019-04-04
+Veracruz,Atoyac,1.0,1.0,0.0,0.0,2019-04-04
+Veracruz,Maltrata,1.0,1.0,0.0,0.0,2019-04-04
+Veracruz,Naranjos Amatlán,1.0,1.0,0.0,0.0,2019-04-04
+Veracruz,Huejutla De Reyes,1.0,1.0,0.0,0.0,2019-04-04
 Baja California,Tijuana,2.0,2.0,0.0,0.0,2019-04-05
 Chiapas,Villaflores,1.0,1.0,0.0,0.0,2019-04-05
 Chihuahua,Juárez,8.0,8.0,0.0,0.0,2019-04-05
@@ -387,8 +387,8 @@ Guanajuato,Yuriria,1.0,1.0,0.0,0.0,2019-04-09
 Guerrero,Petatlán,1.0,1.0,0.0,0.0,2019-04-09
 Guerrero,Teloloapan,1.0,1.0,0.0,0.0,2019-04-09
 Guerrero,Tlapa De Comonfort,4.0,0.0,0.0,4.0,2019-04-09
-Hidalgo,Jacala De Ledezma,1.0,0.0,0.0,0.0,2019-04-09
-Hidalgo,Nopala De Villagrán,1.0,0.0,0.0,0.0,2019-04-09
+Hidalgo,Jacala De Ledezma,1.0,0.0,0.0,1.0,2019-04-09
+Hidalgo,Nopala De Villagrán,1.0,1.0,0.0,0.0,2019-04-09
 Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2019-04-09
 Jalisco,Tlajomulco De Zúñiga,1.0,0.0,0.0,1.0,2019-04-09
 Jalisco,Tonalá,3.0,3.0,0.0,0.0,2019-04-09
@@ -467,8 +467,7 @@ Tamaulipas,Reynosa,1.0,0.0,1.0,0.0,2019-04-10
 Veracruz,Agua Dulce,1.0,1.0,0.0,0.0,2019-04-10
 Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2019-04-10
 Veracruz,Río Blanco,2.0,1.0,1.0,0.0,2019-04-10
-Zacatecas,Aguascalientes,1.0,0.0,0.0,0.0,2019-04-10
-Zacatecas,Zacatecas,1.0,0.0,1.0,0.0,2019-04-10
+Zacatecas,Zacatecas,2.0,1.0,1.0,0.0,2019-04-10
 Aguascalientes,Aguascalientes,2.0,2.0,0.0,0.0,2019-04-11
 Baja California,Tijuana,5.0,4.0,1.0,0.0,2019-04-11
 Chiapas,Huehuetán,1.0,1.0,0.0,0.0,2019-04-11

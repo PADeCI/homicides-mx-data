@@ -1,53 +1,53 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Baja California,Tijuana,4,4,0,0,05/02/19
-Chiapas,Tonalá,1,0,1,0,05/02/19
-Chihuahua,Juárez,1,1,0,0,05/02/19
-Ciudad de México,Coyoacán,1,1,0,0,05/02/19
-Colima,Colima,1,1,0,0,05/02/19
-Colima,Tecomán,19,0,0,19,05/02/19
-Guanajuato,Abasolo,3,2,0,1,05/02/19
-Guanajuato,Guanajuato,1,1,0,0,05/02/19
-Guanajuato,Irapuato,2,0,2,0,05/02/19
-Guanajuato,Salamanca,1,0,1,0,05/02/19
-Guanajuato,Salvatierra,1,0,0,1,05/02/19
-Guanajuato,Valle De Santiago,6,6,0,0,05/02/19
-Guerrero,Acapulco De Juárez,3,2,0,1,05/02/19
-Guerrero,Chilpancingo De Los Bravo,2,1,0,1,05/02/19
-Guerrero,Tepecoacuilco De Trujano,1,1,0,0,05/02/19
-Guerrero,Técpan De Galeana,1,1,0,0,05/02/19
-Guerrero,Zihuatanejo De Azueta,2,2,0,0,05/02/19
-Jalisco,Encarnación De Díaz,2,2,0,0,05/02/19
-Jalisco,Guadalajara,2,2,0,0,05/02/19
-Jalisco,Lagos De Moreno,2,0,0,2,05/02/19
-Jalisco,Tonalá,2,2,0,0,05/02/19
-Jalisco,Zapopan,1,1,0,0,05/02/19
-Michoacán,Apatzingán,1,0,0,1,05/02/19
-Michoacán,Morelia,1,0,1,0,05/02/19
-Michoacán,Uruapan,1,1,0,0,05/02/19
-Michoacán,Zamora,1,1,0,0,05/02/19
-Morelos,Emiliano Zapata,2,0,0,2,05/02/19
-Morelos,Puente De Ixtla,1,1,0,0,05/02/19
-Morelos,Xochitepec,1,1,0,0,05/02/19
-Morelos,Yautepec,1,1,0,0,05/02/19
-Nuevo León,General Escobedo,1,1,0,0,05/02/19
-Nuevo León,Monterrey,1,0,0,1,05/02/19
-Nuevo León,San Nicolás De Los Garza,2,2,0,0,05/02/19
-Oaxaca,San Juan Bautista Tuxtepec,1,1,0,0,05/02/19
-Puebla,Acatzingo,1,1,0,0,05/02/19
-Puebla,Puebla,2,1,1,0,05/02/19
-Quintana Roo,Benito Juárez,4,2,1,1,05/02/19
-Quintana Roo,Solidaridad,1,1,0,0,05/02/19
-San Luis Potosí,San Vicente Tancuayalab,1,1,0,0,05/02/19
-Sinaloa,Culiacán,1,1,0,0,05/02/19
-Sinaloa,Mazatlán,1,1,0,0,05/02/19
-Sonora,Guaymas,2,2,0,0,05/02/19
-Tabasco,Centro,2,2,0,0,05/02/19
-Tabasco,Cárdenas,1,1,0,0,05/02/19
-Tamaulipas,Victoria,3,3,0,0,05/02/19
-Veracruz,Cosoleacaque,1,1,0,0,05/02/19
-Veracruz,Fortín,1,1,0,0,05/02/19
-Veracruz,Las Choapas,2,2,0,0,05/02/19
-Veracruz,Papantla,1,1,0,0,05/02/19
-Zacatecas,Guadalupe,1,1,0,0,05/02/19
-Zacatecas,Pinos,4,0,0,4,05/02/19
-Zacatecas,Zacatecas,2,1,0,1,05/02/19
+Baja California,Tijuana,4,4,0,0,2019-02-05
+Chiapas,Tonalá,1,0,1,0,2019-02-05
+Chihuahua,Juárez,1,1,0,0,2019-02-05
+Ciudad de México,Coyoacán,1,1,0,0,2019-02-05
+Colima,Colima,1,1,0,0,2019-02-05
+Colima,Tecomán,19,0,0,19,2019-02-05
+Guanajuato,Abasolo,3,2,0,1,2019-02-05
+Guanajuato,Guanajuato,1,1,0,0,2019-02-05
+Guanajuato,Irapuato,2,0,2,0,2019-02-05
+Guanajuato,Salamanca,1,0,1,0,2019-02-05
+Guanajuato,Salvatierra,1,0,0,1,2019-02-05
+Guanajuato,Valle De Santiago,6,6,0,0,2019-02-05
+Guerrero,Acapulco De Juárez,3,2,0,1,2019-02-05
+Guerrero,Chilpancingo De Los Bravo,2,1,0,1,2019-02-05
+Guerrero,Tepecoacuilco De Trujano,1,1,0,0,2019-02-05
+Guerrero,Técpan De Galeana,1,1,0,0,2019-02-05
+Guerrero,Zihuatanejo De Azueta,2,2,0,0,2019-02-05
+Jalisco,Encarnación De Díaz,2,2,0,0,2019-02-05
+Jalisco,Guadalajara,2,2,0,0,2019-02-05
+Jalisco,Lagos De Moreno,2,0,0,2,2019-02-05
+Jalisco,Tonalá,2,2,0,0,2019-02-05
+Jalisco,Zapopan,1,1,0,0,2019-02-05
+Michoacán,Apatzingán,1,0,0,1,2019-02-05
+Michoacán,Morelia,1,0,1,0,2019-02-05
+Michoacán,Uruapan,1,1,0,0,2019-02-05
+Michoacán,Zamora,1,1,0,0,2019-02-05
+Morelos,Emiliano Zapata,2,0,0,2,2019-02-05
+Morelos,Puente De Ixtla,1,1,0,0,2019-02-05
+Morelos,Xochitepec,1,1,0,0,2019-02-05
+Morelos,Yautepec,1,1,0,0,2019-02-05
+Nuevo León,General Escobedo,1,1,0,0,2019-02-05
+Nuevo León,Monterrey,1,0,0,1,2019-02-05
+Nuevo León,San Nicolás De Los Garza,2,2,0,0,2019-02-05
+Oaxaca,San Juan Bautista Tuxtepec,1,1,0,0,2019-02-05
+Puebla,Acatzingo,1,1,0,0,2019-02-05
+Puebla,Puebla,2,1,1,0,2019-02-05
+Quintana Roo,Benito Juárez,4,2,1,1,2019-02-05
+Quintana Roo,Solidaridad,1,1,0,0,2019-02-05
+San Luis Potosí,San Vicente Tancuayalab,1,1,0,0,2019-02-05
+Sinaloa,Culiacán,1,1,0,0,2019-02-05
+Sinaloa,Mazatlán,1,1,0,0,2019-02-05
+Sonora,Guaymas,2,2,0,0,2019-02-05
+Tabasco,Centro,2,2,0,0,2019-02-05
+Tabasco,Cárdenas,1,1,0,0,2019-02-05
+Tamaulipas,Victoria,3,3,0,0,2019-02-05
+Veracruz,Cosoleacaque,1,1,0,0,2019-02-05
+Veracruz,Fortín,1,1,0,0,2019-02-05
+Veracruz,Las Choapas,2,2,0,0,2019-02-05
+Veracruz,Papantla,1,1,0,0,2019-02-05
+Zacatecas,Guadalupe,1,1,0,0,2019-02-05
+Zacatecas,Pinos,4,0,0,4,2019-02-05
+Zacatecas,Zacatecas,2,1,0,1,2019-02-05

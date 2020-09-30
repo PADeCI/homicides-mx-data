@@ -1,45 +1,45 @@
 Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
-Aguascalientes,Rincón De Romos,1,1,0,0,13/05/20
-Baja California,Tijuana,6,2,1,3,13/05/20
-Baja California Sur,La Paz,1,1,0,0,13/05/20
-Chihuahua,Chihuahua,3,3,0,0,13/05/20
-Chihuahua,Cuauhtémoc,4,4,0,0,13/05/20
-Chihuahua,Juárez,2,2,0,0,13/05/20
-Guanajuato,León,3,3,0,0,13/05/20
-Guanajuato,Purísima Del Rincón,1,1,0,0,13/05/20
-Guanajuato,Romita,1,1,0,0,13/05/20
-Guanajuato,San José Iturbide,2,2,0,0,13/05/20
-Guerrero,Acapulco De Juárez,2,2,0,0,13/05/20
-Guerrero,Iguala De La Independencia,1,1,0,0,13/05/20
-Guerrero,Zihuatanejo De Azueta,1,1,0,0,13/05/20
-Guerrero,Xochistlahuaca,1,1,0,0,13/05/20
-Hidalgo,Tepeji Del Río De Ocampo,1,1,0,0,13/05/20
-Morelos,Xochistlahuaca,1,1,0,0,13/05/20
-Jalisco,San Pedro Tlaquepaque,1,1,0,0,13/05/20
-Jalisco,Tlajomulco De Zúñiga,2,2,0,0,13/05/20
-Jalisco,Zapopan,2,1,1,0,13/05/20
-Michoacán,Coalcomán De Vázquez Pallares,1,1,0,0,13/05/20
-Michoacán,Zamora,2,0,2,0,13/05/20
-Morelos,Cuernavaca,2,1,0,1,13/05/20
-Morelos,Temixco,1,1,0,0,13/05/20
-Estado de México,Chalco,2,2,0,0,13/05/20
-Estado de México,Tlalnepantla De Baz,1,1,0,0,13/05/20
-Estado de México,Zumpango,1,1,0,0,13/05/20
-Nuevo León,Monterrey,1,1,0,0,13/05/20
-Nuevo León,Santa Catarina,2,2,0,0,13/05/20
-Oaxaca,Oaxaca De Juárez,1,1,0,0,13/05/20
-Oaxaca,Salina Cruz,1,1,0,0,13/05/20
-Oaxaca,Santa María Zacatepec,1,1,0,0,13/05/20
-Puebla,Chiconcuautla,1,0,1,0,13/05/20
-Puebla,Puebla,2,2,0,0,13/05/20
-Quintana Roo,Benito Juárez,1,0,0,1,13/05/20
-San Luis Potosí,Soledad De Graciano Sánchez,1,1,0,0,13/05/20
-San Luis Potosí,Villa Juárez,1,1,0,0,13/05/20
-Sinaloa,Culiacán,3,3,0,0,13/05/20
-Sonora,Cajeme,1,1,0,0,13/05/20
-Sonora,Guaymas,1,1,0,0,13/05/20
-Tlaxcala,Ixtacuixtla De Mariano Matamoros,1,0,1,0,13/05/20
-Veracruz,Nanchital De Lázaro Cárdenas Del Río,1,1,0,0,13/05/20
-Veracruz,Tezonapa,2,2,0,0,13/05/20
-Zacatecas,Fresnillo,1,1,0,0,13/05/20
-Zacatecas,Villanueva,1,1,0,0,13/05/20
+Aguascalientes,Rincón De Romos,1,1,0,0,2020-05-13
+Baja California,Tijuana,6,2,1,3,2020-05-13
+Baja California Sur,La Paz,1,1,0,0,2020-05-13
+Chihuahua,Chihuahua,3,3,0,0,2020-05-13
+Chihuahua,Cuauhtémoc,4,4,0,0,2020-05-13
+Chihuahua,Juárez,2,2,0,0,2020-05-13
+Guanajuato,León,3,3,0,0,2020-05-13
+Guanajuato,Purísima Del Rincón,1,1,0,0,2020-05-13
+Guanajuato,Romita,1,1,0,0,2020-05-13
+Guanajuato,San José Iturbide,2,2,0,0,2020-05-13
+Guerrero,Acapulco De Juárez,2,2,0,0,2020-05-13
+Guerrero,Iguala De La Independencia,1,1,0,0,2020-05-13
+Guerrero,Zihuatanejo De Azueta,1,1,0,0,2020-05-13
+Guerrero,Xochistlahuaca,1,1,0,0,2020-05-13
+Hidalgo,Tepeji Del Río De Ocampo,1,1,0,0,2020-05-13
+Morelos,Xochistlahuaca,1,1,0,0,2020-05-13
+Jalisco,San Pedro Tlaquepaque,1,1,0,0,2020-05-13
+Jalisco,Tlajomulco De Zúñiga,2,2,0,0,2020-05-13
+Jalisco,Zapopan,2,1,1,0,2020-05-13
+Michoacán,Coalcomán De Vázquez Pallares,1,1,0,0,2020-05-13
+Michoacán,Zamora,2,0,2,0,2020-05-13
+Morelos,Cuernavaca,2,1,0,1,2020-05-13
+Morelos,Temixco,1,1,0,0,2020-05-13
+Estado de México,Chalco,2,2,0,0,2020-05-13
+Estado de México,Tlalnepantla De Baz,1,1,0,0,2020-05-13
+Estado de México,Zumpango,1,1,0,0,2020-05-13
+Nuevo León,Monterrey,1,1,0,0,2020-05-13
+Nuevo León,Santa Catarina,2,2,0,0,2020-05-13
+Oaxaca,Oaxaca De Juárez,1,1,0,0,2020-05-13
+Oaxaca,Salina Cruz,1,1,0,0,2020-05-13
+Oaxaca,Santa María Zacatepec,1,1,0,0,2020-05-13
+Puebla,Chiconcuautla,1,0,1,0,2020-05-13
+Puebla,Puebla,2,2,0,0,2020-05-13
+Quintana Roo,Benito Juárez,1,0,0,1,2020-05-13
+San Luis Potosí,Soledad De Graciano Sánchez,1,1,0,0,2020-05-13
+San Luis Potosí,Villa Juárez,1,1,0,0,2020-05-13
+Sinaloa,Culiacán,3,3,0,0,2020-05-13
+Sonora,Cajeme,1,1,0,0,2020-05-13
+Sonora,Guaymas,1,1,0,0,2020-05-13
+Tlaxcala,Ixtacuixtla De Mariano Matamoros,1,0,1,0,2020-05-13
+Veracruz,Nanchital De Lázaro Cárdenas Del Río,1,1,0,0,2020-05-13
+Veracruz,Tezonapa,2,2,0,0,2020-05-13
+Zacatecas,Fresnillo,1,1,0,0,2020-05-13
+Zacatecas,Villanueva,1,1,0,0,2020-05-13
