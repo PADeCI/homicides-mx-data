@@ -19,11 +19,14 @@ library(grid)           # For table generation
 library(gridExtra)      # For table manipulation
 library(pander)         # For table reading 
 library(captioner)      # For table and figure labels
-
+library(tibble)
+library(ggplot2)
 
 # Clean the workspace
 rm(list = ls()) 
 
+# Create table theme (tth) for gridExtra, tables 
+tth <- ttheme_default()
 
 # 01. Load data ----------------------------------------------------------------
 # 01.1 Interinstitutional group (SSCP) -----------------------------------------
@@ -77,71 +80,177 @@ df_nation_names_gpo <- df_nation_m_gpo                          %>%
         rename("Year" = year, "Month" = month, "Homicides" = cases,       
                 "Monthly homicide rate" = mort_rate)
 
-# Render table
-pander(df_nation_names_gpo)
+# Convert tables into grid graphics (gridExtra's format)
+tab_nation_gpo <- tableGrob(df_nation_names_gpo[,], 
+        rows = NULL, 
+        theme = tth)
+
+t <- grid.arrange(tab_nation_gpo)               # Render table
+ggsave("figs/tab_nation_year_totals_gpo.jpg", 
+        plot = t, width = 5, height = 6)      # Save table
+
 
 
 # 02.1.2 National homicides by year (descriptive statistics with total homicides)
 df_nation_m_gpo <- slice(df_nation_m_gpo, 1:16) # Drop August 2020
 df_nation_stats_gpo <- df_nation_m_gpo                          %>%
         group_by(year)                                          %>% 
-        summarise("Lowest number of homicides in a single month" = min(cases), 
-                 "Highest number of homicides in a single month" = max(cases), 
-                "Average number of homicides" = mean(cases), 
-                "Std. Deviation" = sd(cases))                   %>% 
+        summarise("Lowest number\nof homicides in\na single month" = min(cases), 
+                 "Highest number\nof homicides in\na single month" = max(cases), 
+                "Average number\nof homicides" = round(mean(cases), 1), 
+                "Standard\nDeviation" = round(sd(cases), 1))                   %>% 
         rename("Year" = year) 
 
 # Render table
-pander(df_nation_stats_gpo, split.table = Inf)
+tab_nation_stats_gpo <- tableGrob(df_nation_stats_gpo, rows = NULL, theme = tth)
+t <- grid.arrange(tab_nation_stats_gpo) # Render table
+ggsave("figs/table_nation_stats_gpo.jpg", plot = t, width = 6, height = 1.5) # Save table
 
 # 02.1.3 National homicides by year (descriptive statistics with homicide rate)
 df_nation_stats_rate_gpo <- df_nation_m_gpo                     %>%
         group_by(year)                                          %>% 
-        summarise("Lowest homicide rate in a single month" = min(mort_rate),
-                "Highest homicide rate in a single month" = max(mort_rate), 
-                "Average mortality rate" =       mean(mort_rate), 
-                "Std. Deviation" = sd(mort_rate))               %>% 
+        summarise("Lowest homicide\nrate in a single\nmonth" = min(mort_rate),
+                "Highest homicide\nrate in a single\nmonth" = max(mort_rate), 
+                "Average\nmortality rate" = round(mean(mort_rate), 1), 
+                "Standard\nDeviation" = round(sd(mort_rate), 1))               %>% 
         rename("Year" = year)
 
 # Render of table
-pander(df_nation_stats_rate_gpo, split.table = Inf)
+tab_nation_stats_rate_gpo <- tableGrob(df_nation_stats_rate_gpo, rows = NULL, theme =tth)
+t <- grid.arrange(tab_nation_stats_rate_gpo)
+ggsave("figs/tab_nation_stats_rate_gpo.jpg", plot = t, width = 6, height = 1.5)
 
 # 02.2 State level homicides (gpo. interinst.)----------------------------------
 # 02.2.1 State level homicides by year 
 df_st_y_gpo <- df_state_y_gpo                                   %>% 
         select(state, year, cases, mort_rate)                   %>% 
-        arrange(state, year)                                    %>% 
-        rename("State" = state, 
-                "Year" = year, 
-                "Homicides" = cases, 
-                "Homicide rate" = mort_rate)  
+        arrange(state, year)                                    
 
-# Render table 
-pander(df_st_y_gpo, split.table = Inf)
+ 
+# 02.2.1.1 Format table for report ---------------------------------------------
 
-# Change headers (make 2019 and 2020 headers)
-tab       <- tableGrob(d = df_st_y_gpo, rows = NULL)
-header    <- tableGrob(d = df_st_y_gpo[1, 3:4], rows = NULL, cols=c("2019", "2020"))
-jn        <- gtable_combine(header[1,], tab, along=2)
-jn$widths <- rep(max(jn$widths), length(jn$widths))
+# Filter by year and change columns' headers
+df_st_y_gpo_2019 <- df_state_y_gpo                              %>% 
+        filter(year == 2019)                                    %>% 
+        select(state, cases, mort_rate)                         %>% 
+        column_to_rownames("state")                             %>% 
+        rename("Homicides" = cases, 
+               "Homicide rate" = mort_rate) 
 
-# change the relevant rows of gtable
-jn$layout[1:4 , c("l", "r")] <- list(c(1, 3), c(2, 4))
-grid.newpage()
-grid.draw(jn)
+
+df_st_y_gpo_2020 <- df_state_y_gpo                              %>% 
+        filter(year == 2020)                                    %>% 
+        select(state, cases, mort_rate)                         %>% 
+        column_to_rownames("state")                             %>% 
+        rename("Homicides" = cases, 
+                "Homicide rate" = mort_rate) 
+
+
+# Convert tables into grid graphics (gridExtra's format)
+tab_2019 <- tableGrob(df_st_y_gpo_2019, 
+        rows = rownames(df_st_y_gpo_2019), 
+        theme = tth)
+
+tab_2020 <- tableGrob(df_st_y_gpo_2020, 
+        rows = NULL, 
+        theme = tth) # we don't want to repeat the states names
+
+# Create headers
+header_2019 <- tableGrob(df_st_y_gpo_2019[1, 1:2], 
+        rows = NULL, 
+        cols = c("2019", "2019"), 
+        theme = tth)
+
+header_2020 <- tableGrob(df_st_y_gpo_2019[1, 1:2], 
+        rows = NULL, 
+        cols = c("2020", "2020"), 
+        theme = tth)
+
+# Paste headers tables 
+tab_head_2019 <- gtable_combine(header_2019[1,], tab_2019, along = 2)
+tab_head_2020 <- gtable_combine(header_2020[1,], tab_2020, along = 2)
+
+# Make columns widths equal 
+tab_head_2019$widths <- rep(max(tab_head_2019$widths), length(tab_head_2019$widths))
+tab_head_2020$widths <- rep(max(tab_head_2020$widths), length(tab_head_2020$widths))
+
+# Correct positioning of the headers
+tab_head_2019$layout[1:4, c("l", "r")] <- list(c(2), c(3))
+tab_head_2020$layout[1:4, c("l", "r")] <- list(c(1), c(2)) # Number are different since we don't have a rowname column
+
+# Combine table
+tab_head_2019_2020 <- gtable_cbind(tab_head_2019, tab_head_2020)
+
+# Render table
+t <- grid.arrange(tab_head_2019_2020)
+
+# Save table
+ggsave("figs/tab_state_year_totals_os.jpg", plot = t, width = 8, height = 11)
+
 
 
 # 02.2.2 State homicides by year (descriptive statistics with total homicides)
 df_states_stats_cases_gpo <- df_state_m_gpo                     %>% 
         group_by(state, year)                                   %>% 
-        summarise("Lowest homicide rate in a single month" = min(mort_rate), 
-                "Highest homicide rate in a single month" = max(mort_rate), 
-                "Average mortality rate" = mean(mort_rate), 
-                "Std. Deviation" = sd(mort_rate))               %>% 
+        summarise("Lowest homicide\nrate in a single\nmonth" = min(mort_rate),
+                  "Highest homicide\nrate in a single\nmonth" = max(mort_rate), 
+                  "Average\nmortality rate" = round(mean(mort_rate), 1), 
+                  "Standard\nDeviation" = round(sd(mort_rate), 1)) %>% 
         rename("State" = state, "Year" = year)
 
+# 02.2.2.1 Format table for report ---------------------------------------------
+
+# Filter by year and change columns' headers
+df_states_stats_2019 <- df_states_stats_cases_gpo               %>% 
+        filter(Year == 2019)                                    %>% 
+        column_to_rownames("State")                             %>% 
+        select(-Year)
+
+df_states_stats_2020 <- df_states_stats_cases_gpo               %>% 
+        filter(Year == 2020)                                    %>% 
+        column_to_rownames("State")                             %>% 
+        select(-Year)
+
+
+# Convert tables into grid graphics (gridExtra's format)
+tab_2019 <- tableGrob(df_states_stats_2019, 
+        rows = rownames(df_states_stats_2019), 
+        theme = tth)
+
+tab_2020 <- tableGrob(df_states_stats_2020, 
+        rows = NULL, 
+        theme = tth) # we don't want to repeat the states names
+
+# Create headers
+header_2019 <- tableGrob(df_states_stats_2019[1, 1:2], 
+        rows = NULL, 
+        cols = c("2019", "2019"), 
+        theme = tth)
+
+header_2020 <- tableGrob(df_states_stats_2020[1, 1:2], 
+        rows = NULL, 
+        cols = c("2020", "2020"), 
+        theme = tth)
+
+# Paste headers tables 
+tab_head_2019 <- gtable_combine(header_2019[1,], tab_2019, along = 2)
+tab_head_2020 <- gtable_combine(header_2020[1,], tab_2020, along = 2)
+
+# Make columns widths equal 
+tab_head_2019$widths <- rep(max(tab_head_2019$widths), length(tab_head_2019$widths))
+tab_head_2020$widths <- rep(max(tab_head_2020$widths), length(tab_head_2020$widths))
+
+# Correct positioning of the headers
+tab_head_2019$layout[1:4, c("l", "r")] <- list(c(2), c(5))
+tab_head_2020$layout[1:4, c("l", "r")] <- list(c(1), c(4)) # Number are different since we don't have a rowname column
+
+# Combine table
+tab_head_2019_2020 <- gtable_cbind(tab_head_2019, tab_head_2020)
+
+
 # Render table 
-pander(df_states_stats_cases_gpo, split.table = Inf)
+t <- grid.arrange(tab_head_2019_2020)        
+ggsave("figs/tab_state_year_stats_cases_gpo.jpg", plot = t, width = 14, height = 12) 
 
 
 # 03. Descriptive statistics from the Open Sources data ------------------------
@@ -156,8 +265,9 @@ df_nation_y_os <- df_state_m_os                                         %>%
         rename("Year" = year)
 
 # Render table 
-pander(df_nation_y_os)
-
+tab_nation_y_os <- tableGrob(df_nation_y_os, row = NULL)
+t <- grid.arrange(tab_nation_y_os)
+ggsave("figs/tab_nation_year_os.jpg", plot = t, width = 5, height = 1)
 
 # 03.2 State level homicides (open sources) ------------------------------------
 # 03.2.1 State homicides by year (disaggregated by gender)
@@ -169,21 +279,77 @@ df_state_year_os <- df_state_m_os                                       %>%
                 "Non identified" = sum(no_identificado, na.rm = T))     %>% 
         rename("State" = state, "Year" = year)
 
+# 02.2.2.1 Format table for report ---------------------------------------------
+
+# Filter by year and change columns' headers
+df_state_year_2019 <- df_state_year_os %>% 
+        filter(Year == 2019) %>% 
+        select(-Year) %>% 
+        column_to_rownames("State")
+        
+
+df_state_year_2020 <- df_state_year_os %>% 
+        filter(Year == 2020) %>% 
+        select(-Year) %>% 
+        column_to_rownames("State")
+        
+
+# Convert tables into grid graphics (gridExtra's format)
+tab_2019 <- tableGrob(df_state_year_2019, 
+        rows = rownames(df_state_year_2019), 
+        theme = tth)
+
+tab_2020 <- tableGrob(df_state_year_2020, 
+        rows = NULL, 
+        theme = tth) # we don't want to repeat the states names
+
+# Create headers
+header_2019 <- tableGrob(df_state_year_2019[1, 1:2], 
+        rows = NULL, 
+        cols = c("2019", "2019"), 
+        theme = tth)
+
+header_2020 <- tableGrob(df_state_year_2020[1, 1:2], 
+        rows = NULL, 
+        cols = c("2020", "2020"), 
+        theme = tth)
+
+# Paste headers tables 
+tab_head_2019 <- gtable_combine(header_2019[1,], tab_2019, along = 2)
+tab_head_2020 <- gtable_combine(header_2020[1,], tab_2020, along = 2)
+
+# Make columns widths equal 
+tab_head_2019$widths <- rep(max(tab_head_2019$widths), length(tab_head_2019$widths))
+tab_head_2020$widths <- rep(max(tab_head_2020$widths), length(tab_head_2020$widths))
+
+# Correct positioning of the headers
+tab_head_2019$layout[1:4, c("l", "r")] <- list(c(2), c(5))
+tab_head_2020$layout[1:4, c("l", "r")] <- list(c(1), c(4)) # Number are different since we don't have a rowname column
+
+# Combine table
+tab_head_2019_2020 <- gtable_cbind(tab_head_2019, tab_head_2020)
+
+
 # Render table 
-pander(df_state_year_os, split.table = Inf)
+t <- grid.arrange(tab_head_2019_2020)
+ggsave("figs/tab_state_year_os.jpg", plot = t, width = 15, height = 11)
+
+
 
 # 03.2.2 State homicides by year (descriptive statistics with total homicides)
 df_state_year_stats_os <- df_state_m_os                                 %>% 
         group_by(state, year)                                           %>% 
         group_by(year)                                                  %>% 
-        summarise("Lowest number of homicides in a single month" = min(homicidios), 
-                "Highest number of homicides in a single month" = max(homicidios), 
-                "Average number of homicides" =  mean(homicidios), 
-                "Std. Deviation" = sd(homicidios))                      %>% 
+        summarise("Lowest number\nof homicides in\na single month" = min(homicidios), 
+                "Highest number\nof homicides in\na single month" = max(homicidios), 
+                "Average number\nof homicides" =  round(mean(homicidios), 1), 
+                "Stdandard\nDeviation" = round(sd(homicidios), 1))                      %>% 
         rename("Year" = year)
 
 # Render table 
-pander(df_state_year_stats, split.table = Inf)
+tab_state_year_stats_os <- tableGrob(df_state_year_stats_os, row = NULL)
+t <- grid.arrange(tab_state_year_stats_os)
+ggsave("figs/tab_state_year_stats_os.jpg", plot = t, width = 6, height = 1.5)
 
 # 04. Comparison between SSCP sources ------------------------------------------
 df_gpo_state_m <- df_state_m_gpo                                        %>% 
@@ -232,8 +398,8 @@ df_combined_sources_national_y <- df_gpo_national_y                     %>%
         left_join(df_fuentes_national_y, by = "year")                   %>% 
         select(year, homicides_gpo, homicides_fuentes)                  %>% 
         rename("Year" = year, 
-                "Homicides reported by Gpo. Inter." = homicides_gpo, 
-                "Homicides reported by newspapers" = homicides_fuentes)
+                "Homicides reported\nby Inter. Group" = homicides_gpo, 
+                "Homicides reported\nby newspapers" = homicides_fuentes)
 
 df_combined_sources_national_m <- df_gpo_national_m                     %>% 
         left_join(df_fuentes_national_m, by = c("year", "month_n"))     %>% 
@@ -241,37 +407,26 @@ df_combined_sources_national_m <- df_gpo_national_m                     %>%
         select(year, month, homicides_gpo, homicides_fuentes)           %>% 
         rename("Year" = year, 
                 "Month" = month, 
-                "Homicides reported by Gpo. Inter." = homicides_gpo, 
-                "Homicides reported by newspapers" = homicides_fuentes)
+                "Homicides reported\nby Inter. Group" = homicides_gpo, 
+                "Homicides reported\nby newspapers" = homicides_fuentes)
 
 df_combined_sources_national_m  %>% 
         filter(is.na(Month) == F) 
 
-# Render tables 
+# Render tables with pander
 pander(df_combined_sources_national_y)
 pander(df_combined_sources_national_m)
 
+# Render table 
+tab_nation_year_combined <- tableGrob(df_combined_sources_national_y, rows = NULL)
+t <- grid.arrange(tab_nation_year_combined)
+ggsave("figs/tab_nation_year_combined.jpg", plot = t, width = 4.5, height = 1)
 
+# Render table
+tab_nation_month_combined <- tableGrob(df_combined_sources_national_m, rows = NULL)
+t <- grid.arrange(tab_nation_month_combined)
+ggsave("figs/tab_nation_month_combined.jpg", plot = t, width = 5, height = 6)
 
 # 05. Comparison with INEGI data -----------------------------------------------
 
-
-
-
-#### EXAMPLE OF TABLES WITH GRIDEXTRA ####
-library(grid)           # For table generation
-library(gridExtra)
-
-# example data & header row
-tab <- tableGrob(mtcars[1:3, 1:4], rows=NULL)
-header <- tableGrob(mtcars[1, 1:2], rows=NULL, cols=c("head1", "head2")) 
-jn <- gtable_combine(header[1,], tab, along=2)
-jn$widths <- rep(max(jn$widths), length(jn$widths)) # make column widths equal
-
-#grid.newpage()
-#grid.draw(jn) # see what it looks like before altering gtable
-# change the relevant rows of gtable
-jn$layout[1:4 , c("l", "r")] <- list(c(1, 3), c(2, 4))
-grid.newpage()
-grid.draw(jn)
 
