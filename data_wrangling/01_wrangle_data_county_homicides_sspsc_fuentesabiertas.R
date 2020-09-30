@@ -26,7 +26,7 @@ rm(list = ls())
 # 01. Load Data ----------------------------------------------------------------
 
 # Population data at county level 
-load("~/GitHub/homicides-mx-data/data_raw/df_pop_county_2019_2020.Rdata")
+load("./data_raw/df_pop_county_2019_2020.Rdata")
 
 # Homicide data from open sources (newspapers)
 df_homicides_open <- read.csv("data_raw/fuentes_abiertas/2019_2020/df_homicides_daily_2019_2020_sspc_fuentesabiertas.csv", 
