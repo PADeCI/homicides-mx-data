@@ -16,6 +16,7 @@ library(dplyr)
 library(readr)
 library(lubridate)
 library(repmis) # For exporting data from GitHub
+library(forcats)
 
 # Clean the workspace
 rm(list = ls()) 
@@ -35,15 +36,51 @@ load("~/GitHub/homicides-mx-data/data/gpo_interinstitucional/df_homicides_state_
 # Population 
 source_data("https://github.com/PADeCI/demog-mx/blob/master/data/Estatal/df_pop_state.Rdata?raw=true")
 
+# Needed vectors
+v_mes <- c("Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", 
+                "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre")
+
+v_month <- c("January", "February", "March", "April", "May", "June", "July", 
+        "August", "September", "October", "November", "December")
 
 # 02. Create new df for each time unit -----------------------------------------
 
 # 02.1 Data frames at county level (open sources) ------------------------------
 # Create time variables and rename df for simplicity 
-df_dates_county <- df_homicides_fuentesabiertas_county_day %>% 
+df_dates_county <- df_homicides_fuentesabiertas_county_day              %>% 
         mutate("año" = year(fecha), "year" = year(fecha),
                 "mes" = month(fecha), "month" = month(fecha), 
-                "semana" = isoweek(fecha), "week"= isoweek(fecha)) 
+                "semana" = isoweek(fecha), "week"= isoweek(fecha))      %>% 
+        mutate(mes = case_when(mes == 1 ~ "Enero", 
+                                mes == 2 ~ "Febrero", 
+                                mes == 3 ~ "Marzo", 
+                                mes == 4 ~ "Abril", 
+                                mes == 5 ~ "Mayo", 
+                                mes == 6 ~ "Junio", 
+                                mes == 7 ~ "Julio", 
+                                mes == 8 ~ "Agosto", 
+                                mes == 9 ~ "Septiembre", 
+                                mes == 10 ~ "Octubre", 
+                                mes == 11 ~ "Noviembre", 
+                                mes == 12 ~ "Diciembre"))               %>%
+        mutate(month = case_when(month ==  1 ~ "January", 
+                                month == 2 ~ "February", 
+                                month == 3 ~ "March", 
+                                month == 4 ~ "April", 
+                                month == 5 ~ "May", 
+                                month == 6 ~ "June", 
+                                month == 7 ~ "July", 
+                                month == 8 ~ "August", 
+                                month == 9 ~ "September", 
+                                month == 10 ~ "October", 
+                                month == 11 ~ "November", 
+                                month == 12 ~ "December"))               
+        
+df_dates_county <- df_dates_county                                      %>%         
+        mutate(mes = as.factor(mes), month = as.factor(month))          %>% 
+        mutate(mes = fct_inorder(df_dates_county$mes), 
+                month = fct_inorder(df_dates_county$month))
+        
 ## Monthly ##
 df_month_county <- df_dates_county %>%
         group_by(entidad, municipio, county, year, año, month, mes) %>% 
@@ -75,10 +112,40 @@ df_week_county$no_identificado[df_week_county$month == 1 & df_week_county$year =
 
 # 02.2 Data frames at state level (open sources) -------------------------------
 # Create time variables and rename df for simplicity 
-df_dates_state <- df_homicides_state_daily_sspc_fuentesabiertas %>% 
+df_dates_state <- df_homicides_state_daily_sspc_fuentesabiertas         %>% 
         mutate("año" = year(fecha), "year" = year(fecha),
                 "mes" = month(fecha), "month" = month(fecha), 
-                "semana" = isoweek(fecha), "week"= isoweek(fecha)) 
+                "semana" = isoweek(fecha), "week"= isoweek(fecha))      %>% 
+        mutate(mes = case_when(mes == 1 ~ "Enero", 
+                                mes == 2 ~ "Febrero", 
+                                mes == 3 ~ "Marzo", 
+                                mes == 4 ~ "Abril", 
+                                mes == 5 ~ "Mayo", 
+                                mes == 6 ~ "Junio", 
+                                mes == 7 ~ "Julio", 
+                                mes == 8 ~ "Agosto", 
+                                mes == 9 ~ "Septiembre", 
+                                mes == 10 ~ "Octubre", 
+                                mes == 11 ~ "Noviembre", 
+                                mes == 12 ~ "Diciembre"))               %>%
+        mutate(month = case_when(month ==  1 ~ "January", 
+                                month == 2 ~ "February", 
+                                month == 3 ~ "March", 
+                                month == 4 ~ "April", 
+                                month == 5 ~ "May", 
+                                month == 6 ~ "June", 
+                                month == 7 ~ "July", 
+                                month == 8 ~ "August", 
+                                month == 9 ~ "September", 
+                                month == 10 ~ "October", 
+                                month == 11 ~ "November", 
+                                month == 12 ~ "December"))  
+
+df_dates_state <- df_dates_state                                        %>%         
+        mutate(mes = as.factor(mes), month = as.factor(month))          %>% 
+        mutate(mes = fct_relevel(mes, v_mes), 
+                month = fct_relevel(month, v_month))
+
 
 ## Monthly ## 
 df_month_state <- df_dates_state %>% 
@@ -113,24 +180,49 @@ df_week_state$no_identificado[df_week_state$month == 1 & df_week_state$year == 2
 
 
 # 02.3 Data frames at state level (interinstitutional group) -------------------
-# Mexican states's names in english 
-df_names <- df_month_state %>% 
-        ungroup() %>% 
-        select(entidad, state) 
-
 # Daily 
 df_dates_state_gpo <- df_homicides_state_daily_sspc_gpointerinstitucional %>%
         mutate(year = año, "mes" = month(fecha), "month" = month(fecha), 
                 "semana" = isoweek(fecha), "week" = isoweek(fecha))       %>%
-        filter(is.na(year) == FALSE) %>%  
-        left_join(df_names, by = "entidad") %>% 
-        select(entidad, state, año, year, mes, month, semana, week, fecha, homicidios, population, mort_rate)
+        mutate(state = case_when(entidad == "Nacional" ~ "National", 
+                                state == state ~ state))                  %>% 
+        mutate(mes = case_when(mes == 1 ~ "Enero", 
+                                mes == 2 ~ "Febrero", 
+                                mes == 3 ~ "Marzo", 
+                                mes == 4 ~ "Abril", 
+                                mes == 5 ~ "Mayo", 
+                                mes == 6 ~ "Junio", 
+                                mes == 7 ~ "Julio", 
+                                mes == 8 ~ "Agosto", 
+                                mes == 9 ~ "Septiembre", 
+                                mes == 10 ~ "Octubre", 
+                                mes == 11 ~ "Noviembre", 
+                                mes == 12 ~ "Diciembre"))                %>%
+        mutate(month = case_when(month ==  1 ~ "January", 
+                                month == 2 ~ "February", 
+                                month == 3 ~ "March", 
+                                month == 4 ~ "April", 
+                                month == 5 ~ "May", 
+                                month == 6 ~ "June", 
+                                month == 7 ~ "July", 
+                                month == 8 ~ "August", 
+                                month == 9 ~ "September", 
+                                month == 10 ~ "October", 
+                                month == 11 ~ "November", 
+                                month == 12 ~ "December"))               %>% 
+        select(entidad, state, año, year, mes, month, semana, week, fecha, 
+                homicidios, population, mort_rate) 
         
+df_dates_state_gpo <- df_dates_state_gpo                                %>%         
+        mutate(mes = as.factor(mes), month = as.factor(month))          %>% 
+        mutate(mes = fct_inorder(mes), 
+                month = fct_inorder(month))
+
 
 # Add national population 
 df_pop <- df_pop_state %>% 
         filter(year == 2019 || year == 2020) %>% 
-        filter(state == "National")
+        filter(CVE_GEO == 0)
 
 df_dates_state_gpo$population[df_dates_state_gpo$entidad=="Nacional" & df_dates_state_gpo$año==2019] <- df_pop$population[df_pop$year==2019]
 df_dates_state_gpo$population[df_dates_state_gpo$entidad=="Nacional" & df_dates_state_gpo$año==2020] <- df_pop$population[df_pop$year==2020]
@@ -141,13 +233,13 @@ df_dates_state_gpo <- df_dates_state_gpo %>%
         
 # Weekly 
 df_week_state_gpo <- df_dates_state_gpo %>% 
-        group_by(entidad, population, año, year, mes, month, semana, week) %>% 
+        group_by(entidad, state, population, año, year, mes, month, semana, week) %>% 
         summarise("homicidios" = sum(homicidios)) %>% 
         mutate(mort_rate = round((homicidios/population)*100000, 2))
 
 ## Monthly ## 
 df_month_state_gpo <- df_dates_state_gpo %>% 
-        group_by(entidad, population, año, year, mes, month) %>%  
+        group_by(entidad, state, population, año, year, mes, month) %>%  
         summarise("homicidios" = sum(homicidios)) %>% 
         mutate(mort_rate = round((homicidios/population)*100000, 2))
 

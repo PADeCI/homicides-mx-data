@@ -65,19 +65,19 @@ df_state_m_os <-  df_homicides_state_monthly_sspc_fuentesabiertas
 
 # 02.1.1 National homicides by month 
 # Generate 
-df_nation_m_gpo <- df_state_m_gpo                               %>% 
-        filter(state == "Nacional")                           %>% 
+df_nation_m_gpo <- df_state_m_gpo                                       %>% 
+        filter(state == "National")                                     %>% 
         arrange(year, month)
 
 # Labels for final table 
-df_nation_names_gpo <- df_nation_m_gpo                          %>% 
-        ungroup() %>% 
-        select(year, month, homicidios, mort_rate)                   %>% 
+df_nation_names_gpo <- df_nation_m_gpo                                  %>%
+        ungroup()                                                       %>% 
+        select(year, month, homicidios, mort_rate)                      %>% 
         rename("Year" = year, "Month" = month, "Homicides" = homicidios,       
                 "Monthly homicide rate" = mort_rate)
 
 # Convert tables into grid graphics (gridExtra's format)
-tab_nation_gpo <- tableGrob(df_nation_names_gpo[,], 
+tab_nation_gpo <- tableGrob(df_nation_names_gpo, 
         rows = NULL, 
         theme = tth)
 
