@@ -1,0 +1,77 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,6.0,4.0,1.0,1.0,2020-09-07
+Chihuahua,Bocoyna,1.0,1.0,0.0,0.0,2020-09-07
+Chihuahua,Chihuahua,2.0,1.0,1.0,0.0,2020-09-07
+Chihuahua,Cuauhtémoc,3.0,3.0,0.0,0.0,2020-09-07
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-09-07
+Ciudad de México,Coyoacán,1.0,1.0,0.0,0.0,2020-09-07
+Ciudad de México,"Gustavo A. 
+Madero",1.0,0.0,1.0,0.0,2020-09-07
+Ciudad de México,Álvaro Obregón,1.0,0.0,1.0,0.0,2020-09-07
+Coahuila,Torreón,1.0,0.0,1.0,0.0,2020-09-07
+Durango,Mezquital,2.0,1.0,1.0,0.0,2020-09-07
+Durango,"Santiago 
+Papasquiaro",1.0,1.0,0.0,0.0,2020-09-07
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-09-07
+Guanajuato,Celaya,2.0,1.0,0.0,1.0,2020-09-07
+Guanajuato,Huanímaro,2.0,2.0,0.0,0.0,2020-09-07
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-09-07
+Guanajuato,Salamanca,3.0,3.0,0.0,0.0,2020-09-07
+Guerrero,"Chilapa de 
+Álvarez",1.0,1.0,0.0,0.0,2020-09-07
+Guerrero,Ometepec,1.0,1.0,0.0,0.0,2020-09-07
+Hidalgo,"Tulancingo de 
+Bravo",2.0,2.0,0.0,0.0,2020-09-07
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-09-07
+Jalisco,"Lagos de 
+Moreno",2.0,1.0,0.0,1.0,2020-09-07
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,0.0,1.0,0.0,2020-09-07
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,1.0,0.0,0.0,2020-09-07
+Jalisco,Zapopan,2.0,1.0,1.0,0.0,2020-09-07
+Michoacán,Aguililla,2.0,2.0,0.0,0.0,2020-09-07
+Michoacán,Queréndaro,1.0,1.0,0.0,0.0,2020-09-07
+Michoacán,Zamora,2.0,1.0,1.0,0.0,2020-09-07
+Morelos,Cuernavaca,1.0,0.0,1.0,0.0,2020-09-07
+Estado de México,Chimalhuacán,1.0,1.0,0.0,0.0,2020-09-07
+Estado de México,"Ecatepec de 
+Morelos",1.0,1.0,0.0,0.0,2020-09-07
+Estado de México,Ixtapaluca,2.0,1.0,1.0,0.0,2020-09-07
+Estado de México,La Paz,2.0,2.0,0.0,0.0,2020-09-07
+Estado de México,"Naucalpan de 
+Juárez",1.0,1.0,0.0,0.0,2020-09-07
+Estado de México,Tultitlán,2.0,1.0,1.0,0.0,2020-09-07
+Nayarit,Apodaca,1.0,1.0,0.0,0.0,2020-09-07
+Nayarit,Tepic,1.0,1.0,0.0,0.0,2020-09-07
+Nuevo León,Monterrey,2.0,2.0,0.0,0.0,2020-09-07
+Oaxaca,"San Juan 
+Bautista 
+Tuxtepec",1.0,1.0,0.0,0.0,2020-09-07
+Puebla,Atlixco,1.0,1.0,0.0,0.0,2020-09-07
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-09-07
+Puebla,"San Salvador 
+Huixcolotla",2.0,2.0,0.0,0.0,2020-09-07
+Puebla,Tochtepec,1.0,1.0,0.0,0.0,2020-09-07
+Querétaro,El Marqués,1.0,1.0,0.0,0.0,2020-09-07
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-09-07
+Quintana Roo,Othón P. Blanco,2.0,2.0,0.0,0.0,2020-09-07
+San Luis Potosí,San Luis Potosí,1.0,0.0,1.0,0.0,2020-09-07
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2020-09-07
+Sinaloa,Mazatlán,1.0,0.0,0.0,1.0,2020-09-07
+Sonora,Caborca,1.0,1.0,0.0,0.0,2020-09-07
+Sonora,Cajeme,3.0,3.0,0.0,0.0,2020-09-07
+Sonora,Huatabampo,1.0,0.0,0.0,1.0,2020-09-07
+Tamaulipas,Nuevo Laredo,1.0,0.0,1.0,0.0,2020-09-07
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2020-09-07
+Tamaulipas,Río Bravo,1.0,0.0,1.0,0.0,2020-09-07
+Veracruz,Coscomatepec,2.0,2.0,0.0,0.0,2020-09-07
+Veracruz,La Perla,1.0,1.0,0.0,0.0,2020-09-07
+Veracruz,"Poza Rica de 
+Hidalgo",1.0,1.0,0.0,0.0,2020-09-07
+Veracruz,Tehuipango,1.0,1.0,0.0,0.0,2020-09-07
+Zacatecas,Fresnillo,2.0,2.0,0.0,0.0,2020-09-07
+Zacatecas,"General Enrique 
+Estrada",1.0,1.0,0.0,0.0,2020-09-07
+Zacatecas,Guadalupe,2.0,2.0,0.0,0.0,2020-09-07
+Zacatecas,Vetagrande,1.0,1.0,0.0,0.0,2020-09-07
