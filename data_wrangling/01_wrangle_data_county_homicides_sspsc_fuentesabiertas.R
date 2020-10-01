@@ -103,7 +103,7 @@ df_mistake_no_iden <- df_prev_mistake                                   %>%
         mutate(diff_no_iden = antes_no_iden - desp_no_iden, 
                 equal_no_iden = case_when(diff_no_iden==0 ~ T, diff_no_iden !=0 ~ F)) 
         
-sum(df_mistake$diff[df_mistake$equal==F], na.rm = T)        
+sum(df_mistake_total$diff[df_mistake_total$equal==F], na.rm = T)        
 
 
 # 02.3 Estimate mortality rate -------------------------------------------------

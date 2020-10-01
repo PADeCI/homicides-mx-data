@@ -36,7 +36,7 @@ df_state_d_gpo <- df_homicides_state_daily_sspc_gpointerinstitucional # Rename
 
 # By month
 load("~/GitHub/homicides-mx-data/data/gpo_interinstitucional/df_homicides_state_monthly_sspc_gpointerinstitucional.Rdata")
-df_state_m_gpo <- df_homicides_state_monthly# Rename
+df_state_m_gpo <- df_homicides_state_monthly_sspc_gpointerinstitucional # Rename
 
 # By year 
 load("~/GitHub/homicides-mx-data/data/gpo_interinstitucional/df_homicides_state_year_sspc_gpointerinstitucional.RData")
@@ -66,18 +66,14 @@ df_state_m_os <-  df_homicides_state_monthly_sspc_fuentesabiertas
 # 02.1.1 National homicides by month 
 # Generate 
 df_nation_m_gpo <- df_state_m_gpo                               %>% 
-        filter(state == "National")                             %>% 
-        mutate(month = as.factor(month))                        %>%  
-        mutate(month = fct_relevel(month, c("January", "February", "March", 
-                "April","May", "June", "July", "August", "September", "October",
-                "November", "December")))                       %>% 
+        filter(state == "Nacional")                           %>% 
         arrange(year, month)
 
 # Labels for final table 
 df_nation_names_gpo <- df_nation_m_gpo                          %>% 
         ungroup() %>% 
-        select(year, month, cases, mort_rate)                   %>% 
-        rename("Year" = year, "Month" = month, "Homicides" = cases,       
+        select(year, month, homicidios, mort_rate)                   %>% 
+        rename("Year" = year, "Month" = month, "Homicides" = homicidios,       
                 "Monthly homicide rate" = mort_rate)
 
 # Convert tables into grid graphics (gridExtra's format)
@@ -92,13 +88,13 @@ ggsave("figs/tab_nation_year_totals_gpo.jpg",
 
 
 # 02.1.2 National homicides by year (descriptive statistics with total homicides)
-df_nation_m_gpo <- slice(df_nation_m_gpo, 1:16) # Drop August 2020
+#df_nation_m_gpo <- slice(df_nation_m_gpo, 1:16) # Drop August 2020
 df_nation_stats_gpo <- df_nation_m_gpo                          %>%
         group_by(year)                                          %>% 
-        summarise("Lowest number\nof homicides in\na single month" = min(cases), 
-                 "Highest number\nof homicides in\na single month" = max(cases), 
-                "Average number\nof homicides" = round(mean(cases), 1), 
-                "Standard\nDeviation" = round(sd(cases), 1))                   %>% 
+        summarise("Lowest number\nof homicides in\na single month" = min(homicidios), 
+                 "Highest number\nof homicides in\na single month" = max(homicidios), 
+                "Average number\nof homicides" = round(mean(homicidios), 1), 
+                "Standard\nDeviation" = round(sd(homicidios), 1))                   %>% 
         rename("Year" = year) 
 
 # Render table

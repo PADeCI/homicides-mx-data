@@ -15,6 +15,7 @@ library(tidyverse)
 library(dplyr)
 library(readr)
 library(lubridate)
+library(repmis) # For exporting data from GitHub
 
 # Clean the workspace
 rm(list = ls()) 
@@ -22,18 +23,22 @@ rm(list = ls())
 
 # 01. Load Data ----------------------------------------------------------------
 
-# Homicide data with population at county level 
+# Homicide and population data at county level (open sources)
 load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_fuentesabiertas_county_day.Rdata")
 
-# Homicide data with population at state level 
+# Homicide and population data at state level (open sources)
 load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
 
-        # View(df_homicides_fuentesabiertas_county_day)
-        # View(df_homicides_state_daily_sspc_fuentesabiertas)
+# Homicide and population data at state level (interinstitutional group)
+load("~/GitHub/homicides-mx-data/data/gpo_interinstitucional/df_homicides_state_daily_sspc_gpointerinstitucional.RData")
+
+# Population 
+source_data("https://github.com/PADeCI/demog-mx/blob/master/data/Estatal/df_pop_state.Rdata?raw=true")
+
 
 # 02. Create new df for each time unit -----------------------------------------
 
-# 02.1 Data frames at county level ---------------------------------------------
+# 02.1 Data frames at county level (open sources) ------------------------------
 # Create time variables and rename df for simplicity 
 df_dates_county <- df_homicides_fuentesabiertas_county_day %>% 
         mutate("año" = year(fecha), "year" = year(fecha),
@@ -68,7 +73,7 @@ df_week_county$mujer[df_week_county$month == 1 & df_week_county$year == 2019] <-
 df_month_county$no_identificado[df_month_county$month == 1 & df_month_county$year == 2019] <- NA
 df_week_county$no_identificado[df_week_county$month == 1 & df_week_county$year == 2019] <- NA
 
-# 02.2 Data frames at state level ----------------------------------------------
+# 02.2 Data frames at state level (open sources) -------------------------------
 # Create time variables and rename df for simplicity 
 df_dates_state <- df_homicides_state_daily_sspc_fuentesabiertas %>% 
         mutate("año" = year(fecha), "year" = year(fecha),
@@ -105,6 +110,46 @@ df_week_state$mujer[df_week_state$month == 1 & df_week_state$year == 2019] <- NA
 # Non identified
 df_month_state$no_identificado[df_month_state$month == 1 & df_month_state$year == 2019] <- NA
 df_week_state$no_identificado[df_week_state$month == 1 & df_week_state$year == 2019] <- NA
+
+
+# 02.3 Data frames at state level (interinstitutional group) -------------------
+# Mexican states's names in english 
+df_names <- df_month_state %>% 
+        ungroup() %>% 
+        select(entidad, state) 
+
+# Daily 
+df_dates_state_gpo <- df_homicides_state_daily_sspc_gpointerinstitucional %>%
+        mutate(year = año, "mes" = month(fecha), "month" = month(fecha), 
+                "semana" = isoweek(fecha), "week" = isoweek(fecha))       %>%
+        filter(is.na(year) == FALSE) %>%  
+        left_join(df_names, by = "entidad") %>% 
+        select(entidad, state, año, year, mes, month, semana, week, fecha, homicidios, population, mort_rate)
+        
+
+# Add national population 
+df_pop <- df_pop_state %>% 
+        filter(year == 2019 || year == 2020) %>% 
+        filter(state == "National")
+
+df_dates_state_gpo$population[df_dates_state_gpo$entidad=="Nacional" & df_dates_state_gpo$año==2019] <- df_pop$population[df_pop$year==2019]
+df_dates_state_gpo$population[df_dates_state_gpo$entidad=="Nacional" & df_dates_state_gpo$año==2020] <- df_pop$population[df_pop$year==2020]
+
+# Estimate homicide rate once more
+df_dates_state_gpo <- df_dates_state_gpo %>% 
+        mutate(mort_rate = round((homicidios/population)*100000, 2))
+        
+# Weekly 
+df_week_state_gpo <- df_dates_state_gpo %>% 
+        group_by(entidad, population, año, year, mes, month, semana, week) %>% 
+        summarise("homicidios" = sum(homicidios)) %>% 
+        mutate(mort_rate = round((homicidios/population)*100000, 2))
+
+## Monthly ## 
+df_month_state_gpo <- df_dates_state_gpo %>% 
+        group_by(entidad, population, año, year, mes, month) %>%  
+        summarise("homicidios" = sum(homicidios)) %>% 
+        mutate(mort_rate = round((homicidios/population)*100000, 2))
 
 # 03. Check consistency of data ------------------------------------------------
 
@@ -176,15 +221,23 @@ df_homicides_state_daily_sspc_fuentesabiertas <- df_dates_state
 df_homicides_state_weekly_sspc_fuentesabiertas <- df_week_state
 df_homicides_state_monthly_sspc_fuentesabiertas <- df_month_state
 
+df_homicides_state_daily_sspc_gpointerinstitucional <- df_dates_state_gpo
+df_homicides_state_weekly_sspc_gpointerinstitucional <- df_week_state_gpo
+df_homicides_state_monthly_sspc_gpointerinstitucional <- df_month_state_gpo
 
 ## Save data ##
-# County level 
+# County level from open sources
 save(df_homicides_county_daily_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
 save(df_homicides_county_weekly_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_weekly_sspc_fuentesabiertas.RData")
 save(df_homicides_county_monthly_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_monthly_sspc_fuentesabiertas.RData")
 
-# Sate level 
+# Sate level from open sources
 save(df_homicides_state_daily_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
 save(df_homicides_state_weekly_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_weekly_sspc_fuentesabiertas.RData")
 save(df_homicides_state_monthly_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_monthly_sspc_fuentesabiertas.RData")
+
+# State level from interinstitutional group
+save(df_homicides_state_daily_sspc_gpointerinstitucional, file = "~/GitHub/homicides-mx-data/data/gpo_interinstitucional/df_homicides_state_daily_sspc_gpointerinstitucional.RData")
+save(df_homicides_state_weekly_sspc_gpointerinstitucional, file = "~/GitHub/homicides-mx-data/data/gpo_interinstitucional/df_homicides_state_weekly_sspc_gpointerinstitucional.RData")
+save(df_homicides_state_monthly_sspc_gpointerinstitucional, file = "~/GitHub/homicides-mx-data/data/gpo_interinstitucional/df_homicides_state_monthly_sspc_gpointerinstitucional.RData")
 
