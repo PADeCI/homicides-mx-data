@@ -28,7 +28,7 @@ rm(list = ls())
 load("~/GitHub/homicides-mx-data/data_raw/df_pop_county_2019_2020.Rdata")
 
 # Homicide data from interinstitutional group
-df_homicides <- read.csv("data_raw/gpo_interinstitucional/2019_2020/df_homicides_daily_2019_2020_sspc_gpointerinstitucional.csv", 
+df_homicides <- read.csv("data_raw/gpo_interinstitucional/2019_2020/df_homicides_daily_2019_2020_gpointerinstitucional.csv", 
         encoding = "UTF-8")
 
 
@@ -98,4 +98,3 @@ df_homicides_state_daily_sspc_gpointerinstitucional <- df_homicides_state_daily
 
 # Save df
 save(df_homicides_state_daily_sspc_gpointerinstitucional, file = "data/gpo_interinstitucional/df_homicides_state_daily_sspc_gpointerinstitucional.RData")
-

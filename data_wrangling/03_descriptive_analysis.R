@@ -97,6 +97,7 @@ df_nation_stats_gpo <- df_nation_m_gpo                          %>%
                 "Standard\nDeviation" = round(sd(homicidios), 1))                   %>% 
         rename("Year" = year) 
 
+
 # Render table
 tab_nation_stats_gpo <- tableGrob(df_nation_stats_gpo, rows = NULL, theme = tth)
 t <- grid.arrange(tab_nation_stats_gpo) # Render table
@@ -350,6 +351,7 @@ ggsave("figs/tab_state_year_stats_os.jpg", plot = t, width = 6, height = 1.5)
 # 04. Comparison between SSCP sources ------------------------------------------
 df_gpo_state_m <- df_state_m_gpo                                        %>% 
         ungroup()                                                       %>% 
+        mutate(cases = homicidios)                                      %>% 
         select(state, year, month, cases, population)                   %>% 
         mutate(month = as.character(month))                             %>% 
         rename(homicides_gpo = cases)
@@ -357,18 +359,18 @@ df_gpo_state_m <- df_state_m_gpo                                        %>%
 df_gpo_national_m <- df_gpo_state_m                                     %>% 
         filter(state == "National")                                     %>% 
         mutate(month_n = case_when(month == "January"  ~ 1, 
-                month == "February" ~ 2, 
-                month == "March" ~ 3, 
-                month == "April" ~ 4, 
-                month == "May" ~ 5,
-                month == "June" ~ 6,
-                month == "July" ~  7,
-                month == "August" ~ 8, 
-                month == "September" ~ 9,
-                month == "October" ~ 10,
-                month == "November" ~  11,
-                month == "December" ~  12))                             %>% 
-        mutate(month_n = as.character(month_n))
+                                   month == "February" ~ 2, 
+                                   month == "March" ~ 3, 
+                                   month == "April" ~ 4, 
+                                   month == "May" ~ 5,
+                                   month == "June" ~ 6,
+                                   month == "July" ~  7,
+                                   month == "August" ~ 8, 
+                                   month == "September" ~ 9,
+                                   month == "October" ~ 10,
+                                   month == "November" ~  11,
+                                   month == "December" ~  12))                             %>% 
+        mutate(month_n = as.numeric(month_n))
 
 df_gpo_national_y <- df_gpo_national_m                                  %>% 
         group_by(year, state)                                           %>% 
@@ -378,11 +380,24 @@ df_gpo_national_y <- df_gpo_national_m                                  %>%
 df_fuentes_state_m <- df_homicides_state_monthly_sspc_fuentesabiertas   %>%
         ungroup()                                                       %>% 
         mutate(month = as.character(month))                             %>% 
-        select(state, year, month, homicidios)                          %>% 
-        rename("homicides_fuentes" = homicidios, "month_n" = month)
+        select(state, year, month, homicidios)                          %>%
+        mutate(month_n = case_when(month == "January"  ~ 1, 
+                                   month == "February" ~ 2, 
+                                   month == "March" ~ 3, 
+                                   month == "April" ~ 4, 
+                                   month == "May" ~ 5,
+                                   month == "June" ~ 6,
+                                   month == "July" ~  7,
+                                   month == "August" ~ 8, 
+                                   month == "September" ~ 9,
+                                   month == "October" ~ 10,
+                                   month == "November" ~  11,
+                                   month == "December" ~  12)) %>% 
+        mutate(month_n = as.numeric(month_n)) %>% 
+        rename("homicides_fuentes" = homicidios)
 
 df_fuentes_national_m <- df_fuentes_state_m                             %>% 
-        group_by(year, month_n)                                         %>% 
+        group_by(year, month, month_n)                                  %>% 
         summarise("homicides_fuentes" = sum(homicides_fuentes, na.rm = T))
 
 df_fuentes_national_y <- df_fuentes_state_m                             %>% 
@@ -398,13 +413,15 @@ df_combined_sources_national_y <- df_gpo_national_y                     %>%
                 "Homicides reported\nby newspapers" = homicides_fuentes)
 
 df_combined_sources_national_m <- df_gpo_national_m                     %>% 
-        left_join(df_fuentes_national_m, by = c("year", "month_n"))     %>% 
+        left_join(df_fuentes_national_m, by = c("year", "month_n", "month")) %>% 
         arrange(year, month_n)                                          %>% 
-        select(year, month, homicides_gpo, homicides_fuentes)           %>% 
+        select(year, month, homicides_gpo, homicides_fuentes)           %>%
+        mutate(diff = homicides_gpo - homicides_fuentes)                %>% 
         rename("Year" = year, 
                 "Month" = month, 
                 "Homicides reported\nby Inter. Group" = homicides_gpo, 
-                "Homicides reported\nby newspapers" = homicides_fuentes)
+                "Homicides reported\nby newspapers" = homicides_fuentes, 
+                "Difference between\nsources" = diff)
 
 df_combined_sources_national_m  %>% 
         filter(is.na(Month) == F) 
@@ -421,7 +438,7 @@ ggsave("figs/tab_nation_year_combined.jpg", plot = t, width = 4.5, height = 1)
 # Render table
 tab_nation_month_combined <- tableGrob(df_combined_sources_national_m, rows = NULL)
 t <- grid.arrange(tab_nation_month_combined)
-ggsave("figs/tab_nation_month_combined.jpg", plot = t, width = 5, height = 6)
+ggsave("figs/tab_nation_month_combined.jpg", plot = t, width = 7, height = 6)
 
 # 05. Comparison with INEGI data -----------------------------------------------
 
