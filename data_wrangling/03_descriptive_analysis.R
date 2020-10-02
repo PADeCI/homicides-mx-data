@@ -71,7 +71,20 @@ df_nation_m_gpo <- df_state_m_gpo                                       %>%
 
 # Labels for final table 
 df_nation_names_gpo <- df_nation_m_gpo                                  %>%
-        ungroup()                                                       %>% 
+        ungroup()                                                       %>%
+        mutate(month_n = case_when(month == "January"  ~ 1, 
+                month == "February" ~ 2, 
+                month == "March" ~ 3, 
+                month == "April" ~ 4, 
+                month == "May" ~ 5,
+                month == "June" ~ 6,
+                month == "July" ~  7,
+                month == "August" ~ 8, 
+                month == "September" ~ 9,
+                month == "October" ~ 10,
+                month == "November" ~  11,
+                month == "December" ~  12)) %>% 
+        arrange(year, month_n) %>% 
         select(year, month, homicidios, mort_rate)                      %>% 
         rename("Year" = year, "Month" = month, "Homicides" = homicidios,       
                 "Monthly homicide rate" = mort_rate)
@@ -83,39 +96,93 @@ tab_nation_gpo <- tableGrob(df_nation_names_gpo,
 
 t <- grid.arrange(tab_nation_gpo)               # Render table
 ggsave("figs/tab_nation_year_totals_gpo.jpg", 
-        plot = t, width = 5, height = 6)      # Save table
+        plot = t, width = 5, height = 5)      # Save table
+
 
 
 
 # 02.1.2 National homicides by year (descriptive statistics with total homicides)
-#df_nation_m_gpo <- slice(df_nation_m_gpo, 1:16) # Drop August 2020
-df_nation_stats_gpo <- df_nation_m_gpo                          %>%
+df_nation_stats_gpo_short <- df_nation_m_gpo                          %>%
         group_by(year)                                          %>% 
-        summarise("Lowest number\nof homicides in\na single month" = min(homicidios), 
-                 "Highest number\nof homicides in\na single month" = max(homicidios), 
-                "Average number\nof homicides" = round(mean(homicidios), 1), 
-                "Standard\nDeviation" = round(sd(homicidios), 1))                   %>% 
-        rename("Year" = year) 
+        summarise(min_h = min(homicidios), 
+                  max_h = max(homicidios), 
+                  mean_h = round(mean(homicidios), 1), 
+                  sd_h = round(sd(homicidios), 1))                   
 
+# Get months with highest and lowest homicides
+df_2019 <- df_nation_m_gpo %>% filter(year==2019)
+df_2020 <- df_nation_m_gpo %>% filter(year==2020)
+
+# Get months with lowest and highest homicides in a year
+low_m_19 <- df_2019$month[df_2019$homicidios == min(df_2019$homicidios)]
+low_m_20 <- df_2020$month[df_2020$homicidios == min(df_2020$homicidios)]
+high_m_19 <- df_2019$month[df_2019$homicidios == max(df_2019$homicidios)]
+high_m_20 <- df_2020$month[df_2020$homicidios == max(df_2020$homicidios)]
+
+# Build vectors
+year  <- c(2019, 2020)
+low_m   <- c(low_m_19, low_m_20)
+high_m <- c(high_m_19, high_m_20)
+
+# Create data frame for months
+df_months <- data.frame(year, low_m, high_m) 
+
+# Create final data set for table
+df_nation_stats_gpo <- df_nation_stats_gpo_short              %>% 
+        left_join(df_months, by = "year")               %>% 
+        select(year, low_m, min_h, high_m, max_h, mean_h, sd_h) %>%
+        rename("Year" = year,
+                "Month with\nlowest\nhomicides" = low_m, 
+                "Lowest number\nof homicides in\na single month" =  min_h, 
+                "Month with\nhighest\nhomicides" = high_m,
+                "Highest number\nof homicides in\na single month" = max_h, 
+                "Average\nnumber of\nhomicides" = mean_h, 
+                "Standard\nDeviation" = sd_h)
 
 # Render table
 tab_nation_stats_gpo <- tableGrob(df_nation_stats_gpo, rows = NULL, theme = tth)
 t <- grid.arrange(tab_nation_stats_gpo) # Render table
-ggsave("figs/table_nation_stats_gpo.jpg", plot = t, width = 6, height = 1.5) # Save table
+ggsave("figs/tab_nation_stats_gpo.jpg", plot = t, width = 8, height = 1.5) # Save table
 
 # 02.1.3 National homicides by year (descriptive statistics with homicide rate)
-df_nation_stats_rate_gpo <- df_nation_m_gpo                     %>%
+df_nation_stats_rate_gpo_short <- df_nation_m_gpo                     %>%
         group_by(year)                                          %>% 
-        summarise("Lowest homicide\nrate in a single\nmonth" = min(mort_rate),
-                "Highest homicide\nrate in a single\nmonth" = max(mort_rate), 
-                "Average\nmortality rate" = round(mean(mort_rate), 1), 
-                "Standard\nDeviation" = round(sd(mort_rate), 1))               %>% 
-        rename("Year" = year)
+        summarise(min_mr = min(mort_rate),
+                  max_mr = max(mort_rate), 
+                  mean_mr = round(mean(mort_rate), 1), 
+                  sd_mr = round(sd(mort_rate), 1))      
+
+# Get months with lowest and highest mortality rate in a year
+low_m_19 <- df_2019$month[df_2019$mort_rate == min(df_2019$mort_rate)]
+low_m_20 <- df_2020$month[df_2020$mort_rate == min(df_2020$mort_rate)]
+high_m_19 <- df_2019$month[df_2019$mort_rate == max(df_2019$mort_rate)]
+high_m_20 <- df_2020$month[df_2020$mort_rate == max(df_2020$mort_rate)]
+
+# Build vectors
+year  <- c(2019, 2020)
+low_m   <- c(low_m_19, low_m_20)
+high_m <- c(high_m_19, high_m_20)
+
+# Create data frame for months
+df_months <- data.frame(year, low_m, high_m) 
+
+# Create final data set for table
+df_nation_stats_rate_gpo <- df_nation_stats_rate_gpo_short %>% 
+        left_join(df_months, by = "year") %>% 
+        select(year, low_m, min_mr, high_m, max_mr, mean_mr, sd_mr) %>% 
+        rename("Year" = year, 
+                "Month with\nlowest\nmortality rate" = low_m, 
+                "Lowest homicide\nrate in a single\nmonth" = min_mr, 
+                "Month with\nhighest\nmortality rate" = high_m,
+                "Highest homicide\nrate in a single\nmonth" = max_mr, 
+                "Average\nmortality rate" = mean_mr, 
+                "Standard\nDeviation" = sd_mr)
+
 
 # Render of table
 tab_nation_stats_rate_gpo <- tableGrob(df_nation_stats_rate_gpo, rows = NULL, theme =tth)
 t <- grid.arrange(tab_nation_stats_rate_gpo)
-ggsave("figs/tab_nation_stats_rate_gpo.jpg", plot = t, width = 6, height = 1.5)
+ggsave("figs/tab_nation_stats_rate_gpo.jpg", plot = t, width = 9, height = 1.5)
 
 # 02.2 State level homicides (gpo. interinst.)----------------------------------
 # 02.2.1 State level homicides by year 
@@ -255,10 +322,10 @@ ggsave("figs/tab_state_year_stats_cases_gpo.jpg", plot = t, width = 14, height =
 # 03.1 National level homicides (open sources) ---------------------------------
 df_nation_y_os <- df_state_m_os                                         %>% 
         group_by(year)                                                  %>% 
-        summarise("Total homicides" = sum(homicidios, na.rm = T), 
+        summarise("Total\nhomicides" = sum(homicidios, na.rm = T), 
                   "Male" = sum(hombre, na.rm = T), 
                   "Female" = sum(mujer, na.rm = T), 
-                  "Non identified" = sum(no_identificado, na.rm = T))   %>% 
+                  "Non\nidentified" = sum(no_identificado, na.rm = T))   %>% 
         rename("Year" = year)
 
 # Render table 
@@ -270,10 +337,10 @@ ggsave("figs/tab_nation_year_os.jpg", plot = t, width = 5, height = 1)
 # 03.2.1 State homicides by year (disaggregated by gender)
 df_state_year_os <- df_state_m_os                                       %>% 
         group_by(state, year)                                           %>% 
-        summarise("Total homicides" = sum(homicidios, na.rm = T), 
+        summarise("Total\nhomicides" = sum(homicidios, na.rm = T), 
                 "Male" = sum(hombre, na.rm = T), 
                 "Female" = sum(mujer, na.rm = T), 
-                "Non identified" = sum(no_identificado, na.rm = T))     %>% 
+                "" = sum(no_identificado, na.rm = T))     %>% 
         rename("State" = state, "Year" = year)
 
 # 02.2.2.1 Format table for report ---------------------------------------------
@@ -334,19 +401,58 @@ ggsave("figs/tab_state_year_os.jpg", plot = t, width = 15, height = 11)
 
 
 # 03.2.2 State homicides by year (descriptive statistics with total homicides)
-df_state_year_stats_os <- df_state_m_os                                 %>% 
+df_state_year_stats_os_short <- df_state_m_os                                 %>% 
         group_by(state, year)                                           %>% 
         group_by(year)                                                  %>% 
-        summarise("Lowest number\nof homicides in\na single month" = min(homicidios), 
-                "Highest number\nof homicides in\na single month" = max(homicidios), 
-                "Average number\nof homicides" =  round(mean(homicidios), 1), 
-                "Stdandard\nDeviation" = round(sd(homicidios), 1))                      %>% 
-        rename("Year" = year)
+        summarise(min_h = min(homicidios), 
+                  max_h = max(homicidios), 
+                  mean_h =  round(mean(homicidios), 1), 
+                  sd_h = round(sd(homicidios), 1))              
+
+# Get df for each year
+df_2019 <- df_state_m_os %>% filter(year==2019)
+df_2020 <- df_state_m_os %>% filter(year==2020)
+
+# Get months with lowest and highest homicides in a state 
+low_m_19 <- df_2019$month[df_2019$homicidios == min(df_2019$homicidios)]
+low_m_20 <- df_2020$month[df_2020$homicidios == min(df_2020$homicidios)]
+high_m_19 <- df_2019$month[df_2019$homicidios == max(df_2019$homicidios)]
+high_m_20 <- df_2020$month[df_2020$homicidios == max(df_2020$homicidios)]
+
+# Get state with lowest and highest homicides in a single month 
+low_s_19 <- df_2019$state[df_2019$homicidios == min(df_2019$homicidios)]
+low_s_20 <- df_2020$state[df_2020$homicidios == min(df_2020$homicidios)]
+high_s_19 <- df_2019$state[df_2019$homicidios == max(df_2019$homicidios)]
+high_s_20 <- df_2020$state[df_2020$homicidios == max(df_2020$homicidios)]
+
+# Build vectors
+year    <- c(2019, 2020)
+low_m   <- c(low_m_19, low_m_20)
+high_m  <- c(high_m_19, high_m_20)
+low_s   <- c(low_s_19, low_s_20)
+high_s  <- c(high_s_19, high_s_20)
+
+# Create data frame for months
+df_months_states <- data.frame(year, low_s, low_m, high_s, high_m) 
+
+# Create final data set for table
+df_state_year_stats_os <- df_state_year_stats_os_short %>% 
+        left_join(df_months_states, by = "year") %>% 
+        select(year, low_s, low_m, min_h, high_s, high_m, max_h, mean_h, sd_h) %>% 
+        rename("Year" = year,
+                "State with\nlowest\nhomicides\nin a month" = low_s, 
+                "Month with\nlowest\nhomicides" = low_m, 
+                "Lowest number\nof homicides in\na single month" =  min_h, 
+                "State with\nhighest\nhomicides\nin a month" = high_s,
+                "Month with\nhighest\nhomicides" = high_m,
+                "Highest number\nof homicides in\na single month" = max_h, 
+                "Average\nnumber of\nhomicides" = mean_h, 
+                "Standard\nDeviation" = sd_h)
 
 # Render table 
 tab_state_year_stats_os <- tableGrob(df_state_year_stats_os, row = NULL)
 t <- grid.arrange(tab_state_year_stats_os)
-ggsave("figs/tab_state_year_stats_os.jpg", plot = t, width = 6, height = 1.5)
+ggsave("figs/tab_state_year_stats_os.jpg", plot = t, width = 11, height = 4)
 
 # 04. Comparison between SSCP sources ------------------------------------------
 df_gpo_state_m <- df_state_m_gpo                                        %>% 
@@ -439,6 +545,7 @@ ggsave("figs/tab_nation_year_combined.jpg", plot = t, width = 4.5, height = 1)
 tab_nation_month_combined <- tableGrob(df_combined_sources_national_m, rows = NULL)
 t <- grid.arrange(tab_nation_month_combined)
 ggsave("figs/tab_nation_month_combined.jpg", plot = t, width = 7, height = 6)
+
 
 # 05. Comparison with INEGI data -----------------------------------------------
 
