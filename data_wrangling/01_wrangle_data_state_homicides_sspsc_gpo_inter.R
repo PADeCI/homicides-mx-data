@@ -16,6 +16,7 @@ library(tidyverse)
 library(dplyr)
 library(readr)
 library(lubridate)
+library(repmis) # For exporting data from GitHub
 
 # Clean the workspace
 rm(list = ls()) 
@@ -30,6 +31,7 @@ load("~/GitHub/homicides-mx-data/data_raw/df_pop_county_2019_2020.Rdata")
 # Homicide data from interinstitutional group
 df_homicides <- read.csv("data_raw/gpo_interinstitucional/2019_2020/df_homicides_daily_2019_2020_gpointerinstitucional.csv", 
         encoding = "UTF-8")
+
 
 
 
@@ -50,7 +52,7 @@ df_pop <- df_pop_county_2019_2020                                       %>%
 
 # Create state level population data frame
 df_pop_state <- df_pop                                                  %>% 
-        group_by(entidad, año)                                          %>%
+        group_by(entidad, state, año)                                   %>%
         summarise(population = sum(population))
 
 # Rename homicide data frame
@@ -80,7 +82,7 @@ df_homicides_state_daily <- df_homicides_state                          %>%
         complete(fecha, nesting(entidad), 
                 fill = list(homicidios =0))                             %>%
         mutate(fecha = as.Date(fecha))                                  %>% 
-        select(entidad, año, fecha, homicidios, population, mort_rate)
+        select(entidad, state, año, fecha, homicidios, population, mort_rate)
 
 
 
@@ -88,7 +90,6 @@ df_homicides_state_daily <- df_homicides_state                          %>%
 
 sum(df_homicides$Homicidios, na.rm = T)
 sum(df_homicides_state_daily$homicidios)
-
 
 
 # 04. Save final data sets -----------------------------------------------------

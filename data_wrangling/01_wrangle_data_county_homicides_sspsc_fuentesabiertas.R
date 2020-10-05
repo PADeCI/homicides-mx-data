@@ -22,7 +22,6 @@ library(lubridate)
 rm(list = ls()) 
 
 
-
 # 01. Load Data ----------------------------------------------------------------
 
 # Population data at county level 

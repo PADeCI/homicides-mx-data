@@ -36,7 +36,8 @@ rm(list = ls())
 source_data("https://github.com/PADeCI/demog-mx/blob/master/data/Estatal/df_pop_state.Rdata?raw=true")
 
 # Homicides at state level (from open sources)
-df_homicides_daily_fuentesabiertas <- read.csv("data_raw/fuentes_abiertas/2019_2020/df_homicides_daily_2019_2020_sspc_fuentesabiertas.csv")
+df_homicides_daily_fuentesabiertas <- read.csv("data_raw/fuentes_abiertas/2019_2020/df_homicides_daily_2019_2020_sspc_fuentesabiertas.csv", 
+        encoding = "UTF-8")
 
 
 
@@ -53,6 +54,10 @@ df_homicides_daily_state <- df_homicides_daily_fuentesabiertas  %>%
                mujer = "Mujer", 
                no_identificado = "No.Identificado",
                fecha = "Fecha")
+
+df_homicides_daily_state$fecha <- as.Date(df_homicides_daily_state$fecha) 
+df_homicides_daily_state$year <- format(as.Date(df_homicides_daily_state$fecha, format="%Y/%m/%d"),"%Y")
+df_homicides_daily_state$year <- as.integer(df_homicides_daily_state$year)
 
 # Group by state
 

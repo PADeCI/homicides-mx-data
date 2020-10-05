@@ -67,7 +67,8 @@ df_state_m_os <-  df_homicides_state_monthly_sspc_fuentesabiertas
 # Generate 
 df_nation_m_gpo <- df_state_m_gpo                                       %>% 
         filter(state == "National")                                     %>% 
-        arrange(year, month)
+        arrange(year, month)                                            %>% 
+        filter(is.na(homicidios)==F)
 
 # Labels for final table 
 df_nation_names_gpo <- df_nation_m_gpo                                  %>%
@@ -83,7 +84,7 @@ df_nation_names_gpo <- df_nation_m_gpo                                  %>%
                 month == "September" ~ 9,
                 month == "October" ~ 10,
                 month == "November" ~  11,
-                month == "December" ~  12)) %>% 
+                month == "December" ~  12))                             %>% 
         arrange(year, month_n) %>% 
         select(year, month, homicidios, mort_rate)                      %>% 
         rename("Year" = year, "Month" = month, "Homicides" = homicidios,       
@@ -102,7 +103,7 @@ ggsave("figs/tab_nation_year_totals_gpo.jpg",
 
 
 # 02.1.2 National homicides by year (descriptive statistics with total homicides)
-df_nation_stats_gpo_short <- df_nation_m_gpo                          %>%
+df_nation_stats_gpo_short <- df_nation_m_gpo                    %>%
         group_by(year)                                          %>% 
         summarise(min_h = min(homicidios), 
                   max_h = max(homicidios), 
@@ -110,8 +111,8 @@ df_nation_stats_gpo_short <- df_nation_m_gpo                          %>%
                   sd_h = round(sd(homicidios), 1))                   
 
 # Get months with highest and lowest homicides
-df_2019 <- df_nation_m_gpo %>% filter(year==2019)
-df_2020 <- df_nation_m_gpo %>% filter(year==2020)
+df_2019 <- df_nation_m_gpo %>% filter(year==2019) %>% mutate(month = as.character(month))
+df_2020 <- df_nation_m_gpo %>% filter(year==2020) %>% mutate(month = as.character(month))
 
 # Get months with lowest and highest homicides in a year
 low_m_19 <- df_2019$month[df_2019$homicidios == min(df_2019$homicidios)]
@@ -410,8 +411,8 @@ df_state_year_stats_os_short <- df_state_m_os                                 %>
                   sd_h = round(sd(homicidios), 1))              
 
 # Get df for each year
-df_2019 <- df_state_m_os %>% filter(year==2019)
-df_2020 <- df_state_m_os %>% filter(year==2020)
+df_2019 <- df_state_m_os %>% filter(year==2019) %>% mutate(month = as.character(month))
+df_2020 <- df_state_m_os %>% filter(year==2020) %>% mutate(month = as.character(month))
 
 # Get months with lowest and highest homicides in a state 
 low_m_19 <- df_2019$month[df_2019$homicidios == min(df_2019$homicidios)]
