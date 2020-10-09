@@ -28,8 +28,8 @@ rm(list = ls())
 load("./data_raw/df_pop_county_2019_2020.Rdata")
 
 # Homicide data from open sources (newspapers)
-df_homicides_open <- read.csv("data_raw/fuentes_abiertas/2019_2020/df_homicides_daily_2019_2020_sspc_fuentesabiertas.csv", 
-        encoding = "UTF-8")
+df_homicides_open <- read.csv("data_raw/fuentes_abiertas/2019_2020/df_homicides_daily_2019_2020_sspc_fuentesabiertas.csv",
+                              encoding = "UTF-8")
 
 
 # 02. Data wrangling  ----------------------------------------------------------
@@ -49,7 +49,7 @@ df_pop <- df_pop_county_2019_2020                               %>%
 
         
 df_homicides_county <- df_homicides_open                        %>% 
-        rename("entidad"          = Entidad, 
+        rename( "entidad"         = Entidad, 
                 "homicidios"      = Homicidios,
                 "fecha"           = Fecha, 
                 "municipio"       = Municipio, 
@@ -57,6 +57,8 @@ df_homicides_county <- df_homicides_open                        %>%
                 "mujer"           = Mujer, 
                 "no_identificado" = No.Identificado)            %>% 
         mutate(año = year(as.Date(fecha))) 
+
+                
 
 # 02.2 Add population for open source  -----------------------------------------
 

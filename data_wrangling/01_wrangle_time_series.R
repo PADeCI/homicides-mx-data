@@ -25,13 +25,13 @@ rm(list = ls())
 # 01. Load Data ----------------------------------------------------------------
 
 # Homicide and population data at county level (open sources)
-load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_fuentesabiertas_county_day.Rdata")
+load("./data/fuentes_abiertas/df_homicides_fuentesabiertas_county_day.Rdata")
 
 # Homicide and population data at state level (open sources)
-load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
+load("./data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
 
 # Homicide and population data at state level (interinstitutional group)
-load("~/GitHub/homicides-mx-data/data/gpo_interinstitucional/df_homicides_state_daily_sspc_gpointerinstitucional.RData")
+load("./data/gpo_interinstitucional/df_homicides_state_daily_sspc_gpointerinstitucional.RData")
 
 # Population 
 source_data("https://github.com/PADeCI/demog-mx/blob/master/data/Estatal/df_pop_state.Rdata?raw=true")
@@ -320,17 +320,17 @@ df_homicides_state_monthly_sspc_gpointerinstitucional <- df_month_state_gpo
 
 ## Save data ##
 # County level from open sources
-save(df_homicides_county_daily_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
-save(df_homicides_county_weekly_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_weekly_sspc_fuentesabiertas.RData")
-save(df_homicides_county_monthly_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_county_monthly_sspc_fuentesabiertas.RData")
+save(df_homicides_county_daily_sspc_fuentesabiertas, file = "./data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
+save(df_homicides_county_weekly_sspc_fuentesabiertas, file = "./data/df_homicides_county_weekly_sspc_fuentesabiertas.RData")
+save(df_homicides_county_monthly_sspc_fuentesabiertas, file = "./data/fuentes_abiertas/df_homicides_county_monthly_sspc_fuentesabiertas.RData")
 
 # Sate level from open sources
-save(df_homicides_state_daily_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
-save(df_homicides_state_weekly_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_weekly_sspc_fuentesabiertas.RData")
-save(df_homicides_state_monthly_sspc_fuentesabiertas, file = "~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_monthly_sspc_fuentesabiertas.RData")
+save(df_homicides_state_daily_sspc_fuentesabiertas, file = "./data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
+save(df_homicides_state_weekly_sspc_fuentesabiertas, file = "./data/fuentes_abiertas/df_homicides_state_weekly_sspc_fuentesabiertas.RData")
+save(df_homicides_state_monthly_sspc_fuentesabiertas, file = "./data/fuentes_abiertas/df_homicides_state_monthly_sspc_fuentesabiertas.RData")
 
 # State level from interinstitutional group
-save(df_homicides_state_daily_sspc_gpointerinstitucional, file = "~/GitHub/homicides-mx-data/data/gpo_interinstitucional/df_homicides_state_daily_sspc_gpointerinstitucional.RData")
-save(df_homicides_state_weekly_sspc_gpointerinstitucional, file = "~/GitHub/homicides-mx-data/data/gpo_interinstitucional/df_homicides_state_weekly_sspc_gpointerinstitucional.RData")
-save(df_homicides_state_monthly_sspc_gpointerinstitucional, file = "~/GitHub/homicides-mx-data/data/gpo_interinstitucional/df_homicides_state_monthly_sspc_gpointerinstitucional.RData")
+save(df_homicides_state_daily_sspc_gpointerinstitucional, file = "./data/gpo_interinstitucional/df_homicides_state_daily_sspc_gpointerinstitucional.RData")
+save(df_homicides_state_weekly_sspc_gpointerinstitucional, file = "./data/gpo_interinstitucional/df_homicides_state_weekly_sspc_gpointerinstitucional.RData")
+save(df_homicides_state_monthly_sspc_gpointerinstitucional, file = "./data/gpo_interinstitucional/df_homicides_state_monthly_sspc_gpointerinstitucional.RData")
 

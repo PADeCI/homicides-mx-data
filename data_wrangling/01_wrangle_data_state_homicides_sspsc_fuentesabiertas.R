@@ -173,4 +173,7 @@ sum(df_homicides_state_daily_sspc_fuentesabiertas$no_identificado)
 
 # 04. Save final data set ------------------------------------------------------
 
-save(df_homicides_state_daily_sspc_fuentesabiertas, file = "data/df_homicides_state_daily_sspc_fuentesabiertas.RData")
+save(df_homicides_state_daily_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
+
+#Save CSV
+
