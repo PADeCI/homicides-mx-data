@@ -83,7 +83,7 @@ df_dates_county <- df_dates_county                                      %>%
         
 ## Monthly ##
 df_month_county <- df_dates_county %>%
-        group_by(entidad, municipio, county, year, año, month, mes) %>% 
+        group_by(entidad, municipio, county, year, año, month, mes)     %>% 
         summarise("homicidios" = sum(homicidios, na.rm = T), 
                   "hombre"     = sum(hombre, na.rm = T), 
                   "mujer"      = sum(mujer, na.rm = T), 
@@ -157,7 +157,7 @@ df_month_state <- df_dates_state %>%
 
 ## Weekly ##
 df_week_state <- df_dates_state %>% 
-        group_by(entidad, state, year, año, month, mes, week, semana) %>% 
+        group_by(entidad, state, year, año, month, mes, week, semana)   %>% 
         summarise("homicidios" = sum(homicidios, na.rm = T), 
                 "hombre"     = sum(hombre, na.rm = T), 
                 "mujer"      = sum(mujer, na.rm = T),
@@ -197,7 +197,7 @@ df_dates_state_gpo <- df_homicides_state_daily_sspc_gpointerinstitucional %>%
                                 mes == 9 ~ "Septiembre", 
                                 mes == 10 ~ "Octubre", 
                                 mes == 11 ~ "Noviembre", 
-                                mes == 12 ~ "Diciembre"))                %>%
+                                mes == 12 ~ "Diciembre"))               %>%
         mutate(month = case_when(month ==  1 ~ "January", 
                                 month == 2 ~ "February", 
                                 month == 3 ~ "March", 
@@ -209,7 +209,7 @@ df_dates_state_gpo <- df_homicides_state_daily_sspc_gpointerinstitucional %>%
                                 month == 9 ~ "September", 
                                 month == 10 ~ "October", 
                                 month == 11 ~ "November", 
-                                month == 12 ~ "December"))               %>% 
+                                month == 12 ~ "December"))              %>% 
         select(entidad, state, año, year, mes, month, semana, week, fecha, 
                 homicidios, population, mort_rate) 
         
@@ -239,9 +239,9 @@ df_week_state_gpo <- df_dates_state_gpo %>%
 
 ## Monthly ## 
 df_month_state_gpo <- df_dates_state_gpo %>% 
-        group_by(entidad, state, population, año, year, mes, month) %>%  
+        group_by(entidad, state, population, año, year, mes, month)     %>%  
         summarise("homicidios" = sum(homicidios)) %>% 
-        mutate(mort_rate = round((homicidios/population)*100000, 2)) %>% 
+        mutate(mort_rate = round((homicidios/population)*100000, 2))    %>% 
         filter(is.na(population)==F)
 
 # 03. Check consistency of data ------------------------------------------------

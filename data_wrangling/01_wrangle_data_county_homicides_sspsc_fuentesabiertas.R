@@ -32,7 +32,6 @@ df_homicides_open <- read.csv("data_raw/fuentes_abiertas/2019_2020/df_homicides_
         encoding = "UTF-8")
 
 
-
 # 02. Data wrangling  ----------------------------------------------------------
 
 # 02.1 Relabel, filter,  group and select  -------------------------------------
@@ -57,52 +56,13 @@ df_homicides_county <- df_homicides_open                        %>%
                 "hombre"          = Hombre, 
                 "mujer"           = Mujer, 
                 "no_identificado" = No.Identificado)            %>% 
-        mutate(año = year(as.Date(fecha)))                     
+        mutate(año = year(as.Date(fecha))) 
 
 # 02.2 Add population for open source  -----------------------------------------
 
-# Join data frames
 df_homicides_pop <- df_homicides_county                         %>%  
-        full_join(df_pop, by = c("entidad", "municipio", "año"))
-
-# 02.2 Find mistake  -----------------------------------------
-df_prev_mistake <- df_homicides_county                          %>% 
-        rename("antes_total" = homicidios, 
-                "antes_hombre" = hombre, 
-                "antes_mujer" = mujer, 
-                "antes_no_iden" = no_identificado)              %>%
-        select(entidad, municipio, fecha, antes_total, antes_hombre, antes_mujer,
-                antes_no_iden)
-
-df_afte_mistake <- df_homicides_pop                             %>% 
-        rename("desp_total" = homicidios, 
-                "desp_hombre" = hombre, 
-                "desp_mujer" = mujer, 
-                "desp_no_iden" = no_identificado)               %>% 
-        select(entidad, municipio, fecha, desp_total, desp_hombre, desp_mujer,
-                desp_no_iden)
-
-df_mistake_total <- df_prev_mistake                                   %>% 
-        full_join(df_afte_mistake, by = c("entidad", "municipio", "fecha")) %>% 
-        mutate(diff_total = antes_total - desp_total, 
-                equal_total = case_when(diff_total==0 ~ T, diff_total !=0 ~ F)) 
-
-df_mistake_hombre <- df_prev_mistake                                   %>% 
-        full_join(df_afte_mistake, by = c("entidad", "municipio", "fecha")) %>% 
-        mutate(diff_hombre = antes_hombre - desp_hombre, 
-                equal_hombre = case_when(diff_hombre==0 ~ T, diff_hombre !=0 ~ F))
-        
-df_mistake_mujer <- df_prev_mistake                                   %>% 
-        full_join(df_afte_mistake, by = c("entidad", "municipio", "fecha")) %>%         
-        mutate(diff_mujer = antes_mujer - desp_mujer, 
-                equal_mujer= case_when(diff_mujer==0 ~ T, diff_mujer !=0 ~ F))
-
-df_mistake_no_iden <- df_prev_mistake                                   %>% 
-        full_join(df_afte_mistake, by = c("entidad", "municipio", "fecha")) %>%
-        mutate(diff_no_iden = antes_no_iden - desp_no_iden, 
-                equal_no_iden = case_when(diff_no_iden==0 ~ T, diff_no_iden !=0 ~ F)) 
-        
-sum(df_mistake_total$diff[df_mistake_total$equal==F], na.rm = T)        
+        full_join(df_pop, by = c("entidad", 
+                "municipio", "año"))  
 
 
 # 02.3 Estimate mortality rate -------------------------------------------------
@@ -123,7 +83,8 @@ df_final <- df_homicides_pop_mort
 df_final <- df_homicides_pop_mort %>% 
         mutate(mort_rate = (homicidios*100000/population))      %>% 
         complete(fecha, nesting(entidad, municipio), 
-                fill = list(homicidios=0, hombres=0, mujeres=0, no_identificado=0))
+                fill = list(homicidios=0, hombres=0, 
+                        mujeres=0, no_identificado=0))
 
 
 
@@ -131,25 +92,22 @@ df_final <- df_homicides_pop_mort %>%
 
 # Total homicides
 sum(df_homicides_open$Homicidios)
-        sum(df_homicides_county$homicidios)
-        sum(df_homicides_pop$homicidios, na.rm = T)
-        sum(df_homicides_pop_mort$homicidios, na.rm = T)
 sum(df_final$homicidios, na.rm = T)
-        # Difference: -28
+        # Difference: 2
 # Men 
 sum(df_homicides_open$Hombre, na.rm = T)
 sum(df_final$hombre, na.rm = T)
-        # Difference: -26
+        # Difference: 1
 
 # Women 
 sum(df_homicides_open$Mujer, na.rm = T)
 sum(df_final$mujer, na.rm = T)
-        # Difference: -1
+        # Difference: 1
 
 # Non-identified 
 sum(df_homicides_open$No.Identificado, na.rm = T)
 sum(df_final$no_identificado, na.rm = T)
-        # Difference: 0 
+         # Difference: 0 
 
 
 # 04. Save final data sets -----------------------------------------------------
@@ -158,5 +116,6 @@ sum(df_final$no_identificado, na.rm = T)
 df_homicides_county_daily_sspc_fuentesabiertas <- df_final
 
 # Save df
-save(df_homicides_county_daily_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
+save(df_homicides_county_daily_sspc_fuentesabiertas, 
+        file = "data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
 
