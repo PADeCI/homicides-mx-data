@@ -332,7 +332,7 @@ df_nation_y_os <- df_state_m_os                                         %>%
 # Render table 
 tab_nation_y_os <- tableGrob(df_nation_y_os, row = NULL)
 t <- grid.arrange(tab_nation_y_os)
-ggsave("figs/tab_nation_year_os.jpg", plot = t, width = 5, height = 1)
+ggsave("figs/tab_nation_year_os.jpg", plot = t, width = 4, height = 1.5)
 
 # 03.2 State level homicides (open sources) ------------------------------------
 # 03.2.1 State homicides by year (disaggregated by gender)
@@ -341,7 +341,7 @@ df_state_year_os <- df_state_m_os                                       %>%
         summarise("Total\nhomicides" = sum(homicidios, na.rm = T), 
                 "Male" = sum(hombre, na.rm = T), 
                 "Female" = sum(mujer, na.rm = T), 
-                "" = sum(no_identificado, na.rm = T))     %>% 
+                "No identificado" = sum(no_identificado, na.rm = T))     %>% 
         rename("State" = state, "Year" = year)
 
 # 02.2.2.1 Format table for report ---------------------------------------------

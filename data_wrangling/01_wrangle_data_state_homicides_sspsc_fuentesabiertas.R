@@ -29,7 +29,6 @@ library(gapminder)
 rm(list = ls()) 
 
 
-
 # 01. Load Data ----------------------------------------------------------------
 
 # Population data at state level
@@ -38,7 +37,6 @@ source_data("https://github.com/PADeCI/demog-mx/blob/master/data/Estatal/df_pop_
 # Homicides at state level (from open sources)
 df_homicides_daily_fuentesabiertas <- read.csv("data_raw/fuentes_abiertas/2019_2020/df_homicides_daily_2019_2020_sspc_fuentesabiertas.csv", 
         encoding = "UTF-8")
-
 
 
 # 02. Data wrangling  ----------------------------------------------------------
@@ -53,7 +51,10 @@ df_homicides_daily_state <- df_homicides_daily_fuentesabiertas  %>%
                hombre = "Hombre",
                mujer = "Mujer", 
                no_identificado = "No.Identificado",
-               fecha = "Fecha")
+               fecha = "Fecha")                                 %>% 
+        mutate(fecha = as.character(fecha))                     %>%  
+        mutate(fecha = case_when(fecha == "08/03/19" ~ "2019-03-08",
+                fecha == fecha ~ fecha))
 
 df_homicides_daily_state$fecha <- as.Date(df_homicides_daily_state$fecha) 
 df_homicides_daily_state$year <- format(as.Date(df_homicides_daily_state$fecha, format="%Y/%m/%d"),"%Y")
@@ -146,34 +147,62 @@ df_homicidios_estado_fuentesabiertas_poblacion <- df_homicides_daily
 
 # 02.4 Estimate mortality rate -------------------------------------------------
 
-df_homicides_state_daily_sspc_fuentesabiertas <- df_homicidios_estado_fuentesabiertas_poblacion%>% 
+df_final <- df_homicidios_estado_fuentesabiertas_poblacion%>% 
         mutate(mort_rate = round((homicidios/population)*100000, 2)) 
-
-
 
 
 # 03. Check consistency of data ------------------------------------------------
 
-# Total homicides
-sum(df_homicides_daily_fuentesabiertas$Homicidios)
-sum(df_homicides_state_daily_sspc_fuentesabiertas$homicidios)
+# 03.1 Totals ------------------------------------------------------------------
+# All homicides
+sum(df_homicides_daily_fuentesabiertas$Homicidios)              # Original df
+sum(df_final$homicidios)                                        # Final df
 
 # Male 
-sum(df_homicides_daily_fuentesabiertas$Hombre, na.rm = T)
-sum(df_homicides_state_daily_sspc_fuentesabiertas$hombre)
+sum(df_homicides_daily_fuentesabiertas$Hombre, na.rm = T)       # Original df 
+sum(df_final$hombre)                                            # Final df
 
 # Female 
-sum(df_homicides_daily_fuentesabiertas$Mujer, na.rm = T)
-sum(df_homicides_state_daily_sspc_fuentesabiertas$mujer)
+sum(df_homicides_daily_fuentesabiertas$Mujer, na.rm = T)        # Original df
+sum(df_final$mujer)                                             # Final df
 
 # Non identified
-sum(df_homicides_daily_fuentesabiertas$No.Identificado, na.rm = T)
-sum(df_homicides_state_daily_sspc_fuentesabiertas$no_identificado)
+sum(df_homicides_daily_fuentesabiertas$No.Identificado, na.rm = T) # Original 
+sum(df_final$no_identificado)                                   # Final df
 
+        # All the homicide categories add up to the same number as in the 
+        # original data frame. 
+
+# 03.2 Consistency by gender ---------------------------------------------------
+
+# Estimate the number of homicides by adding up by gender. Then compare with 
+# the total number of homicides originally reported. Create a variable for 
+# differences. 
+df_gender <- df_final %>% 
+        mutate(suma = hombre + mujer + no_identificado, 
+                diff = case_when(homicidios == suma ~ 0, 
+                                 homicidios == suma ~ 1))
+
+# Compute the number of observations where reported and estimated total homicides 
+# mismatch. 
+sum(df_gender$diff, na.rm = T)
+
+        # There are no mismatchs. 
+
+# 03.3 Categories --------------------------------------------------------------
+# Make sure NA is not a category on any variable
+sum(is.na(df_final$entidad))
+sum(is.na(df_final$state))
+sum(is.na(df_final$population))
+sum(is.na(df_final$fecha))
+sum(is.na(df_final$homicidios))
+
+        # None of the variables have a NA category
 
 # 04. Save final data set ------------------------------------------------------
+# Rename
+df_homicides_state_daily_sspc_fuentesabiertas <- df_final
 
+# Save
 save(df_homicides_state_daily_sspc_fuentesabiertas, file = "data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
-
-#Save CSV
 

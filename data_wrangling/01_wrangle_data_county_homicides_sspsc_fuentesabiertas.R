@@ -28,7 +28,7 @@ rm(list = ls())
 load("./data_raw/df_pop_county_2019_2020.Rdata")
 
 # Homicide data from open sources (newspapers)
-df_homicides_open <- read.csv("data_raw/fuentes_abiertas/2019_2020/df_homicides_daily_2019_2020_sspc_fuentesabiertas.csv",
+df_homicides_daily_fuentesabiertas <- read.csv("data_raw/fuentes_abiertas/2019_2020/df_homicides_daily_2019_2020_sspc_fuentesabiertas.csv",
                               encoding = "UTF-8")
 
 
@@ -48,7 +48,7 @@ df_pop <- df_pop_county_2019_2020                               %>%
         mutate(population = as.numeric(population))     
 
         
-df_homicides_county <- df_homicides_open                        %>% 
+df_homicides_county <- df_homicides_daily_fuentesabiertas                        %>% 
         rename( "entidad"         = Entidad, 
                 "homicidios"      = Homicidios,
                 "fecha"           = Fecha, 
@@ -58,14 +58,13 @@ df_homicides_county <- df_homicides_open                        %>%
                 "no_identificado" = No.Identificado)            %>% 
         mutate(año = year(as.Date(fecha))) 
 
-                
 
 # 02.2 Add population for open source  -----------------------------------------
 
 df_homicides_pop <- df_homicides_county                         %>%  
         full_join(df_pop, by = c("entidad", 
-                "municipio", "año"))  
-
+                "municipio", "año"))                            %>% 
+        filter(is.na(fecha) == FALSE)
 
 # 02.3 Estimate mortality rate -------------------------------------------------
 
@@ -74,12 +73,14 @@ df_homicides_pop <- df_homicides_county                         %>%
 
 df_homicides_pop_mort <- df_homicides_pop                       %>%
         mutate(mort_rate = (homicidios*100000/population))      %>%  
+        mutate(fecha = as.character(fecha))                     %>%  
+        mutate(fecha = case_when(fecha == "08/03/19" ~ "2019-03-08",
+                fecha == fecha ~ fecha))                        %>% 
         mutate(fecha = as.Date(fecha))                          %>% 
         select(entidad, municipio, county, county_id, fecha, homicidios, hombre, 
                 mujer, no_identificado, population, mort_rate)
         #View(df_homicides_county_daily)
 
-df_final <- df_homicides_pop_mort
 
 # 02.4 Fill missing dates ------------------------------------------------------
 df_final <- df_homicides_pop_mort %>% 
@@ -92,25 +93,54 @@ df_final <- df_homicides_pop_mort %>%
 
 # 03. Check consistency of data ------------------------------------------------
 
-# Total homicides
-sum(df_homicides_open$Homicidios)
-sum(df_final$homicidios, na.rm = T)
-        # Difference: 2
-# Men 
-sum(df_homicides_open$Hombre, na.rm = T)
-sum(df_final$hombre, na.rm = T)
-        # Difference: 1
+# 03.1 Totals ------------------------------------------------------------------
+# All homicides
+sum(df_homicides_daily_fuentesabiertas$Homicidios)              # Original df
+sum(df_final$homicidios, na.rm = T)                             # Final df
+        
+
+# Men   
+sum(df_homicides_daily_fuentesabiertas$Hombre, na.rm = T)       # Original df
+sum(df_final$hombre, na.rm = T)                                 # Final df
+
 
 # Women 
-sum(df_homicides_open$Mujer, na.rm = T)
-sum(df_final$mujer, na.rm = T)
-        # Difference: 1
+sum(df_homicides_daily_fuentesabiertas$Mujer, na.rm = T)        # Original df
+sum(df_final$mujer, na.rm = T)                                  # Final df
+
 
 # Non-identified 
-sum(df_homicides_open$No.Identificado, na.rm = T)
-sum(df_final$no_identificado, na.rm = T)
-         # Difference: 0 
+sum(df_homicides_daily_fuentesabiertas$No.Identificado, na.rm = T) # Original df
+sum(df_final$no_identificado, na.rm = T)                           # Final df
 
+        # All the homicide categories add up to the same number as in the 
+        # original data frame. 
+
+# 03.2 Consistency by gender ---------------------------------------------------
+
+# Estimate the number of homicides by adding up by gender. Then compare with 
+# the total number of homicides originally reported. Create a variable for 
+# differences. 
+df_gender <- df_final %>% 
+        mutate(suma = hombre + mujer + no_identificado, 
+                diff = case_when(homicidios == suma ~ 0, 
+                        homicidios == suma ~ 1))
+
+# Compute the number of observations where reported and estimated total homicides 
+# mismatch. 
+sum(df_gender$diff, na.rm = T)
+
+        # There are no mismatchs. 
+
+# 03.3 Categories --------------------------------------------------------------
+# Make sure NA is not a category on any variable
+sum(is.na(df_final$entidad))
+sum(is.na(df_final$municipio))
+sum(is.na(df_final$population))
+sum(is.na(df_final$fecha))
+sum(is.na(df_final$homicidios))
+        
+        # The population variable has several NAs.
 
 # 04. Save final data sets -----------------------------------------------------
 
