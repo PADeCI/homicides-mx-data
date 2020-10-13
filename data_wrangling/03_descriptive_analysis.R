@@ -100,8 +100,6 @@ ggsave("figs/tab_nation_year_totals_gpo.jpg",
         plot = t, width = 5, height = 5)      # Save table
 
 
-
-
 # 02.1.2 National homicides by year (descriptive statistics with total homicides)
 df_nation_stats_gpo_short <- df_nation_m_gpo                    %>%
         group_by(year)                                          %>% 
@@ -519,16 +517,22 @@ df_combined_sources_national_y <- df_gpo_national_y                     %>%
                 "Homicides reported\nby Inter. Group" = homicides_gpo, 
                 "Homicides reported\nby newspapers" = homicides_fuentes)
 
-df_combined_sources_national_m <- df_gpo_national_m                     %>% 
+df_combined_sources_national_m <- df_gpo_national_m                          %>% 
         left_join(df_fuentes_national_m, by = c("year", "month_n", "month")) %>% 
-        arrange(year, month_n)                                          %>% 
-        select(year, month, homicides_gpo, homicides_fuentes)           %>%
-        mutate(diff = homicides_gpo - homicides_fuentes)                %>% 
+        arrange(year, month_n)                                               %>% 
+        select(year, month, homicides_gpo, homicides_fuentes)                %>%
+        mutate(diff = homicides_gpo - homicides_fuentes)                     %>% 
+        mutate(percent = (round(homicides_gpo*100/homicides_fuentes, 1)))    %>% 
+        mutate(diff_percent = round(diff*100/homicides_gpo, 1))              %>% 
+        mutate(diff_percent_text = paste(diff_percent, "%", sep=""))         %>%
+        select(year, month, homicides_gpo, homicides_fuentes, diff, 
+                diff_percent_text)                                           %>% 
         rename("Year" = year, 
                 "Month" = month, 
                 "Homicides reported\nby Inter. Group" = homicides_gpo, 
                 "Homicides reported\nby newspapers" = homicides_fuentes, 
-                "Difference between\nsources" = diff)
+                "Difference\nbetween\nsources" = diff, 
+                "Difference as\npercentage" = diff_percent_text)
 
 df_combined_sources_national_m  %>% 
         filter(is.na(Month) == F) 
@@ -545,7 +549,7 @@ ggsave("figs/tab_nation_year_combined.jpg", plot = t, width = 4.5, height = 1)
 # Render table
 tab_nation_month_combined <- tableGrob(df_combined_sources_national_m, rows = NULL)
 t <- grid.arrange(tab_nation_month_combined)
-ggsave("figs/tab_nation_month_combined.jpg", plot = t, width = 7, height = 6)
+ggsave("figs/tab_nation_month_combined.jpg", plot = t, width = 8, height = 6)
 
 
 # 05. Comparison with INEGI data -----------------------------------------------

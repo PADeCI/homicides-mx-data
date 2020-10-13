@@ -62,7 +62,9 @@ df_homicides_gpo <- df_homicides                                        %>%
                 "fecha" = Fecha)                                        %>% 
         mutate(entidad = as.character(entidad))                         %>% 
         mutate(entidad = case_when(entidad == "Total" ~ "Nacional", 
-                                   entidad == entidad ~ entidad))
+                                   entidad == entidad ~ entidad))       %>%
+        distinct(fecha, .keep_all = TRUE)
+        
 
 # 02.2 Add population for interinstitutional group  ----------------------------
 

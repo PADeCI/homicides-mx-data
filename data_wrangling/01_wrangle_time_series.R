@@ -336,25 +336,7 @@ sum(df_month_state$no_identificado, na.rm = T)
         # All the homicide categories add up to the same number as in the 
         # original data frame. 
 
-# 03.2 Consistency by gender ---------------------------------------------------
-
-# Estimate the number of homicides by adding up by gender. Then compare with 
-# the total number of homicides originally reported. Create a variable for 
-# differences. 
-df_gender_dates <- df_final %>% 
-        mutate(suma = hombre + mujer + no_identificado, 
-                diff = case_when(homicidios == suma ~ 0, 
-                        homicidios == suma ~ 1))
-
-df_gender_week 
-df_gender_month 
-# Compute the number of observations where reported and estimated total homicides 
-# mismatch. 
-sum(df_gender$diff, na.rm = T)
-
-        # There are no mismatchs. 
-
-# 03.3 Categories --------------------------------------------------------------
+# 03.2 Categories --------------------------------------------------------------
 # Make sure NA is not a category on any variable
 sum(is.na(df_dates_state$entidad))
 sum(is.na(df_dates_state$state))
