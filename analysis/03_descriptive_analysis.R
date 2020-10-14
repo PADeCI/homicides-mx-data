@@ -22,6 +22,8 @@ library(captioner)      # For table and figure labels
 library(tibble)
 library(ggplot2)
 
+library(beepr)
+
 # Clean the workspace
 rm(list = ls()) 
 
@@ -31,7 +33,7 @@ tth <- ttheme_default()
 # Paths
 input_gpo       <- "~/GitHub/homicides-mx-data/data/gpo_interinstitucional/"
 input_fa        <- "~/GitHub/homicides-mx-data/data/fuentes_abiertas/"
-output_fig      <- "~/GitHub/homicides-mx-data/figs/tables"
+output_fig      <- "~/GitHub/homicides-mx-data/figs/tables/"
 
         
 # 01. Load data ----------------------------------------------------------------
@@ -568,4 +570,6 @@ ggsave(paste0(output_fig, "tab_nation_month_combined.jpg"),
 
 # 05. Comparison with INEGI data -----------------------------------------------
 
+
+beepr::beep(5)
 

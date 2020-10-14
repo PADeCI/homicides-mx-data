@@ -16,12 +16,18 @@ library(ggplot2)
 # Clean workspace 
 rm(list=ls())
 
+# Paths 
+input           <-  "~/GitHub/homicides-mx-data/data/gpo_interinstitucional/"
+output          <-  "~/GitHub/homicides-mx-data/figs/graphs/"
+
 # Color blind firendly palette with grey:
-cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", 
+                "#D55E00", "#CC79A7")
+
 
 # 01. Load Data ----------------------------------------------------------------
 # Total cases by state and month
-load("./data/gpo_interinstitucional/df_homicides_state_monthly_sspc_gpointerinstitucional.Rdata")
+load(paste0(input, "df_homicides_state_monthly_sspc_gpointerinstitucional.Rdata"))
 
 # Rename data frame for simplicity 
 df_month <- df_homicides_state_monthly_sspc_gpointerinstitucional %>%  
@@ -51,66 +57,65 @@ df_states_5m_states <- df_states_5m %>%
 # 02. Data filtering  ----------------------------------------------------------
 
 # 03. Create graphs  -----------------------------------------------------------
-# 03.1 National graphs --------------------------------------------------------- 
-# Total by month (time series)
+# 03.1 Vectors -----------------------------------------------------------------
+v_caption_SSPC <- "Source: Daily reports of the SSPC, retrieved from: http://www.informeseguridad.cns.gob.mx/"
+
+v_entidades <- c("Aguascalientes", "Baja California", "Baja California Sur" , 
+        "Campeche", "Chiapas", "Chihuahua", "Ciudad de México", "Coahuila",
+        "Colima", "Durango", "Estado de México", "Guanajuato", "Guerrero",
+        "Hidalgo", "Jalisco", "Michoacán", "Morelos", "Nacional", "Nayarit",
+        "Nuevo León", "Oaxaca", "Puebla", "Querétaro", "Quintana Roo", 
+        "San Luis Potosí", "Sinaloa", "Sonora", "Tabasco", "Tamaulipas", 
+        "Tlaxcala", "Veracruz", "Yucatán", "Zacatecas") 
+
+v_states <- c("Aguascalientes", "Baja California", "Baja California Sur", 
+        "Campeche", "Chiapas", "Chihuahua", "Mexico City", "Coahuila", "Colima", 
+        "Durango", "State of Mexico", "Guanajuato", "Guerrero", "Hidalgo", 
+        "Jalisco", "Michoacan", "Morelos", "National", "Nayarit", "Nuevo Leon", 
+        "Oaxaca", "Puebla", "Queretaro", "Quintana Roo", "San Luis Potosi", 
+        "Sinaloa", "Sonora", "Tabasco", "Tamaulipas", "Tlaxcala", "Veracruz", 
+        "Yucatan", "Zacatecas")          
+
+# 03.2 Total homicides by month (time series) ----------------------------------
+# Trial for the national level 
 ggplot(df_month_national,
-                aes(x = month_year, y = homicidios, fill = "#9a031e")) +
+                aes(x = month_year, y = homicidios)) +
                 geom_col()  +
         labs(title = "Homicides from April 2019 to August 2020", 
                 subtitle = "National level",
                 hjust = 0, 
                 x = "Month",
                 y = "Number of homicides", 
-                caption = "Source: Daily reports of the SSPC, retrieved from: http://www.informeseguridad.cns.gob.mx/") +
+                caption = v_caption_SSPC) +
         theme_minimal() +
-        guides(fill = "none") +
+        theme(axis.text.x = element_text(angle = 30)) +
         scale_fill_manual(values=cbPalette)
 
-# Total by month in selected state (time series)
-ggplot(df_month %>% filter(state == "Mexico City"),
+# Loop-generated graphs for all states
+for(i in 1:length(v_states)){
+ggplot(df_month %>% filter(state == v_states[i]),
         aes(x = month_year, y = homicidios, fill = "#9A031E")) +
         geom_col()  +
         labs(title = "Homicides from April 2019 to August 2020", 
-                subtitle = "Mexico City",
+                subtitle = v_states[i],
                 hjust = 0, 
                 x = "Month",
                 y = "Number of homicides", 
-                caption = "Source: Daily reports of the SSPC, retrieved from: http://www.informeseguridad.cns.gob.mx/") +
+                caption = v_caption_SSPC) +
         theme_minimal() +
+        theme(axis.text.x = element_text(angle = 30)) +
         guides(fill = "none") +
-        scale_fill_manual(values=cbPalette)
+        scale_fill_manual("", values=c("#5F0F40"))
 
-# Total by month in selected state (time series)
-ggplot(df_month %>% filter(state == "Guanajuato"),
-        aes(x = month_year, y = homicidios, fill = "#9A031E")) +
-        geom_col()  +
-        labs(title = "Homicides from April 2019 to August 2020", 
-                subtitle = "Guanajuato",
-                hjust = 0, 
-                x = "Month",
-                y = "Number of homicides", 
-                caption = "Source: Daily reports of the SSPC, retrieved from: http://www.informeseguridad.cns.gob.mx/") +
-        theme_minimal() +
-        guides(fill = "none") +
-        scale_fill_manual(values=cbPalette)
+ggsave(filename = paste0(output, "homicides_time_series/g_homicides_timeseries_", 
+                        v_states[i], ".png"))
+}
 
-# Total by month in selected state (time series)
-ggplot(df_month %>% filter(state == "Aguascalientes"),
-        aes(x = month_year, y = homicidios, fill = "#9A031E")) +
-        geom_col()  +
-        labs(title = "Homicides from April 2019 to August 2020", 
-                subtitle = "Aguascalientes",
-                hjust = 0, 
-                x = "Month",
-                y = "Number of homicides", 
-                caption = "Source: Daily reports of the SSPC, retrieved from: http://www.informeseguridad.cns.gob.mx/") +
-        theme_minimal() +
-        guides(fill = "none") +
-        scale_fill_manual(values=cbPalette)
+beepr::beep(5)
 
-
-# Total by month (comparison among years)
-ggplot(df_month_national_5m, 
+# 03.2 Total homicides by month comparison among years -------------------------
+# Trial 
+ggplot(df_states_5m, 
         aes(x = month, y = homicidios, fill = year)) +
         geom_col(position = "dodge") +
         labs(title = "Homicides comparison between 2019 and 2020", 
@@ -119,23 +124,30 @@ ggplot(df_month_national_5m,
                 x = "Month",
                 y = "Number of homicides",
                 fill = "Year", 
-                caption = "Source: Daily reports of the SSPC, retrieved from: http://www.informeseguridad.cns.gob.mx/") +
+                caption = v_caption_SSPC) +
         theme_minimal() +
         scale_fill_manual(values=cbPalette)
 
-# Mexico City total homicides by month (comparison among year)
-ggplot(df_states_5m %>% filter(state == "Mexico City"), 
+# Loop-generated 
+for(i in 1:length(v_states)){
+ggplot(df_states_5m %>% filter(state == v_states[i]), 
         aes(x = month, y = homicidios, fill = year)) +
         geom_col(position = "dodge") +
         labs(title = "Homicides comparison between 2019 and 2020", 
-                subtitle = "Mexico City",
+                subtitle = v_states[i],
                 hjust = 0, 
                 x = "Month",
                 y = "Number of homicides",
                 fill = "Year", 
-                caption = "Source: Daily reports of the SSPC, retrieved from: http://www.informeseguridad.cns.gob.mx/") +
+                caption = v_caption_SSPC) +
         theme_minimal() +
         scale_fill_manual(values=cbPalette)
+
+ggsave(filename = paste0(output, "homicides_5month_comparison/g_homicides_timeseries_", 
+                v_states[i], ".png"))
+}
+
+beepr::beep(5)
 
 # Guanajuato total homicides by month (comparison among year)
 ggplot(df_states_5m %>% filter(state == "Guanajuato"), 
