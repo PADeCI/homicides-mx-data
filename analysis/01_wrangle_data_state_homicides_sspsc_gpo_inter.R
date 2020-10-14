@@ -17,6 +17,7 @@ library(dplyr)
 library(readr)
 library(lubridate)
 library(repmis) # For exporting data from GitHub
+library(beepr)
 
 # Clean the workspace
 rm(list = ls()) 
@@ -31,9 +32,6 @@ load("~/GitHub/homicides-mx-data/data_raw/df_pop_county_2019_2020.Rdata")
 # Homicide data from interinstitutional group
 df_homicides <- read.csv("data_raw/gpo_interinstitucional/2019_2020/df_homicides_daily_2019_2020_gpointerinstitucional.csv", 
         encoding = "UTF-8")
-
-
-
 
 # 02. Data wrangling  ----------------------------------------------------------
 
@@ -53,46 +51,84 @@ df_pop <- df_pop_county_2019_2020                                       %>%
 # Create state level population data frame
 df_pop_state <- df_pop                                                  %>% 
         group_by(entidad, state, año)                                   %>%
-        summarise(population = sum(population))
+        summarise(population = sum(population))                         %>% 
+        group_by(año)                                                   %>% 
+        bind_rows(summarise_all(., funs(if(is.numeric(.)) sum(.) else "Nacional"))) %>% 
+        mutate(state = case_when(entidad=="Nacional" ~ "National", 
+                                 entidad==entidad~state))
 
 # Rename homicide data frame
 df_homicides_gpo <- df_homicides                                        %>% 
         rename("entidad" = Entidad, 
                 "homicidios" = Homicidios,
                 "fecha" = Fecha)                                        %>% 
+        filter(entidad!="Total")                                        %>% 
         mutate(entidad = as.character(entidad))                         %>% 
+        group_by(fecha)                                                 %>% 
+        bind_rows(summarise_all(., funs(if(is.numeric(.)) sum(.) else "Nacional"))) %>% 
+        ungroup() %>% 
+        mutate(id = 1:19034)
+
+df_mis <- df_homicides_gpo %>% 
+        filter(is.na(homicidios)==T)
+
+df_compare <- df_homicides %>% 
+        rename("entidad" = Entidad, 
+                "homicidios" = Homicidios,
+                "fecha" = Fecha) %>% 
+        mutate(entidad = as.character(entidad)) %>% 
         mutate(entidad = case_when(entidad == "Total" ~ "Nacional", 
-                                   entidad == entidad ~ entidad))       %>%
-        distinct(fecha, .keep_all = TRUE)
+                entidad == entidad ~ entidad)) %>% 
+        mutate(id = 1:19034) %>% 
+        left_join(df_homicides_gpo, by = c("id", "entidad")) %>% 
+        mutate(equal = (homicidios.x == homicidios.y))
+
+df_mistakes <- df_compare %>% 
+        filter(is.na(equal)==T)
         
 
-# 02.2 Add population for interinstitutional group  ----------------------------
+# 02.2 Fill missing dates  -----------------------------------------------------
+# Convert implicit missing values to explicit missing values:
+# we will have data for every date.
+
+# df_homicides_gpo_all <- df_homicides_gpo                        %>% 
+#         complete(fecha, nesting(entidad), 
+#                         fill = list(homicidios=0))              %>%
+#         mutate(fecha = as.Date(fecha))                          %>% 
+#         distinct(entidad, fecha, .keep_all = T)      
+# beepr::beep(5)
+# 
+# df_post <- as.data.frame(table(df_homicideS_gpo_all$entidad))
+# df_pre <- as.data.frame(table(df_homicides_gpo$entidad))
+
+# 02.3 Add population for interinstitutional group  ----------------------------
 
 # Join data frames
 df_homicides_state <- df_homicides_gpo                                  %>% 
-        mutate(año = year(as.Date(fecha)))                              %>% 
+        mutate(año = year(as.Date(fecha)))                              %>%
+        mutate(fecha = as.Date(fecha))                          %>% 
         left_join(df_pop_state, by = c("entidad", "año")) 
 
 
-# 02.3 Estimate mortality rate and fill missing dates  -------------------------
+# 02.4 Estimate mortality rate -------------------------------------------------
 
-# Estimate number of homicides per 100,000 people, convert implicit missing 
-# values to explicit missing values:we will have data for every date.
+# Estimate number of homicides per 100,000 people
 
 df_homicides_state_daily <- df_homicides_state                          %>% 
-        mutate(mort_rate = (homicidios*100000/population))              %>% 
-        complete(fecha, nesting(entidad), 
-                fill = list(homicidios =0))                             %>%
-        mutate(fecha = as.Date(fecha))                                  %>% 
-        select(entidad, state, año, fecha, homicidios, population, mort_rate)
-
+        mutate(mort_rate = (homicidios*100000/population))              %>%
+        select(entidad, state, año, fecha, homicidios, population, mort_rate) 
 
 
 # 03. Check consistency of data ------------------------------------------------
 
 sum(df_homicides$Homicidios, na.rm = T)
-sum(df_homicides_state_daily$homicidios)
+sum(df_homicides_gpo$homicidios)
+sum(df_homicides_gpo$homicidios[df_homicides_gpo$entidad!="Nacional"])
 
+sum(df_homicides_state_daily$homicidios)
+sum(df_homicides_state_daily$homicidios[df_homicides_state$entidad!="Nacional"])
+
+beepr::beep(5)
 
 # 04. Save final data sets -----------------------------------------------------
 
