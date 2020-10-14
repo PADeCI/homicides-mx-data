@@ -12,6 +12,8 @@
 # Load libraries
 library(dplyr)
 library(ggplot2)
+library(tidyr)          # For reshaping wide to long
+library(stringr)        # For string manipulation
 
 # Clean workspace 
 rm(list=ls())
@@ -73,12 +75,17 @@ df_states_5m_states <- df_states_5m %>%
         summarise(homicidios_mean = round(mean(homicidios), 1), 
                 homicidios_mean_rate = round(mean(mort_rate), 1))
 
-# 2.2 Fuentes abiertas' data ---------------------------------------------------
+# 02.2 Fuentes abiertas' data ---------------------------------------------------
 df_month_fa <- df_homicides_state_monthly_sspc_fuentesabiertas %>% 
         mutate(month_year = as.factor(paste(month, year)), 
                 mes_year = as.factor(paste(mes, year))) %>% 
         mutate(mort_rate = homicidios*100000/population)
         
+df_month_fa_long <- df_month_fa %>% 
+        rename(Male = hombre, 
+                Female = mujer, 
+                Non_identified  = no_identificado) %>% 
+        gather(sex, homicides, Male:Non_identified, factor_key = TRUE) 
         
 
 # 03. Create graphs (Gpo. Inter.)  ---------------------------------------------
@@ -356,9 +363,56 @@ ggsave(filename = paste0(output,
 
 beepr::beep(2)
 
-# 04.2 Total homicides by month (time series) -----------------------------------
+
+
+
+# 04.3 Male homicides by month (time series) -----------------------------------
 # Title and subtitle vectors 
-v_title <- "Total homicides by month (as reported by open sources)"
+v_title <- "Male homicides by month (as reported by open sources)"
+v_xlab <- "Month"
+v_ylab <- "Number of homicides"
+
+# Manual trial
+ggplot(df_month_fa %>% filter(state == "Mexico City"), 
+        aes(x = month_year, y=hombre)) +
+        geom_col() +
+        labs(title = v_title, 
+                subtitle = "Mexico City",
+                hjust = 0, 
+                x = v_xlab,
+                y = v_ylab, 
+                caption = v_caption_SSPC) +
+        theme_minimal() +
+        theme(axis.text.x = element_text(angle = 30)) +
+        guides(fill = "none") +
+        scale_fill_manual(values=cbPalette[1])
+
+# Loop-generated graphs
+for(i in 1:length(v_states)){
+        ggplot(df_month_fa %>% filter(state == v_states[i]), 
+                aes(x = month_year, y=hombre)) +
+                geom_col() +
+                labs(title = v_title, 
+                        subtitle = v_states[i],
+                        hjust = 0, 
+                        x = v_xlab,
+                        y = v_ylab, 
+                        caption = v_caption_SSPC) +
+                theme_minimal() +
+                theme(axis.text.x = element_text(angle = 30)) +
+                guides(fill = "none") +
+                scale_fill_manual(values = cbPalette[7])
+        
+        ggsave(filename = paste0(output, 
+                "fa_homicides_time_series/g_homicies_time_series_male_", 
+                v_states[i], ".png"))
+}
+
+beepr::beep(2)
+
+# 04.4 Female homicides by month (time series) -----------------------------------
+# Title and subtitle vectors 
+v_title <- "Female homicides by month (as reported by open sources)"
 v_xlab <- "Month"
 v_ylab <- "Number of homicides"
 
@@ -375,15 +429,147 @@ ggplot(df_month_fa %>% filter(state == "Mexico City"),
         theme_minimal() +
         theme(axis.text.x = element_text(angle = 30)) +
         guides(fill = "none") +
-        scale_fill_manual(values=cbPalette[3])
+        scale_fill_manual(values=cbPalette[5])
 
 # Loop-generated graphs
 for(i in 1:length(v_states)){
-ggplot(df_month_fa %>% filter(state == v_states[i]), 
-        aes(x = month_year, y=homicidios)) +
+        ggplot(df_month_fa %>% filter(state == v_states[i]), 
+                aes(x = month_year, y=mujer)) +
+                geom_col() +
+                labs(title = v_title, 
+                        subtitle = v_states[i],
+                        hjust = 0, 
+                        x = v_xlab,
+                        y = v_ylab, 
+                        caption = v_caption_SSPC) +
+                theme_minimal() +
+                theme(axis.text.x = element_text(angle = 30)) +
+                guides(fill = "none") +
+                scale_fill_manual(values=cbPalette[5])
+        
+        ggsave(filename = paste0(output, 
+                "fa_homicides_time_series/g_homicies_time_series_female_", 
+                v_states[i], ".png"))
+}
+
+beepr::beep(2)
+
+# 04.5 Non-identified homicides by month (time series) -----------------------------------
+# Title and subtitle vectors 
+v_title <- "Non-identified gender homicides by month (as reported by open sources)"
+v_xlab <- "Month"
+v_ylab <- "Number of homicides"
+
+# Manual trial
+ggplot(df_month_fa %>% filter(state == "Mexico City"), 
+        aes(x = month_year, y=no_identificado)) +
         geom_col() +
         labs(title = v_title, 
+                subtitle = "Mexico City",
+                hjust = 0, 
+                x = v_xlab,
+                y = v_ylab, 
+                caption = v_caption_SSPC) +
+        theme_minimal() +
+        theme(axis.text.x = element_text(angle = 30)) +
+        guides(fill = "none") +
+        scale_fill_manual(values=cbPalette[5])
+
+# Loop-generated graphs
+for(i in 1:length(v_states)){
+        ggplot(df_month_fa %>% filter(state == v_states[i]), 
+                aes(x = month_year, y=no_identificado)) +
+                geom_col() +
+                labs(title = v_title, 
+                        subtitle = v_states[i],
+                        hjust = 0, 
+                        x = v_xlab,
+                        y = v_ylab, 
+                        caption = v_caption_SSPC) +
+                theme_minimal() +
+                theme(axis.text.x = element_text(angle = 30)) +
+                guides(fill = "none") +
+                scale_fill_manual(values=cbPalette[5])
+        
+        ggsave(filename = paste0(output, 
+                "fa_homicides_time_series/g_homicies_time_series_noniden_", 
+                v_states[i], ".png"))
+}
+
+beepr::beep(2)
+
+# 04.6 All genders' homicides by month (time series) ---------------------------
+# Title and subtitle vectors 
+v_title <- "All genders' homicides by month (as reported by open sources)"
+v_xlab <- "Month"
+v_ylab <- "Number of homicides"
+v_filllab <- "Sex"
+
+# Manual trial
+ggplot(df_month_fa_long %>% filter(state == "Mexico City"), 
+        aes(x = month_year, y=homicides, fill = sex)) +
+        geom_col() +
+        labs(title = v_title, 
+                subtitle = "Mexico City",
+                hjust = 0, 
+                x = v_xlab,
+                y = v_ylab, 
+                fill = v_filllab, 
+                caption = v_caption_SSPC) +
+        theme_minimal() +
+        theme(axis.text.x = element_text(angle = 30)) +
+        scale_fill_manual(values=cbPalette[2:4])
+
+ggplot(df_month_fa_long %>% filter(state == "Mexico City"), 
+        aes(x = month_year, y=homicides, fill = sex)) +
+        geom_col(position="dodge") +
+        labs(title = v_title, 
+                subtitle = "Mexico City",
+                hjust = 0, 
+                x = v_xlab,
+                y = v_ylab, 
+                fill = v_filllab, 
+                caption = v_caption_SSPC) +
+        theme_minimal() +
+        theme(axis.text.x = element_text(angle = 30)) +
+        scale_fill_manual(values=cbPalette[2:4])
+
+# Loop-generated graphs
+for(i in 1:length(v_states)){
+ggplot(df_month_fa_long %>% filter(state == v_states[i]), 
+        aes(x = month_year, y=homicides, fill = sex)) +
+        geom_col(position="dodge") +
+        labs(title = v_title, 
                 subtitle = v_states[i],
+                hjust = 0, 
+                x = v_xlab,
+                y = v_ylab, 
+                fill = v_filllab, 
+                caption = v_caption_SSPC) +
+        theme_minimal() +
+        theme(axis.text.x = element_text(angle = 30)) +
+        scale_fill_manual(values=cbPalette[2:4])
+
+        
+        ggsave(filename = paste0(output, 
+                "fa_homicides_time_series/g_homicies_time_series_all_genders_", 
+                v_states[i], ".png"))
+}
+
+beepr::beep(2)
+
+# 4.07 Mortality rate (total) --------------------------------------------------
+# Title and subtitle vectors 
+v_title <- "Mortality rate of total homicides (as reported by open sources)"
+v_xlab <- "Month"
+v_ylab <- "Monthly homicide rate\n(number of homicides per 100,000 people)"
+
+# Manual trial
+ggplot(df_month_fa %>% filter(state == "Mexico City"), 
+        aes(x = month_year, y=mort_rate)) +
+        geom_col() +
+        labs(title = v_title, 
+                subtitle = "Mexico City",
                 hjust = 0, 
                 x = v_xlab,
                 y = v_ylab, 
@@ -393,11 +579,35 @@ ggplot(df_month_fa %>% filter(state == v_states[i]),
         guides(fill = "none") +
         scale_fill_manual(values=cbPalette[3])
 
-ggsave(filename = paste0(output, 
-        "fa_homicides_time_series/g_homicies_time_series_total_", 
-        v_states[i], ".png"))
+# Loop-generated graphs
+for(i in 1:length(v_states)){
+        ggplot(df_month_fa %>% filter(state == v_states[i]), 
+                aes(x = month_year, y=mort_rate)) +
+                geom_col() +
+                labs(title = v_title, 
+                        subtitle = v_states[i],
+                        hjust = 0, 
+                        x = v_xlab,
+                        y = v_ylab, 
+                        caption = v_caption_SSPC) +
+                theme_minimal() +
+                theme(axis.text.x = element_text(angle = 30)) +
+                guides(fill = "none") +
+                scale_fill_manual(values=cbPalette[3])
+        
+        ggsave(filename = paste0(output, 
+                "fa_mort_rate_time_series/g_mort_rate_time_series_total_", 
+                v_states[i], ".png"))
 }
 
 beepr::beep(2)
+
+# 4.08 Mortality rate (male) ---------------------------------------------------
+
+# 4.09 Mortality rate (female) -------------------------------------------------
+# 4.10 Mortality rate (non-identified) -----------------------------------------
+# 4.11 Mortality rate (all genders) --------------------------------------------
+
+# End of script  -------------------------------------------------------------
 beepr::beep(3)
 
