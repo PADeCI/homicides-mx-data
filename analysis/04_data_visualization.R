@@ -17,15 +17,26 @@ library(ggplot2)
 rm(list=ls())
 
 # Paths 
-input           <-  "~/GitHub/homicides-mx-data/data/gpo_interinstitucional/"
-output          <-  "~/GitHub/homicides-mx-data/figs/graphs/"
+input_gpo       <- "~/GitHub/homicides-mx-data/data/gpo_interinstitucional/"
+input_fa        <- "~/GitHub/homicides-mx-data/data/fuentes_abiertas/"
+output          <- "~/GitHub/homicides-mx-data/figs/graphs/"
+
+# Paste paths functions 
+        # paste_inp <- function(path){paste0(input, path)} # General form 
+paste_inp_gpo <- function(path){paste0(input_gpo, path)}
+paste_inp_fa <- function(path){paste0(input_fa, path)} 
+paste_out <- function(path){paste0(output, path)}
 
 
 # 01. Load Data ----------------------------------------------------------------
-# Total cases by state and month
-load(paste0(input, "df_homicides_state_monthly_sspc_gpointerinstitucional.Rdata"))
+# Total cases by state and month from Gpo. Inter.(gpo)
+load(paste_inp_gpo("df_homicides_state_monthly_sspc_gpointerinstitucional.Rdata"))
+
+# Total cases by state and month from Fuentes Abiertas (fa)
+load(paste_inp_fa("df_homicides_state_monthly_sspc_fuentesabiertas.RData"))
 
 # 02. Data wrangling  ----------------------------------------------------------
+# 02.1 Gpo. Inter. data --------------------------------------------------------
 # Factors order 
 v_5month <- c("April", "May", "June", "July", "August")
 v_5mes <- c("Abril", "Mayo", "Junio", "Julio", "Agosto")
@@ -62,7 +73,15 @@ df_states_5m_states <- df_states_5m %>%
         summarise(homicidios_mean = round(mean(homicidios), 1), 
                 homicidios_mean_rate = round(mean(mort_rate), 1))
 
-# 03. Create graphs  -----------------------------------------------------------
+# 2.2 Fuentes abiertas' data ---------------------------------------------------
+df_month_fa <- df_homicides_state_monthly_sspc_fuentesabiertas %>% 
+        mutate(month_year = as.factor(paste(month, year)), 
+                mes_year = as.factor(paste(mes, year))) %>% 
+        mutate(mort_rate = homicidios*100000/population)
+        
+        
+
+# 03. Create graphs (Gpo. Inter.)  ---------------------------------------------
 # 03.1 Vectors -----------------------------------------------------------------
 # Color blind firendly palette with grey:
 cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", 
@@ -90,168 +109,292 @@ v_states <- c("Aguascalientes", "Baja California", "Baja California Sur",
         "Yucatan", "Zacatecas")          
 
 # 03.2 Total homicides by month (time series) ----------------------------------
-# Trial for the national level 
+# Title and subtitles vectors 
+v_title <- "Total homicides by month (as reported by Gpo. Inter)" 
+v_xlab  <- "Month"
+v_ylab  <- "Number of homicides"
+
+# Manual trial for the national level 
 ggplot(df_month_national,
                 aes(x = month_year, y = homicidios)) +
                 geom_col()  +
-        labs(title = "Homicides from April 2019 to August 2020", 
+        labs(title = v_title, 
                 subtitle = "National level",
                 hjust = 0, 
-                x = "Month",
-                y = "Number of homicides", 
+                x = v_xlab,
+                y = v_ylab, 
                 caption = v_caption_SSPC) +
         theme_minimal() +
         theme(axis.text.x = element_text(angle = 30)) +
         guides(fill = "none") +
         scale_fill_manual(values=cbPalette[7])
 
-# Loop-generated graphs for all states
+# Loop-generated graphs graphs for all states
 for(i in 1:length(v_states)){
 ggplot(df_month %>% filter(state == v_states[i]),
         aes(x = month_year, y = homicidios, fill = "#9A031E")) +
         geom_col()  +
-        labs(title = "Homicides from April 2019 to August 2020", 
+        labs(title = v_title, 
                 subtitle = v_states[i],
                 hjust = 0, 
-                x = "Month",
-                y = "Number of homicides", 
+                x = v_xlab,
+                y = v_ylab, 
                 caption = v_caption_SSPC) +
         theme_minimal() +
         theme(axis.text.x = element_text(angle = 30)) +
         guides(fill = "none") +
                 scale_fill_manual(values=cbPalette[6])
 
-ggsave(filename = paste0(output, "homicides_time_series/g_homicides_timeseries_", 
+ggsave(filename = paste0(output, "gpo_homicides_time_series/g_homicides_timeseries_", 
                         v_states[i], ".png"))
 }
 
 beepr::beep(5)
 
-# 03.2 Total homicides by month comparison among years -------------------------
-# Trial 
+# 03.3 Total homicides by month comparison among years -------------------------
+
+# Title and subtitle vectors
+v_title <- "Homicide comparison by months (as reported by Gpo. Inter)"
+v_xlab  <- "Month"
+v_ylab <- "Number of homicides"
+v_filllab <- "Year"
+# Manual trial 
 ggplot(df_states_5m %>% filter(state=="National"), 
         aes(x = month, y = homicidios, fill = year)) +
         geom_col(position = "dodge") +
-        labs(title = "Homicides comparison between 2019 and 2020", 
+        labs(title = v_title, 
                 subtitle = "National level",
                 hjust = 0, 
-                x = "Month",
-                y = "Number of homicides",
-                fill = "Year", 
+                x = v_xlab,
+                y = v_ylab,
+                fill = v_filllab, 
                 caption = v_caption_SSPC) +
         theme_minimal() +
         scale_fill_manual(values=cbPalette)
 
-# Loop-generated 
+# Loop-generated graphs 
 for(i in 1:length(v_states)){
 ggplot(df_states_5m %>% filter(state == v_states[i]), 
         aes(x = month, y = homicidios, fill = year)) +
         geom_col(position = "dodge") +
-        labs(title = "Homicides comparison between 2019 and 2020", 
+        labs(title = v_title, 
                 subtitle = v_states[i],
                 hjust = 0, 
-                x = "Month",
-                y = "Number of homicides",
-                fill = "Year", 
+                x = v_xlab,
+                y = v_ylab,
+                fill = v_filllab, 
                 caption = v_caption_SSPC) +
         theme_minimal() +
         scale_fill_manual(values=cbPalette)
 
-ggsave(filename = paste0(output, "homicides_5month_comparison/g_homicides_timeseries_5m_", 
+ggsave(filename = paste0(output, "gpo_homicides_5month_comparison/g_homicides_timeseries_5m_", 
                 v_states[i], ".png"))
 }
 
 beepr::beep(5)
 
-# 03.3 Homicides rate by month (time series) -----------------------------------
-# Trial 
+# 03.4 Homicides rate by month (time series) -----------------------------------
+# Title and subtitle vectors
+v_title <- "Homicide rate by month (as reported by Gpo. Inter)"
+v_xlab <- "Month"
+v_ylab <- "Monthly homicide rate\n(number of homicides per 100,000 people)"
+
+# Manual trial 
 ggplot(df_month %>% filter(state=="National"),
         aes(x = month_year, y = mort_rate)) +
         geom_col()  +
-        labs(title = "Homicide rate from April 2019 to August 2020", 
+        labs(title = v_title, 
                 subtitle = "National level",
                 hjust = 0, 
-                x = "Month",
-                y = "Monthly homicide rate\n(number of homicides per 100,000 people)", 
+                x = v_xlab,
+                y = v_ylab, 
                 caption = v_caption_SSPC) +
         theme_minimal() +
         theme(axis.text.x = element_text(angle = 30)) +
         guides(fill = "none") +
         scale_fill_manual(values=cbPalette[7])
 
-# Loop-generated
+# Loop-generated graphs
 for(i in 1:length(v_states)){
 ggplot(df_month %>% filter(state==v_states[i]),
         aes(x = month_year, y = mort_rate)) +
         geom_col()  +
-        labs(title = "Homicide rate from April 2019 to August 2020", 
+        labs(title = v_title, 
                 subtitle = v_states[i],
                 hjust = 0, 
-                x = "Month",
-                y = "Monthly homicide rate\n(number of homicides per 100,000 people)", 
+                x = v_xlab,
+                y = v_ylab, 
                 caption = v_caption_SSPC) +
+        guides(fill = "none") +
         theme_minimal() +
         theme(axis.text.x = element_text(angle = 30)) +
         guides(fill = "none") +
-        scale_fill_manual(values=cbPalette[2])
+        scale_fill_manual(values=cbPalette[7])
         
-ggsave(filename = paste0(output, "mort_rate_time_series/g_mortrate_timeseries_", 
+ggsave(filename = paste0(output, "gpo_mort_rate_time_series/g_mortrate_timeseries_", 
                 v_states[i], ".png"))
         
 }
+
 beepr::beep(5)
 
-# 03.4 Homicides rate by month comparison among years --------------------------
-# Trial 
+# 03.5 Homicides rate by month comparison among years --------------------------
+
+# Title and subtitle vectors 
+v_title <- "Homicide rate comparison by month (as reported by Gpo. Inter)"
+v_xlab <- "Month"        
+v_ylab <- "Monthly homicide rate\n(number of homicides per 100,000 people)" 
+v_filllab <- "Year"
+
+# Manual trial 
 ggplot(df_states_5m %>% filter(state==v_states[i]), 
         aes(x = month, y = mort_rate, fill = year)) +
         geom_col(position = "dodge") +
-        labs(title = "Homicide rate comparison between 2019 and 2020", 
+        labs(title = v_title, 
                 subtitle = v_states[i],
                 hjust = 0, 
-                x = "Month",
-                y = "Monthly homicide rate\n(number of homicides per 100,000 people)",
-                fill = "Year", 
+                x = v_xlab,
+                y = v_ylab,
+                fill = v_filllab, 
                 caption = v_caption_SSPC) +
         theme_minimal() +
         scale_fill_manual(values=cbPalette[6:7])
 
 
 
-# Loop-generated
+# Loop-generated graphs
 for(i in 1:length(v_states)){
 ggplot(df_states_5m %>% filter(state==v_states[i]), 
         aes(x = month, y = mort_rate, fill = year)) +
         geom_col(position = "dodge") +
-        labs(title = "Homicide rate comparison between 2019 and 2020", 
+        labs(title = v_title, 
                 subtitle = v_states[i],
                 hjust = 0, 
-                x = "Month",
-                y = "Monthly homicide rate\n(number of homicides per 100,000 people)",
-                fill = "Year", 
+                x = v_xlab,
+                y = v_ylab,
+                fill = v_filllab, 
                 caption = v_caption_SSPC) +
         theme_minimal() +
         scale_fill_manual(values=cbPalette[6:7])
 
-ggsave(filename = paste0(output, "mort_rate_5m_comparison/g_mortrate_timeseries_5m_", 
+ggsave(filename = paste0(output, "gpo_mort_rate_5m_comparison/g_mortrate_timeseries_5m_", 
         v_states[i], ".png"))
 }
 beepr::beep(5)
 
-# 03.2 State graphs ------------------------------------------------------------
-# Total by month 
-# Total by month (comparison among year)
-# Total by month in selected states
-# Rate by month 
-# Rate by month (comparison among year)
-# Rate by month in selected states
+
+# 04. Create graphs (Fuentes abiertas)  ----------------------------------------
+# 04.1 Vectors -----------------------------------------------------------------
+# Color blind firendly palette with grey:
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", 
+        "#D55E00", "#CC79A7")
+
+# Source caption
+v_caption_SSPC <- "Source: Daily reports of the SSPC, retrieved from: http://www.informeseguridad.cns.gob.mx/"
+
+# Names of states in spanish
+v_entidades <- c("Aguascalientes", "Baja California", "Baja California Sur" , 
+        "Campeche", "Chiapas", "Chihuahua", "Ciudad de México", "Coahuila",
+        "Colima", "Durango", "Estado de México", "Guanajuato", "Guerrero",
+        "Hidalgo", "Jalisco", "Michoacán", "Morelos", "Nacional", "Nayarit",
+        "Nuevo León", "Oaxaca", "Puebla", "Querétaro", "Quintana Roo", 
+        "San Luis Potosí", "Sinaloa", "Sonora", "Tabasco", "Tamaulipas", 
+        "Tlaxcala", "Veracruz", "Yucatán", "Zacatecas") 
+
+# Names of states in english
+v_states <- c("Aguascalientes", "Baja California", "Baja California Sur", 
+        "Campeche", "Chiapas", "Chihuahua", "Mexico City", "Coahuila", "Colima", 
+        "Durango", "State of Mexico", "Guanajuato", "Guerrero", "Hidalgo", 
+        "Jalisco", "Michoacan", "Morelos", "Nayarit", "Nuevo Leon", 
+        "Oaxaca", "Puebla", "Queretaro", "Quintana Roo", "San Luis Potosi", 
+        "Sinaloa", "Sonora", "Tabasco", "Tamaulipas", "Tlaxcala", "Veracruz", 
+        "Yucatan", "Zacatecas")          
 
 
+# 04.2 Total homicides by month (time series) -----------------------------------
+# Title and subtitle vectors 
+v_title <- "Total homicides by month (as reported by open sources)"
+v_xlab <- "Month"
+v_ylab <- "Number of homicides"
 
+# Manual trial
+ggplot(df_month_fa %>% filter(state == "Mexico City"), 
+        aes(x = month_year, y=homicidios)) +
+        geom_col() +
+        labs(title = v_title, 
+                subtitle = "Mexico City",
+                hjust = 0, 
+                x = v_xlab,
+                y = v_ylab, 
+                caption = v_caption_SSPC) +
+        theme_minimal() +
+        theme(axis.text.x = element_text(angle = 30)) +
+        guides(fill = "none") +
+        scale_fill_manual(values=cbPalette[3])
 
+# Loop-generated graphs
+for(i in 1:length(v_states)){
+ggplot(df_month_fa %>% filter(state == v_states[i]), 
+        aes(x = month_year, y=homicidios)) +
+        geom_col() +
+        labs(title = v_title, 
+                subtitle = v_states[i],
+                hjust = 0, 
+                x = v_xlab,
+                y = v_ylab, 
+                caption = v_caption_SSPC) +
+        theme_minimal() +
+        theme(axis.text.x = element_text(angle = 30)) +
+        guides(fill = "none") +
+        scale_fill_manual(values=cbPalette[3])
 
+ggsave(filename = paste0(output, 
+        "fa_homicides_time_series/g_homicies_time_series_total_", 
+        v_states[i], ".png"))
+}
 
+beepr::beep(5)
 
+# 04.2 Total homicides by month (time series) -----------------------------------
+# Title and subtitle vectors 
+v_title <- "Total homicides by month (as reported by open sources)"
+v_xlab <- "Month"
+v_ylab <- "Number of homicides"
 
+# Manual trial
+ggplot(df_month_fa %>% filter(state == "Mexico City"), 
+        aes(x = month_year, y=mujer)) +
+        geom_col() +
+        labs(title = v_title, 
+                subtitle = "Mexico City",
+                hjust = 0, 
+                x = v_xlab,
+                y = v_ylab, 
+                caption = v_caption_SSPC) +
+        theme_minimal() +
+        theme(axis.text.x = element_text(angle = 30)) +
+        guides(fill = "none") +
+        scale_fill_manual(values=cbPalette[3])
 
+# Loop-generated graphs
+for(i in 1:length(v_states)){
+ggplot(df_month_fa %>% filter(state == v_states[i]), 
+        aes(x = month_year, y=homicidios)) +
+        geom_col() +
+        labs(title = v_title, 
+                subtitle = v_states[i],
+                hjust = 0, 
+                x = v_xlab,
+                y = v_ylab, 
+                caption = v_caption_SSPC) +
+        theme_minimal() +
+        theme(axis.text.x = element_text(angle = 30)) +
+        guides(fill = "none") +
+        scale_fill_manual(values=cbPalette[3])
 
+ggsave(filename = paste0(output, 
+        "fa_homicides_time_series/g_homicies_time_series_total_", 
+        v_states[i], ".png"))
+}
+
+beepr::beep(5)
