@@ -149,7 +149,7 @@ ggsave(filename = paste0(output, "gpo_homicides_time_series/g_homicides_timeseri
                         v_states[i], ".png"))
 }
 
-beepr::beep(5)
+beepr::beep(2)
 
 # 03.3 Total homicides by month comparison among years -------------------------
 
@@ -158,6 +158,7 @@ v_title <- "Homicide comparison by months (as reported by Gpo. Inter)"
 v_xlab  <- "Month"
 v_ylab <- "Number of homicides"
 v_filllab <- "Year"
+
 # Manual trial 
 ggplot(df_states_5m %>% filter(state=="National"), 
         aes(x = month, y = homicidios, fill = year)) +
@@ -191,7 +192,7 @@ ggsave(filename = paste0(output, "gpo_homicides_5month_comparison/g_homicides_ti
                 v_states[i], ".png"))
 }
 
-beepr::beep(5)
+beepr::beep(2)
 
 # 03.4 Homicides rate by month (time series) -----------------------------------
 # Title and subtitle vectors
@@ -236,7 +237,7 @@ ggsave(filename = paste0(output, "gpo_mort_rate_time_series/g_mortrate_timeserie
         
 }
 
-beepr::beep(5)
+beepr::beep(2)
 
 # 03.5 Homicides rate by month comparison among years --------------------------
 
@@ -280,7 +281,7 @@ ggplot(df_states_5m %>% filter(state==v_states[i]),
 ggsave(filename = paste0(output, "gpo_mort_rate_5m_comparison/g_mortrate_timeseries_5m_", 
         v_states[i], ".png"))
 }
-beepr::beep(5)
+beepr::beep(2)
 
 
 # 04. Create graphs (Fuentes abiertas)  ----------------------------------------
@@ -353,7 +354,7 @@ ggsave(filename = paste0(output,
         v_states[i], ".png"))
 }
 
-beepr::beep(5)
+beepr::beep(2)
 
 # 04.2 Total homicides by month (time series) -----------------------------------
 # Title and subtitle vectors 
@@ -397,4 +398,6 @@ ggsave(filename = paste0(output,
         v_states[i], ".png"))
 }
 
-beepr::beep(5)
+beepr::beep(2)
+beepr::beep(3)
+
