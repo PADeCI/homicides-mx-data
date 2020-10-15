@@ -1,0 +1,20 @@
+---
+title: __Preliminary data on Homicides in Mexico (2019-2020)__
+subtitle: __ Comparison between sources __
+
+author: 
+- Fernando Alarid-Escudero, Ph.D., Yadira Peralta, Ph.D.
+- Regina Isabel Medina Rosales, Mariana Consuelo Fernández Espinosa
+
+date: "`r format(Sys.time(), '%d/%m/%Y')`"
+
+output: pdf_document
+---
+
+\tableofcontent
+\newpage
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

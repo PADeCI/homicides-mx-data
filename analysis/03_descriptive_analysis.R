@@ -265,7 +265,7 @@ tab_head_2019_2020 <- gtable_cbind(tab_head_2019, tab_head_2020)
 t.04 <- grid.arrange(tab_head_2019_2020)
 
 # Save table
-ggsave(paste_out("tab_state_year_totals_os.jpg"), 
+ggsave(paste_out("tab_state_year_totals_gpo.jpg"), 
         plot = t.04, width = 8, height = 11)
 
 
@@ -579,5 +579,4 @@ ggsave(paste_out("tab_nation_month_combined.jpg"),
 # 05. Comparison with INEGI data -----------------------------------------------
 
 
-beepr::beep(5)
-○
+beepr::beep(3)
