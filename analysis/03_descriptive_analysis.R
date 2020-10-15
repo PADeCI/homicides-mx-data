@@ -35,31 +35,36 @@ input_gpo       <- "~/GitHub/homicides-mx-data/data/gpo_interinstitucional/"
 input_fa        <- "~/GitHub/homicides-mx-data/data/fuentes_abiertas/"
 output_fig      <- "~/GitHub/homicides-mx-data/figs/tables/"
 
+# Paste paths functions 
+# paste_inp <- function(path){paste0(input, path)} # General form 
+paste_inp_gpo <- function(path){paste0(input_gpo, path)}
+paste_inp_fa <- function(path){paste0(input_fa, path)} 
+paste_out <- function(path){paste0(output_fig, path)}
         
 # 01. Load data ----------------------------------------------------------------
 # 01.1 Interinstitutional group (SSCP) -----------------------------------------
 # By day 
-load(paste0(input_gpo, "df_homicides_state_daily_sspc_gpointerinstitucional.RData"))
+load(paste_inp_gpo("df_homicides_state_daily_sspc_gpointerinstitucional.RData"))
 df_state_d_gpo <- df_homicides_state_daily_sspc_gpointerinstitucional # Rename
 
 # By month
-load(paste0(input_gpo, "df_homicides_state_monthly_sspc_gpointerinstitucional.Rdata"))
+load(paste_inp_gpo("df_homicides_state_monthly_sspc_gpointerinstitucional.Rdata"))
 df_state_m_gpo <- df_homicides_state_monthly_sspc_gpointerinstitucional # Rename
 
 # By year 
-load(paste0(input_gpo, "df_homicides_state_year_sspc_gpointerinstitucional.RData"))
+load(paste_inp_gpo("df_homicides_state_year_sspc_gpointerinstitucional.RData"))
 df_state_y_gpo <- df_homicides_state_year
 
 
 # 01.2 Open sorces (SSCP) ------------------------------------------------------
 # By day 
-load(paste0("df_homicides_state_daily_sspc_fuentesabiertas.Rdata"))
+load(paste_inp_fa("df_homicides_state_daily_sspc_fuentesabiertas.Rdata"))
 
 # By week 
-load(paste0("df_homicides_state_weekly_sspc_fuentesabiertas.Rdata"))
+load(paste_inp_fa("df_homicides_state_weekly_sspc_fuentesabiertas.Rdata"))
 
 # By month 
-load(paste0("df_homicides_state_monthly_sspc_fuentesabiertas.Rdata"))
+load(paste_inp_fa("df_homicides_state_monthly_sspc_fuentesabiertas.Rdata"))
 df_state_m_os <-  df_homicides_state_monthly_sspc_fuentesabiertas
 
 # 01.3 INEGI (SSCP) ------------------------------------------------------------
@@ -102,9 +107,9 @@ tab_nation_gpo <- tableGrob(df_nation_names_gpo,
         rows = NULL, 
         theme = tth)
 
-t <- grid.arrange(tab_nation_gpo)               # Render table
-ggsave(paste0(output_fig, "ab_nation_year_totals_gpo.jpg"), 
-        plot = t, width = 5, height = 5)      # Save table
+t.01 <- grid.arrange(tab_nation_gpo)               # Render table
+ggsave(paste_out("tab_nation_year_totals_gpo.jpg"), 
+        plot = t.01, width = 5, height = 5)      # Save table
 
 
 # 02.1.2 National homicides by year (descriptive statistics with total homicides)
@@ -131,7 +136,8 @@ low_m   <- c(low_m_19, low_m_20)
 high_m <- c(high_m_19, high_m_20)
 
 # Create data frame for months
-df_months <- data.frame(year, low_m, high_m) 
+df_months <- data.frame(year, low_m, high_m) %>% 
+        mutate(year = as.factor(year))
 
 # Create final data set for table
 df_nation_stats_gpo <- df_nation_stats_gpo_short              %>% 
@@ -147,9 +153,9 @@ df_nation_stats_gpo <- df_nation_stats_gpo_short              %>%
 
 # Render table
 tab_nation_stats_gpo <- tableGrob(df_nation_stats_gpo, rows = NULL, theme = tth)
-t <- grid.arrange(tab_nation_stats_gpo) # Render table
-ggsave(paste0(output_fig, "tab_nation_stats_gpo.jpg"), 
-        plot = t, width = 8, height = 1.5) # Save table
+t.02 <- grid.arrange(tab_nation_stats_gpo) # Render table
+ggsave(paste_out("tab_nation_stats_gpo.jpg"), 
+        plot = t.02, width = 8, height = 1.5) # Save table
 
 # 02.1.3 National homicides by year (descriptive statistics with homicide rate)
 df_nation_stats_rate_gpo_short <- df_nation_m_gpo                     %>%
@@ -171,7 +177,8 @@ low_m   <- c(low_m_19, low_m_20)
 high_m <- c(high_m_19, high_m_20)
 
 # Create data frame for months
-df_months <- data.frame(year, low_m, high_m) 
+df_months <- data.frame(year, low_m, high_m) %>% 
+        mutate(year = as.factor(year))
 
 # Create final data set for table
 df_nation_stats_rate_gpo <- df_nation_stats_rate_gpo_short %>% 
@@ -189,9 +196,9 @@ df_nation_stats_rate_gpo <- df_nation_stats_rate_gpo_short %>%
 # Render of table
 tab_nation_stats_rate_gpo <- tableGrob(df_nation_stats_rate_gpo, 
         rows = NULL, theme =tth)
-t <- grid.arrange(tab_nation_stats_rate_gpo)
-ggsave(paste0(output_fig, "tab_nation_stats_rate_gpo.jpg"), 
-        plot = t, width = 9, height = 1.5)
+t.03 <- grid.arrange(tab_nation_stats_rate_gpo)
+ggsave(paste_out("tab_nation_stats_rate_gpo.jpg"), 
+        plot = t.03, width = 8.5, height = 1.5)
 
 # 02.2 State level homicides (gpo. interinst.)----------------------------------
 # 02.2.1 State level homicides by year 
@@ -255,11 +262,11 @@ tab_head_2020$layout[1:4, c("l", "r")] <- list(c(1), c(2)) # Number are differen
 tab_head_2019_2020 <- gtable_cbind(tab_head_2019, tab_head_2020)
 
 # Render table
-t <- grid.arrange(tab_head_2019_2020)
+t.04 <- grid.arrange(tab_head_2019_2020)
 
 # Save table
-ggsave(paste0(output_fig, "tab_state_year_totals_os.jpg"), 
-        plot = t, width = 8, height = 11)
+ggsave(paste_out("tab_state_year_totals_os.jpg"), 
+        plot = t.04, width = 8, height = 11)
 
 
 
@@ -323,9 +330,9 @@ tab_head_2019_2020 <- gtable_cbind(tab_head_2019, tab_head_2020)
 
 
 # Render table 
-t <- grid.arrange(tab_head_2019_2020)        
-ggsave(paste0(output_fig, "tab_state_year_stats_cases_gpo.jpg"), 
-        plot = t, width = 14, height = 12) 
+t.05 <- grid.arrange(tab_head_2019_2020)        
+ggsave(paste_out("tab_state_year_stats_cases_gpo.jpg"), 
+        plot = t.05, width = 14, height = 12) 
 
 
 # 03. Descriptive statistics from the Open Sources data ------------------------
@@ -341,9 +348,9 @@ df_nation_y_os <- df_state_m_os                                         %>%
 
 # Render table 
 tab_nation_y_os <- tableGrob(df_nation_y_os, row = NULL)
-t <- grid.arrange(tab_nation_y_os)
-ggsave(paste0(output_fig, "tab_nation_year_os.jpg"),
-        plot = t, width = 4, height = 1.5)
+t.06 <- grid.arrange(tab_nation_y_os)
+ggsave(paste_out("tab_nation_year_os.jpg"),
+        plot = t.06, width = 3.8, height = 1.2)
 
 # 03.2 State level homicides (open sources) ------------------------------------
 # 03.2.1 State homicides by year (disaggregated by gender)
@@ -407,9 +414,9 @@ tab_head_2019_2020 <- gtable_cbind(tab_head_2019, tab_head_2020)
 
 
 # Render table 
-t <- grid.arrange(tab_head_2019_2020)
-ggsave(paste0(output_fig, "tab_state_year_os.jpg"), 
-        plot = t, width = 15, height = 11)
+t.07 <- grid.arrange(tab_head_2019_2020)
+ggsave(paste_out("tab_state_year_os.jpg"), 
+        plot = t.07, width = 15, height = 11)
 
 
 # 03.2.2 State homicides by year (descriptive statistics with total homicides)
@@ -445,7 +452,8 @@ low_s   <- c(low_s_19, low_s_20)
 high_s  <- c(high_s_19, high_s_20)
 
 # Create data frame for months
-df_months_states <- data.frame(year, low_s, low_m, high_s, high_m) 
+df_months_states <- data.frame(year, low_s, low_m, high_s, high_m) %>% 
+        mutate(year = as.factor(year))
 
 # Create final data set for table
 df_state_year_stats_os <- df_state_year_stats_os_short %>% 
@@ -463,9 +471,9 @@ df_state_year_stats_os <- df_state_year_stats_os_short %>%
 
 # Render table 
 tab_state_year_stats_os <- tableGrob(df_state_year_stats_os, row = NULL)
-t <- grid.arrange(tab_state_year_stats_os)
-ggsave(paste0(output_fig, "tab_state_year_stats_os.jpg"),
-        plot = t, width = 11, height = 4)
+t.08 <- grid.arrange(tab_state_year_stats_os)
+ggsave(paste_out("tab_state_year_stats_os.jpg"),
+        plot = t.08, width = 10, height = 3.8)
 
 # 04. Comparison between SSCP sources ------------------------------------------
 df_gpo_state_m <- df_state_m_gpo                                        %>% 
@@ -557,19 +565,19 @@ pander(df_combined_sources_national_m)
 
 # Render table 
 tab_nation_year_combined <- tableGrob(df_combined_sources_national_y, rows = NULL)
-t <- grid.arrange(tab_nation_year_combined)
-ggsave(paste0(output_fig, "tab_nation_year_combined.jpg"),
-        plot = t, width = 4.5, height = 1)
+t.09 <- grid.arrange(tab_nation_year_combined)
+ggsave(paste_out("tab_nation_year_combined.jpg"),
+        plot = t.09, width = 4, height = 1.2)
 
 # Render table
 tab_nation_month_combined <- tableGrob(df_combined_sources_national_m, rows = NULL)
-t <- grid.arrange(tab_nation_month_combined)
-ggsave(paste0(output_fig, "tab_nation_month_combined.jpg"),
-        plot = t, width = 8, height = 6)
+t.10 <- grid.arrange(tab_nation_month_combined)
+ggsave(paste_out("tab_nation_month_combined.jpg"),
+        plot = t.10, width = 7.2, height = 5.8)
 
 
 # 05. Comparison with INEGI data -----------------------------------------------
 
 
 beepr::beep(5)
-
+○
