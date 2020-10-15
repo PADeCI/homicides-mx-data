@@ -1,5 +1,5 @@
 ---
-title: __Preliminary data on Homicides in Mexico (2019-2020)__
+title: __Preliminary Homicides Data in Mexico (2019-2020)__
 subtitle: __Exploratory analysis__
 
 author: 
@@ -142,8 +142,6 @@ include_graphics("../figs/graphs/gpo_mort_rate_5m_comparison/g_mortrate_timeseri
 include_graphics("../figs/graphs/gpo_mort_rate_5m_comparison/g_mortrate_timeseries_5m_Guanajuato.pdf")
 ```
 
-
-\newpage
 \newpage
 
 To appreciate more differences, we display descriptive statistic for each state in the following table. 

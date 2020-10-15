@@ -1,0 +1,17 @@
+Fuente: INEGI - estadísticas de mortalidad
+
+URL: https://www.inegi.org.mx/sistemas/olap/proyectos/bd/continuas/mortalidad/defuncioneshom.asp?s=est
+
+Variables seleccionadas para el filtro:
+1. Características de la defunción
+- Entidad y municipio de registro 
+- Entidad y municipio de ocurrencia 
+- Año de registro 
+- Mes de registro 
+- Año de ocurrencia
+- Mes de ocurrencia 
+
+2. Características del fallecido
+- Sexo 
+- Edad
+
