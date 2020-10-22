@@ -14,6 +14,8 @@ library(dplyr)
 library(ggplot2)
 library(tidyr)          # For reshaping wide to long
 library(stringr)        # For string manipulation
+library(forcats)        # For category handling
+
 
 # Clean workspace 
 rm(list=ls())
@@ -40,10 +42,11 @@ load(paste_inp_fa("df_homicides_state_monthly_sspc_fuentesabiertas.RData"))
 # 02. Data wrangling  ----------------------------------------------------------
 # 02.1 Gpo. Inter. data --------------------------------------------------------
 # Factors order 
-v_5month <- c("April", "May", "June", "July", "August")
+v_meses <- c("Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", 
+                "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre")
+v_5month <- month.name[4:8]
 v_5mes <- c("Abril", "Mayo", "Junio", "Julio", "Agosto")
-v_5month_2019 <- c()
-v_5month_2020 <- c()
+
 
 for(state in 1:length(v_5month)){
         v_5month_2019[state] <- paste0(v_5month[state], "-19") 
@@ -54,8 +57,12 @@ v_5month_year <- c(v_5month_2019, v_5month_2020)
 
 # Rename data frame for simplicity 
 df_month <- df_homicides_state_monthly_sspc_gpointerinstitucional %>%  
-        mutate(month_year = as.factor(paste(month, year)), 
-                mes_year = as.factor(paste(mes, year))) %>% 
+        mutate(month = fct_relevel(month, month.name),
+                mes = fct_relevel(mes, v_meses)) %>% 
+        mutate(month_year = as.factor(paste0(str_sub(month, 1, 3), "-",
+                                             str_sub(year, 3, 4))), 
+                mes_year = as.factor(paste0(str_sub(mes, 1, 3), "-",
+                                            str_sub(year, 3, 4)))) %>% 
         mutate(mort_rate = homicidios*100000/population)
 
 df_month_national <- df_month %>%
@@ -77,15 +84,25 @@ df_states_5m_states <- df_states_5m %>%
 
 # 02.2 Fuentes abiertas' data ---------------------------------------------------
 df_month_fa <- df_homicides_state_monthly_sspc_fuentesabiertas %>% 
-        mutate(month_year = as.factor(paste(month, year)), 
-                mes_year = as.factor(paste(mes, year))) %>% 
+        mutate(month = fct_relevel(month, month.name),
+                mes = fct_relevel(mes, v_meses)) %>% 
+        mutate(month_year = as.factor(paste0(str_sub(month, 1, 3), "-",
+                str_sub(year, 3, 4))), 
+                mes_year = as.factor(paste0(str_sub(mes, 1, 3), "-",
+                        str_sub(year, 3, 4)))) %>% 
         mutate(mort_rate = homicidios*100000/population)
         
 df_month_fa_long <- df_month_fa %>% 
         rename(Male = hombre, 
                 Female = mujer, 
                 Non_identified  = no_identificado) %>% 
-        gather(sex, homicides, Male:Non_identified, factor_key = TRUE) 
+        gather(sex, homicides, Male:Non_identified, factor_key = TRUE) %>% 
+        mutate(sex = as.character(sex), 
+               sex = case_when(sex == "Non_identified" ~ "Non identified", 
+                                sex==sex~sex), 
+                sex = as.factor(sex), 
+                sex  = fct_reorder(sex, c("Male", "Female", "Non identified"))) 
+        
         
 
 # 03. Create graphs (Gpo. Inter.)  ---------------------------------------------
@@ -95,7 +112,7 @@ cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2",
         "#D55E00", "#CC79A7")
 
 # Source caption
-v_caption_SSPC <- "Source: Daily reports of the SSPC, retrieved from: http://www.informeseguridad.cns.gob.mx/"
+v_caption_SSPC <- "Source: Own elaboration with data from the SSPC, retrieved from: http://www.informeseguridad.cns.gob.mx/"
 
 # Names of states in spanish
 v_entidades <- c("Aguascalientes", "Baja California", "Baja California Sur" , 
@@ -153,9 +170,9 @@ ggplot(df_month %>% filter(state == v_states[i]),
                 scale_fill_manual(values=cbPalette[1])
 
 ggsave(filename = paste0(output, "gpo_homicides_time_series/g_homicides_timeseries_", 
-                        v_states[i], ".png"))
-ggsave(filename = paste0(output, "gpo_homicides_time_series/g_homicides_timeseries_", 
-        v_states[i], ".pdf"))
+                        v_states[i], ".png"), width = 6, height = 4)
+ggsave(filename = paste0(output, "gpo_homicides_time_series/g_homicides_timeseries_",
+        v_states[i], ".pdf"), width = 6, height = 4)
 
 }
 
@@ -199,9 +216,9 @@ ggplot(df_states_5m %>% filter(state == v_states[i]),
         scale_fill_manual(values=cbPalette)
 
 ggsave(filename = paste0(output, "gpo_homicides_5month_comparison/g_homicides_timeseries_5m_", 
-                v_states[i], ".png"))
-ggsave(filename = paste0(output, "gpo_homicides_5month_comparison/g_homicides_timeseries_5m_", 
-        v_states[i], ".pdf"))
+                v_states[i], ".png"), width = 6, height = 4)
+ggsave(filename = paste0(output, "gpo_homicides_5month_comparison/g_homicides_timeseries_5m_",
+        v_states[i], ".pdf"), width = 6, height = 4)
 }
 
 beepr::beep(2)
@@ -245,9 +262,9 @@ ggplot(df_month %>% filter(state==v_states[i]),
         scale_fill_manual(values=cbPalette[7])
         
 ggsave(filename = paste0(output, "gpo_mort_rate_time_series/g_mortrate_timeseries_", 
-                v_states[i], ".png"))
-ggsave(filename = paste0(output, "gpo_mort_rate_time_series/g_mortrate_timeseries_", 
-        v_states[i], ".pdf"))
+                v_states[i], ".png"), width = 6, height = 4)
+ggsave(filename = paste0(output, "gpo_mort_rate_time_series/g_mortrate_timeseries_",
+        v_states[i], ".pdf"), width = 6, height = 4)
 }
 
 beepr::beep(2)
@@ -289,12 +306,12 @@ ggplot(df_states_5m %>% filter(state==v_states[i]),
                 fill = v_filllab, 
                 caption = v_caption_SSPC) +
         theme_minimal() +
-        scale_fill_manual(values=cbPalette[6:7])
+        scale_fill_manual(values=cbPalette)
 
 ggsave(filename = paste0(output, "gpo_mort_rate_5m_comparison/g_mortrate_timeseries_5m_", 
-        v_states[i], ".png"))
-ggsave(filename = paste0(output, "gpo_mort_rate_5m_comparison/g_mortrate_timeseries_5m_", 
-        v_states[i], ".pdf"))
+        v_states[i], ".png"), width = 6, height = 4)
+ggsave(filename = paste0(output, "gpo_mort_rate_5m_comparison/g_mortrate_timeseries_5m_",
+        v_states[i], ".pdf"), width = 6, height = 4)
 }
 beepr::beep(2)
 
@@ -366,10 +383,10 @@ ggplot(df_month_fa %>% filter(state == v_states[i]),
 
 ggsave(filename = paste0(output, 
         "fa_homicides_time_series/g_homicies_time_series_total_", 
-        v_states[i], ".png"))
-ggsave(filename = paste0(output, 
-        "fa_homicides_time_series/g_homicies_time_series_total_", 
-        v_states[i], ".pdf"))
+        v_states[i], ".png"), width = 6, height = 4)
+ggsave(filename = paste0(output,
+        "fa_homicides_time_series/g_homicies_time_series_total_",
+        v_states[i], ".pdf"), width = 6, height = 4)
 }
 
 beepr::beep(2)
@@ -416,10 +433,10 @@ for(i in 1:length(v_states)){
         
 ggsave(filename = paste0(output, 
         "fa_homicides_time_series/g_homicies_time_series_male_", 
-        v_states[i], ".png"))
-ggsave(filename = paste0(output, 
-        "fa_homicides_time_series/g_homicies_time_series_male_", 
-        v_states[i], ".pdf"))
+        v_states[i], ".png"), width = 6, height = 4)
+ggsave(filename = paste0(output,
+        "fa_homicides_time_series/g_homicies_time_series_male_",
+        v_states[i], ".pdf"), width = 6, height = 4)
 }
 
 beepr::beep(2)
@@ -463,11 +480,11 @@ for(i in 1:length(v_states)){
         
 ggsave(filename = paste0(output, 
         "fa_homicides_time_series/g_homicies_time_series_female_", 
-        v_states[i], ".png"))
+        v_states[i], ".png"), width = 6, height = 4)
 
-ggsave(filename = paste0(output, 
-        "fa_homicides_time_series/g_homicies_time_series_female_", 
-        v_states[i], ".pdf"))
+ggsave(filename = paste0(output,
+        "fa_homicides_time_series/g_homicies_time_series_female_",
+        v_states[i], ".pdf"), width = 6, height = 4)
 }
 
 beepr::beep(2)
@@ -511,21 +528,24 @@ for(i in 1:length(v_states)){
         
 ggsave(filename = paste0(output, 
         "fa_homicides_time_series/g_homicies_time_series_noniden_", 
-        v_states[i], ".png"))
+        v_states[i], ".png"), width = 6, height = 4)
 
-ggsave(filename = paste0(output, 
-        "fa_homicides_time_series/g_homicies_time_series_noniden_", 
-        v_states[i], ".pdf"))
+ggsave(filename = paste0(output,
+        "fa_homicides_time_series/g_homicies_time_series_noniden_",
+        v_states[i], ".pdf"), width = 6, height = 4)
 }
 
 beepr::beep(2)
 
-# 04.6 All genders' homicides by month (time series) ---------------------------
+# 04.6 Monthly homicides by gender, 2019-2020  ---------------------------
 # Title and subtitle vectors 
-v_title <- "All genders' homicides by month (as reported by open sources)"
+v_title <- "Monthly homicides by gender, 2019-2020"
 v_xlab <- "Month"
 v_ylab <- "Number of homicides"
 v_filllab <- "Sex"
+
+df_month_fa_long <- df_month_fa_long %>% 
+        mutate(sex = fct_reorder(sex, c("Non identified", "Male", "Female")))
 
 # Manual trial
 # Stacked bars
@@ -541,7 +561,7 @@ ggplot(df_month_fa_long %>% filter(state == "Mexico City"),
                 caption = v_caption_SSPC) +
         theme_minimal() +
         theme(axis.text.x = element_text(angle = 30)) +
-        scale_fill_manual(values=cbPalette[2:4])
+        scale_fill_manual(values=cbPalette[4:2])
 
 # Adjacent bars
 ggplot(df_month_fa_long %>% filter(state == "Mexico City"), 
@@ -556,7 +576,7 @@ ggplot(df_month_fa_long %>% filter(state == "Mexico City"),
                 caption = v_caption_SSPC) +
         theme_minimal() +
         theme(axis.text.x = element_text(angle = 30)) +
-        scale_fill_manual(values=cbPalette[2:4])
+        scale_fill_manual(values=cbPalette[4:2])
 
 # Loop-generated graphs
 for(i in 1:length(v_states)){
@@ -572,16 +592,16 @@ ggplot(df_month_fa_long %>% filter(state == v_states[i]),
                 caption = v_caption_SSPC) +
         theme_minimal() +
         theme(axis.text.x = element_text(angle = 30)) +
-        scale_fill_manual(values=cbPalette[2:4])
+        scale_fill_manual(values=cbPalette[4:2])
 
         
 ggsave(filename = paste0(output, 
         "fa_homicides_time_series/g_homicies_time_series_all_genders_", 
-        v_states[i], ".png"))
+        v_states[i], ".png"), width = 6, height = 4)
 
-ggsave(filename = paste0(output, 
-        "fa_homicides_time_series/g_homicies_time_series_all_genders_", 
-        v_states[i], ".pdf"))
+ggsave(filename = paste0(output,
+        "fa_homicides_time_series/g_homicies_time_series_all_genders_",
+        v_states[i], ".pdf"), width = 6, height = 4)
 }
 
 beepr::beep(2)
@@ -625,10 +645,10 @@ for(i in 1:length(v_states)){
         
 ggsave(filename = paste0(output, 
         "fa_mort_rate_time_series/g_mort_rate_time_series_total_", 
-        v_states[i], ".png"))
-ggsave(filename = paste0(output, 
-        "fa_mort_rate_time_series/g_mort_rate_time_series_total_", 
-        v_states[i], ".pdf"))
+        v_states[i], ".png"), width = 6, height = 4)
+ggsave(filename = paste0(output,
+        "fa_mort_rate_time_series/g_mort_rate_time_series_total_",
+        v_states[i], ".pdf"), width = 6, height = 4)
 }
 
 beepr::beep(2)
