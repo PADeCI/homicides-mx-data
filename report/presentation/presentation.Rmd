@@ -1,5 +1,5 @@
 ---
-title: "Update to homicide data in Mexico"
+title: "Homicide Data in Mexico (2019-2020)"
 author: "Regina Isabel Medina Rosales and Mariana Consuelo Fernández Espinosa"
 date: "23/10/2020"
 output:
