@@ -1,6 +1,6 @@
 ################################################################################
 #                                                                             ##
-#              Homicide data 2019-2020 at municipal level                     ##
+#              Homicide data (2019-2020) visualizations                       ##
 #                                                                             ##
 #    Goal: Create visualizations for homicide data                            ##
 #    Authors: Regina Isabel Medina Rosales                                    ##

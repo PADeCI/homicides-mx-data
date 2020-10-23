@@ -71,8 +71,18 @@ df_pop_state <- df_pop_state                                    %>%
         rename(state_code = "CVE_GEO")
 
 
+# 02.4 Estimate national levels ------------------------------------------------
+df_homicides_national <- df_homicides_daily_state               %>% 
+        group_by(fecha)                                         %>% 
+        summarise(homicidios = sum(homicidios), 
+                hombre = sum(hombre), 
+                mujer = sum(mujer), 
+                no_identificado = sum(no_identificado))         %>%
+        mutate(entidad = "Nacional")
+
 # 02.2 Fill omitted dates with 0s  ---------------------------------------------
 df_homicides_state_daily_fuentesabiertas <-  df_homicides_daily_state %>% 
+        bind_rows(df_homicides_national) %>% 
         complete(fecha, nesting(entidad),
                 fill = list(homicidios=0, hombre=0, mujer=0, no_identificado=0))
 
@@ -85,8 +95,6 @@ df_homicides_state_daily_fuentesabiertas <-  df_homicides_daily_state %>%
 df_pop_2019_2020 <- df_pop_state %>% 
         filter(year == 2019 || year == 2020)
 
-df_homicides_state_daily_fuentesabiertas <- df_homicides_state_daily_fuentesabiertas 
-                                              
 # Create code variable for states
 df_homicides_daily <- df_homicides_state_daily_fuentesabiertas  %>% 
         mutate(state_code = case_when(
@@ -132,22 +140,15 @@ df_homicides_daily$year <- as.integer(df_homicides_daily$year)
 df_homicides_daily$fecha<- as.Date(df_homicides_daily$fecha , format = "%Y/%m/%d")
 
 # Join data frames
-df_homicides_daily <- df_homicides_daily                        %>% 
-        left_join(df_pop_2019_2020, by = c("state_code", "year")) 
-        
-# Select columns
-df_homicides_daily <- df_homicides_daily                        %>% 
+df_homicides_daily_clean <- df_homicides_daily                          %>% 
+        left_join(df_pop_2019_2020, by = c("state_code", "year"))       %>% 
         select(entidad,state,
                fecha, homicidios,
                hombre, mujer,
                no_identificado, population)
 
-df_homicidios_estado_fuentesabiertas_poblacion <- df_homicides_daily
-
-
-# 02.4 Estimate mortality rate -------------------------------------------------
-
-df_final <- df_homicidios_estado_fuentesabiertas_poblacion%>% 
+# 02.5 Estimate mortality rate -------------------------------------------------
+df_final <- df_homicides_daily_clean %>% 
         mutate(mort_rate = round((homicidios/population)*100000, 2)) 
 
 
@@ -156,7 +157,7 @@ df_final <- df_homicidios_estado_fuentesabiertas_poblacion%>%
 # 03.1 Totals ------------------------------------------------------------------
 # All homicides
 sum(df_homicides_daily_fuentesabiertas$Homicidios)              # Original df
-sum(df_final$homicidios)                                        # Final df
+sum(df_final$homicidios)                                        # Final df (with national level)
 
 # Male 
 sum(df_homicides_daily_fuentesabiertas$Hombre, na.rm = T)       # Original df 

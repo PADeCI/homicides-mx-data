@@ -1,0 +1,108 @@
+---
+title: "Update to homicide data in Mexico"
+author: "Regina Isabel Medina Rosales and Mariana Consuelo Fernández Espinosa"
+date: "23/10/2020"
+output:
+  beamer_presentation: default
+  slidy_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(knitr)
+```
+
+## Sources
+Official homicide data in Mexico is provided by the National Institute of Statistics and Geography (INEGI in spanish). the problem is that each year's official data takes long to get published due to the rigorous methodology it has to go through. 
+
+What can be done if we want to answer questions regarding homicides in the recent months? Both INEGI and the Secretariat of Security and Civilian Protection (SSCP in spanish) make preliminary homicide data available. 
+
+In total, we have three sources:
+
+1. SSCP's interinstituttional group (2019 and 2020) 
+2. SSCP's newspaper analysis (2019 and 2020, by gender)
+3. INEGI's unnoficial data (2019)
+
+## Update to SSCP's interinstitutional group data: National total cases
+
+```{r g_nat_gpo, echo = F}
+include_graphics("g_homicides_timeseries_National.pdf")
+```
+
+## Update to SSCP's interinstitutional group data: Mexico City total cases
+
+```{r g_cdmx_gpo, echo = F}
+include_graphics("g_homicides_timeseries_Mexico City.pdf")
+```
+
+## Update to SSCP's interinstitutional group data: Mexico City compared cases in 5 months 
+
+```{r g_cdmx_gpo_5m, echo = F}
+include_graphics("g_homicides_timeseries_5m_Mexico City.pdf")
+```
+
+## Update to SSCP's interinstitutional group data: Mexico City compared homicide rate in 5 months
+
+```{r g_cdmx_gpo_5m_mort_rate, echo = F}
+include_graphics("g_mortrate_timeseries_5m_National.pdf")
+```
+
+
+## Update to SSCP's interinstitutional group data: Guanajuato total cases
+
+```{r g_gto_gpo, echo = F}
+include_graphics("g_homicides_timeseries_Guanajuato.pdf")
+```
+
+## Update to SSCP's interinstitutional group data: Guanajuato compared cases in 5 months
+
+```{r g_gto_gpo_5m, echo = F}
+include_graphics("g_homicides_timeseries_5m_Guanajuato.pdf")
+```
+
+## Update to SSCP's interinstitutional group data: Guanajuato compared homicide rate in 5 months
+
+```{r g_gto_gpo_5m_mort_rate, echo = F}
+include_graphics("g_mortrate_timeseries_5m_Guanajuato.pdf")
+```
+
+
+## Comparison of sources: National cases in 2019  
+```{r g_compare_cases_national_2019, echo = F}
+include_graphics("g_compare_national_2019.pdf")
+```
+
+
+## Comparison of sources: National cases in 2020
+```{r g_compare_cases_national_2020, echo = F}
+include_graphics("g_compare_national_2020.pdf")
+
+```
+
+## Comparison of sources: National homicide rate in 2019
+```{r g_compare_cases_national_mort_rate_2019, echo = F}
+include_graphics("g_compare_mortrate_national_2019.pdf")
+
+```
+
+## Comparison of sources: National homicide rate in 2020
+```{r g_compare_cases_national_mort_rate_2020, echo = F}
+include_graphics("g_compare_mortrate_national_2020.pdf")
+
+```
+
+## SSCP newspaper: Homicide trend by gender
+```{r}
+include_graphics("g_homicies_time_series_all_genders_Mexico City.pdf")
+```
+
+## SSCP newspaper: Homicide trend for males only 
+```{r}
+include_graphics("g_homicies_time_series_male_Mexico City.pdf")
+```
+
+## SSCP newspaper: Homicide trend for females only
+```{r}
+include_graphics("g_homicies_time_series_female_Mexico City.pdf")
+```
+
