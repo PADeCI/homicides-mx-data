@@ -154,7 +154,7 @@ df_dates_state_gpo <- df_homicides_state_daily_sspc_gpointerinstitucional %>%
         mutate(state = case_when(entidad == "Nacional" ~ "National", 
                                 state == state ~ state))                  %>% 
         mutate(mes = factor(mes, levels = 1:12, labels = v_mes), 
-                month = factor(month, levels = 1:12, labels = v_month)) %>% 
+                month = factor(month, levels = 1:12, labels = v_month))   %>% 
         select(entidad, state, año, year, mes, month, semana, week, fecha, 
                 homicidios, population, mort_rate) 
 
