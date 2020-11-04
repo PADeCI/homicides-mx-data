@@ -1,0 +1,66 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Mexicali,1,1.0,0.0,0.0,2020-10-15
+Baja California,Tijuana,10,5.0,0.0,5.0,2020-10-15
+Chihuahua,Chihuahua,1,1.0,0.0,0.0,2020-10-15
+Chihuahua,Juárez,1,1.0,0.0,0.0,2020-10-15
+Ciudad de México,Cuauhtémoc,1,1.0,0.0,0.0,2020-10-15
+Ciudad de México,Iztacalco,1,1.0,0.0,0.0,2020-10-15
+Colima,Armería,1,0.0,0.0,1.0,2020-10-15
+Guanajuato,"Apaseo el 
+Grande",2,2.0,0.0,0.0,2020-10-15
+Guanajuato,Celaya,3,2.0,0.0,1.0,2020-10-15
+Guanajuato,Cortázar,1,1.0,0.0,0.0,2020-10-15
+Guanajuato,León,5,4.0,1.0,0.0,2020-10-15
+Guanajuato,Salamanca,3,3.0,0.0,0.0,2020-10-15
+Guanajuato,"San José 
+Iturbide",2,2.0,0.0,0.0,2020-10-15
+Guanajuato,Villagrán,2,2.0,0.0,0.0,2020-10-15
+Guanajuato,Yuriria,1,1.0,0.0,0.0,2020-10-15
+Guerrero,"Acapulco de 
+Juárez",1,1.0,0.0,0.0,2020-10-15
+Guerrero,"Chilpancingo 
+de los Bravo",1,0.0,1.0,0.0,2020-10-15
+Guerrero,"Huitzuco de 
+los Figueroa",1,1.0,0.0,0.0,2020-10-15
+Hidalgo,"Tula de 
+Allende",1,1.0,0.0,0.0,2020-10-15
+Jalisco,Guadalajara,2,0.0,2.0,0.0,2020-10-15
+Jalisco,"Tlajomulco 
+de Zúñiga",3,2.0,1.0,0.0,2020-10-15
+Michoacán,Aguililla,2,2.0,0.0,0.0,2020-10-15
+Michoacán,Maravatío,1,1.0,0.0,0.0,2020-10-15
+Michoacán,Zamora,2,2.0,0.0,0.0,2020-10-15
+Morelos,Cuernavaca,1,1.0,0.0,0.0,2020-10-15
+Estado de México,Acolman,1,1.0,0.0,0.0,2020-10-15
+Estado de México,Atizapán,1,1.0,0.0,0.0,2020-10-15
+Estado de México,"Naucalpan 
+de Juárez",1,1.0,0.0,0.0,2020-10-15
+Estado de México,Tultitlán,1,0.0,0.0,1.0,2020-10-15
+Nuevo León,Juárez,1,1.0,0.0,0.0,2020-10-15
+Nuevo León,Santiago,1,1.0,0.0,0.0,2020-10-15
+Oaxaca,"Heroica 
+Ciudad de 
+Huajuapan 
+de León",1,1.0,0.0,0.0,2020-10-15
+Oaxaca,"San Miguel 
+Soyaltepec",1,1.0,0.0,0.0,2020-10-15
+Oaxaca,"Santiago 
+Juxtlahuaca",1,0.0,0.0,1.0,2020-10-15
+Puebla,Atlixco,1,1.0,0.0,0.0,2020-10-15
+Querétaro,Querétaro,1,1.0,0.0,0.0,2020-10-15
+Querétaro,"San Juan del 
+Río",1,0.0,1.0,0.0,2020-10-15
+Quintana Roo,"Benito 
+Juárez",1,1.0,0.0,0.0,2020-10-15
+San Luis Potosí,Rioverde,1,1.0,0.0,0.0,2020-10-15
+Sinaloa,Culiacán,1,1.0,0.0,0.0,2020-10-15
+Sinaloa,Mocorito,2,2.0,0.0,0.0,2020-10-15
+Sonora,Cajeme,4,4.0,0.0,0.0,2020-10-15
+Veracruz,"Alto Lucero 
+de Gutiérrez 
+Barrios",4,4.0,0.0,0.0,2020-10-15
+Veracruz,Minatitlán,1,1.0,0.0,0.0,2020-10-15
+Zacatecas,"Cañitas de 
+Felipe 
+Pescador",2,0.0,0.0,2.0,2020-10-15
+Zacatecas,Zacatecas,1,1.0,0.0,0.0,2020-10-15

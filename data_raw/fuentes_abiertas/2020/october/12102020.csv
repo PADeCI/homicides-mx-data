@@ -1,0 +1,67 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,5.0,5.0,0.0,0.0,2020-10-12
+Chiapas,Huixtla,1.0,1.0,0.0,0.0,2020-10-12
+Chihuahua,Camargo,1.0,1.0,0.0,0.0,2020-10-12
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-10-12
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2020-10-12
+Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2020-10-12
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-10-12
+Durango,Canelas,3.0,3.0,0.0,0.0,2020-10-12
+Guanajuato,Celaya,4.0,3.0,1.0,0.0,2020-10-12
+Guanajuato,Comonfort,1.0,1.0,0.0,0.0,2020-10-12
+Guanajuato,Jerécuaro,3.0,3.0,0.0,0.0,2020-10-12
+Guanajuato,León,1.0,1.0,0.0,0.0,2020-10-12
+Guanajuato,Salamanca,2.0,1.0,1.0,0.0,2020-10-12
+Guanajuato,"Silao de la 
+Victoria",1.0,1.0,0.0,0.0,2020-10-12
+Guerrero,"Acapulco de 
+Juárez",1.0,1.0,0.0,0.0,2020-10-12
+Guerrero,"Chilpancingo de 
+los Bravo",1.0,1.0,0.0,0.0,2020-10-12
+Guerrero,"Tlapa de 
+Comonfort",1.0,0.0,1.0,0.0,2020-10-12
+Hidalgo,Alfajayucan,1.0,1.0,0.0,0.0,2020-10-12
+Hidalgo,"Nopala de 
+Villagrán",1.0,0.0,0.0,1.0,2020-10-12
+Jalisco,El Salto,12.0,0.0,0.0,12.0,2020-10-12
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-10-12
+Jalisco,"Ixtlahuacán de 
+los Membrillos",3.0,0.0,0.0,3.0,2020-10-12
+Jalisco,"Lagos de 
+Moreno",1.0,1.0,0.0,0.0,2020-10-12
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,0.0,0.0,1.0,2020-10-12
+Jalisco,Zapopan,14.0,0.0,0.0,14.0,2020-10-12
+Michoacán,Cuitzeo,2.0,0.0,2.0,0.0,2020-10-12
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2020-10-12
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-10-12
+Michoacán,Zamora,1.0,0.0,1.0,0.0,2020-10-12
+Morelos,Cuautla,1.0,1.0,0.0,0.0,2020-10-12
+Estado de México,Chimalhuacán,1.0,1.0,0.0,0.0,2020-10-12
+Estado de México,"Cuautitlán 
+Izcalli",2.0,2.0,0.0,0.0,2020-10-12
+Estado de México,Texcoco,2.0,2.0,0.0,0.0,2020-10-12
+Nuevo León,Guadalupe,1.0,0.0,1.0,0.0,2020-10-12
+Nuevo León,Monterrey,1.0,0.0,1.0,0.0,2020-10-12
+Oaxaca,"Heroica Ciudad 
+de Huajuapan 
+de León",1.0,1.0,0.0,0.0,2020-10-12
+Puebla,Atlixco,1.0,1.0,0.0,0.0,2020-10-12
+Puebla,Ocoyucan,1.0,0.0,0.0,1.0,2020-10-12
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-10-12
+Puebla,Yehualtepec,2.0,1.0,1.0,0.0,2020-10-12
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-10-12
+Quintana Roo,Benito Juárez,2.0,1.0,0.0,1.0,2020-10-12
+Quintana Roo,Solidaridad,2.0,2.0,0.0,0.0,2020-10-12
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-10-12
+Sinaloa,Culiacán,1.0,0.0,0.0,1.0,2020-10-12
+Sinaloa,Mazatlán,1.0,1.0,0.0,0.0,2020-10-12
+Sonora,Cajeme,5.0,5.0,0.0,0.0,2020-10-12
+Sonora,Guaymas,2.0,1.0,0.0,1.0,2020-10-12
+Sonora,Nogales,1.0,0.0,1.0,0.0,2020-10-12
+Tabasco,Centro,1.0,0.0,0.0,1.0,2020-10-12
+Veracruz,Cuichapa,2.0,2.0,0.0,0.0,2020-10-12
+Veracruz,"Martínez de la 
+Torre",1.0,1.0,0.0,0.0,2020-10-12
+Zacatecas,Calera,13.0,13.0,0.0,0.0,2020-10-12
+Zacatecas,Pánuco,2.0,2.0,0.0,0.0,2020-10-12
