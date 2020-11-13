@@ -185,7 +185,7 @@ ggsave(file = "figs/graphs/all_sources/g_compare_mortrate_national_2019.png")
 ggplot(df_national_2020, 
         aes(x = month, y = mort_rate, fill = source)) +
         geom_col(position = "dodge") +
-        labs(title = "Total homicides comparison between sources (2020)", 
+        labs(title = "Homicide rate comparison between sources (2020)", 
                 subtitle = "National level",
                 hjust = 0, 
                 x = "Month",
@@ -194,4 +194,4 @@ ggplot(df_national_2020,
                 caption = v_caption_SSPC) +
         theme_minimal() +
         theme(axis.text.x = element_text(angle = 30)) 
-ggsave(file = "figs/graphs/all_sources/g_compare_mortrate_national_2020.png")
+ggsave(file = "figs/graphs/all_sources/g_compare_mortrate_national_2020.pdf")

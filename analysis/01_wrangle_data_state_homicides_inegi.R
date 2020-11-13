@@ -5,7 +5,7 @@
 ##
 ## Created:             2020-10-15 
 ## Last update:         2020-10-22
-## Authors: }Regina Isabel Medina Rosales
+## Authors:             Regina Isabel Medina Rosales
 ##          
 ##******************************************************************************
 
@@ -218,17 +218,181 @@ df_register_pop <- df_register_corrected_vars                           %>%
         mutate(mort_rate = round(homicidios*100000/population, 2))      %>% 
         mutate(mes = factor(mes, levels = c(v_meses, "Total")), 
                 month = factor(month, levels = c(v_months, "Total")))   %>% 
-        select("entidad", "state", "population", "año", "year", "mes", "month", 
+        select("entidad", "state", "id_state", "population", "año", "year", "mes", "month", 
                 "homicidios", "mort_rate")
 
 # 02.3 Ocurrence month  --------------------------------------------------------
 
- 
+df_clean_00 <- df_ocurr_00      %>% 
+        rename(year=Year)       %>% 
+        filter(year==2019)      %>%
+        gather(key   = "year")  %>% 
+        mutate(month = "Total", 
+                mes  = "Total", 
+                id_state = 0:33)
+
+df_clean_01 <- df_ocurr_01                                      %>% 
+        rename(year=Year)                                       %>% 
+        filter(year==2019)                                      %>%
+        mutate(Aguascalientes = 0)                              %>% 
+        select(year, Total, Aguascalientes, everything())       %>% 
+        gather(key   = "year")                                  %>% 
+        mutate(month = "January", 
+                mes  = "Enero", 
+                id_state = 0:33)
+
+df_clean_02 <- df_ocurr_02      %>% 
+        rename(year=Year)       %>% 
+        filter(year==2019)      %>% 
+        gather(key   = "year")  %>% 
+        mutate(month = "February", 
+                mes  = "Febrero", 
+                id_state = 0:33)
+
+df_clean_03 <- df_ocurr_03      %>% 
+        rename(year=Year)       %>% 
+        filter(year==2019)      %>% 
+        gather(key   = "year")  %>% 
+        mutate(month = "March", 
+                mes  = "Marzo", 
+                id_state = 0:33)
+
+df_clean_04 <- df_ocurr_04      %>% 
+        rename(year=Year)       %>% 
+        filter(year==2019)      %>% 
+        gather(key   = "year")  %>% 
+        mutate(month = "April", 
+                mes  = "Abril", 
+                id_state = 0:33)
+
+df_clean_05 <- df_ocurr_05      %>% 
+        rename(year=Year)       %>% 
+        filter(year==2019)      %>% 
+        gather(key   = "year")  %>% 
+        mutate(month = "May", 
+                mes  = "Mayo", 
+                id_state = 0:33)
+
+df_clean_06 <- df_ocurr_06      %>% 
+        rename(year=Year)       %>% 
+        filter(year==2019)      %>% 
+        gather(key   = "year")  %>% 
+        mutate(month = "June", 
+                mes  = "Junio", 
+                id_state = 0:33)
+
+df_clean_07 <- df_ocurr_07      %>% 
+        rename(year=X)          %>% 
+        filter(year==2019)      %>%
+        select(-"X.1")          %>% 
+        gather(key   = "year")  %>% 
+        mutate(month = "July", 
+                mes  = "Julio", 
+                id_state = 0:33)
+
+df_clean_08 <- df_ocurr_08      %>% 
+        rename(year=X)          %>% 
+        filter(year==2019)      %>% 
+        select(-"X.1")          %>% 
+        gather(key   = "year")  %>% 
+        mutate(month = "August", 
+                mes  = "Agosto", 
+                id_state = 0:33)
+
+df_clean_09 <- df_ocurr_09      %>% 
+        rename(year=X)          %>% 
+        filter(year==2019)      %>% 
+        select(-"X.1")          %>% 
+        gather(key   = "year")  %>% 
+        mutate(month = "September", 
+                mes  = "Septiembre", 
+                id_state = 0:33)
+
+df_clean_10 <- df_ocurr_10      %>% 
+        rename(year=X)          %>% 
+        filter(year==2019)      %>% 
+        select(-"X.1")          %>% 
+        gather(key   = "year")  %>% 
+        mutate(month = "October", 
+                mes  = "Octubre", 
+                id_state = 0:33)
+
+df_clean_11 <- df_ocurr_11      %>% 
+        rename(year=X)          %>% 
+        filter(year==2019)      %>% 
+        select(-"X.1")          %>% 
+        gather(key   = "year")  %>% 
+        mutate(month = "November", 
+                mes  = "Noviembre", 
+                id_state = 0:33)
+
+df_clean_12 <- df_ocurr_12      %>% 
+        rename(year=X)          %>% 
+        filter(year==2019)      %>% 
+        select(-"X.1")          %>% 
+        gather(key   = "year")  %>% 
+        mutate(month = "December", 
+                mes  = "Diciembre", 
+                id_state = 0:33)
+
+df_clean_13_short <- df_ocurr_NE                %>% 
+        rename(year=X)                          %>% 
+        filter(year==2019)                      %>% 
+        select(-"X.1")                          %>% 
+        gather(key   = "year")  
+
+df_state_id <- df_clean_00                      %>% 
+        select(year, id_state)
+
+df_clean_13 <- df_clean_13_short                %>% 
+        right_join(df_state_id, by = c("year")) %>% 
+        arrange(id_state)                       %>% 
+        mutate(month = "Non-Especified", 
+                mes  = "No-Especificado", 
+                value = as.character(value))    %>% 
+        select(year, value, month, mes, id_state)
+
+
+
+# Joined dfs from every month
+df_ocurrence_joined_all_months <- df_clean_00 %>% 
+        bind_rows(df_clean_01, df_clean_02, df_clean_03, df_clean_04, df_clean_05, 
+                  df_clean_06, df_clean_07, df_clean_08, df_clean_09, df_clean_10, 
+                  df_clean_11, df_clean_12, df_clean_13)
+
+# Create  and rename vars and values
+df_ocurrence_corrected_var <- df_ocurrence_joined_all_months %>% 
+        rename(homicidios = value, 
+                entidad = year)                                         %>%
+        mutate(entidad = case_when(entidad == "Total" ~ "Nacional", 
+                entidad == "Coahuila.de.Zaragoza" ~ "Coahuila",
+                entidad == "Michoacán.de.Ocampo" ~ "Michoacán", 
+                entidad == "Veracruz.de.Ignacio.de.la.Llave" ~ "Veracruz", 
+                entidad == "México" ~ "Estado de México", 
+                entidad == entidad ~ entidad))  %>%
+        mutate(entidad = str_replace_all(entidad, "\\.", " "), 
+                homicidios = str_remove_all(homicidios, "\\,"),
+                homicidios = as.numeric(homicidios))                    %>% 
+        mutate(year = 2019, año = 2019, 
+                homicidios = as.integer(homicidios)) 
+
+
+# Add population and estimate mortality rate 
+df_ocurrence_pop <- df_ocurrence_corrected_var %>% 
+        left_join(df_pop, by = c("id_state", "year"))                   %>% 
+        mutate(mort_rate = round(homicidios*100000/population, 2))      %>% 
+        mutate(mes = factor(mes, levels = c(v_meses, "Total")), 
+                month = factor(month, levels = c(v_months, "Total")))   %>% 
+        select("entidad", "state", "id_state", "population", "año", "year", 
+                "mes", "month", "homicidios", "mort_rate")
+
 # 03. Check consistency of data ------------------------------------------------
 # 04. Save final data set ------------------------------------------------------
 # Rename 
-df_homicides_state_monthly_inegi_ocurrencia <- df_register_pop
+df_homicides_state_monthly_inegi_registro <- df_register_pop
+df_homicides_state_monthly_inegi_ocurrencia <- df_ocurrence_pop
 
 # Save
 save(df_homicides_state_monthly_inegi_ocurrencia, file = "data/inegi/df_homicides_state_monthly_inegi_ocurrencia.Rdata")
+save(df_homicides_state_monthly_inegi_registro, file = "data/inegi/df_homicides_state_monthly_inegi_registro.Rdata")
 

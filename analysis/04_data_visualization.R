@@ -653,6 +653,7 @@ ggsave(filename = paste0(output,
 
 beepr::beep(2)
 
+
 # 4.08 Mortality rate (male) ---------------------------------------------------
 
 # 4.09 Mortality rate (female) -------------------------------------------------
