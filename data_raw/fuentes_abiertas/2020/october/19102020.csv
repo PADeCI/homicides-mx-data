@@ -1,0 +1,76 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Mexicali,1.0,0.0,1.0,0.0,2020-10-19
+Baja California,Tijuana,3.0,3.0,0.0,0.0,2020-10-19
+Chiapas,"La 
+Independencia",1.0,0.0,1.0,0.0,2020-10-19
+Chiapas,Pichucalco,1.0,1.0,0.0,0.0,2020-10-19
+Chiapas,"Tuxtla 
+Gutiérrez",1.0,1.0,0.0,0.0,2020-10-19
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-10-19
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-10-19
+Chihuahua,Delicias,1.0,1.0,0.0,0.0,2020-10-19
+Chihuahua,Juárez,6.0,5.0,1.0,0.0,2020-10-19
+Ciudad de México,Coyoacán,1.0,1.0,0.0,0.0,2020-10-19
+Ciudad de México,"Gustavo A. 
+Madero",2.0,1.0,1.0,0.0,2020-10-19
+Ciudad de México,Iztapalapa,2.0,2.0,0.0,0.0,2020-10-19
+Coahuila,Saltillo,1.0,0.0,1.0,0.0,2020-10-19
+Guanajuato,Acámbaro,1.0,1.0,0.0,0.0,2020-10-19
+Guanajuato,Apaseo el Alto,1.0,0.0,1.0,0.0,2020-10-19
+Guanajuato,León,5.0,5.0,0.0,0.0,2020-10-19
+Guanajuato,"San José 
+Iturbide",1.0,1.0,0.0,0.0,2020-10-19
+Guanajuato,"San Luis de la 
+Paz",1.0,0.0,1.0,0.0,2020-10-19
+Guanajuato,Yuriria,1.0,1.0,0.0,0.0,2020-10-19
+Guerrero,"Tixtla de 
+Guerrero",1.0,0.0,1.0,0.0,2020-10-19
+Hidalgo,"Jacala de 
+Ledezma",1.0,0.0,1.0,0.0,2020-10-19
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2020-10-19
+Jalisco,"Tlajomulco de 
+Zúñiga",1.0,1.0,0.0,0.0,2020-10-19
+Jalisco,Tonalá,1.0,0.0,1.0,0.0,2020-10-19
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-10-19
+Michoacán,Zamora,3.0,3.0,0.0,0.0,2020-10-19
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-10-19
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-10-19
+Morelos,Puente de Ixtla,1.0,1.0,0.0,0.0,2020-10-19
+Morelos,Temixco,1.0,1.0,0.0,0.0,2020-10-19
+Morelos,Totolapan,3.0,0.0,0.0,3.0,2020-10-19
+Estado de México,Acolman,1.0,1.0,0.0,0.0,2020-10-19
+Estado de México,"Cuautitlán 
+Izcalli",1.0,1.0,0.0,0.0,2020-10-19
+Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2020-10-19
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-10-19
+Estado de México,Ocoyoacac,1.0,1.0,0.0,0.0,2020-10-19
+Estado de México,Villa Victoria,1.0,1.0,0.0,0.0,2020-10-19
+Nayarit,Del Nayar,2.0,2.0,0.0,0.0,2020-10-19
+Nuevo León,Apodaca,1.0,1.0,0.0,0.0,2020-10-19
+Oaxaca,"Matías Romero 
+Avendaño",1.0,1.0,0.0,0.0,2020-10-19
+Oaxaca,"Santiago 
+Pinotepa 
+Nacional",1.0,1.0,0.0,0.0,2020-10-19
+Puebla,Atzitzihuacán,1.0,1.0,0.0,0.0,2020-10-19
+Puebla,Tochimilco,1.0,1.0,0.0,0.0,2020-10-19
+Puebla,Xicotepec,1.0,0.0,1.0,0.0,2020-10-19
+Querétaro,El Marqués,1.0,0.0,1.0,0.0,2020-10-19
+Quintana Roo,Bacalar,2.0,2.0,0.0,0.0,2020-10-19
+Quintana Roo,Benito Juárez,3.0,2.0,1.0,0.0,2020-10-19
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-10-19
+Sonora,Caborca,1.0,1.0,0.0,0.0,2020-10-19
+Sonora,Pitiquito,1.0,0.0,1.0,0.0,2020-10-19
+Tabasco,Jalapa,1.0,1.0,0.0,0.0,2020-10-19
+Tamaulipas,Altamira,1.0,0.0,1.0,0.0,2020-10-19
+Tlaxcala,"Zitlaltépec de 
+Trinidad 
+Sánchez 
+Santos",3.0,1.0,1.0,1.0,2020-10-19
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2020-10-19
+Veracruz,Coatzintla,1.0,0.0,0.0,1.0,2020-10-19
+Veracruz,"Martínez de la 
+Torre",1.0,1.0,0.0,0.0,2020-10-19
+Veracruz,Papantla,1.0,1.0,0.0,0.0,2020-10-19
+Veracruz,"Santiago 
+Tuxtla",2.0,0.0,0.0,2.0,2020-10-19

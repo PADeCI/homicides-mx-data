@@ -1,0 +1,57 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tecate,1,1.0,0.0,0.0,2020-10-23
+Baja California,Tijuana,1,1.0,0.0,0.0,2020-10-23
+Baja California,La Paz,1,1.0,0.0,0.0,2020-10-23
+Chihuahua,Cuauhtémoc,1,1.0,0.0,0.0,2020-10-23
+Chihuahua,Juárez,1,0.0,0.0,1.0,2020-10-23
+Colima,Manzanillo,1,0.0,0.0,1.0,2020-10-23
+Guanajuato,Abasolo,1,1.0,0.0,0.0,2020-10-23
+Guanajuato,Cortázar,1,1.0,0.0,0.0,2020-10-23
+Guanajuato,León,6,6.0,0.0,0.0,2020-10-23
+Guanajuato,Salamanca,3,3.0,0.0,0.0,2020-10-23
+Guerrero,"Acapulco de 
+Juárez",6,3.0,1.0,2.0,2020-10-23
+Guerrero,"Coyuca de 
+Benítez",1,0.0,1.0,0.0,2020-10-23
+Hidalgo,"Nopala de 
+Villagrán",2,0.0,0.0,2.0,2020-10-23
+Hidalgo,"Pachuca de 
+Soto",1,1.0,0.0,0.0,2020-10-23
+Hidalgo,"Tulancingo de 
+Bravo",1,1.0,0.0,0.0,2020-10-23
+Jalisco,"San Pedro 
+Tlaquepaque",1,1.0,0.0,0.0,2020-10-23
+Jalisco,"Tlajomulco de 
+Zúñiga",2,2.0,0.0,0.0,2020-10-23
+Jalisco,Zapopan,3,3.0,0.0,0.0,2020-10-23
+Michoacán,La Piedad,1,1.0,0.0,0.0,2020-10-23
+Michoacán,Morelia,1,1.0,0.0,0.0,2020-10-23
+Michoacán,Parácuaro,2,2.0,0.0,0.0,2020-10-23
+Michoacán,Zamora,1,0.0,1.0,0.0,2020-10-23
+Morelos,Amacuzac,2,2.0,0.0,0.0,2020-10-23
+Morelos,Cuautla,2,0.0,0.0,2.0,2020-10-23
+Morelos,"Emiliano 
+Zapata",1,1.0,0.0,0.0,2020-10-23
+Morelos,Jiutepec,1,0.0,0.0,1.0,2020-10-23
+Estado de México,"Valle de 
+Chalco 
+Solidaridad",1,0.0,1.0,0.0,2020-10-23
+Nuevo León,Linares,1,1.0,0.0,0.0,2020-10-23
+Oaxaca,"Asunción 
+Cacalotepec",1,1.0,0.0,0.0,2020-10-23
+Puebla,"San Andrés 
+Cholula",1,1.0,0.0,0.0,2020-10-23
+Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2020-10-23
+San Luis Potosí,"Mexquitic de 
+Carmona",1,0.0,1.0,0.0,2020-10-23
+San Luis Potosí,San Luis Potosí,1,1.0,0.0,0.0,2020-10-23
+Sinaloa,Ahome,4,1.0,0.0,3.0,2020-10-23
+Sinaloa,Culiacán,4,4.0,0.0,0.0,2020-10-23
+Sonora,Empalme,1,1.0,0.0,0.0,2020-10-23
+Sonora,Hermosillo,1,1.0,0.0,0.0,2020-10-23
+Tabasco,Cunduacán,1,1.0,0.0,0.0,2020-10-23
+Tabasco,Cárdenas,1,1.0,0.0,0.0,2020-10-23
+Tlaxcala,Tlaxcala,1,0.0,1.0,0.0,2020-10-23
+Tlaxcala,Xicohtzinco,1,1.0,0.0,0.0,2020-10-23
+Veracruz,Acultzingo,1,1.0,0.0,0.0,2020-10-23
+Veracruz,Úrsulo Galván,2,2.0,0.0,0.0,2020-10-23
