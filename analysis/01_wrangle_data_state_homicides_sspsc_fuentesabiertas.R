@@ -60,36 +60,53 @@ df_homicides_daily_state$fecha <- as.Date(df_homicides_daily_state$fecha)
 df_homicides_daily_state$year <- format(as.Date(df_homicides_daily_state$fecha, format="%Y/%m/%d"),"%Y")
 df_homicides_daily_state$year <- as.integer(df_homicides_daily_state$year)
 
-# Group by state
+# 02.2 Check for duplicated dates  ---------------------------------------------
+        # # There must be as many observations per date as states (33)
+        # df_fechas <- as.data.frame(table(df_homicides_daily_state$fecha)) %>% 
+        #         rename(fecha = Var1, Freq_prev = Freq) 
+        # 
+        # # Eliminate duplicated dates 
+        # df_homicides_fa_unique_dates <- df_homicides_daily_state        %>% 
+        #         group_by(entidad)                                       %>% 
+        #         distinct(fecha, .keep_all = TRUE)                       %>% 
+        #         ungroup()
+        # 
+        # # Check that filtering did actually work 
+        # df_fechas2 <- as.data.frame(table(df_homicides_fa_unique_dates$fecha)) %>% 
+        #         rename(fecha = Var1, Freq_post= Freq) %>% 
+        #         full_join(df_fechas, by = c("fecha"))
+        #         
 
-df_homicides_daily_state <- df_homicides_daily_state            %>% 
+
+# 02.3 Summarise --------------------------------------------------------------
+# Group by state
+df_homicides_daily_state_summ <- df_homicides_daily_state       %>% 
         group_by(entidad, fecha)                                %>%
         summarise_all(.funs = sum, na.rm=F)
 
-# # Vectors and relabeling that will be needed 
-df_pop_state <- df_pop_state                                    %>%
-        rename(state_code = "CVE_GEO")
-
 
 # 02.4 Estimate national levels ------------------------------------------------
-df_homicides_national <- df_homicides_daily_state               %>% 
+df_homicides_national <- df_homicides_daily_state_summ          %>% 
         group_by(fecha)                                         %>% 
         summarise(homicidios = sum(homicidios), 
-                hombre = sum(hombre), 
-                mujer = sum(mujer), 
-                no_identificado = sum(no_identificado))         %>%
+                  hombre     = sum(hombre), 
+                  mujer      = sum(mujer), 
+                  no_identificado = sum(no_identificado))       %>%
         mutate(entidad = "Nacional")
 
-# 02.2 Fill omitted dates with 0s  ---------------------------------------------
+
+# 02.5 Fill omitted dates with 0s  ---------------------------------------------
 df_homicides_state_daily_fuentesabiertas <-  df_homicides_daily_state %>% 
         bind_rows(df_homicides_national) %>% 
         complete(fecha, nesting(entidad),
                 fill = list(homicidios=0, hombre=0, mujer=0, no_identificado=0))
 
 
-# 02.3 Add population  ---------------------------------------------------------
+# 02.6 Add population  ---------------------------------------------------------
 
-# Join data frames
+# Vectors and relabeling that will be needed 
+df_pop_state <- df_pop_state                                    %>%
+        rename(state_code = "CVE_GEO")
 
 # Filter year 2019 and 2020
 df_pop_2019_2020 <- df_pop_state %>% 
@@ -147,7 +164,7 @@ df_homicides_daily_clean <- df_homicides_daily                          %>%
                hombre, mujer,
                no_identificado, population)
 
-# 02.5 Estimate mortality rate -------------------------------------------------
+# 02.7 Estimate mortality rate -------------------------------------------------
 df_final <- df_homicides_daily_clean %>% 
         mutate(mort_rate = round((homicidios/population)*100000, 2)) 
 
@@ -171,8 +188,7 @@ sum(df_final$mujer)                                             # Final df
 sum(df_homicides_daily_fuentesabiertas$No.Identificado, na.rm = T) # Original 
 sum(df_final$no_identificado)                                   # Final df
 
-        # All the homicide categories add up to the same number as in the 
-        # original data frame. 
+        # There are difference in data because of the duplicated dates in August.
 
 # 03.2 Consistency by gender ---------------------------------------------------
 

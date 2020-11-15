@@ -1,0 +1,89 @@
+---
+title: __Homicides in Mexico (2019-2020)__
+subtitle: __Data comparison across sources __
+
+author: 
+- Fernando Alarid-Escudero, Ph.D., Yadira Peralta, Ph.D.
+- Regina Isabel Medina Rosales
+
+date: "`r format(Sys.time(), '%d/%m/%Y')`"
+
+output: 
+  rmarkdown::pdf_document:
+    toc: true
+    latex_engine: xelatex
+
+bibliography: bib_sources.bib
+csl: jama.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+```
+
+\newpage
+
+There are several official and unofficial sources of data regarding homicide data in Mexico. Currently, there are two institutions that publish official data: The National Institute of Statistics and Geography (INEGI) and the Secretariat of Security and Citizen Protection (SSCP). 
+
+1. INEGI homicides by date registered 
+2. INEGI homicides by ocurrence 
+3. SSCP interinstitutional group 
+4. SSCP open sources (newspapers)
+
+Even if all these sources are official, they tend to differ due to the different methodologies they use. In this report we will compare homicide data from 2019 and 2020 as reported by the mentioned sources. In the first section, we briefly explain the characteristics and methodologies of each source. In the second section, we present the number of homicides reported by the sources as tables and graphs to grasp the magnitude of the differences.
+
+# Sources description 
+According to the Belisario Domínguez Institute (IBD),the organism in charge of the Mexican Senate cientific research, there are two official sources of homicide data in Mexico: INEGI and SSCP.[@Belisario2018] Below, we describe the data generated from this sources.  
+
+
+
+## National Institute of Statistics and Geography (INEGI)
+From all of this options, INEGI's data tends to be considered the must reliable since they get information from the Health Ministry (Secretaría de Salud), the Civil Registry (Registro Civil) and the Prosecutors Office or Pubic Ministry (Minsterio Público). INEGI has a strong system that manages administrative registers from all this different souces.[@Belisario2016] The Institute also uses the criteria established by the World Health Organization (WHO), which requires that violent deaths must be classified as accidents, homicides or suicides; this means that INEGI reports a medical category that is equivalent to the legal category of _homicide_ (_homicidio doloso_ in spanish).[@Belisario2016] The certificates that come from the Health Ministry are then compared against information from the Civil Registry and Local Prosecutor's Offices. In this sense, for each certificate comming from the Health Ministry, there must be an death certificate in the Civil Registry and an open investigations from prosecutors.[@Belisario2016] 
+
+All these controls guarantee both _quality_ and _confiability_ of INEGI's data, but entail a long process which generates a delay in the publication of the data. Regularly, official homicide data from INEGI is published more than a year after the end of the reported year. This means that data from 2019 and 2020 has not been realeased. Nonetheless, a few weeks ago INEGI published preliminary data from 2019. This figures that were just reported are the one we use to compare them against data from the SSCP. 
+
+Finally, it is worth mentioning that INEGI differentiates the register date from the ocurrence data. Usually the number of homicides that are reported refer to the register date, but, since INEGI has a comprehensive archive that include medical records, they also have information regarding the date when the homicide ocurred and not simply when it was registered. Both measurements were included in the present analysis. 
+
+
+## Secretariat of Security and Citizen Protection (SSCP)
+Preliminary data on homicides in Mexico is published by the Secretariat of Security and Citizen Protecion (SSCP). 
+
+\newpage
+
+# Data comparison 
+## National level homicides in 2019
+The total number of homicides. 
+
+```{r, echo = FALSE}
+include_graphics("../../figs/graphs/all_sources/g_compare_national_2019_bars.pdf")
+```
+
+
+```{r, echo = FALSE}
+include_graphics("../../figs/graphs/all_sources/g_compare_national_2019_lines.pdf")
+```
+\newpage
+
+By mortality rate 
+
+```{r, echo = FALSE}
+include_graphics("../../figs/graphs/all_sources/g_compare_mortrate_national_2019.pdf")
+```
+
+\newpage
+
+## National level homicides in 2020
+
+```{r, echo = FALSE}
+include_graphics("../../figs/graphs/all_sources/g_compare_national_2020.pdf")
+```
+
+
+```{r, echo = FALSE}
+include_graphics("../../figs/graphs/all_sources/g_compare_mortrate_national_2020.pdf")
+```
+
+\newpage
+
+# References

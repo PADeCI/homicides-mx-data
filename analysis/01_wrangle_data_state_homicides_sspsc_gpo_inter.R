@@ -87,6 +87,18 @@ df_mistakes <- df_compare %>%
         filter(is.na(equal)==T)
         
 
+# Check for duplicated dates: there must be as many observations per date as states (33)
+df_fechas <- as.data.frame(table(df_homicides_gpo$fecha)) 
+
+# Eliminate duplicated dates 
+df_homicides_gpo_unique_dates <- df_homicides_gpo       %>% 
+        group_by(entidad)                               %>% 
+        distinct(fecha, .keep_all = TRUE)               %>% 
+        ungroup()
+
+# Check that filtering did actually work 
+df_fechas2 <- as.data.frame(table(df_homicides_gpo_unique_dates$fecha)) 
+
 # 02.2 Fill missing dates  -----------------------------------------------------
 # Convert implicit missing values to explicit missing values:
 # we will have data for every date.
@@ -104,8 +116,8 @@ df_mistakes <- df_compare %>%
 # 02.3 Add population for interinstitutional group  ----------------------------
 
 # Join data frames
-df_homicides_state <- df_homicides_gpo                                  %>% 
-        mutate(año = year(as.Date(fecha)))                              %>%
+df_homicides_state <- df_homicides_gpo_unique_dates             %>% 
+        mutate(año = year(as.Date(fecha)))                      %>%
         mutate(fecha = as.Date(fecha))                          %>% 
         left_join(df_pop_state, by = c("entidad", "año")) 
 
@@ -127,6 +139,9 @@ sum(df_homicides_gpo$homicidios[df_homicides_gpo$entidad!="Nacional"])
 
 sum(df_homicides_state_daily$homicidios)
 sum(df_homicides_state_daily$homicidios[df_homicides_state$entidad!="Nacional"])
+
+        # The numbers are different because the original data frame had all the 
+        # dates from January 2020 duplicated.
 
 beepr::beep(5)
 
