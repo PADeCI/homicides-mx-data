@@ -42,6 +42,8 @@ df_long <- df_homicides_state_month_all_sources_long                    %>%
                                 source == "SSCP_OPEN_SOURCE"~ "SSCP (Newspapers)")) %>% 
         mutate(source = factor(source, levels=c("SSCP (Inter. Group)", "SSCP (Newspapers)", "INEGI (Register)", "INEGI (Ocurrence)")))
         
+save(df_long, file = "~/GitHub/homicides-mx-data/data/df_homicides_long.RData")
+
 df_national <- df_long %>% 
         filter(month != "Total", state == "National")
 
@@ -86,7 +88,7 @@ df_national_2019_total <- df_national_2019 %>%
 # 03. Create graphs  -----------------------------------------------------------
 # 03.1 Define useful vectors  --------------------------------------------------
 
-v_caption_SSPC  <- "Source: Own elaboration with data from INEGI and SSPC, retrieved from: http://www.informeseguridad.cns.gob.mx/"
+v_caption_SSPC  <- "Source: Own elaboration with data from INEGI and SSPC, retrieved from:\nhttp://www.informeseguridad.cns.gob.mx/"
 
 v_colors        <- c("#D77A61", "#FFC857", "#9DB4C0", "#650D1B", "#223843") 
 
@@ -96,28 +98,39 @@ v_colors        <- c("#D77A61", "#FFC857", "#9DB4C0", "#650D1B", "#223843")
 ggplot(df_national_2019_total, 
         aes(x = total, y = homicides, fill = source)) +
         geom_col(position = "dodge") +
-        geom_text(aes(label=df_national_2019_total$homicides), position_dodge(0.9)) +
-        theme_minimal() +
-        scale_fill_manual(values = v_colors) 
+        theme_classic() +
+        theme(axis.title.x = element_blank(), 
+                axis.text.x = element_blank(), 
+                axis.ticks.x = element_blank(), 
+                plot.caption = element_text(hjust = 0)) +
+        scale_fill_manual(values = v_colors) +
+        labs(title = "Total homicides according to different sources (2019)", 
+                y = "Homicides", 
+                x = "", 
+                fill = "Source",
+                caption = v_caption_SSPC) 
+ggsave(file = "figs/graphs/all_sources/g_compare_national_total_2019_bars.pdf", 
+        width = 7, height = 4)
 
  # National level
 g_national_2019 <- ggplot(df_national_2019, 
         aes(x = month, y = homicidios)) +
-        labs(title = "Total homicides comparison between sources (2019)", 
+        labs(title = "Total monthly homicides comparison different sources (2019)", 
                 subtitle = "National level",
-                hjust = 0, 
+                hjust = 0.5, 
                 x = "Month",
                 y = "Homicides",
                 fill = "Source", 
                 color = "Source",
                 caption = v_caption_SSPC) +
-        theme_minimal() +
+        theme_classic() +
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
-        theme(axis.text.x = element_text(angle = 30)) 
+        theme(axis.text.x = element_text(angle = 30), 
+                plot.caption = element_text(hjust = 0.5)) 
 
 g_national_2019 + geom_col(position = "dodge", aes(fill = source))
-ggsave(file = "figs/graphs/all_sources/g_compare_national_2019_bars.png", 
+ggsave(file = "figs/graphs/all_sources/g_compare_national_2019_bars.pdf", 
         width = 7, height = 4)
 
 
@@ -138,11 +151,13 @@ ggplot(df_cdmx_2019,
                 y = "Homicides",
                 fill = "Source", 
                 caption = v_caption_SSPC) +
-        theme_minimal() +
+        theme_classic() +
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
-        theme(axis.text.x = element_text(angle = 30)) 
-ggsave(file = "figs/graphs/all_sources/g_compare_cdmx_2019.png")
+        theme(axis.text.x = element_text(angle = 30), 
+                plot.caption = element_text(hjust = 0.5)) 
+ggsave(file = "figs/graphs/all_sources/g_compare_cdmx_2019.pdf", 
+        width = 7, height = 4)
 
 
 # Guanajuato 
@@ -156,11 +171,13 @@ ggplot(df_gto_2019,
                 y = "Homicides",
                 fill = "Source", 
                 caption = v_caption_SSPC) +
-        theme_minimal() +
+        theme_classic() +
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
-        theme(axis.text.x = element_text(angle = 30)) 
-ggsave(file = "figs/graphs/all_sources/g_compare_gto_2019.png")
+        theme(axis.text.x = element_text(angle = 30),
+                plot.caption = element_text(hjust = 0.5)) 
+ggsave(file = "figs/graphs/all_sources/g_compare_gto_2019.pdf", 
+        width = 7, height = 4)
 
 
 # 03.3 Cases from 2020 ---------------------------------------------------------
@@ -175,11 +192,14 @@ ggplot(df_national_2020,
                 y = "Homicides",
                 fill = "Source", 
                 caption = v_caption_SSPC) +
-        theme_minimal() +
+        theme_classic() +
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
-        theme(axis.text.x = element_text(angle = 30)) 
-ggsave(file = "figs/graphs/all_sources/g_compare_national_2020.pdf")
+        theme(axis.text.x = element_text(angle = 30), 
+                plot.caption = element_text(hjust = 0.5)) 
+
+ggsave(file = "figs/graphs/all_sources/g_compare_national_2020.pdf", 
+        width = 7, height = 4)
 
 # Mexico City 
 ggplot(df_cdmx_2020, 
@@ -192,11 +212,13 @@ ggplot(df_cdmx_2020,
                 y = "Homicides",
                 fill = "Source", 
                 caption = v_caption_SSPC) +
-        theme_minimal() +
+        theme_classic() +
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
-        theme(axis.text.x = element_text(angle = 30)) 
-ggsave(file = "figs/graphs/all_sources/g_compare_cdmx_2020.png")
+        theme(axis.text.x = element_text(angle = 30), 
+                plot.caption = element_text(hjust = 0.5)) 
+ggsave(file = "figs/graphs/all_sources/g_compare_cdmx_2020.pdf", 
+        width = 7, height = 4)
 
 
 # Guanajuato 
@@ -210,11 +232,13 @@ ggplot(df_gto_2020,
                 y = "Homicides",
                 fill = "Source", 
                 caption = v_caption_SSPC) +
-        theme_minimal() +
+        theme_classic() +
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
-        theme(axis.text.x = element_text(angle = 30)) 
-ggsave(file = "figs/graphs/all_sources/g_compare_gto_2020.png")
+        theme(axis.text.x = element_text(angle = 30), 
+                plot.caption = element_text(hjust = 0.5)) 
+ggsave(file = "figs/graphs/all_sources/g_compare_gto_2020.pdf", 
+        width = 7, height = 4)
 
 
 # 03.4 Homicide rate from 2019 -------------------------------------------------
@@ -229,11 +253,13 @@ ggplot(df_national_2019,
                 y = "Homicide rate\n(number of homicides per 100,000 inhabitans)",
                 fill = "Source", 
                 caption = v_caption_SSPC) +
-        theme_minimal() +
+        theme_classic() +
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
-        theme(axis.text.x = element_text(angle = 30)) 
-ggsave(file = "figs/graphs/all_sources/g_compare_mortrate_national_2019.pdf")
+        theme(axis.text.x = element_text(angle = 30), 
+                plot.caption = element_text(hjust = 0.5)) 
+ggsave(file = "figs/graphs/all_sources/g_compare_mortrate_national_2019.pdf", 
+        width = 7, height = 4)
 
 
 # 03.5 Homicide rate from 2020 -------------------------------------------------
@@ -248,9 +274,11 @@ ggplot(df_national_2020,
                 y = "Homicide rate\n(number of homicides per 100,000 inhabitans)",
                 fill = "Source", 
                 caption = v_caption_SSPC) +
-        theme_minimal() +
+        theme_classic() +
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
-        theme(axis.text.x = element_text(angle = 30)) 
-ggsave(file = "figs/graphs/all_sources/g_compare_mortrate_national_2020.pdf")
+        theme(axis.text.x = element_text(angle = 30), 
+                plot.caption = element_text(hjust = 0.5)) 
+ggsave(file = "figs/graphs/all_sources/g_compare_mortrate_national_2020.pdf", 
+        width = 7, height = 4)
 
