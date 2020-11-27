@@ -15,3 +15,6 @@ Variables seleccionadas para el filtro:
 - Sexo 
 - Edad
 
+Fuente: INEGI - Estadísticas de mortalidad 
+
+URL: https://www.inegi.org.mx/programas/mortalidad/?ps=microdatos 

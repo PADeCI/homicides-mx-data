@@ -165,9 +165,13 @@ df_homicides_daily_clean <- df_homicides_daily                          %>%
                no_identificado, population)
 
 # 02.7 Estimate mortality rate -------------------------------------------------
-df_final <- df_homicides_daily_clean %>% 
-        mutate(mort_rate = round((homicidios/population)*100000, 2)) 
 
+df_final <- df_homicides_daily_clean                                    %>% 
+        mutate(mort_rate = round((homicidios/population)*100000, 2))    %>% 
+        group_by(state)                                                 %>% 
+        unique(by = c("fecha"))                                         %>%
+        ungroup()     
+        
 
 # 03. Check consistency of data ------------------------------------------------
 
@@ -198,7 +202,8 @@ sum(df_final$no_identificado)                                   # Final df
 df_gender <- df_final %>% 
         mutate(suma = hombre + mujer + no_identificado, 
                 diff = case_when(homicidios == suma ~ 0, 
-                                 homicidios == suma ~ 1))
+                                 homicidios == suma ~ 1)) %>% 
+        group_by(entidad, state) 
 
 # Compute the number of observations where reported and estimated total homicides 
 # mismatch. 

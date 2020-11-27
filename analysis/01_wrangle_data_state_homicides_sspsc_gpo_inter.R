@@ -128,6 +128,9 @@ df_homicides_state <- df_homicides_gpo_unique_dates             %>%
 
 df_homicides_state_daily <- df_homicides_state                          %>% 
         mutate(mort_rate = (homicidios*100000/population))              %>%
+        group_by(state)                                                 %>% 
+        unique(by = c("fecha"))                                         %>% 
+        ungroup()                                                       %>% 
         select(entidad, state, año, fecha, homicidios, population, mort_rate) 
 
 

@@ -1,6 +1,5 @@
 ##******************************************************************************
-## Script Name: Wrangle homicide data from sspc fuentes abiertas at state-level
-## Purpose:         
+## Script Name: Wrangle homicide data from INEGI at state-level
 ## 
 ##
 ## Created:             2020-10-15 

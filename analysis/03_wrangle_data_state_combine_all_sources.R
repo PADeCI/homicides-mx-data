@@ -23,6 +23,9 @@ rm(list = ls())
 load("~/GitHub/homicides-mx-data/data/inegi/df_homicides_state_monthly_inegi_ocurrencia.Rdata")
 load("~/GitHub/homicides-mx-data/data/inegi/df_homicides_state_monthly_inegi_registro.Rdata")
 
+# State data by INEGI as in mortality data bases
+load("~/GitHub/homicides-mx-data/data/inegi/df_homicides_state_monthly_inegi_mortality.RData")
+
 
 # State data by SSCP interinstitutional group
 load("~/GitHub/homicides-mx-data/data/gpo_interinstitucional/df_homicides_state_monthly_sspc_gpointerinstitucional.Rdata")
@@ -32,20 +35,26 @@ load("~/GitHub/homicides-mx-data/data/fuentes_abiertas/df_homicides_state_monthl
 
 # 02. Data wrangling  ----------------------------------------------------------
 # Reestimate mortality rate and create label for each source 
-df_inegi_ocurr <- df_homicides_state_monthly_inegi_ocurrencia                 %>% 
+df_inegi_ocurr <- df_homicides_state_monthly_inegi_ocurrencia           %>% 
         mutate(mort_rate = round(homicidios*100/population, 2), 
-                source = "INEGI_OCURRENCE")                              %>% 
+                source = "INEGI_OCURRENCE")                             %>% 
         mutate(año = as.factor(año), year = as.factor(year))            %>% 
         select(source, entidad, state,  año, year, mes, month, population,
                 homicidios, mort_rate)
 
-df_inegi_regis <- df_homicides_state_monthly_inegi_registro                   %>% 
+df_inegi_regis <- df_homicides_state_monthly_inegi_registro             %>% 
         mutate(mort_rate = round(homicidios*100/population, 2), 
                 source = "INEGI_REGISTER")                              %>% 
         mutate(año = as.factor(año), year = as.factor(year))            %>% 
         select(source, entidad, state,  año, year, mes, month, population,
                 homicidios, mort_rate)
 
+df_inegi_ocurr_s2 <- df_homicides_state_monthly_inegi_mortality         %>% 
+        mutate(mort_rate = round(homicidios*100/population, 2), 
+                source = "INEGI_OCURRENCE_S2")                          %>% 
+        mutate(año = as.factor(año), year = as.factor(year))            %>% 
+        select(source, entidad, state,  año, year, mes, month, population,
+                homicidios, mort_rate)
 
 df_inter <- df_homicides_state_monthly_sspc_gpointerinstitucional       %>% 
         mutate(mort_rate = round(homicidios*100/population, 2), 
@@ -63,7 +72,8 @@ df_open  <- df_homicides_state_monthly_sspc_fuentesabiertas             %>%
 
 # Combine all sources in long format 
 df_combined_long <- df_inegi_regis      %>% 
-        bind_rows(df_inegi_ocurr)       %>% 
+        bind_rows(df_inegi_ocurr)       %>%
+        bind_rows(df_inegi_ocurr_s2)    %>%
         bind_rows(df_inter)             %>% 
         bind_rows(df_open)              %>% 
         mutate(entidad = as.factor(entidad), state = as.factor(state))  
@@ -71,27 +81,46 @@ df_combined_long <- df_inegi_regis      %>%
         
 # Combine all sources in wide format 
 df_combined_wide <- df_inegi_regis                                           %>%
+        # Remove source column 
         select(-source)                                                      %>% 
-        rename(homicidios_inegi_register = homicidios, mort_rate_inegi_register = mort_rate)   %>% 
-        full_join(df_inegi_ocurr, by = c("entidad", "state", "population", "año", "year", "mes", "month")) %>% 
+        # Rename total and rate homicide variables
+        rename(homicidios_inegi_register = homicidios, 
+                mort_rate_inegi_register = mort_rate)   %>% 
+        # Add data from  INEGI (as ocurrence date in homicide data)
+        full_join(df_inegi_ocurr, by = c("entidad", "state", "population", 
+                                        "año", "year", "mes", "month")) %>% 
         select(-source) %>% 
-        rename(homicidios_inegi_ocurrence = homicidios, mort_rate_inegi_ocurrence = mort_rate) %>% 
+        rename(homicidios_inegi_ocurrence = homicidios, 
+                mort_rate_inegi_ocurrence = mort_rate) %>% 
+        # Add data from  INEGI (as ocurrence date in mortality data)
+        full_join(df_inegi_ocurr_s2, by = c("entidad", "state", "population", "año", 
+                "year", "mes", "month")) %>% 
+        select(-source) %>% 
+        rename(homicidios_inegi_ocurrence_s2 = homicidios, 
+                mort_rate_inegi_ocurrence_s2 = mort_rate) 
+        # Add data from SSCP (interinstitutional group)
         full_join(df_inter, by = c("entidad", "state", "population", "año", "year", 
                 "mes", "month"))                                             %>% 
         select(-source)                                                      %>% 
-        rename(homicidios_sscp_gpo = homicidios, mort_rate_sspc_gpo = mort_rate) %>% 
+        rename(homicidios_sscp_gpo = homicidios, 
+                mort_rate_sspc_gpo = mort_rate) %>% 
+        # Add data from SSCP (news papers) 
         full_join(df_open, by = c("entidad", "state", "population", "año", "year", 
-                "mes", "month"))                                             %>% 
+        "mes", "month"))                                             %>% 
         select(-source)                                                      %>% 
-        rename(homicidios_sscp_fa = homicidios, mort_rate_sscp_fa = mort_rate) %>%
+        rename(homicidios_sscp_fa = homicidios, 
+                mort_rate_sscp_fa = mort_rate) %>%
         mutate(entidad = as.factor(entidad), state = as.factor(state))       %>% 
+        # Select variables 
         select(entidad, state, año, year, mes, month, population, 
                 homicidios_inegi_register,  
-                homicidios_inegi_ocurrence, 
+                homicidios_inegi_ocurrence,
+                homicidios_inegi_ocurrence_s2, 
                 homicidios_sscp_gpo, 
                 homicidios_sscp_fa, 
                 mort_rate_inegi_register, 
                 mort_rate_inegi_ocurrence,
+                mort_rate_inegi_ocurrence_s2,
                 mort_rate_sspc_gpo, 
                 mort_rate_sscp_fa)
 
