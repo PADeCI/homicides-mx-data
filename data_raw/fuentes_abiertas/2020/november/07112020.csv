@@ -1,0 +1,55 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2020-11-07
+Baja California,Tijuana,4.0,3.0,0.0,1.0,2020-11-07
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-11-07
+Ciudad de México,Azcapotzalco,1.0,1.0,0.0,0.0,2020-11-07
+Ciudad de México,"Gustavo A. 
+Madero",1.0,1.0,0.0,0.0,2020-11-07
+Coahuila,Piedras Negras,1.0,1.0,0.0,0.0,2020-11-07
+Colima,Colima,1.0,0.0,1.0,0.0,2020-11-07
+Guanajuato,Acámbaro,1.0,0.0,1.0,0.0,2020-11-07
+Guanajuato,Celaya,4.0,4.0,0.0,0.0,2020-11-07
+Guanajuato,León,1.0,1.0,0.0,0.0,2020-11-07
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2020-11-07
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2020-11-07
+Guanajuato,"San Luis de la 
+Paz",4.0,4.0,0.0,0.0,2020-11-07
+Guerrero,"Acapulco de 
+Juárez",1.0,1.0,0.0,0.0,2020-11-07
+Guerrero,"Chilpancingo de 
+los Bravo",1.0,1.0,0.0,0.0,2020-11-07
+Hidalgo,Tlahuelilpan,1.0,1.0,0.0,0.0,2020-11-07
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-11-07
+Michoacán,Apatzingán,2.0,2.0,0.0,0.0,2020-11-07
+Michoacán,Tangamandapio,2.0,2.0,0.0,0.0,2020-11-07
+Michoacán,Zacapu,1.0,0.0,1.0,0.0,2020-11-07
+Morelos,Amacuzac,1.0,1.0,0.0,0.0,2020-11-07
+Morelos,Coatlán del Río,1.0,1.0,0.0,0.0,2020-11-07
+Morelos,"Tlaltizapán de 
+Zapata",1.0,1.0,0.0,0.0,2020-11-07
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2020-11-07
+Estado de México,Villa Victoria,1.0,1.0,0.0,0.0,2020-11-07
+Nuevo León,Gral. Escobedo,1.0,1.0,0.0,0.0,2020-11-07
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2020-11-07
+Nuevo León,Santa Catarina,1.0,1.0,0.0,0.0,2020-11-07
+Oaxaca,"Santo Domingo 
+Zanatepec",1.0,1.0,0.0,0.0,2020-11-07
+Puebla,Atlixco,3.0,2.0,1.0,0.0,2020-11-07
+Puebla,Calpan,1.0,1.0,0.0,0.0,2020-11-07
+Puebla,Huejotzingo,1.0,1.0,0.0,0.0,2020-11-07
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-11-07
+Quintana Roo,Solidaridad,1.0,1.0,0.0,0.0,2020-11-07
+San Luis Potosí,"Soledad de 
+Graciano 
+Sánchez",1.0,1.0,0.0,0.0,2020-11-07
+Sinaloa,Ahome,1.0,0.0,0.0,1.0,2020-11-07
+Sinaloa,Choix,1.0,1.0,0.0,0.0,2020-11-07
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2020-11-07
+Sonora,Cajeme,3.0,2.0,0.0,1.0,2020-11-07
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2020-11-07
+Tabasco,Centro,1.0,0.0,1.0,0.0,2020-11-07
+Veracruz,"Camerino Z. 
+Mendoza",1.0,1.0,0.0,0.0,2020-11-07
+Veracruz,Tihuatlán,1.0,1.0,0.0,0.0,2020-11-07
+Zacatecas,Fresnillo,2.0,2.0,0.0,0.0,2020-11-07
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2020-11-07

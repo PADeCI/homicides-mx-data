@@ -1,0 +1,75 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2020-11-10
+Baja California,Tijuana,3.0,3.0,0.0,0.0,2020-11-10
+Chihuahua,Juárez,1.0,0.0,1.0,0.0,2020-11-10
+Ciudad de México,"Gustavo A. 
+Madero",2.0,1.0,1.0,0.0,2020-11-10
+Ciudad de México,Tlalpan,1.0,0.0,1.0,0.0,2020-11-10
+Coahuila,Acuña,1.0,0.0,1.0,0.0,2020-11-10
+Coahuila,Monclova,1.0,1.0,0.0,0.0,2020-11-10
+Colima,Tecomán,3.0,0.0,1.0,2.0,2020-11-10
+Guanajuato,Celaya,4.0,3.0,0.0,1.0,2020-11-10
+Guanajuato,Cortázar,1.0,1.0,0.0,0.0,2020-11-10
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2020-11-10
+Guanajuato,Jerécuaro,1.0,1.0,0.0,0.0,2020-11-10
+Guanajuato,León,1.0,1.0,0.0,0.0,2020-11-10
+Guanajuato,Moroleón,1.0,1.0,0.0,0.0,2020-11-10
+Guanajuato,Salvatierra,2.0,2.0,0.0,0.0,2020-11-10
+Guanajuato,"Silao de la 
+Victoria",1.0,0.0,1.0,0.0,2020-11-10
+Guanajuato,"Valle de 
+Santiago",2.0,2.0,0.0,0.0,2020-11-10
+Guerrero,"Acapulco de 
+Juárez",2.0,2.0,0.0,0.0,2020-11-10
+Guerrero,"Ayutla de los 
+Libres",2.0,2.0,0.0,0.0,2020-11-10
+Guerrero,"Chilpancingo 
+de los Bravo",1.0,1.0,0.0,0.0,2020-11-10
+Guerrero,"Iguala de la 
+Independencia",1.0,1.0,0.0,0.0,2020-11-10
+Guerrero,Igualapa,1.0,1.0,0.0,0.0,2020-11-10
+Guerrero,Marquelia,1.0,1.0,0.0,0.0,2020-11-10
+Jalisco,Guadalajara,3.0,3.0,0.0,0.0,2020-11-10
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,1.0,0.0,0.0,2020-11-10
+Michoacán,Chilchota,1.0,1.0,0.0,0.0,2020-11-10
+Michoacán,Cotija,1.0,1.0,0.0,0.0,2020-11-10
+Michoacán,Tingüindín,1.0,1.0,0.0,0.0,2020-11-10
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-11-10
+Michoacán,Zamora,3.0,3.0,0.0,0.0,2020-11-10
+Morelos,Amacuzac,1.0,1.0,0.0,0.0,2020-11-10
+Estado de México,La Paz,1.0,0.0,0.0,1.0,2020-11-10
+Estado de México,"Tenango del 
+Valle",1.0,1.0,0.0,0.0,2020-11-10
+Estado de México,Villa Victoria,4.0,4.0,0.0,0.0,2020-11-10
+Nuevo León,Gral. Terán,1.0,1.0,0.0,0.0,2020-11-10
+Nuevo León,Guadalupe,1.0,0.0,0.0,1.0,2020-11-10
+Oaxaca,Monjas,1.0,1.0,0.0,0.0,2020-11-10
+Oaxaca,"San Antonio 
+de la Cal",1.0,1.0,0.0,0.0,2020-11-10
+Puebla,Puebla,1.0,1.0,0.0,0.0,2020-11-10
+Puebla,Tehuacán,1.0,1.0,0.0,0.0,2020-11-10
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-11-10
+Quintana Roo,"Othón P. 
+Blanco",1.0,0.0,1.0,0.0,2020-11-10
+Quintana Roo,Solidaridad,1.0,0.0,0.0,1.0,2020-11-10
+Quintana Roo,Tulum,1.0,1.0,0.0,0.0,2020-11-10
+San Luis Potosí,"Soledad de 
+Graciano 
+Sánchez",1.0,1.0,0.0,0.0,2020-11-10
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-11-10
+Sinaloa,Guasave,1.0,1.0,0.0,0.0,2020-11-10
+Sinaloa,Navolato,1.0,1.0,0.0,0.0,2020-11-10
+Sonora,Hermosillo,1.0,0.0,0.0,1.0,2020-11-10
+Tamaulipas,Hermosillo,1.0,1.0,0.0,0.0,2020-11-10
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2020-11-10
+Veracruz,José Azueta,2.0,2.0,0.0,0.0,2020-11-10
+Veracruz,"Juan 
+Rodríguez 
+Clara",1.0,1.0,0.0,0.0,2020-11-10
+Veracruz,Omealca,1.0,1.0,0.0,0.0,2020-11-10
+Veracruz,Río Blanco,1.0,1.0,0.0,0.0,2020-11-10
+Veracruz,Tezonapa,1.0,1.0,0.0,0.0,2020-11-10
+Zacatecas,"General 
+Enrique 
+Estrada",1.0,1.0,0.0,0.0,2020-11-10

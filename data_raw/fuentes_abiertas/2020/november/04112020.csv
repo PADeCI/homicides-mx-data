@@ -1,0 +1,44 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2020-11-04
+Baja California,Tijuana,4.0,3.0,0.0,1.0,2020-11-04
+Chihuahua,Cuauhtémoc,3.0,3.0,0.0,0.0,2020-11-04
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2020-11-04
+Ciudad de México,Cuauhtémoc,3.0,2.0,1.0,0.0,2020-11-04
+Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2020-11-04
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2020-11-04
+Colima,Tecomán,1.0,1.0,0.0,0.0,2020-11-04
+Guanajuato,León,2.0,1.0,1.0,0.0,2020-11-04
+Guanajuato,Salvatierra,5.0,0.0,0.0,5.0,2020-11-04
+Guanajuato,Villagrán,1.0,1.0,0.0,0.0,2020-11-04
+Guanajuato,Yuriria,3.0,3.0,0.0,0.0,2020-11-04
+Jalisco,Guadalajara,2.0,0.0,2.0,0.0,2020-11-04
+Jalisco,Puerto Vallarta,1.0,1.0,0.0,0.0,2020-11-04
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2020-11-04
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-11-04
+Michoacán,Apatzingán,1.0,0.0,1.0,0.0,2020-11-04
+Michoacán,Morelia,3.0,3.0,0.0,0.0,2020-11-04
+Michoacán,Tangamandapio,1.0,1.0,0.0,0.0,2020-11-04
+Michoacán,Tocumbo,1.0,1.0,0.0,0.0,2020-11-04
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2020-11-04
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2020-11-04
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2020-11-04
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2020-11-04
+Morelos,Miacatlán,1.0,0.0,0.0,1.0,2020-11-04
+Estado de México,Chalco,2.0,2.0,0.0,0.0,2020-11-04
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2020-11-04
+Estado de México,Temamatla,1.0,1.0,0.0,0.0,2020-11-04
+Nuevo León,Monterrey,2.0,2.0,0.0,0.0,2020-11-04
+Puebla,Tilapa,1.0,1.0,0.0,0.0,2020-11-04
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2020-11-04
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2020-11-04
+Quintana Roo,Tulum,1.0,0.0,0.0,1.0,2020-11-04
+San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2020-11-04
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2020-11-04
+Sinaloa,Choix,2.0,0.0,0.0,2.0,2020-11-04
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2020-11-04
+Sonora,Cajeme,1.0,0.0,0.0,1.0,2020-11-04
+Tamaulipas,Reynosa,1.0,0.0,0.0,1.0,2020-11-04
+Veracruz,Lerdo de Tejada,2.0,2.0,0.0,0.0,2020-11-04
+Veracruz,"Álamo 
+Temapache",1.0,1.0,0.0,0.0,2020-11-04
+Zacatecas,Pánuco,1.0,1.0,0.0,0.0,2020-11-04
