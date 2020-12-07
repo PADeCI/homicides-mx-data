@@ -33,6 +33,7 @@ df_wide <- df_homicides_state_month_all_sources_wide
 # Set vectors 
 v_month_abv <- c("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", 
         "Sep", "Oct", "Nov", "Dec", "Unk")
+
 # Define factors 
 df_long <- df_homicides_state_month_all_sources_long                    %>% 
         mutate(month_year = as.factor(paste0(str_sub(month, 1, 3), "-",
@@ -50,6 +51,7 @@ df_long <- df_homicides_state_month_all_sources_long                    %>%
         mutate(month_abv = str_sub(month, 1, 3), 
                 month_abv = factor(month_abv, levels = c(v_month_abv)))
 
+ 
 
 save(df_long, file = "~/GitHub/homicides-mx-data/data/df_homicides_long.RData")
 
@@ -74,7 +76,15 @@ df_gto_2019 <- df_long %>%
 df_national_2020 <- df_long %>% 
         filter(month != "Total", state == "National", 
                 #source != "SSCP (Inter. Group)", 
-                year == "2020")
+                year == "2020") %>% 
+        mutate(homicidios = case_when(month_abv == "Jan" & source == "SSCP (Inter. Group)" ~ homicidios/2, 
+                                      month_abv == "Aug" & source == "SSCP (Newspapers)" ~ homicidios/2, 
+                                      month_abv == month_abv  ~ homicidios)) %>% 
+        mutate(mort_rate = case_when(month_abv == "Jan" & source == "SSCP (Inter. Group)" ~ mort_rate/2, 
+                month_abv == "Aug" & source == "SSCP (Newspapers)" ~ mort_rate/2, 
+                month_abv == month_abv  ~ mort_rate))
+
+        
 df_cdmx_2020 <- df_long %>% 
         filter(month != "Total", state == "Mexico City", 
                 #source != "SSCP (Inter. Group)", 
@@ -114,9 +124,10 @@ df_long_short_2019_total <- df_long_short_2019 %>%
 # 03. Create graphs  -----------------------------------------------------------
 # 03.1 Define useful vectors  --------------------------------------------------
 
-v_caption_SSPC  <- "Source: Own elaboration with data from INEGI and SSPC, retrieved from:\nhttp://www.informeseguridad.cns.gob.mx/ and https://www.inegi.org.mx/programas/mortalidad/?ps=microdatos"
+v_caption_SSPC  <- "Source: Own elaboration with data from INEGI and SSPC, retrieved from:\nhttp://www.informeseguridad.cns.gob.mx/ and 
+https://www.inegi.org.mx/programas/mortalidad/?ps=microdatos"
 
-v_colors        <- c("#D77A61", "#FFC857", "#9DB4C0", "#650D1B", "#223843") 
+v_colors <- c("#D77A61", "#FFC857", "#9DB4C0", "#650D1B", "#223843") 
 v_colors <- c("#264653", "#2A9D8F", "#E9C46A", "#F4A261", "#E76F51")
 v_colors <- c("#219EBC", "#023047", "#FFB703", "#FB8500", "#8ECAE6")
 
@@ -145,6 +156,8 @@ ggsave(file = "figs/graphs/all_sources/g_compare_national_total_2019_bars.pdf",
 ggplot(df_long_short_2019_total, 
         aes(x = total, y = homicides, fill = source)) +
         geom_col(position = "dodge") +
+        # geom_text(aes(label = homicides),
+        #         position = position_dodge(width = 1)) +
         theme_classic() +
         theme(axis.title.x = element_blank(), 
                 axis.text.x = element_blank(), 
@@ -155,7 +168,7 @@ ggplot(df_long_short_2019_total,
                 y = "Homicides", 
                 x = "", 
                 fill = "Source",
-                caption = v_caption_SSPC) 
+                caption = v_caption_SSPC)
 
 ggsave(file = "figs/graphs/all_sources/g_compare_national_total_2019_bars_3s.pdf", 
         width = 7, height = 4)
@@ -176,7 +189,7 @@ g_national_2019 <- ggplot(df_national_2019,
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
         theme(axis.text.x = element_text(angle = 0), 
-                plot.caption = element_text(hjust = 0.5)) 
+                plot.caption = element_text(hjust = 0)) 
 
 g_national_2019 + geom_col(position = "dodge", aes(fill = source))
 ggsave(file = "figs/graphs/all_sources/g_compare_national_2019_bars.pdf", 
@@ -204,7 +217,7 @@ g_national_2019_3s <- ggplot(df_long_short_2019,
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
         theme(axis.text.x = element_text(angle = 0), 
-                plot.caption = element_text(hjust = 0.5)) 
+                plot.caption = element_text(hjust = 0)) 
 
 g_national_2019_3s + geom_col(position = "dodge", aes(fill = source))
 
@@ -278,7 +291,7 @@ ggplot(df_national_2020,
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
         theme(axis.text.x = element_text(angle = 0), 
-                plot.caption = element_text(hjust = 0.5)) 
+                plot.caption = element_text(hjust = 0)) 
 
 ggsave(file = "figs/graphs/all_sources/g_compare_national_2020.pdf", 
         width = 7, height = 4)
@@ -339,7 +352,7 @@ ggplot(df_national_2019,
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
         theme(axis.text.x = element_text(angle = 0), 
-                plot.caption = element_text(hjust = 0.5)) 
+                plot.caption = element_text(hjust = 0)) 
 ggsave(file = "figs/graphs/all_sources/g_compare_mortrate_national_2019.pdf", 
         width = 7, height = 4)
 
@@ -359,7 +372,7 @@ ggplot(df_long_short_2019,
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
         theme(axis.text.x = element_text(angle = 0), 
-                plot.caption = element_text(hjust = 0.5)) 
+                plot.caption = element_text(hjust = 0)) 
 ggsave(file = "figs/graphs/all_sources/g_compare_mortrate_national_2019_3s.pdf", 
         width = 7, height = 4)
 
@@ -380,7 +393,7 @@ ggplot(df_national_2020,
         scale_fill_manual(values = v_colors) +
         scale_color_manual(values=v_colors) +
         theme(axis.text.x = element_text(angle = 0), 
-                plot.caption = element_text(hjust = 0.5)) 
+                plot.caption = element_text(hjust = 0)) 
 ggsave(file = "figs/graphs/all_sources/g_compare_mortrate_national_2020.pdf", 
         width = 7, height = 4)
 

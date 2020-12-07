@@ -85,31 +85,31 @@ df_combined_wide <- df_inegi_regis                                           %>%
         select(-source)                                                      %>% 
         # Rename total and rate homicide variables
         rename(homicidios_inegi_register = homicidios, 
-                mort_rate_inegi_register = mort_rate)   %>% 
+                mort_rate_inegi_register = mort_rate)                        %>% 
         # Add data from  INEGI (as ocurrence date in homicide data)
         full_join(df_inegi_ocurr, by = c("entidad", "state", "population", 
-                                        "año", "year", "mes", "month")) %>% 
-        select(-source) %>% 
-        rename(homicidios_inegi_ocurrence = homicidios, 
-                mort_rate_inegi_ocurrence = mort_rate) %>% 
+                                        "año", "year", "mes", "month"))      %>% 
+        select(-source)                                                      %>% 
+        rename(homicidios_inegi_ocurrence = homicidios,      
+                mort_rate_inegi_ocurrence = mort_rate)                       %>% 
         # Add data from  INEGI (as ocurrence date in mortality data)
         full_join(df_inegi_ocurr_s2, by = c("entidad", "state", "population", "año", 
-                "year", "mes", "month")) %>% 
-        select(-source) %>% 
-        rename(homicidios_inegi_ocurrence_s2 = homicidios, 
-                mort_rate_inegi_ocurrence_s2 = mort_rate) 
+                "year", "mes", "month"))                                     %>% 
+        select(-source)                                                      %>% 
+        rename(homicidios_inegi_ocurrence_s2 = homicidios,      
+                mort_rate_inegi_ocurrence_s2 = mort_rate)                    %>% 
         # Add data from SSCP (interinstitutional group)
         full_join(df_inter, by = c("entidad", "state", "population", "año", "year", 
                 "mes", "month"))                                             %>% 
         select(-source)                                                      %>% 
         rename(homicidios_sscp_gpo = homicidios, 
-                mort_rate_sspc_gpo = mort_rate) %>% 
+                mort_rate_sspc_gpo = mort_rate)                              %>% 
         # Add data from SSCP (news papers) 
         full_join(df_open, by = c("entidad", "state", "population", "año", "year", 
-        "mes", "month"))                                             %>% 
+        "mes", "month"))                                                     %>% 
         select(-source)                                                      %>% 
         rename(homicidios_sscp_fa = homicidios, 
-                mort_rate_sscp_fa = mort_rate) %>%
+                mort_rate_sscp_fa = mort_rate)                               %>%
         mutate(entidad = as.factor(entidad), state = as.factor(state))       %>% 
         # Select variables 
         select(entidad, state, año, year, mes, month, population, 

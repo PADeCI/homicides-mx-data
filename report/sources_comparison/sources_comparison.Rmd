@@ -3,8 +3,8 @@ title: __Homicides in Mexico (2019-2020)__
 subtitle: __Data comparison across sources __
 
 author: 
-- Fernando Alarid-Escudero, Ph.D., Yadira Peralta, Ph.D.
-- Regina Isabel Medina Rosales
+- Regina Isabel Medina Rosales, Mariana Consuelo Fernández Espinosa
+- Yadira Peralta, Ph.D., Fernando Alarid-Escudero, Ph.D.
 
 date: "`r format(Sys.time(), '%d/%m/%Y')`"
 
@@ -43,19 +43,18 @@ According to the Belisario Domínguez Institute (IBD), the organism in charge of
 
 
 ## National Institute of Statistics and Geography (INEGI)
-From all of this options, INEGI's data is considered the must reliable since they get information from the Health Ministry (Secretaría de Salud), the Civil Registry (Registro Civil) and the Prosecutors Office or Pubic Ministry (Minsterio Público). INEGI has a strong system that manages administrative registers from all these different souces.[@Belisario2016] The Institute also uses the criteria established by the World Health Organization (WHO), which requires that violent deaths must be classified as accidents, homicides or suicides; this means that INEGI reports a medical category that is equivalent to the legal category of _homicide_ (_homicidio doloso_ in spanish).[@Belisario2016] The certificates that come from the Health Ministry are then compared against information from the Civil Registry and Local Prosecutor's Offices. In this sense, for each certificate comming from the Health Ministry, there must be an death certificate in the Civil Registry and an open investigations from prosecutors.[@Belisario2016] 
+From all of this options, INEGI's data is considered the must reliable since they get information from the Health Ministry (Secretaría de Salud), the Civil Registry (Registro Civil) and the Prosecutors Office or Pubic Ministry (Minsterio Público). INEGI has a strong system that manages administrative registers from all these different souces.[@Belisario2016] The Institute also uses the criteria established by the World Health Organization (WHO), which requires that violent deaths must be classified as accidents, homicides or suicides; this means that INEGI reports a medical category that is equivalent to the legal category of _homicide_ (_homicidio doloso_ in spanish).[@Belisario2016] The certificates that come from the Health Ministry are then compared against information from the Civil Registry and Local Prosecutor's Offices. In this sense, for each certificate comming from the Health Ministry, there must be a death certificate in the Civil Registry and an open investigation from prosecutors.[@Belisario2016] 
 
-All these controls guarantee both _quality_ and _confiability_ of INEGI's data, but entail a long process which generates a delay in the publication of the data. Regularly, official homicide data from INEGI is published more than a year after the end of the reported year. This means that data from 2020 has not been realeased. Nonetheless, a few weeks ago INEGI published data from 2019. The figures that were just reported are the one we use to compare them against data from the SSCP. 
+All these controls guarantee both _quality_ and _confiability_ of INEGI's data, but entail a long process which generates a delay in the publication of the data. Regularly, official homicide data from INEGI is published more than a year after the end of the reported year. This means that data from 2020 has not been realeased. Nonetheless, a few weeks ago INEGI published data from 2019. The figures that were just reported are the ones we use to compare them against data from the SSCP. 
 
-Finally, it is worth mentioning that INEGI differentiates the register date from the ocurrence date. Usually the number of homicides that are reported refer to the register date, but, since INEGI has a comprehensive archive that includes medical records, they also have information regarding the date when the homicide ocurred and not simply when it was registered. Our interest is focused on the date of ocurrence, which is the measurement that we include in the report.[@dataINEGI] 
-
+Finally, it is worth mentioning that INEGI differentiates the register date from the ocurrence date. Usually the number of homicides that are reported refer to the register date, but, since INEGI has a comprehensive archive that includes medical records, they also have information regarding the date when the homicide ocurred and not simply when it was registered. Our interest focuses on the date of ocurrence, which is the measurement that we include in the report.[@dataINEGI] 
 
 ## Secretariat of Security and Citizen Protection (SSCP)
 Preliminary data on homicides in Mexico is published by the Secretariat of Security and Citizen Protecion (SSCP). This source is considered _not trustworthy_ since, contrary to INEGI's practices, the methodology is not published. There have also been reports that this source tends to change historical time series of data.[@Belisario2016] In an effort to explain discrepancies in data, the experts have discusses whether this report refers to the number of open cases or the number of bodies that have been found. 
 
-Given the multiple problems of the SSCP data that have been identified, why should we use this source instead of INEGI. The main reason is that the SSCP published daily reports of the amount of homicies registered in the country whithin days of the register. This allows analysts and reaserchers to perform preliminary analysis on the recent behavior of the homicide, and other crimes, in the country when data from INEGI is not available. 
+Given the multiple problems of the SSCP data that have been identified, why should we use this source instead of INEGI? The main reason is that the SSCP published daily reports of the amount of homicies registered in the country whithin days of the register. This allows analysts and reaserchers to perform preliminary analysis on the recent behavior of the homicide, and other crimes, in the country when data from INEGI is not available. 
 
-The SSCP has two different sources to account for homicides. The first one corresponds to a interinstitutional and interdisciplinary group conformed by the military (SEDENA), the navy (SEMAR) and the Attorney General Office (FGR). The second one is an account of local newspapers that rerport homicides at the county level. We also include this two sources in the report.[@dataSSCP] 
+The SSCP has two different sources to account for homicides. The first one corresponds to an interinstitutional and interdisciplinary group conformed by the military (SEDENA), the navy (SEMAR) and the Attorney General Office (FGR). The second one is a synthesis of local newspapers that rerport homicides at the county level. We also include these two sources in the report.[@dataSSCP] 
 
 \newpage
 
@@ -82,8 +81,14 @@ df_national_2020 <- df_long %>%
                 source != "INEGI (Register)", 
                 #source != "SSCP (Inter. Group)", 
                 year == "2020") %>% 
+        mutate(homicidios = case_when(month_abv == "Jan" & source == "SSCP (Inter. Group)" ~ homicidios/2, 
+                                      month_abv == "Aug" & source == "SSCP (Newspapers)" ~ homicidios/2, 
+                                      month_abv == month_abv  ~ homicidios)) %>% 
+        mutate(mort_rate = case_when(month_abv == "Jan" & source == "SSCP (Inter. Group)" ~ mort_rate/2, 
+                month_abv == "Aug" & source == "SSCP (Newspapers)" ~ mort_rate/2, 
+                month_abv == month_abv  ~ mort_rate)) %>% 
                 rename(homicides = homicidios) %>% 
-                dplyr::select(source, year, month, homicides, mort_rate)
+                dplyr::select(source, year, month, homicides, mort_rate) 
 
 
 # Create numbers by year 
@@ -109,14 +114,15 @@ df_national_2020_total <- df_national_2020 %>%
 
 
 
-## National level homicides in 2019
-As displayed in the following tables and figures, INEGI tends to report higher level of homicides. This is a natural behavior since the SSCP reports homicides on a daily basis almost immediately, while INEGI has more time to register all kind of data. The higest number of homicides is the one reported by INEGI according to the month of reporting, this makes sense since ocurrence leaves out those deaths that do not have an identifiable date of death. The lowest number comes from the interinstitutional group of the SSCP, but we need to mention that there are no register for the first three months of 2019. 
+## National level of homicides in 2019
+As displayed in the following tables and figures, INEGI tends to report higher level of homicides. This is a natural behavior since the SSCP reports homicides on a daily basis almost immediately, while INEGI has more time to register all kind of data. The higest number of homicides is the one reported by INEGI according to the month of reporting, this makes sense since the SSCP data is preliminary and quickly published, which makes it prone to miss cases. The lowest comes from the newspapers register of the SSCP. 
 
 ```{r, echo = FALSE}
 df_national_2019_total_print <- df_national_2019_total %>% 
         select(-year) %>% 
         rename("Source" = source, "Total homicides reported in 2019" = homicides)
-pander(df_national_2019_total_print)
+#pander(df_national_2019_total_print)
+pander(pandoc.table(df_national_2019_total_print))
 ```
 
 ```{r, echo = FALSE, fig.align='center', fig.height=2}
@@ -125,7 +131,7 @@ include_graphics("../../figs/graphs/all_sources/g_compare_national_total_2019_ba
 
 \newpage 
 
-When we analyse the 2019 data by month, we can appreciate the same tendencies with more detail. Each pair of measurements, from INEGI and SSCP, are closer to each other than to any of the sources from the other institution. In almost every month, except January, the INEGI report by date of register has the highest number. The sources from the SSCP, interinstitutional group and newspapers, tend to vary month to month as which one of them reports the higest numbers. 
+When we analyse the 2019 data by month, we can appreciate the same tendency with more detail. In almost every month, the INEGI report by date of ocurrence has the highest number of homicides. The sources from the SSCP, interinstitutional group and newspapers, tend to vary month to month as which one of them reports the higest numbers. 
 
 ```{r, echo = FALSE, fig.align='center'}
 include_graphics("../../figs/graphs/all_sources/g_compare_national_2019_bars_3s.pdf")
@@ -136,7 +142,9 @@ include_graphics("../../figs/graphs/all_sources/g_compare_national_2019_bars_3s.
 include_graphics("../../figs/graphs/all_sources/g_compare_national_2019_lines_3s.pdf")
 ```
 
-The following table show the number of homicides reported by the four sources for each month of the 2019. 
+\newpage 
+
+The next table shows the number of homicides reporteded by the sources for each month of the 2019. 
 
 ```{r, echo = FALSE}
 df_national_2019_print <- df_national_2019 %>% 
@@ -146,10 +154,12 @@ df_national_2019_print <- df_national_2019 %>%
 df_national_2019_wide <- df_national_2019_print %>% 
         select(-Rate) %>% 
         spread(Source, Homicides)
-pander(df_national_2019_wide, split.table = Inf)
+pander(pandoc.table(df_national_2019_wide), split.table = Inf)
+
 ```
 
-The same analysis can be performed using the homicide rate as measurement. Tendencies in the different sources are the same, but now we can estimate the range from the minimum homicide rate registered at 1.62 homicides per 100,000 people in April according to the SSCP interinstitutional group and the maximum at 2.48 in August according to INEGI report by date of register. 
+
+The same analysis could be performed using the homicide rate.
 
 ```{r, echo = FALSE, fig.align='center'}
 include_graphics("../../figs/graphs/all_sources/g_compare_mortrate_national_2019_3s.pdf")
@@ -165,24 +175,26 @@ df_national_2019_print <- df_national_2019 %>%
 df_national_2019_wide <- df_national_2019_print %>% 
         select(-Homicides) %>% 
         spread(Source, Rate)
-pander(df_national_2019_wide, split.table = Inf)
+pander(pandoc.table(df_national_2019_wide), split.table = Inf)
 ```
 
 
-## National level homicides in 2020
-As mentioned at the beggining of the document, INEGI has not published any figures for 2020. That is why we can only compare the two sources from the SSCP.As show in the figure, each month the Interinstitutional group consistently reports highest numbers than the newspapers. In the months from January to September, the Interinstitutional group has reported almost 2,000 more deaths in the present year. 
+## National level of homicides in 2020
+As mentioned at the beggining of the document, INEGI has not published any figures for 2020. As shown in the figure, each month the Interinstitutional group consistently reports hgiher number of homicides than the newspapers. In the months from January to September, the Interinstitutional group has reported almost 2,000 more deaths in the present year. 
 
 ```{r, echo = FALSE}
 df_national_2020_total_print <- df_national_2020_total %>% 
         select(-year) %>% 
         rename("Source" = source, "Total homicides reported in 2020" = homicides)
-pander(df_national_2020_total_print)
+pander(pandoc.table(df_national_2020_total_print))
 ```
+
 
 
 ```{r, echo = FALSE, fig.align='center'}
 include_graphics("../../figs/graphs/all_sources/g_compare_national_2020.pdf")
 ```
+
 
 ```{r, echo = FALSE}
 df_national_2020_print <- df_national_2020 %>% 
@@ -192,10 +204,11 @@ df_national_2020_print <- df_national_2020 %>%
 df_national_2020_wide <- df_national_2020_print %>% 
         select(-Rate) %>% 
         spread(Source, Homicides)
-pander(df_national_2020_wide, split.table = Inf)
+pander(pandoc.table(df_national_2020_wide), split.table = Inf)
 ```
 
-Finally, we replicate the analysis for 2020 with data from the SSCP using homicide rate as the unit of measurement. 
+
+Finally, we replicate the analysis for 2020 with data from the SSCP using homicide rate as the unit of analysis 
 
 ```{r, echo = FALSE, fig.align='center'}
 include_graphics("../../figs/graphs/all_sources/g_compare_mortrate_national_2020.pdf")
@@ -204,12 +217,13 @@ include_graphics("../../figs/graphs/all_sources/g_compare_mortrate_national_2020
 ```{r, echo = FALSE}
 df_national_2020_print <- df_national_2020 %>% 
         select(-year) %>% 
+        mutate(homicides = round(homicides, 2)) %>% 
         rename("Source" = "source", "Month" = "month", "Homicides" = "homicides", "Rate" = "mort_rate") 
 
 df_national_2020_wide <- df_national_2020_print %>% 
         select(-Homicides) %>% 
         spread(Source, Rate)
-pander(df_national_2020_wide, split.table = Inf)
+pander(pandoc.table(df_national_2020_wide), split.table = Inf)
 ```
 
 \newpage

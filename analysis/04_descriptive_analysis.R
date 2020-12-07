@@ -576,4 +576,4 @@ ggsave(paste_out("tab_nation_month_combined.jpg"),
         plot = t.10, width = 7.2, height = 5.8)
 
 
-eepr::beep(3)
+beepr::beep(3)

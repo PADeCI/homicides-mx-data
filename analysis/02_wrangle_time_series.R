@@ -278,31 +278,31 @@ sum(is.na(df_month_state$year))
 # 04. Save final data sets -----------------------------------------------------
 
 ## Rename data ##
-df_homicides_county_daily_sspc_fuentesabiertas <- df_dates_county
-df_homicides_county_weekly_sspc_fuentesabiertas <- df_week_county
+df_homicides_county_daily_sspc_fuentesabiertas   <- df_dates_county
+df_homicides_county_weekly_sspc_fuentesabiertas  <- df_week_county
 df_homicides_county_monthly_sspc_fuentesabiertas <- df_month_county
 
-df_homicides_state_daily_sspc_fuentesabiertas <- df_dates_state
-df_homicides_state_weekly_sspc_fuentesabiertas <- df_week_state
+df_homicides_state_daily_sspc_fuentesabiertas   <- df_dates_state
+df_homicides_state_weekly_sspc_fuentesabiertas  <- df_week_state
 df_homicides_state_monthly_sspc_fuentesabiertas <- df_month_state
 
-df_homicides_state_daily_sspc_gpointerinstitucional <- df_dates_state_gpo
-df_homicides_state_weekly_sspc_gpointerinstitucional <- df_week_state_gpo
+df_homicides_state_daily_sspc_gpointerinstitucional   <- df_dates_state_gpo
+df_homicides_state_weekly_sspc_gpointerinstitucional  <- df_week_state_gpo
 df_homicides_state_monthly_sspc_gpointerinstitucional <- df_month_state_gpo
 
 ## Save data ##
 # County level from open sources
-save(df_homicides_county_daily_sspc_fuentesabiertas, file = "./data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
-save(df_homicides_county_weekly_sspc_fuentesabiertas, file = "./data/df_homicides_county_weekly_sspc_fuentesabiertas.RData")
+save(df_homicides_county_daily_sspc_fuentesabiertas,   file = "./data/fuentes_abiertas/df_homicides_county_daily_sspc_fuentesabiertas.RData")
+save(df_homicides_county_weekly_sspc_fuentesabiertas,  file = "./data/df_homicides_county_weekly_sspc_fuentesabiertas.RData")
 save(df_homicides_county_monthly_sspc_fuentesabiertas, file = "./data/fuentes_abiertas/df_homicides_county_monthly_sspc_fuentesabiertas.RData")
 
 # Sate level from open sources
-save(df_homicides_state_daily_sspc_fuentesabiertas, file = "./data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
-save(df_homicides_state_weekly_sspc_fuentesabiertas, file = "./data/fuentes_abiertas/df_homicides_state_weekly_sspc_fuentesabiertas.RData")
+save(df_homicides_state_daily_sspc_fuentesabiertas,   file = "./data/fuentes_abiertas/df_homicides_state_daily_sspc_fuentesabiertas.RData")
+save(df_homicides_state_weekly_sspc_fuentesabiertas,  file = "./data/fuentes_abiertas/df_homicides_state_weekly_sspc_fuentesabiertas.RData")
 save(df_homicides_state_monthly_sspc_fuentesabiertas, file = "./data/fuentes_abiertas/df_homicides_state_monthly_sspc_fuentesabiertas.RData")
 
 # State level from interinstitutional group
-save(df_homicides_state_daily_sspc_gpointerinstitucional, file = "./data/gpo_interinstitucional/df_homicides_state_daily_sspc_gpointerinstitucional.RData")
-save(df_homicides_state_weekly_sspc_gpointerinstitucional, file = "./data/gpo_interinstitucional/df_homicides_state_weekly_sspc_gpointerinstitucional.RData")
+save(df_homicides_state_daily_sspc_gpointerinstitucional,   file = "./data/gpo_interinstitucional/df_homicides_state_daily_sspc_gpointerinstitucional.RData")
+save(df_homicides_state_weekly_sspc_gpointerinstitucional,  file = "./data/gpo_interinstitucional/df_homicides_state_weekly_sspc_gpointerinstitucional.RData")
 save(df_homicides_state_monthly_sspc_gpointerinstitucional, file = "./data/gpo_interinstitucional/df_homicides_state_monthly_sspc_gpointerinstitucional.RData")
 

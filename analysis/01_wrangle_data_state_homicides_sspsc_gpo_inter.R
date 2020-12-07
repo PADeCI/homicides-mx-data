@@ -14,10 +14,12 @@
 # Load libraries
 library(tidyverse)
 library(dplyr)
-library(readr)
+library(readr)          # For importing cvs  files 
+library(readxl)         # For importing xlsx files 
 library(lubridate)
-library(repmis) # For exporting data from GitHub
+library(repmis)         # For exporting data from GitHub
 library(beepr)
+
 
 # Clean the workspace
 rm(list = ls()) 
@@ -33,9 +35,13 @@ load("~/GitHub/homicides-mx-data/data_raw/df_pop_county_2019_2020.Rdata")
 df_homicides <- read.csv("data_raw/gpo_interinstitucional/2019_2020/df_homicides_daily_2019_2020_gpointerinstitucional.csv", 
         encoding = "UTF-8")
 
+df_homicides_prev <- read_excel("data_raw/gpo_interinstitucional/2019/jan-feb-march_2019.xlsx")
+
+
 # 02. Data wrangling  ----------------------------------------------------------
 
 # 02.1 Relabel, filter,  group and select  -------------------------------------
+
 
 # Change variable names for compatibility, eliminate non-identified counties 
 df_pop <- df_pop_county_2019_2020                                       %>%
@@ -58,7 +64,7 @@ df_pop_state <- df_pop                                                  %>%
                                  entidad==entidad~state))
 
 # Rename homicide data frame
-df_homicides_gpo <- df_homicides                                        %>% 
+df_homicides_gpo_incomp <- df_homicides                                        %>% 
         rename("entidad" = Entidad, 
                 "homicidios" = Homicidios,
                 "fecha" = Fecha)                                        %>% 
@@ -66,26 +72,12 @@ df_homicides_gpo <- df_homicides                                        %>%
         mutate(entidad = as.character(entidad))                         %>% 
         group_by(fecha)                                                 %>% 
         bind_rows(summarise_all(., funs(if(is.numeric(.)) sum(.) else "Nacional"))) %>% 
-        ungroup() %>% 
-        mutate(id = 1:19034)
+        ungroup() 
 
-df_mis <- df_homicides_gpo %>% 
-        filter(is.na(homicidios)==T)
-
-df_compare <- df_homicides %>% 
-        rename("entidad" = Entidad, 
-                "homicidios" = Homicidios,
-                "fecha" = Fecha) %>% 
-        mutate(entidad = as.character(entidad)) %>% 
-        mutate(entidad = case_when(entidad == "Total" ~ "Nacional", 
-                entidad == entidad ~ entidad)) %>% 
-        mutate(id = 1:19034) %>% 
-        left_join(df_homicides_gpo, by = c("id", "entidad")) %>% 
-        mutate(equal = (homicidios.x == homicidios.y))
-
-df_mistakes <- df_compare %>% 
-        filter(is.na(equal)==T)
-        
+# Add missing dates from Jan 1st to March 3rd
+df_homicides_gpo <- df_homicides_prev                                   %>% 
+        mutate(fecha = as.factor(fecha))                                %>% 
+        bind_rows(df_homicides_gpo_incomp)
 
 # Check for duplicated dates: there must be as many observations per date as states (33)
 df_fechas <- as.data.frame(table(df_homicides_gpo$fecha)) 
@@ -155,3 +147,4 @@ df_homicides_state_daily_sspc_gpointerinstitucional <- df_homicides_state_daily
 
 # Save df
 save(df_homicides_state_daily_sspc_gpointerinstitucional, file = "data/gpo_interinstitucional/df_homicides_state_daily_sspc_gpointerinstitucional.RData")
+
