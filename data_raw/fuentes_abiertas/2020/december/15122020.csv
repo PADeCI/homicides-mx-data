@@ -1,0 +1,69 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Mexicali,2.0,1.0,0.0,1.0,2020-12-15
+Baja California,Tijuana,3.0,3.0,0.0,0.0,2020-12-15
+Baja California Sur,La Paz,1.0,1.0,0.0,0.0,2020-12-15
+Chiapas,Acacoyagua,1.0,1.0,0.0,0.0,2020-12-15
+Chiapas,Chamula,2.0,2.0,0.0,0.0,2020-12-15
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2020-12-15
+Chihuahua,Juárez,2.0,1.0,1.0,0.0,2020-12-15
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2020-12-15
+Guanajuato,Acámbaro,1.0,0.0,1.0,0.0,2020-12-15
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2020-12-15
+Guanajuato,Cortázar,1.0,1.0,0.0,0.0,2020-12-15
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2020-12-15
+Guanajuato,León,1.0,0.0,0.0,1.0,2020-12-15
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2020-12-15
+Guanajuato,Salvatierra,2.0,2.0,0.0,0.0,2020-12-15
+Guanajuato,"San Luis de la 
+Paz",1.0,1.0,0.0,0.0,2020-12-15
+Guanajuato,Villagrán,1.0,1.0,0.0,0.0,2020-12-15
+Guerrero,"Chilpancingo 
+de los Bravo",1.0,1.0,0.0,0.0,2020-12-15
+Hidalgo,"Santiago de 
+Anaya",1.0,1.0,0.0,0.0,2020-12-15
+Hidalgo,"Tepehuacán 
+de Guerrero",1.0,1.0,0.0,0.0,2020-12-15
+Hidalgo,"Tulancingo 
+de Bravo",1.0,1.0,0.0,0.0,2020-12-15
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2020-12-15
+Jalisco,"San Pedro 
+Tlaquepaque",1.0,1.0,0.0,0.0,2020-12-15
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2020-12-15
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2020-12-15
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2020-12-15
+Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2020-12-15
+Nuevo León,Dr. Coss,2.0,2.0,0.0,0.0,2020-12-15
+Nuevo León,García,1.0,1.0,0.0,0.0,2020-12-15
+Oaxaca,"San Juan 
+Bautista 
+Tuxtepec",1.0,0.0,1.0,0.0,2020-12-15
+Oaxaca,"San Pedro 
+Ixcatlán",1.0,0.0,0.0,1.0,2020-12-15
+Oaxaca,"San Pedro 
+Pochutla",1.0,1.0,0.0,0.0,2020-12-15
+Oaxaca,"Tlalixtac de 
+Cabrera",1.0,0.0,1.0,0.0,2020-12-15
+Puebla,"San Martín 
+Texmelucan",1.0,1.0,0.0,0.0,2020-12-15
+Puebla,"Tlacotepec 
+de Benito 
+Juárez",1.0,1.0,0.0,0.0,2020-12-15
+Querétaro,El Marqués,3.0,3.0,0.0,0.0,2020-12-15
+Querétaro,"San Juan del 
+Río",3.0,3.0,0.0,0.0,2020-12-15
+Quintana Roo,Isla Mujeres,1.0,1.0,0.0,0.0,2020-12-15
+San Luis Potosí,Rioverde,1.0,1.0,0.0,0.0,2020-12-15
+Sinaloa,Ahome,1.0,1.0,0.0,0.0,2020-12-15
+Sonora,Cajeme,3.0,2.0,1.0,0.0,2020-12-15
+Sonora,Nogales,2.0,2.0,0.0,0.0,2020-12-15
+Sonora,"San Luis Río 
+Colorado",1.0,1.0,0.0,0.0,2020-12-15
+Sonora,Tabasco (2)  Huimanguillo,2.0,2.0,0.0,0.0,2020-12-15
+Tamaulipas,Reynosa,1.0,0.0,0.0,1.0,2020-12-15
+Veracruz,Atzalan,1.0,1.0,0.0,0.0,2020-12-15
+Veracruz,Cuitláhuac,1.0,0.0,1.0,0.0,2020-12-15
+Veracruz,"Martínez de 
+la Torre",1.0,1.0,0.0,0.0,2020-12-15
+Veracruz,Nautla,1.0,1.0,0.0,0.0,2020-12-15
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2020-12-15
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2020-12-15
