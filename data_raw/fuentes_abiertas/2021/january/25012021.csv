@@ -1,0 +1,51 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1.0,0.0,1.0,0.0,2021-01-25
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2021-01-25
+Baja California,Tecate,1.0,1.0,0.0,0.0,2021-01-25
+Baja California,Tijuana,5.0,3.0,2.0,0.0,2021-01-25
+Chiapas,Tapachula,2.0,1.0,1.0,0.0,2021-01-25
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2021-01-25
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2021-01-25
+Colima,Manzanillo,2.0,0.0,0.0,2.0,2021-01-25
+Durango,Durango,1.0,1.0,0.0,0.0,2021-01-25
+Guanajuato,Apaseo El Alto,1.0,0.0,0.0,1.0,2021-01-25
+Guanajuato,Celaya,3.0,2.0,1.0,0.0,2021-01-25
+Guanajuato,León,2.0,1.0,1.0,0.0,2021-01-25
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2021-01-25
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2021-01-25
+Jalisco,Lagos De Moreno,2.0,1.0,0.0,1.0,2021-01-25
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2021-01-25
+Jalisco,Talpa De Allende,1.0,1.0,0.0,0.0,2021-01-25
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2021-01-25
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2021-01-25
+Michoacán,Coalcomán De Vázquez Pallares,2.0,2.0,0.0,0.0,2021-01-25
+Michoacán,Cotija,3.0,0.0,0.0,3.0,2021-01-25
+Michoacán,Tangancícuaro,1.0,1.0,0.0,0.0,2021-01-25
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2021-01-25
+Estado de México,Lerma,1.0,0.0,1.0,0.0,2021-01-25
+Estado de México,Naucalpan De Juárez,1.0,0.0,0.0,1.0,2021-01-25
+Estado de México,Tecámac,1.0,1.0,0.0,0.0,2021-01-25
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2021-01-25
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2021-01-25
+Estado de México,Xonacatlán,1.0,1.0,0.0,0.0,2021-01-25
+Estado de México,Zinacantepec,1.0,0.0,0.0,1.0,2021-01-25
+Puebla,Puebla,1.0,1.0,0.0,0.0,2021-01-25
+Puebla,Tilapa,1.0,1.0,0.0,0.0,2021-01-25
+Querétaro,Juárez,1.0,1.0,0.0,0.0,2021-01-25
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2021-01-25
+San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2021-01-25
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2021-01-25
+Sonora,Caborca,1.0,1.0,0.0,0.0,2021-01-25
+Sonora,Cajeme,2.0,2.0,0.0,0.0,2021-01-25
+Sonora,Hermosillo,2.0,2.0,0.0,0.0,2021-01-25
+Sonora,San Miguel De Horcasitas,1.0,0.0,0.0,1.0,2021-01-25
+Tabasco,Centro,1.0,0.0,0.0,1.0,2021-01-25
+Tabasco,Cárdenas,1.0,1.0,0.0,0.0,2021-01-25
+Tamaulipas,Río Bravo,4.0,4.0,0.0,0.0,2021-01-25
+Tlaxcala,Tlaxco,1.0,1.0,0.0,0.0,2021-01-25
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2021-01-25
+Veracruz,Papantla,1.0,1.0,0.0,0.0,2021-01-25
+Zacatecas,Fresnillo,4.0,4.0,0.0,0.0,2021-01-25
+Zacatecas,Jerez,1.0,1.0,0.0,0.0,2021-01-25
+Zacatecas,Mezquital Del Oro,1.0,1.0,0.0,0.0,2021-01-25
+Zacatecas,Zacatecas,3.0,3.0,0.0,0.0,2021-01-25

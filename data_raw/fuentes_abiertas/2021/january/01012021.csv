@@ -1,0 +1,42 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1,1.0,0.0,0.0,2021-01-01
+Baja California,Tijuana,3,2.0,0.0,1.0,2021-01-01
+Baja California Sur,Mulegé,1,1.0,0.0,0.0,2021-01-01
+Chihuahua,Juárez,2,2.0,0.0,0.0,2021-01-01
+Coahuila,Torreón,2,1.0,1.0,0.0,2021-01-01
+Colima,Manzanillo,1,1.0,0.0,0.0,2021-01-01
+Colima,Villa De Álvarez,1,0.0,1.0,0.0,2021-01-01
+Durango,Durango,1,1.0,0.0,0.0,2021-01-01
+Guanajuato,Salamanca,1,1.0,0.0,0.0,2021-01-01
+Guerrero,Atoyac De Álvarez,1,1.0,0.0,0.0,2021-01-01
+Guerrero,Copala,2,2.0,0.0,0.0,2021-01-01
+Hidalgo,Tezontepec De Aldama,1,1.0,0.0,0.0,2021-01-01
+Jalisco,Guadalajara,2,2.0,0.0,0.0,2021-01-01
+Jalisco,San Pedro Tlaquepaque,1,1.0,0.0,0.0,2021-01-01
+Jalisco,Sayula,1,1.0,0.0,0.0,2021-01-01
+Michoacán,Lázaro Cárdenas,2,2.0,0.0,0.0,2021-01-01
+Michoacán,Morelia,1,1.0,0.0,0.0,2021-01-01
+Michoacán,Zamora,2,2.0,0.0,0.0,2021-01-01
+Morelos,Jiutepec,3,2.0,1.0,0.0,2021-01-01
+Estado de México,Almoloya De Juárez,1,0.0,1.0,0.0,2021-01-01
+Estado de México,Apatzingán,1,1.0,0.0,0.0,2021-01-01
+Nuevo León,Pesquería,1,1.0,0.0,0.0,2021-01-01
+Oaxaca,Tlacolula De Matamoros,1,0.0,0.0,1.0,2021-01-01
+Puebla,Puebla,2,2.0,0.0,0.0,2021-01-01
+Puebla,Tlacotepec De Benito Juárez,1,1.0,0.0,0.0,2021-01-01
+Querétaro,Querétaro,2,2.0,0.0,0.0,2021-01-01
+Quintana Roo,Benito Juárez,1,1.0,0.0,0.0,2021-01-01
+San Luis Potosí,San Luis Potosí,1,1.0,0.0,0.0,2021-01-01
+Sinaloa,Badiraguato,1,1.0,0.0,0.0,2021-01-01
+Sinaloa,Culiacán,2,2.0,0.0,0.0,2021-01-01
+Sonora,Cajeme,2,2.0,0.0,0.0,2021-01-01
+Tabasco,Huimanguillo,1,1.0,0.0,0.0,2021-01-01
+Veracruz,Amatitlán,2,1.0,1.0,0.0,2021-01-01
+Veracruz,Camerino Z. Mendoza,1,0.0,1.0,0.0,2021-01-01
+Veracruz,Chocamán,1,1.0,0.0,0.0,2021-01-01
+Veracruz,Coatzacoalcos,1,1.0,0.0,0.0,2021-01-01
+Veracruz,Sayula De Alemán,1,0.0,1.0,0.0,2021-01-01
+Yucatán,Mérida,3,2.0,1.0,0.0,2021-01-01
+Zacatecas,Fresnillo,2,2.0,0.0,0.0,2021-01-01
+Zacatecas,Valparaíso,1,1.0,0.0,0.0,2021-01-01
+Zacatecas,Vetagrande,3,3.0,0.0,0.0,2021-01-01

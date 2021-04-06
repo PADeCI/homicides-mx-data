@@ -1,0 +1,45 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2021-03-03
+Baja California,Ensenada,1.0,0.0,1.0,0.0,2021-03-03
+Baja California,Tijuana,3.0,3.0,0.0,0.0,2021-03-03
+Chiapas,Villa Comaltitlán,1.0,1.0,0.0,0.0,2021-03-03
+Chihuahua,Juárez,5.0,3.0,2.0,0.0,2021-03-03
+Ciudad de México,Benito Juárez,1.0,0.0,1.0,0.0,2021-03-03
+Ciudad de México,Gustavo A. Madero,2.0,2.0,0.0,0.0,2021-03-03
+Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2021-03-03
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2021-03-03
+Guanajuato,Celaya,4.0,4.0,0.0,0.0,2021-03-03
+Guanajuato,León,3.0,3.0,0.0,0.0,2021-03-03
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2021-03-03
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2021-03-03
+Guerrero,Acapulco De Juárez,1.0,0.0,1.0,0.0,2021-03-03
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2021-03-03
+Hidalgo,Mineral De La Reforma,1.0,1.0,0.0,0.0,2021-03-03
+Jalisco,Guadalajara,2.0,1.0,0.0,1.0,2021-03-03
+Jalisco,Lagos De Moreno,1.0,1.0,0.0,0.0,2021-03-03
+Jalisco,Puerto Vallarta,1.0,1.0,0.0,0.0,2021-03-03
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2021-03-03
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2021-03-03
+Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2021-03-03
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2021-03-03
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2021-03-03
+Morelos,Tepoztlán,1.0,1.0,0.0,0.0,2021-03-03
+Estado de México,Nezahualcóyotl,1.0,0.0,1.0,0.0,2021-03-03
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2021-03-03
+Nayarit,Santiago Ixcuintla,1.0,0.0,1.0,0.0,2021-03-03
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2021-03-03
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2021-03-03
+Nuevo León,San Nicolás De Los Garza,1.0,1.0,0.0,0.0,2021-03-03
+Oaxaca,Fresnillo De Trujano,2.0,2.0,0.0,0.0,2021-03-03
+Puebla,Jolalpan,1.0,1.0,0.0,0.0,2021-03-03
+Puebla,Ocoyucan,1.0,0.0,1.0,0.0,2021-03-03
+Puebla,Tecamachalco,1.0,0.0,1.0,0.0,2021-03-03
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2021-03-03
+San Luis Potosí,San Luis Potosí,3.0,3.0,0.0,0.0,2021-03-03
+Sinaloa,Culiacán,4.0,4.0,0.0,0.0,2021-03-03
+Sonora,Cajeme,1.0,0.0,0.0,1.0,2021-03-03
+Sonora,Navojoa,1.0,0.0,1.0,0.0,2021-03-03
+Sonora,San Luis Río Colorado,2.0,2.0,0.0,0.0,2021-03-03
+Tabasco,Nacajuca,1.0,0.0,0.0,1.0,2021-03-03
+Tabasco,Paraíso,1.0,1.0,0.0,0.0,2021-03-03
+Veracruz,Soconusco,1.0,0.0,0.0,1.0,2021-03-03

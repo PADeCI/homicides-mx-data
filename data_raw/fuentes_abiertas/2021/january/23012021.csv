@@ -1,0 +1,46 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,5.0,4.0,1.0,0.0,2021-01-23
+Chihuahua,Camargo,1.0,1.0,0.0,0.0,2021-01-23
+Chihuahua,Juárez,4.0,4.0,0.0,0.0,2021-01-23
+Chihuahua,Meoqui,1.0,1.0,0.0,0.0,2021-01-23
+Ciudad de México,Benito Juárez,1.0,1.0,0.0,0.0,2021-01-23
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2021-01-23
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2021-01-23
+Colima,Coquimatlán,2.0,2.0,0.0,0.0,2021-01-23
+Colima,Manzanillo,1.0,0.0,0.0,1.0,2021-01-23
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2021-01-23
+Guanajuato,Irapuato,1.0,0.0,1.0,0.0,2021-01-23
+Guanajuato,León,7.0,5.0,2.0,0.0,2021-01-23
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2021-01-23
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2021-01-23
+Guerrero,Chilpancingo De Los Bravo,2.0,2.0,0.0,0.0,2021-01-23
+Guerrero,Coyuca De Benítez,2.0,2.0,0.0,0.0,2021-01-23
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2021-01-23
+Jalisco,Tlajomulco De Zúñiga,2.0,0.0,0.0,2.0,2021-01-23
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2021-01-23
+Michoacán,Tangamandapio,1.0,1.0,0.0,0.0,2021-01-23
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2021-01-23
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2021-01-23
+Estado de México,Cuautitlán Izcalli,1.0,1.0,0.0,0.0,2021-01-23
+Estado de México,Tecámac,2.0,1.0,1.0,0.0,2021-01-23
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2021-01-23
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2021-01-23
+Oaxaca,Santiago Pinotepa Nacional,1.0,0.0,1.0,0.0,2021-01-23
+Puebla,Puebla,2.0,2.0,0.0,0.0,2021-01-23
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2021-01-23
+Quintana Roo,Othón P. Blanco,2.0,2.0,0.0,0.0,2021-01-23
+San Luis Potosí,Ciudad Fernández,2.0,0.0,0.0,2.0,2021-01-23
+Sinaloa,Angostura,1.0,1.0,0.0,0.0,2021-01-23
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2021-01-23
+Sonora,Cajeme,1.0,0.0,1.0,0.0,2021-01-23
+Sonora,San Luis Río Colorado,1.0,0.0,1.0,0.0,2021-01-23
+Tamaulipas,Río Bravo,1.0,1.0,0.0,0.0,2021-01-23
+Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2021-01-23
+Tlaxcala,Xaloztoc,1.0,1.0,0.0,0.0,2021-01-23
+Veracruz,Atzacan,1.0,1.0,0.0,0.0,2021-01-23
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2021-01-23
+Veracruz,Magdalena,1.0,0.0,0.0,1.0,2021-01-23
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2021-01-23
+Veracruz,Xalapa,1.0,0.0,0.0,1.0,2021-01-23
+Zacatecas,Villa De Cos,8.0,0.0,0.0,8.0,2021-01-23
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2021-01-23

@@ -1,0 +1,53 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2021-02-17
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2021-02-17
+Baja California,Tijuana,8.0,5.0,2.0,1.0,2021-02-17
+Chihuahua,Cuauhtémoc,2.0,2.0,0.0,0.0,2021-02-17
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2021-02-17
+Ciudad de México,Tlalpan,1.0,0.0,0.0,1.0,2021-02-17
+Ciudad de México,Álvaro Obregón,3.0,2.0,1.0,0.0,2021-02-17
+Colima,Colima,1.0,1.0,0.0,0.0,2021-02-17
+Colima,Villa De Álvarez,1.0,1.0,0.0,0.0,2021-02-17
+Durango,Durango,1.0,1.0,0.0,0.0,2021-02-17
+Durango,Tamazula,1.0,1.0,0.0,0.0,2021-02-17
+Estado de México,Huixquilucan,1.0,1.0,0.0,0.0,2021-02-17
+Estado de México,La Paz,1.0,1.0,0.0,0.0,2021-02-17
+Estado de México,Naucalpan De Juárez,1.0,0.0,1.0,0.0,2021-02-17
+Estado de México,Tenancingo,1.0,1.0,0.0,0.0,2021-02-17
+Estado de México,Tlalmanalco,2.0,1.0,1.0,0.0,2021-02-17
+Estado de México,Villa Victoria,1.0,1.0,0.0,0.0,2021-02-17
+Guanajuato,Celaya,3.0,2.0,1.0,0.0,2021-02-17
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2021-02-17
+Guanajuato,Tarimoro,1.0,1.0,0.0,0.0,2021-02-17
+Guerrero,Acapulco De Juárez,5.0,5.0,0.0,0.0,2021-02-17
+Jalisco,Guadalajara,4.0,3.0,1.0,0.0,2021-02-17
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2021-02-17
+Jalisco,Tlajomulco De Zúñiga,3.0,3.0,0.0,0.0,2021-02-17
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2021-02-17
+Jalisco,Zapopan,3.0,1.0,0.0,2.0,2021-02-17
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2021-02-17
+Michoacán,Parácuaro,1.0,1.0,0.0,0.0,2021-02-17
+Michoacán,Salvador Escalante,5.0,0.0,0.0,5.0,2021-02-17
+Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2021-02-17
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2021-02-17
+Michoacán,Zamora,2.0,2.0,0.0,0.0,2021-02-17
+Nayarit,Ixtlán Del Río,1.0,0.0,0.0,1.0,2021-02-17
+Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2021-02-17
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2021-02-17
+Oaxaca,Santiago Ixtayutla,1.0,1.0,0.0,0.0,2021-02-17
+Puebla,Amozoc,1.0,1.0,0.0,0.0,2021-02-17
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2021-02-17
+San Luis Potosí,Cerritos,1.0,1.0,0.0,0.0,2021-02-17
+San Luis Potosí,Ciudad Fernández,1.0,0.0,0.0,1.0,2021-02-17
+San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2021-02-17
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2021-02-17
+Sinaloa,Mazatlán,1.0,0.0,0.0,1.0,2021-02-17
+Sonora,Cajeme,4.0,0.0,0.0,4.0,2021-02-17
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2021-02-17
+Tabasco,Huimanguillo,1.0,1.0,0.0,0.0,2021-02-17
+Tabasco,Tenosique,1.0,1.0,0.0,0.0,2021-02-17
+Tlaxcala,Zacatelco,1.0,1.0,0.0,0.0,2021-02-17
+Yucatán,Mérida,1.0,1.0,0.0,0.0,2021-02-17
+Zacatecas,Fresnillo,2.0,2.0,0.0,0.0,2021-02-17
+Zacatecas,Jerez,1.0,1.0,0.0,0.0,2021-02-17
+Zacatecas,Villa De Cos,2.0,1.0,0.0,1.0,2021-02-17

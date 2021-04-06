@@ -1,0 +1,54 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,5.0,2.0,1.0,2.0,2021-01-22
+Baja California Sur,La Paz,1.0,1.0,0.0,0.0,2021-01-22
+Chiapas,Pueblo Nuevo Solistahuacán,2.0,0.0,0.0,2.0,2021-01-22
+Chiapas,Tapachula,2.0,2.0,0.0,0.0,2021-01-22
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2021-01-22
+Chihuahua,Juárez,3.0,1.0,1.0,1.0,2021-01-22
+Ciudad de México,Benito Juárez,2.0,2.0,0.0,0.0,2021-01-22
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2021-01-22
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2021-01-22
+Colima,Villa De Álvarez,1.0,1.0,0.0,0.0,2021-01-22
+Durango,Canelas,4.0,0.0,0.0,4.0,2021-01-22
+Guanajuato,Celaya,1.0,0.0,1.0,0.0,2021-01-22
+Guanajuato,Irapuato,3.0,2.0,0.0,1.0,2021-01-22
+Guanajuato,León,1.0,1.0,0.0,0.0,2021-01-22
+Guanajuato,Pénjamo,2.0,0.0,0.0,2.0,2021-01-22
+Guanajuato,Salvatierra,1.0,0.0,1.0,0.0,2021-01-22
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2021-01-22
+Guanajuato,San Luis De La Paz,1.0,0.0,0.0,1.0,2021-01-22
+Guanajuato,Santa Cruz De Juventino Rosas,1.0,1.0,0.0,0.0,2021-01-22
+Guanajuato,Silao De La Victoria,2.0,0.0,2.0,0.0,2021-01-22
+Guanajuato,Tarimoro,1.0,1.0,0.0,0.0,2021-01-22
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2021-01-22
+Hidalgo,Tizayuca,1.0,0.0,0.0,1.0,2021-01-22
+Hidalgo,Tula De Allende,1.0,0.0,0.0,1.0,2021-01-22
+Jalisco,El Salto,1.0,1.0,0.0,0.0,2021-01-22
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2021-01-22
+Jalisco,Tlajomulco De Zúñiga,2.0,2.0,0.0,0.0,2021-01-22
+Michoacán,Apatzingán,1.0,1.0,0.0,0.0,2021-01-22
+Michoacán,Chavinda,1.0,1.0,0.0,0.0,2021-01-22
+Michoacán,Jacona,1.0,0.0,1.0,0.0,2021-01-22
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2021-01-22
+Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2021-01-22
+Estado de México,Chicoloapan,1.0,1.0,0.0,0.0,2021-01-22
+Estado de México,Tlalnepantla De Baz,3.0,3.0,0.0,0.0,2021-01-22
+Oaxaca,Asunción Ixtaltepec,1.0,1.0,0.0,0.0,2021-01-22
+Oaxaca,Zaragoza,1.0,0.0,1.0,0.0,2021-01-22
+Puebla,Puebla,1.0,1.0,0.0,0.0,2021-01-22
+Puebla,Tepexco,1.0,1.0,0.0,0.0,2021-01-22
+Puebla,Venustiano Carranza,1.0,1.0,0.0,0.0,2021-01-22
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2021-01-22
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2021-01-22
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2021-01-22
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2021-01-22
+Sonora,Caborca,1.0,1.0,0.0,0.0,2021-01-22
+Sonora,Empalme,1.0,1.0,0.0,0.0,2021-01-22
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2021-01-22
+Sonora,Hermosillo,2.0,0.0,0.0,2.0,2021-01-22
+Tabasco,Centro,1.0,1.0,0.0,0.0,2021-01-22
+Tlaxcala,Tlaxcala,1.0,0.0,1.0,0.0,2021-01-22
+Veracruz,Mariano Escobedo,2.0,2.0,0.0,0.0,2021-01-22
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2021-01-22
+Zacatecas,Guadalupe,2.0,2.0,0.0,0.0,2021-01-22
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2021-01-22

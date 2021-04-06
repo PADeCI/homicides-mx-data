@@ -1,0 +1,55 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2021-01-26
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2021-01-26
+Baja California,Tecate,1.0,1.0,0.0,0.0,2021-01-26
+Baja California,Tijuana,6.0,4.0,0.0,2.0,2021-01-26
+Chihuahua,Juárez,2.0,1.0,0.0,1.0,2021-01-26
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2021-01-26
+Ciudad de México,Xochimilco,1.0,1.0,0.0,0.0,2021-01-26
+Colima,Coquimatlán,1.0,1.0,0.0,0.0,2021-01-26
+Guanajuato,Apaseo El Grande,2.0,2.0,0.0,0.0,2021-01-26
+Guanajuato,Celaya,1.0,0.0,0.0,1.0,2021-01-26
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2021-01-26
+Guanajuato,León,3.0,2.0,1.0,0.0,2021-01-26
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2021-01-26
+Guanajuato,San Miguel De Allende,3.0,3.0,0.0,0.0,2021-01-26
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2021-01-26
+Guerrero,Acapulco De Juárez,1.0,0.0,1.0,0.0,2021-01-26
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2021-01-26
+Guerrero,Tepecoacuilco De Trujano,1.0,1.0,0.0,0.0,2021-01-26
+Guerrero,Zitlala,1.0,1.0,0.0,0.0,2021-01-26
+Hidalgo,Actopan,1.0,1.0,0.0,0.0,2021-01-26
+Jalisco,Guadalajara,1.0,0.0,0.0,1.0,2021-01-26
+Jalisco,Lagos De Moreno,2.0,1.0,1.0,0.0,2021-01-26
+Jalisco,San Pedro Tlaquepaque,1.0,0.0,0.0,1.0,2021-01-26
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2021-01-26
+Jalisco,Tonalá,6.0,6.0,0.0,0.0,2021-01-26
+Jalisco,Zapopan,1.0,0.0,0.0,1.0,2021-01-26
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2021-01-26
+Michoacán,Pátzcuaro,1.0,1.0,0.0,0.0,2021-01-26
+Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2021-01-26
+Michoacán,Álvaro Obregón,3.0,2.0,1.0,0.0,2021-01-26
+Morelos,Cuautla,1.0,0.0,1.0,0.0,2021-01-26
+Morelos,Cuernavaca,1.0,0.0,1.0,0.0,2021-01-26
+Morelos,Jiutepec,2.0,2.0,0.0,0.0,2021-01-26
+Morelos,Temixco,1.0,0.0,1.0,0.0,2021-01-26
+Morelos,Tlaltizapán De Zapata,1.0,1.0,0.0,0.0,2021-01-26
+Morelos,Xochitepec,1.0,1.0,0.0,0.0,2021-01-26
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2021-01-26
+Estado de México,Temascalapa,1.0,1.0,0.0,0.0,2021-01-26
+Nayarit,Del Nayar,2.0,2.0,0.0,0.0,2021-01-26
+Nayarit,Tuxpan,1.0,1.0,0.0,0.0,2021-01-26
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2021-01-26
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2021-01-26
+Oaxaca,Miahuatlán De Porfirio Díaz,1.0,1.0,0.0,0.0,2021-01-26
+Oaxaca,Santiago Lachiguiri,1.0,1.0,0.0,0.0,2021-01-26
+Puebla,Esperanza,1.0,0.0,1.0,0.0,2021-01-26
+Puebla,Tilapa,1.0,1.0,0.0,0.0,2021-01-26
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2021-01-26
+Sonora,Cajeme,2.0,2.0,0.0,0.0,2021-01-26
+Sonora,Nogales,1.0,1.0,0.0,0.0,2021-01-26
+Tabasco,Centro,1.0,0.0,0.0,1.0,2021-01-26
+Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2021-01-26
+Veracruz,Xalapa,1.0,0.0,1.0,0.0,2021-01-26
+Yucatán,Mérida,1.0,1.0,0.0,0.0,2021-01-26
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2021-01-26

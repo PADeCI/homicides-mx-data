@@ -1,0 +1,46 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,2.0,1.0,0.0,1.0,2021-03-13
+Chiapas,Tapachula,1.0,1.0,0.0,0.0,2021-03-13
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2021-03-13
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2021-03-13
+Ciudad de México,Gustavo A. Madero,1.0,0.0,1.0,0.0,2021-03-13
+Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2021-03-13
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2021-03-13
+Guanajuato,Apaseo El Grande,3.0,2.0,0.0,1.0,2021-03-13
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2021-03-13
+Guanajuato,León,3.0,2.0,1.0,0.0,2021-03-13
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2021-03-13
+Guanajuato,Yuriria,1.0,1.0,0.0,0.0,2021-03-13
+Guerrero,Acapulco De Juárez,2.0,0.0,0.0,2.0,2021-03-13
+Guerrero,Iguala De La Independencia,3.0,3.0,0.0,0.0,2021-03-13
+Guerrero,Ometepec,1.0,1.0,0.0,0.0,2021-03-13
+Jalisco,Casimiro Castillo,1.0,1.0,0.0,0.0,2021-03-13
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2021-03-13
+Jalisco,San Pedro Tlaquepaque,3.0,3.0,0.0,0.0,2021-03-13
+Michoacán,Múgica,1.0,1.0,0.0,0.0,2021-03-13
+Morelos,Cuautla,1.0,1.0,0.0,0.0,2021-03-13
+Morelos,Emiliano Zapata,2.0,1.0,1.0,0.0,2021-03-13
+Morelos,Tlaquiltenango,1.0,0.0,1.0,0.0,2021-03-13
+Estado de México,Coacalco De Berriozábal,1.0,0.0,1.0,0.0,2021-03-13
+Estado de México,Cuautitlán,3.0,0.0,3.0,0.0,2021-03-13
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2021-03-13
+Estado de México,Zinacantepec,1.0,0.0,1.0,0.0,2021-03-13
+Nayarit,Bahía De Banderas,1.0,1.0,0.0,0.0,2021-03-13
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2021-03-13
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2021-03-13
+Oaxaca,Heroica Ciudad De Ejutla De Crespo,1.0,1.0,0.0,0.0,2021-03-13
+Oaxaca,San Miguel Tlacamama,1.0,1.0,0.0,0.0,2021-03-13
+Puebla,Chignahuapan,2.0,1.0,1.0,0.0,2021-03-13
+Puebla,Huaquechula,1.0,1.0,0.0,0.0,2021-03-13
+Puebla,San Martín Texmelucan,3.0,3.0,0.0,0.0,2021-03-13
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2021-03-13
+Quintana Roo,Tulum,1.0,1.0,0.0,0.0,2021-03-13
+San Luis Potosí,Ciudad Valles,1.0,1.0,0.0,0.0,2021-03-13
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2021-03-13
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2021-03-13
+Sonora,Cajeme,1.0,1.0,0.0,0.0,2021-03-13
+Sonora,Guaymas,1.0,0.0,0.0,1.0,2021-03-13
+Sonora,Hermosillo,1.0,0.0,1.0,0.0,2021-03-13
+Veracruz,Coatzacoalcos,2.0,2.0,0.0,0.0,2021-03-13
+Zacatecas,Fresnillo,2.0,2.0,0.0,0.0,2021-03-13
+Zacatecas,Guadalupe,2.0,2.0,0.0,0.0,2021-03-13

@@ -1,0 +1,60 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,2.0,2.0,0.0,0.0,2021-03-16
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2021-03-16
+Baja California,Tijuana,7.0,5.0,2.0,0.0,2021-03-16
+Baja California Sur,La Paz,1.0,1.0,0.0,0.0,2021-03-16
+Chiapas,Acapetahua,1.0,1.0,0.0,0.0,2021-03-16
+Chihuahua,Cuauhtémoc,1.0,0.0,0.0,1.0,2021-03-16
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2021-03-16
+Chihuahua,Nuevo Casas Grandes,2.0,2.0,0.0,0.0,2021-03-16
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2021-03-16
+Coahuila,Torreón,2.0,0.0,0.0,2.0,2021-03-16
+Durango,Guanaceví,1.0,1.0,0.0,0.0,2021-03-16
+Durango,Gómez Palacio,2.0,2.0,0.0,0.0,2021-03-16
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2021-03-16
+Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2021-03-16
+Guanajuato,Irapuato,3.0,3.0,0.0,0.0,2021-03-16
+Guanajuato,León,1.0,0.0,1.0,0.0,2021-03-16
+Guanajuato,San Francisco Del Rincón,2.0,2.0,0.0,0.0,2021-03-16
+Guanajuato,San Luis De La Paz,2.0,2.0,0.0,0.0,2021-03-16
+Guanajuato,Yuriria,1.0,1.0,0.0,0.0,2021-03-16
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2021-03-16
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2021-03-16
+Guerrero,Huitzuco De Los Figueroa,1.0,1.0,0.0,0.0,2021-03-16
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2021-03-16
+Guerrero,San Luis Acatlán,1.0,1.0,0.0,0.0,2021-03-16
+Hidalgo,Cuautepec De Hinojosa,1.0,1.0,0.0,0.0,2021-03-16
+Jalisco,El Salto,1.0,1.0,0.0,0.0,2021-03-16
+Jalisco,Guadalajara,3.0,1.0,0.0,2.0,2021-03-16
+Jalisco,Tlajomulco De Zúñiga,4.0,0.0,0.0,4.0,2021-03-16
+Michoacán,Apatzingán,1.0,1.0,0.0,0.0,2021-03-16
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2021-03-16
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2021-03-16
+Michoacán,Zamora,3.0,3.0,0.0,0.0,2021-03-16
+Morelos,Cuautla,1.0,1.0,0.0,0.0,2021-03-16
+Morelos,Temixco,1.0,1.0,0.0,0.0,2021-03-16
+Morelos,Yautepec,1.0,1.0,0.0,0.0,2021-03-16
+Morelos,Zacatepec,2.0,1.0,1.0,0.0,2021-03-16
+Estado de México,Almoloya De Juárez,1.0,1.0,0.0,0.0,2021-03-16
+Estado de México,Naucalpan De Juárez,1.0,1.0,0.0,0.0,2021-03-16
+Estado de México,Tlalnepantla De Baz,1.0,1.0,0.0,0.0,2021-03-16
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2021-03-16
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2021-03-16
+Nuevo León,Monterrey,1.0,0.0,1.0,0.0,2021-03-16
+Oaxaca,Villa De Zaachila,1.0,1.0,0.0,0.0,2021-03-16
+Puebla,Chalchicomula De Sesma,1.0,0.0,1.0,0.0,2021-03-16
+Puebla,Chignautla,1.0,1.0,0.0,0.0,2021-03-16
+Puebla,Izúcar De Matamoros,3.0,1.0,0.0,2.0,2021-03-16
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2021-03-16
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2021-03-16
+Sonora,Hermosillo,1.0,0.0,0.0,1.0,2021-03-16
+Sonora,Nogales,3.0,0.0,0.0,3.0,2021-03-16
+Sonora,San Luis Río Colorado,1.0,1.0,0.0,0.0,2021-03-16
+Veracruz,Atoyac,1.0,1.0,0.0,0.0,2021-03-16
+Veracruz,Atzacan,1.0,1.0,0.0,0.0,2021-03-16
+Veracruz,Córdoba,2.0,2.0,0.0,0.0,2021-03-16
+Veracruz,Fortín,1.0,1.0,0.0,0.0,2021-03-16
+Veracruz,Mariano Escobedo,2.0,2.0,0.0,0.0,2021-03-16
+Veracruz,Xalapa,1.0,0.0,0.0,1.0,2021-03-16
+Zacatecas,Fresnillo,1.0,0.0,0.0,1.0,2021-03-16
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2021-03-16

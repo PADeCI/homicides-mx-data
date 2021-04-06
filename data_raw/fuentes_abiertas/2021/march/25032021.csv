@@ -1,0 +1,42 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tijuana,6,2.0,2.0,2.0,2021-03-25
+Chihuahua,Tijuana,2,2.0,0.0,0.0,2021-03-25
+Ciudad de México,Iztapalapa,1,1.0,0.0,0.0,2021-03-25
+Colima,Colima,1,0.0,0.0,1.0,2021-03-25
+Guanajuato,Celaya,6,6.0,0.0,0.0,2021-03-25
+Guanajuato,Irapuato,1,0.0,0.0,1.0,2021-03-25
+Guanajuato,León,2,2.0,0.0,0.0,2021-03-25
+Guanajuato,Uriangato,1,1.0,0.0,0.0,2021-03-25
+Guerrero,Acapulco De Juárez,5,3.0,0.0,2.0,2021-03-25
+Guerrero,Cocula,3,2.0,1.0,0.0,2021-03-25
+Guerrero,Iguala De La Independencia,1,1.0,0.0,0.0,2021-03-25
+Guerrero,Marquelia,2,0.0,2.0,0.0,2021-03-25
+Hidalgo,Apan,1,1.0,0.0,0.0,2021-03-25
+Hidalgo,Tizayuca,1,1.0,0.0,0.0,2021-03-25
+Jalisco,Encarnación De Díaz,2,0.0,0.0,2.0,2021-03-25
+Jalisco,Juanacatlán,6,0.0,0.0,6.0,2021-03-25
+Jalisco,San Pedro Tlaquepaque,1,1.0,0.0,0.0,2021-03-25
+Jalisco,Zapopan,1,1.0,0.0,0.0,2021-03-25
+Michoacán,Morelia,2,1.0,1.0,0.0,2021-03-25
+Michoacán,Uruapan,1,1.0,0.0,0.0,2021-03-25
+Michoacán,Zamora,1,0.0,1.0,0.0,2021-03-25
+Morelos,Cuernavaca,1,1.0,0.0,0.0,2021-03-25
+Morelos,Jiutepec,1,1.0,0.0,0.0,2021-03-25
+Estado de México,Acolman,1,1.0,0.0,0.0,2021-03-25
+Estado de México,Coacalco De Berriozábal,1,1.0,0.0,0.0,2021-03-25
+Estado de México,Ecatepec De Morelos,1,1.0,0.0,0.0,2021-03-25
+Estado de México,Naucalpan De Juárez,2,2.0,0.0,0.0,2021-03-25
+Oaxaca,Oaxaca De Juárez,2,2.0,0.0,0.0,2021-03-25
+Puebla,Chietla,2,2.0,0.0,0.0,2021-03-25
+Puebla,Puebla,1,0.0,1.0,0.0,2021-03-25
+Puebla,San Pedro Cholula,1,1.0,0.0,0.0,2021-03-25
+San Luis Potosí,San Luis Potosí,2,2.0,0.0,0.0,2021-03-25
+San Luis Potosí,Soledad De Graciano Sánchez,1,1.0,0.0,0.0,2021-03-25
+Sinaloa,Culiacán,1,1.0,0.0,0.0,2021-03-25
+Sinaloa,Salvador Alvarado,1,1.0,0.0,0.0,2021-03-25
+Sonora,Cajeme,1,1.0,0.0,0.0,2021-03-25
+Sonora,Mazatán,1,1.0,0.0,0.0,2021-03-25
+Veracruz,Coetzala,1,1.0,0.0,0.0,2021-03-25
+Veracruz,Córdoba,1,1.0,0.0,0.0,2021-03-25
+Veracruz,La Perla,1,1.0,0.0,0.0,2021-03-25
+Zacatecas,Fresnillo,4,4.0,0.0,0.0,2021-03-25

@@ -1,0 +1,50 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2021-01-11
+Baja California,Tijuana,8.0,4.0,3.0,1.0,2021-01-11
+Chiapas,San Cristóbal De Las Casas,1.0,1.0,0.0,0.0,2021-01-11
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2021-01-11
+Ciudad de México,Azcapotzalco,1.0,0.0,1.0,0.0,2021-01-11
+Ciudad de México,Benito Juárez,1.0,1.0,0.0,0.0,2021-01-11
+Ciudad de México,Cuauhtémoc,2.0,2.0,0.0,0.0,2021-01-11
+Ciudad de México,Miguel Hidalgo,1.0,1.0,0.0,0.0,2021-01-11
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2021-01-11
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2021-01-11
+Guanajuato,León,2.0,0.0,0.0,2.0,2021-01-11
+Guanajuato,Moroleón,3.0,2.0,1.0,0.0,2021-01-11
+Guanajuato,San José Iturbide,4.0,3.0,1.0,0.0,2021-01-11
+Guanajuato,Villagrán,9.0,9.0,0.0,0.0,2021-01-11
+Guerrero,Acapulco De Juárez,1.0,0.0,1.0,0.0,2021-01-11
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2021-01-11
+Guerrero,Cuajinicuilapa,1.0,1.0,0.0,0.0,2021-01-11
+Guerrero,Eduardo Neri,1.0,1.0,0.0,0.0,2021-01-11
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2021-01-11
+Guerrero,Zihuatanejo De Azueta,1.0,1.0,0.0,0.0,2021-01-11
+Jalisco,San Pedro Tlaquepaque,4.0,4.0,0.0,0.0,2021-01-11
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,1.0,0.0,2021-01-11
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2021-01-11
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2021-01-11
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2021-01-11
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2021-01-11
+Morelos,Tetecala,1.0,1.0,0.0,0.0,2021-01-11
+Morelos,Tlaltizapán De Zapata,1.0,1.0,0.0,0.0,2021-01-11
+Morelos,Yautepec,3.0,3.0,0.0,0.0,2021-01-11
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2021-01-11
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2021-01-11
+Estado de México,Teoloyucan,1.0,1.0,0.0,0.0,2021-01-11
+Nuevo León,Ciénega De Flores,1.0,1.0,0.0,0.0,2021-01-11
+Oaxaca,San José Independencia,1.0,1.0,0.0,0.0,2021-01-11
+Oaxaca,Santa María Huatulco,1.0,0.0,1.0,0.0,2021-01-11
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2021-01-11
+Quintana Roo,San Juan Del Río,2.0,2.0,0.0,0.0,2021-01-11
+San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2021-01-11
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2021-01-11
+Sinaloa,El Fuerte,1.0,1.0,0.0,0.0,2021-01-11
+Sonora,Caborca,2.0,2.0,0.0,0.0,2021-01-11
+Sonora,Cajeme,3.0,2.0,0.0,1.0,2021-01-11
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2021-01-11
+Sonora,Nogales,1.0,0.0,0.0,1.0,2021-01-11
+Tabasco,Emiliano Zapata,2.0,0.0,0.0,2.0,2021-01-11
+Tamaulipas,Nuevo Laredo,4.0,4.0,0.0,0.0,2021-01-11
+Veracruz,Cotaxtla,2.0,0.0,0.0,2.0,2021-01-11
+Veracruz,Tlaltetela,1.0,1.0,0.0,0.0,2021-01-11
+Zacatecas,Fresnillo,2.0,1.0,0.0,1.0,2021-01-11

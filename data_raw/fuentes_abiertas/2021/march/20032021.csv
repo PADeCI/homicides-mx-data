@@ -1,0 +1,52 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,2.0,1.0,0.0,1.0,2021-03-20
+Baja California,Tecate,3.0,3.0,0.0,0.0,2021-03-20
+Baja California,Tijuana,2.0,2.0,0.0,0.0,2021-03-20
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2021-03-20
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2021-03-20
+Chihuahua,Juárez,3.0,3.0,0.0,0.0,2021-03-20
+Ciudad de México,Iztapalapa,1.0,0.0,1.0,0.0,2021-03-20
+Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2021-03-20
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2021-03-20
+Colima,Armería,1.0,1.0,0.0,0.0,2021-03-20
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2021-03-20
+Colima,Villa De Álvarez,1.0,1.0,0.0,0.0,2021-03-20
+Guanajuato,Celaya,2.0,2.0,0.0,0.0,2021-03-20
+Guanajuato,Guanajuato,3.0,2.0,1.0,0.0,2021-03-20
+Guanajuato,León,2.0,2.0,0.0,0.0,2021-03-20
+Guanajuato,San Francisco Del Rincón,2.0,2.0,0.0,0.0,2021-03-20
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2021-03-20
+Guanajuato,Yuriria,2.0,0.0,0.0,2.0,2021-03-20
+Guerrero,Iguala De La Independencia,2.0,2.0,0.0,0.0,2021-03-20
+Hidalgo,Tepehuacán De Guerrero,1.0,1.0,0.0,0.0,2021-03-20
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2021-03-20
+Michoacán,Indaparapeo,1.0,0.0,0.0,1.0,2021-03-20
+Michoacán,Irimbo,2.0,2.0,0.0,0.0,2021-03-20
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2021-03-20
+Morelos,Cuautla,1.0,1.0,0.0,0.0,2021-03-20
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2021-03-20
+Morelos,Jiutepec,1.0,1.0,0.0,0.0,2021-03-20
+Estado de México,Almoloya De Juárez,1.0,1.0,0.0,0.0,2021-03-20
+Estado de México,Lerma,1.0,1.0,0.0,0.0,2021-03-20
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2021-03-20
+Nuevo León,Vallecillo,1.0,1.0,0.0,0.0,2021-03-20
+Oaxaca,Ocotlán De Morelos,2.0,1.0,1.0,0.0,2021-03-20
+Oaxaca,Santo Tomás Jalieza,1.0,1.0,0.0,0.0,2021-03-20
+Puebla,Atlixco,1.0,0.0,1.0,0.0,2021-03-20
+Puebla,Hueytamalco,1.0,1.0,0.0,0.0,2021-03-20
+Puebla,Izúcar De Matamoros,1.0,0.0,1.0,0.0,2021-03-20
+Puebla,Tepexco,1.0,0.0,1.0,0.0,2021-03-20
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2021-03-20
+San Luis Potosí,San Luis Potosí,1.0,0.0,0.0,1.0,2021-03-20
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,1.0,0.0,0.0,2021-03-20
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2021-03-20
+Sinaloa,Salvador Alvarado,1.0,1.0,0.0,0.0,2021-03-20
+Sonora,Cajeme,1.0,0.0,0.0,1.0,2021-03-20
+Tabasco,Paraíso,1.0,1.0,0.0,0.0,2021-03-20
+Veracruz,Amatlán De Los Reyes,1.0,1.0,0.0,0.0,2021-03-20
+Veracruz,Nogales,2.0,1.0,1.0,0.0,2021-03-20
+Veracruz,Omealca,2.0,2.0,0.0,0.0,2021-03-20
+Veracruz,Papantla,2.0,2.0,0.0,0.0,2021-03-20
+Veracruz,Tecolutla,2.0,2.0,0.0,0.0,2021-03-20
+Veracruz,Tlapacoyan,1.0,1.0,0.0,0.0,2021-03-20
+Veracruz,Xalapa,1.0,0.0,1.0,0.0,2021-03-20

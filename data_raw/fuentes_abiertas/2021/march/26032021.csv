@@ -1,0 +1,50 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Mexicali,1,1.0,0.0,0.0,2021-03-26
+Baja California,Tijuana,2,2.0,0.0,0.0,2021-03-26
+Chihuahua,Chihuahua,2,1.0,1.0,0.0,2021-03-26
+Chihuahua,Hidalgo Del Parral,3,3.0,0.0,0.0,2021-03-26
+Coahuila,Saltillo,1,1.0,0.0,0.0,2021-03-26
+Durango,Durango,3,2.0,1.0,0.0,2021-03-26
+Guanajuato,Apaseo El Grande,2,2.0,0.0,0.0,2021-03-26
+Guanajuato,Celaya,1,1.0,0.0,0.0,2021-03-26
+Guanajuato,Comonfort,1,1.0,0.0,0.0,2021-03-26
+Guanajuato,León,3,3.0,0.0,0.0,2021-03-26
+Guanajuato,Pénjamo,1,1.0,0.0,0.0,2021-03-26
+Guanajuato,Santa Cruz De Juventino Rosas,1,1.0,0.0,0.0,2021-03-26
+Guanajuato,Santiago Maravatío,1,0.0,1.0,0.0,2021-03-26
+Guerrero,Acapulco De Juárez,1,1.0,0.0,0.0,2021-03-26
+Guerrero,Coyuca De Benítez,1,0.0,1.0,0.0,2021-03-26
+Guerrero,Iguala De La Independencia,5,5.0,0.0,0.0,2021-03-26
+Guerrero,Marquelia,1,1.0,0.0,0.0,2021-03-26
+Guerrero,Técpan De Galeana,5,0.0,5.0,0.0,2021-03-26
+Hidalgo,Atitalaquia,1,1.0,0.0,0.0,2021-03-26
+Hidalgo,Chapulhuacán,1,1.0,0.0,0.0,2021-03-26
+Jalisco,Guadalajara,1,1.0,0.0,0.0,2021-03-26
+Jalisco,Tlajomulco De Zúñiga,1,1.0,0.0,0.0,2021-03-26
+Jalisco,Tonalá,1,1.0,0.0,0.0,2021-03-26
+Jalisco,Tuxpan,1,1.0,0.0,0.0,2021-03-26
+Michoacán,Apatzingán,1,1.0,0.0,0.0,2021-03-26
+Michoacán,Chilchota,1,1.0,0.0,0.0,2021-03-26
+Michoacán,Jacona,2,2.0,0.0,0.0,2021-03-26
+Michoacán,Uruapan,1,0.0,1.0,0.0,2021-03-26
+Michoacán,Zamora,1,1.0,0.0,0.0,2021-03-26
+Morelos,Zacatepec,1,1.0,0.0,0.0,2021-03-26
+Estado de México,Toluca,1,0.0,1.0,0.0,2021-03-26
+Estado de México,Zumpango,1,0.0,1.0,0.0,2021-03-26
+Nuevo León,Escobedo,1,1.0,0.0,0.0,2021-03-26
+Oaxaca,Oaxaca De Juárez,1,1.0,0.0,0.0,2021-03-26
+Puebla,Acatzingo,1,1.0,0.0,0.0,2021-03-26
+Puebla,Chietla,1,0.0,0.0,1.0,2021-03-26
+Puebla,San Pedro Cholula,1,1.0,0.0,0.0,2021-03-26
+Puebla,Tlachichuca,1,0.0,1.0,0.0,2021-03-26
+Quintana Roo,Benito Juárez,2,1.0,1.0,0.0,2021-03-26
+Sinaloa,Ahome,1,1.0,0.0,0.0,2021-03-26
+Sonora,Nogales,2,1.0,0.0,1.0,2021-03-26
+Sonora,Sahuaripa,1,1.0,0.0,0.0,2021-03-26
+Tamaulipas,Camargo,4,4.0,0.0,0.0,2021-03-26
+Veracruz,Actopan,1,0.0,0.0,1.0,2021-03-26
+Veracruz,Agua Dulce,2,2.0,0.0,0.0,2021-03-26
+Veracruz,Álamo Temapache,1,1.0,0.0,0.0,2021-03-26
+Zacatecas,Fresnillo,3,3.0,0.0,0.0,2021-03-26
+Zacatecas,Morelos,2,2.0,0.0,0.0,2021-03-26
+Zacatecas,Zacatecas,1,0.0,1.0,0.0,2021-03-26

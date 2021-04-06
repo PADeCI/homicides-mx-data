@@ -1,0 +1,51 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1.0,0.0,1.0,0.0,2021-02-03
+Aguascalientes,Calvillo,1.0,0.0,1.0,0.0,2021-02-03
+Baja California,Tecate,1.0,1.0,0.0,0.0,2021-02-03
+Baja California,Tijuana,4.0,2.0,0.0,2.0,2021-02-03
+Chiapas,Ocosingo,1.0,1.0,0.0,0.0,2021-02-03
+Chihuahua,Bocoyna,1.0,1.0,0.0,0.0,2021-02-03
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2021-02-03
+Chihuahua,Juárez,4.0,2.0,1.0,1.0,2021-02-03
+Chihuahua,San Francisco Del Oro,1.0,0.0,0.0,1.0,2021-02-03
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2021-02-03
+Ciudad de México,Miguel Hidalgo,2.0,2.0,0.0,0.0,2021-02-03
+Coahuila,Candela,3.0,2.0,1.0,0.0,2021-02-03
+Colima,Manzanillo,2.0,0.0,0.0,2.0,2021-02-03
+Colima,Villa De Álvarez,3.0,3.0,0.0,0.0,2021-02-03
+Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2021-02-03
+Estado de México,La Paz,2.0,2.0,0.0,0.0,2021-02-03
+Guanajuato,Apaseo El Grande,2.0,2.0,0.0,0.0,2021-02-03
+Guanajuato,Celaya,2.0,2.0,0.0,0.0,2021-02-03
+Guanajuato,Comonfort,2.0,2.0,0.0,0.0,2021-02-03
+Guanajuato,Cortazar,1.0,1.0,0.0,0.0,2021-02-03
+Guanajuato,Guanajuato,2.0,0.0,2.0,0.0,2021-02-03
+Guanajuato,Moroleón,1.0,1.0,0.0,0.0,2021-02-03
+Guanajuato,Salvatierra,2.0,2.0,0.0,0.0,2021-02-03
+Guanajuato,San Luis De La Paz,1.0,1.0,0.0,0.0,2021-02-03
+Guanajuato,Silao De La Victoria,1.0,1.0,0.0,0.0,2021-02-03
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2021-02-03
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2021-02-03
+Hidalgo,Tula De Allende,1.0,1.0,0.0,0.0,2021-02-03
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2021-02-03
+Jalisco,Tonalá,1.0,0.0,0.0,1.0,2021-02-03
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2021-02-03
+Michoacán,Uruapan,4.0,4.0,0.0,0.0,2021-02-03
+Michoacán,Zamora,3.0,3.0,0.0,0.0,2021-02-03
+Morelos,Temixco,1.0,1.0,0.0,0.0,2021-02-03
+Nuevo León,Monterrey,2.0,2.0,0.0,0.0,2021-02-03
+Nuevo León,San Pedro Garza García,1.0,1.0,0.0,0.0,2021-02-03
+Oaxaca,Oaxaca De Juárez,5.0,3.0,2.0,0.0,2021-02-03
+Puebla,Puebla,1.0,1.0,0.0,0.0,2021-02-03
+San Luis Potosí,Ciudad Fernández,1.0,1.0,0.0,0.0,2021-02-03
+San Luis Potosí,Ciudad Valles,2.0,2.0,0.0,0.0,2021-02-03
+San Luis Potosí,Mexquitic De Carmona,1.0,1.0,0.0,0.0,2021-02-03
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2021-02-03
+Sonora,Hermosillo,2.0,1.0,1.0,0.0,2021-02-03
+Sonora,Nogales,1.0,0.0,0.0,1.0,2021-02-03
+Veracruz,Martínez De La Torre,1.0,1.0,0.0,0.0,2021-02-03
+Veracruz,Omealca,4.0,0.0,0.0,4.0,2021-02-03
+Veracruz,San Rafael,2.0,2.0,0.0,0.0,2021-02-03
+Veracruz,Veracruz,1.0,1.0,0.0,0.0,2021-02-03
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2021-02-03
+Zacatecas,Zacatecas,2.0,1.0,1.0,0.0,2021-02-03

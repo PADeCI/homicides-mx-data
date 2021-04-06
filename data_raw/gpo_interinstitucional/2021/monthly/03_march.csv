@@ -1,0 +1,993 @@
+Entidad,Homicidios,Fecha
+Aguascalientes,0.0,2021-03-01
+Baja California,4.0,2021-03-01
+Baja California Sur,0.0,2021-03-01
+Campeche,0.0,2021-03-01
+Chiapas,0.0,2021-03-01
+Chihuahua,6.0,2021-03-01
+Ciudad de México,3.0,2021-03-01
+Coahuila,0.0,2021-03-01
+Colima,2.0,2021-03-01
+Durango,2.0,2021-03-01
+Estado de México,5.0,2021-03-01
+Guanajuato,9.0,2021-03-01
+Guerrero,2.0,2021-03-01
+Hidalgo,0.0,2021-03-01
+Jalisco,3.0,2021-03-01
+Michoacán,6.0,2021-03-01
+Morelos,1.0,2021-03-01
+Nayarit,0.0,2021-03-01
+Nuevo León,2.0,2021-03-01
+Oaxaca,3.0,2021-03-01
+Puebla,3.0,2021-03-01
+Querétaro,1.0,2021-03-01
+Quintana Roo,2.0,2021-03-01
+San Luis Potosí,4.0,2021-03-01
+Sinaloa,0.0,2021-03-01
+Sonora,1.0,2021-03-01
+Tabasco,1.0,2021-03-01
+Tamaulipas,0.0,2021-03-01
+Tlaxcala,1.0,2021-03-01
+Veracruz,0.0,2021-03-01
+Yucatán,0.0,2021-03-01
+Zacatecas,1.0,2021-03-01
+Aguascalientes,0.0,2021-03-02
+Baja California,2.0,2021-03-02
+Baja California Sur,0.0,2021-03-02
+Campeche,0.0,2021-03-02
+Chiapas,3.0,2021-03-02
+Chihuahua,5.0,2021-03-02
+Ciudad de México,3.0,2021-03-02
+Coahuila,0.0,2021-03-02
+Colima,0.0,2021-03-02
+Durango,1.0,2021-03-02
+Estado de México,4.0,2021-03-02
+Guanajuato,6.0,2021-03-02
+Guerrero,3.0,2021-03-02
+Hidalgo,0.0,2021-03-02
+Jalisco,10.0,2021-03-02
+Michoacán,4.0,2021-03-02
+Morelos,2.0,2021-03-02
+Nayarit,2.0,2021-03-02
+Nuevo León,2.0,2021-03-02
+Oaxaca,2.0,2021-03-02
+Puebla,1.0,2021-03-02
+Querétaro,0.0,2021-03-02
+Quintana Roo,1.0,2021-03-02
+San Luis Potosí,3.0,2021-03-02
+Sinaloa,1.0,2021-03-02
+Sonora,1.0,2021-03-02
+Tabasco,0.0,2021-03-02
+Tamaulipas,10.0,2021-03-02
+Tlaxcala,0.0,2021-03-02
+Veracruz,5.0,2021-03-02
+Yucatán,0.0,2021-03-02
+Zacatecas,2.0,2021-03-02
+Aguascalientes,0.0,2021-03-03
+Baja California,2.0,2021-03-03
+Baja California Sur,0.0,2021-03-03
+Campeche,0.0,2021-03-03
+Chiapas,3.0,2021-03-03
+Chihuahua,2.0,2021-03-03
+Ciudad de México,2.0,2021-03-03
+Coahuila,0.0,2021-03-03
+Colima,1.0,2021-03-03
+Durango,0.0,2021-03-03
+Estado de México,6.0,2021-03-03
+Guanajuato,7.0,2021-03-03
+Guerrero,3.0,2021-03-03
+Hidalgo,3.0,2021-03-03
+Jalisco,6.0,2021-03-03
+Michoacán,5.0,2021-03-03
+Morelos,4.0,2021-03-03
+Nayarit,1.0,2021-03-03
+Nuevo León,2.0,2021-03-03
+Oaxaca,0.0,2021-03-03
+Puebla,1.0,2021-03-03
+Querétaro,0.0,2021-03-03
+Quintana Roo,0.0,2021-03-03
+San Luis Potosí,2.0,2021-03-03
+Sinaloa,1.0,2021-03-03
+Sonora,1.0,2021-03-03
+Tabasco,1.0,2021-03-03
+Tamaulipas,2.0,2021-03-03
+Tlaxcala,0.0,2021-03-03
+Veracruz,2.0,2021-03-03
+Yucatán,0.0,2021-03-03
+Zacatecas,3.0,2021-03-03
+Aguascalientes,0.0,2021-03-04
+Baja California,4.0,2021-03-04
+Baja California Sur,0.0,2021-03-04
+Campeche,0.0,2021-03-04
+Chiapas,2.0,2021-03-04
+Chihuahua,7.0,2021-03-04
+Ciudad de México,6.0,2021-03-04
+Coahuila,1.0,2021-03-04
+Colima,1.0,2021-03-04
+Durango,0.0,2021-03-04
+Estado de México,4.0,2021-03-04
+Guanajuato,8.0,2021-03-04
+Guerrero,7.0,2021-03-04
+Hidalgo,1.0,2021-03-04
+Jalisco,10.0,2021-03-04
+Michoacán,8.0,2021-03-04
+Morelos,0.0,2021-03-04
+Nayarit,0.0,2021-03-04
+Nuevo León,0.0,2021-03-04
+Oaxaca,0.0,2021-03-04
+Puebla,1.0,2021-03-04
+Querétaro,1.0,2021-03-04
+Quintana Roo,3.0,2021-03-04
+San Luis Potosí,1.0,2021-03-04
+Sinaloa,0.0,2021-03-04
+Sonora,1.0,2021-03-04
+Tabasco,2.0,2021-03-04
+Tamaulipas,7.0,2021-03-04
+Tlaxcala,0.0,2021-03-04
+Veracruz,2.0,2021-03-04
+Yucatán,0.0,2021-03-04
+Zacatecas,4.0,2021-03-04
+Aguascalientes,0.0,2021-03-05
+Baja California,1.0,2021-03-05
+Baja California Sur,0.0,2021-03-05
+Campeche,0.0,2021-03-05
+Chiapas,0.0,2021-03-05
+Chihuahua,5.0,2021-03-05
+Ciudad de México,5.0,2021-03-05
+Coahuila,0.0,2021-03-05
+Colima,1.0,2021-03-05
+Durango,0.0,2021-03-05
+Estado de México,4.0,2021-03-05
+Guanajuato,11.0,2021-03-05
+Guerrero,3.0,2021-03-05
+Hidalgo,2.0,2021-03-05
+Jalisco,12.0,2021-03-05
+Michoacán,8.0,2021-03-05
+Morelos,6.0,2021-03-05
+Nayarit,0.0,2021-03-05
+Nuevo León,3.0,2021-03-05
+Oaxaca,1.0,2021-03-05
+Puebla,4.0,2021-03-05
+Querétaro,0.0,2021-03-05
+Quintana Roo,1.0,2021-03-05
+San Luis Potosí,2.0,2021-03-05
+Sinaloa,0.0,2021-03-05
+Sonora,2.0,2021-03-05
+Tabasco,0.0,2021-03-05
+Tamaulipas,2.0,2021-03-05
+Tlaxcala,0.0,2021-03-05
+Veracruz,2.0,2021-03-05
+Yucatán,1.0,2021-03-05
+Zacatecas,1.0,2021-03-05
+Aguascalientes,0.0,2021-03-06
+Baja California,4.0,2021-03-06
+Baja California Sur,0.0,2021-03-06
+Campeche,0.0,2021-03-06
+Chiapas,1.0,2021-03-06
+Chihuahua,2.0,2021-03-06
+Ciudad de México,5.0,2021-03-06
+Coahuila,1.0,2021-03-06
+Colima,1.0,2021-03-06
+Durango,0.0,2021-03-06
+Estado de México,9.0,2021-03-06
+Guanajuato,11.0,2021-03-06
+Guerrero,2.0,2021-03-06
+Hidalgo,0.0,2021-03-06
+Jalisco,6.0,2021-03-06
+Michoacán,2.0,2021-03-06
+Morelos,2.0,2021-03-06
+Nayarit,0.0,2021-03-06
+Nuevo León,2.0,2021-03-06
+Oaxaca,5.0,2021-03-06
+Puebla,6.0,2021-03-06
+Querétaro,0.0,2021-03-06
+Quintana Roo,3.0,2021-03-06
+San Luis Potosí,2.0,2021-03-06
+Sinaloa,0.0,2021-03-06
+Sonora,0.0,2021-03-06
+Tabasco,0.0,2021-03-06
+Tamaulipas,1.0,2021-03-06
+Tlaxcala,0.0,2021-03-06
+Veracruz,1.0,2021-03-06
+Yucatán,0.0,2021-03-06
+Zacatecas,7.0,2021-03-06
+Aguascalientes,0.0,2021-03-07
+Baja California,7.0,2021-03-07
+Baja California Sur,0.0,2021-03-07
+Campeche,0.0,2021-03-07
+Chiapas,3.0,2021-03-07
+Chihuahua,4.0,2021-03-07
+Ciudad de México,3.0,2021-03-07
+Coahuila,1.0,2021-03-07
+Colima,0.0,2021-03-07
+Durango,1.0,2021-03-07
+Estado de México,6.0,2021-03-07
+Guanajuato,14.0,2021-03-07
+Guerrero,6.0,2021-03-07
+Hidalgo,1.0,2021-03-07
+Jalisco,8.0,2021-03-07
+Michoacán,5.0,2021-03-07
+Morelos,2.0,2021-03-07
+Nayarit,0.0,2021-03-07
+Nuevo León,1.0,2021-03-07
+Oaxaca,6.0,2021-03-07
+Puebla,6.0,2021-03-07
+Querétaro,2.0,2021-03-07
+Quintana Roo,2.0,2021-03-07
+San Luis Potosí,3.0,2021-03-07
+Sinaloa,2.0,2021-03-07
+Sonora,2.0,2021-03-07
+Tabasco,5.0,2021-03-07
+Tamaulipas,1.0,2021-03-07
+Tlaxcala,0.0,2021-03-07
+Veracruz,7.0,2021-03-07
+Yucatán,1.0,2021-03-07
+Zacatecas,4.0,2021-03-07
+Aguascalientes,0.0,2021-03-08
+Baja California,7.0,2021-03-08
+Baja California Sur,0.0,2021-03-08
+Campeche,0.0,2021-03-08
+Chiapas,2.0,2021-03-08
+Chihuahua,1.0,2021-03-08
+Ciudad de México,3.0,2021-03-08
+Coahuila,0.0,2021-03-08
+Colima,1.0,2021-03-08
+Durango,0.0,2021-03-08
+Estado de México,15.0,2021-03-08
+Guanajuato,3.0,2021-03-08
+Guerrero,2.0,2021-03-08
+Hidalgo,0.0,2021-03-08
+Jalisco,5.0,2021-03-08
+Michoacán,3.0,2021-03-08
+Morelos,3.0,2021-03-08
+Nayarit,0.0,2021-03-08
+Nuevo León,4.0,2021-03-08
+Oaxaca,1.0,2021-03-08
+Puebla,2.0,2021-03-08
+Querétaro,0.0,2021-03-08
+Quintana Roo,1.0,2021-03-08
+San Luis Potosí,2.0,2021-03-08
+Sinaloa,4.0,2021-03-08
+Sonora,7.0,2021-03-08
+Tabasco,0.0,2021-03-08
+Tamaulipas,0.0,2021-03-08
+Tlaxcala,2.0,2021-03-08
+Veracruz,5.0,2021-03-08
+Yucatán,0.0,2021-03-08
+Zacatecas,3.0,2021-03-08
+Aguascalientes,0.0,2021-03-09
+Baja California,1.0,2021-03-09
+Baja California Sur,0.0,2021-03-09
+Campeche,0.0,2021-03-09
+Chiapas,2.0,2021-03-09
+Chihuahua,2.0,2021-03-09
+Ciudad de México,1.0,2021-03-09
+Coahuila,1.0,2021-03-09
+Colima,1.0,2021-03-09
+Durango,1.0,2021-03-09
+Estado de México,3.0,2021-03-09
+Guanajuato,18.0,2021-03-09
+Guerrero,0.0,2021-03-09
+Hidalgo,0.0,2021-03-09
+Jalisco,4.0,2021-03-09
+Michoacán,6.0,2021-03-09
+Morelos,4.0,2021-03-09
+Nayarit,4.0,2021-03-09
+Nuevo León,4.0,2021-03-09
+Oaxaca,2.0,2021-03-09
+Puebla,2.0,2021-03-09
+Querétaro,0.0,2021-03-09
+Quintana Roo,2.0,2021-03-09
+San Luis Potosí,2.0,2021-03-09
+Sinaloa,0.0,2021-03-09
+Sonora,1.0,2021-03-09
+Tabasco,0.0,2021-03-09
+Tamaulipas,0.0,2021-03-09
+Tlaxcala,0.0,2021-03-09
+Veracruz,2.0,2021-03-09
+Yucatán,0.0,2021-03-09
+Zacatecas,0.0,2021-03-09
+Aguascalientes,0.0,2021-03-10
+Baja California,3.0,2021-03-10
+Baja California Sur,0.0,2021-03-10
+Campeche,2.0,2021-03-10
+Chiapas,1.0,2021-03-10
+Chihuahua,3.0,2021-03-10
+Ciudad de México,2.0,2021-03-10
+Coahuila,0.0,2021-03-10
+Colima,0.0,2021-03-10
+Durango,1.0,2021-03-10
+Estado de México,10.0,2021-03-10
+Guanajuato,3.0,2021-03-10
+Guerrero,3.0,2021-03-10
+Hidalgo,1.0,2021-03-10
+Jalisco,5.0,2021-03-10
+Michoacán,5.0,2021-03-10
+Morelos,2.0,2021-03-10
+Nayarit,0.0,2021-03-10
+Nuevo León,6.0,2021-03-10
+Oaxaca,8.0,2021-03-10
+Puebla,8.0,2021-03-10
+Querétaro,0.0,2021-03-10
+Quintana Roo,1.0,2021-03-10
+San Luis Potosí,0.0,2021-03-10
+Sinaloa,0.0,2021-03-10
+Sonora,2.0,2021-03-10
+Tabasco,0.0,2021-03-10
+Tamaulipas,0.0,2021-03-10
+Tlaxcala,0.0,2021-03-10
+Veracruz,0.0,2021-03-10
+Yucatán,0.0,2021-03-10
+Zacatecas,5.0,2021-03-10
+Aguascalientes,0.0,2021-03-11
+Baja California,4.0,2021-03-11
+Baja California Sur,0.0,2021-03-11
+Campeche,0.0,2021-03-11
+Chiapas,0.0,2021-03-11
+Chihuahua,6.0,2021-03-11
+Ciudad de México,2.0,2021-03-11
+Coahuila,0.0,2021-03-11
+Colima,1.0,2021-03-11
+Durango,0.0,2021-03-11
+Estado de México,5.0,2021-03-11
+Guanajuato,17.0,2021-03-11
+Guerrero,4.0,2021-03-11
+Hidalgo,1.0,2021-03-11
+Jalisco,6.0,2021-03-11
+Michoacán,9.0,2021-03-11
+Morelos,3.0,2021-03-11
+Nayarit,0.0,2021-03-11
+Nuevo León,2.0,2021-03-11
+Oaxaca,3.0,2021-03-11
+Puebla,2.0,2021-03-11
+Querétaro,0.0,2021-03-11
+Quintana Roo,4.0,2021-03-11
+San Luis Potosí,1.0,2021-03-11
+Sinaloa,1.0,2021-03-11
+Sonora,0.0,2021-03-11
+Tabasco,2.0,2021-03-11
+Tamaulipas,4.0,2021-03-11
+Tlaxcala,0.0,2021-03-11
+Veracruz,1.0,2021-03-11
+Yucatán,0.0,2021-03-11
+Zacatecas,10.0,2021-03-11
+Aguascalientes,0.0,2021-03-12
+Baja California,2.0,2021-03-12
+Baja California Sur,0.0,2021-03-12
+Campeche,0.0,2021-03-12
+Chiapas,2.0,2021-03-12
+Chihuahua,4.0,2021-03-12
+Ciudad de México,5.0,2021-03-12
+Coahuila,0.0,2021-03-12
+Colima,4.0,2021-03-12
+Durango,0.0,2021-03-12
+Estado de México,6.0,2021-03-12
+Guanajuato,16.0,2021-03-12
+Guerrero,3.0,2021-03-12
+Hidalgo,1.0,2021-03-12
+Jalisco,4.0,2021-03-12
+Michoacán,7.0,2021-03-12
+Morelos,7.0,2021-03-12
+Nayarit,0.0,2021-03-12
+Nuevo León,2.0,2021-03-12
+Oaxaca,1.0,2021-03-12
+Puebla,3.0,2021-03-12
+Querétaro,0.0,2021-03-12
+Quintana Roo,2.0,2021-03-12
+San Luis Potosí,5.0,2021-03-12
+Sinaloa,2.0,2021-03-12
+Sonora,2.0,2021-03-12
+Tabasco,0.0,2021-03-12
+Tamaulipas,0.0,2021-03-12
+Tlaxcala,1.0,2021-03-12
+Veracruz,0.0,2021-03-12
+Yucatán,0.0,2021-03-12
+Zacatecas,6.0,2021-03-12
+Aguascalientes,0.0,2021-03-13
+Baja California,3.0,2021-03-13
+Baja California Sur,0.0,2021-03-13
+Campeche,0.0,2021-03-13
+Chiapas,1.0,2021-03-13
+Chihuahua,2.0,2021-03-13
+Ciudad de México,4.0,2021-03-13
+Coahuila,0.0,2021-03-13
+Colima,0.0,2021-03-13
+Durango,0.0,2021-03-13
+Estado de México,11.0,2021-03-13
+Guanajuato,11.0,2021-03-13
+Guerrero,2.0,2021-03-13
+Hidalgo,1.0,2021-03-13
+Jalisco,7.0,2021-03-13
+Michoacán,3.0,2021-03-13
+Morelos,1.0,2021-03-13
+Nayarit,0.0,2021-03-13
+Nuevo León,3.0,2021-03-13
+Oaxaca,4.0,2021-03-13
+Puebla,5.0,2021-03-13
+Querétaro,0.0,2021-03-13
+Quintana Roo,2.0,2021-03-13
+San Luis Potosí,1.0,2021-03-13
+Sinaloa,1.0,2021-03-13
+Sonora,1.0,2021-03-13
+Tabasco,1.0,2021-03-13
+Tamaulipas,3.0,2021-03-13
+Tlaxcala,0.0,2021-03-13
+Veracruz,1.0,2021-03-13
+Yucatán,0.0,2021-03-13
+Zacatecas,1.0,2021-03-13
+Aguascalientes,0.0,2021-03-14
+Baja California,8.0,2021-03-14
+Baja California Sur,0.0,2021-03-14
+Campeche,0.0,2021-03-14
+Chiapas,6.0,2021-03-14
+Chihuahua,2.0,2021-03-14
+Ciudad de México,3.0,2021-03-14
+Coahuila,0.0,2021-03-14
+Colima,2.0,2021-03-14
+Durango,0.0,2021-03-14
+Estado de México,15.0,2021-03-14
+Guanajuato,14.0,2021-03-14
+Guerrero,0.0,2021-03-14
+Hidalgo,0.0,2021-03-14
+Jalisco,6.0,2021-03-14
+Michoacán,5.0,2021-03-14
+Morelos,1.0,2021-03-14
+Nayarit,0.0,2021-03-14
+Nuevo León,3.0,2021-03-14
+Oaxaca,2.0,2021-03-14
+Puebla,1.0,2021-03-14
+Querétaro,1.0,2021-03-14
+Quintana Roo,4.0,2021-03-14
+San Luis Potosí,3.0,2021-03-14
+Sinaloa,2.0,2021-03-14
+Sonora,3.0,2021-03-14
+Tabasco,0.0,2021-03-14
+Tamaulipas,2.0,2021-03-14
+Tlaxcala,1.0,2021-03-14
+Veracruz,4.0,2021-03-14
+Yucatán,0.0,2021-03-14
+Zacatecas,3.0,2021-03-14
+Aguascalientes,0.0,2021-03-15
+Baja California,5.0,2021-03-15
+Baja California Sur,0.0,2021-03-15
+Campeche,2.0,2021-03-15
+Chiapas,0.0,2021-03-15
+Chihuahua,7.0,2021-03-15
+Ciudad de México,3.0,2021-03-15
+Coahuila,2.0,2021-03-15
+Colima,0.0,2021-03-15
+Durango,0.0,2021-03-15
+Estado de México,8.0,2021-03-15
+Guanajuato,4.0,2021-03-15
+Guerrero,5.0,2021-03-15
+Hidalgo,0.0,2021-03-15
+Jalisco,5.0,2021-03-15
+Michoacán,7.0,2021-03-15
+Morelos,3.0,2021-03-15
+Nayarit,0.0,2021-03-15
+Nuevo León,0.0,2021-03-15
+Oaxaca,6.0,2021-03-15
+Puebla,3.0,2021-03-15
+Querétaro,0.0,2021-03-15
+Quintana Roo,0.0,2021-03-15
+San Luis Potosí,2.0,2021-03-15
+Sinaloa,1.0,2021-03-15
+Sonora,1.0,2021-03-15
+Tabasco,1.0,2021-03-15
+Tamaulipas,0.0,2021-03-15
+Tlaxcala,0.0,2021-03-15
+Veracruz,0.0,2021-03-15
+Yucatán,0.0,2021-03-15
+Zacatecas,3.0,2021-03-15
+Aguascalientes,0.0,2021-03-16
+Baja California,8.0,2021-03-16
+Baja California Sur,0.0,2021-03-16
+Campeche,1.0,2021-03-16
+Chiapas,3.0,2021-03-16
+Chihuahua,4.0,2021-03-16
+Ciudad de México,2.0,2021-03-16
+Coahuila,0.0,2021-03-16
+Colima,0.0,2021-03-16
+Durango,1.0,2021-03-16
+Estado de México,8.0,2021-03-16
+Guanajuato,7.0,2021-03-16
+Guerrero,3.0,2021-03-16
+Hidalgo,2.0,2021-03-16
+Jalisco,6.0,2021-03-16
+Michoacán,15.0,2021-03-16
+Morelos,5.0,2021-03-16
+Nayarit,0.0,2021-03-16
+Nuevo León,2.0,2021-03-16
+Oaxaca,1.0,2021-03-16
+Puebla,6.0,2021-03-16
+Querétaro,0.0,2021-03-16
+Quintana Roo,0.0,2021-03-16
+San Luis Potosí,0.0,2021-03-16
+Sinaloa,0.0,2021-03-16
+Sonora,4.0,2021-03-16
+Tabasco,0.0,2021-03-16
+Tamaulipas,0.0,2021-03-16
+Tlaxcala,0.0,2021-03-16
+Veracruz,6.0,2021-03-16
+Yucatán,0.0,2021-03-16
+Zacatecas,2.0,2021-03-16
+Aguascalientes,0.0,2021-03-17
+Baja California,4.0,2021-03-17
+Baja California Sur,0.0,2021-03-17
+Campeche,0.0,2021-03-17
+Chiapas,5.0,2021-03-17
+Chihuahua,0.0,2021-03-17
+Ciudad de México,1.0,2021-03-17
+Coahuila,2.0,2021-03-17
+Colima,0.0,2021-03-17
+Durango,2.0,2021-03-17
+Estado de México,6.0,2021-03-17
+Guanajuato,6.0,2021-03-17
+Guerrero,5.0,2021-03-17
+Hidalgo,1.0,2021-03-17
+Jalisco,3.0,2021-03-17
+Michoacán,10.0,2021-03-17
+Morelos,3.0,2021-03-17
+Nayarit,0.0,2021-03-17
+Nuevo León,6.0,2021-03-17
+Oaxaca,2.0,2021-03-17
+Puebla,1.0,2021-03-17
+Querétaro,0.0,2021-03-17
+Quintana Roo,3.0,2021-03-17
+San Luis Potosí,0.0,2021-03-17
+Sinaloa,1.0,2021-03-17
+Sonora,0.0,2021-03-17
+Tabasco,2.0,2021-03-17
+Tamaulipas,3.0,2021-03-17
+Tlaxcala,0.0,2021-03-17
+Veracruz,3.0,2021-03-17
+Yucatán,0.0,2021-03-17
+Zacatecas,6.0,2021-03-17
+Aguascalientes,0.0,2021-03-18
+Baja California,7.0,2021-03-18
+Baja California Sur,0.0,2021-03-18
+Campeche,0.0,2021-03-18
+Chiapas,2.0,2021-03-18
+Chihuahua,2.0,2021-03-18
+Ciudad de México,2.0,2021-03-18
+Coahuila,0.0,2021-03-18
+Colima,2.0,2021-03-18
+Durango,0.0,2021-03-18
+Estado de México,22.0,2021-03-18
+Guanajuato,8.0,2021-03-18
+Guerrero,4.0,2021-03-18
+Hidalgo,2.0,2021-03-18
+Jalisco,6.0,2021-03-18
+Michoacán,12.0,2021-03-18
+Morelos,3.0,2021-03-18
+Nayarit,0.0,2021-03-18
+Nuevo León,4.0,2021-03-18
+Oaxaca,0.0,2021-03-18
+Puebla,5.0,2021-03-18
+Querétaro,0.0,2021-03-18
+Quintana Roo,1.0,2021-03-18
+San Luis Potosí,1.0,2021-03-18
+Sinaloa,1.0,2021-03-18
+Sonora,4.0,2021-03-18
+Tabasco,1.0,2021-03-18
+Tamaulipas,0.0,2021-03-18
+Tlaxcala,0.0,2021-03-18
+Veracruz,3.0,2021-03-18
+Yucatán,0.0,2021-03-18
+Zacatecas,5.0,2021-03-18
+Aguascalientes,1.0,2021-03-19
+Baja California,0.0,2021-03-19
+Baja California Sur,0.0,2021-03-19
+Campeche,0.0,2021-03-19
+Chiapas,1.0,2021-03-19
+Chihuahua,7.0,2021-03-19
+Ciudad de México,4.0,2021-03-19
+Coahuila,0.0,2021-03-19
+Colima,3.0,2021-03-19
+Durango,0.0,2021-03-19
+Estado de México,5.0,2021-03-19
+Guanajuato,9.0,2021-03-19
+Guerrero,0.0,2021-03-19
+Hidalgo,0.0,2021-03-19
+Jalisco,4.0,2021-03-19
+Michoacán,7.0,2021-03-19
+Morelos,4.0,2021-03-19
+Nayarit,4.0,2021-03-19
+Nuevo León,2.0,2021-03-19
+Oaxaca,0.0,2021-03-19
+Puebla,3.0,2021-03-19
+Querétaro,0.0,2021-03-19
+Quintana Roo,1.0,2021-03-19
+San Luis Potosí,4.0,2021-03-19
+Sinaloa,2.0,2021-03-19
+Sonora,1.0,2021-03-19
+Tabasco,0.0,2021-03-19
+Tamaulipas,2.0,2021-03-19
+Tlaxcala,3.0,2021-03-19
+Veracruz,9.0,2021-03-19
+Yucatán,1.0,2021-03-19
+Zacatecas,3.0,2021-03-19
+Aguascalientes,0.0,2021-03-20
+Baja California,5.0,2021-03-20
+Baja California Sur,0.0,2021-03-20
+Campeche,0.0,2021-03-20
+Chiapas,0.0,2021-03-20
+Chihuahua,1.0,2021-03-20
+Ciudad de México,5.0,2021-03-20
+Coahuila,0.0,2021-03-20
+Colima,3.0,2021-03-20
+Durango,1.0,2021-03-20
+Estado de México,13.0,2021-03-20
+Guanajuato,12.0,2021-03-20
+Guerrero,4.0,2021-03-20
+Hidalgo,3.0,2021-03-20
+Jalisco,2.0,2021-03-20
+Michoacán,13.0,2021-03-20
+Morelos,3.0,2021-03-20
+Nayarit,0.0,2021-03-20
+Nuevo León,6.0,2021-03-20
+Oaxaca,5.0,2021-03-20
+Puebla,2.0,2021-03-20
+Querétaro,0.0,2021-03-20
+Quintana Roo,1.0,2021-03-20
+San Luis Potosí,1.0,2021-03-20
+Sinaloa,2.0,2021-03-20
+Sonora,1.0,2021-03-20
+Tabasco,0.0,2021-03-20
+Tamaulipas,1.0,2021-03-20
+Tlaxcala,1.0,2021-03-20
+Veracruz,5.0,2021-03-20
+Yucatán,0.0,2021-03-20
+Zacatecas,2.0,2021-03-20
+Aguascalientes,1.0,2021-03-21
+Baja California,5.0,2021-03-21
+Baja California Sur,0.0,2021-03-21
+Campeche,1.0,2021-03-21
+Chiapas,1.0,2021-03-21
+Chihuahua,0.0,2021-03-21
+Ciudad de México,6.0,2021-03-21
+Coahuila,0.0,2021-03-21
+Colima,1.0,2021-03-21
+Durango,3.0,2021-03-21
+Estado de México,6.0,2021-03-21
+Guanajuato,19.0,2021-03-21
+Guerrero,4.0,2021-03-21
+Hidalgo,1.0,2021-03-21
+Jalisco,8.0,2021-03-21
+Michoacán,6.0,2021-03-21
+Morelos,2.0,2021-03-21
+Nayarit,0.0,2021-03-21
+Nuevo León,2.0,2021-03-21
+Oaxaca,2.0,2021-03-21
+Puebla,5.0,2021-03-21
+Querétaro,0.0,2021-03-21
+Quintana Roo,0.0,2021-03-21
+San Luis Potosí,0.0,2021-03-21
+Sinaloa,1.0,2021-03-21
+Sonora,2.0,2021-03-21
+Tabasco,0.0,2021-03-21
+Tamaulipas,0.0,2021-03-21
+Tlaxcala,0.0,2021-03-21
+Veracruz,2.0,2021-03-21
+Yucatán,0.0,2021-03-21
+Zacatecas,3.0,2021-03-21
+Aguascalientes,0.0,2021-03-22
+Baja California,1.0,2021-03-22
+Baja California Sur,0.0,2021-03-22
+Campeche,0.0,2021-03-22
+Chiapas,1.0,2021-03-22
+Chihuahua,4.0,2021-03-22
+Ciudad de México,5.0,2021-03-22
+Coahuila,2.0,2021-03-22
+Colima,2.0,2021-03-22
+Durango,1.0,2021-03-22
+Estado de México,5.0,2021-03-22
+Guanajuato,10.0,2021-03-22
+Guerrero,5.0,2021-03-22
+Hidalgo,1.0,2021-03-22
+Jalisco,2.0,2021-03-22
+Michoacán,11.0,2021-03-22
+Morelos,2.0,2021-03-22
+Nayarit,1.0,2021-03-22
+Nuevo León,3.0,2021-03-22
+Oaxaca,3.0,2021-03-22
+Puebla,3.0,2021-03-22
+Querétaro,0.0,2021-03-22
+Quintana Roo,0.0,2021-03-22
+San Luis Potosí,0.0,2021-03-22
+Sinaloa,3.0,2021-03-22
+Sonora,2.0,2021-03-22
+Tabasco,1.0,2021-03-22
+Tamaulipas,1.0,2021-03-22
+Tlaxcala,1.0,2021-03-22
+Veracruz,4.0,2021-03-22
+Yucatán,0.0,2021-03-22
+Zacatecas,3.0,2021-03-22
+Aguascalientes,0.0,2021-03-23
+Baja California,3.0,2021-03-23
+Baja California Sur,0.0,2021-03-23
+Campeche,0.0,2021-03-23
+Chiapas,1.0,2021-03-23
+Chihuahua,1.0,2021-03-23
+Ciudad de México,5.0,2021-03-23
+Coahuila,0.0,2021-03-23
+Colima,1.0,2021-03-23
+Durango,0.0,2021-03-23
+Estado de México,5.0,2021-03-23
+Guanajuato,12.0,2021-03-23
+Guerrero,4.0,2021-03-23
+Hidalgo,0.0,2021-03-23
+Jalisco,9.0,2021-03-23
+Michoacán,8.0,2021-03-23
+Morelos,2.0,2021-03-23
+Nayarit,0.0,2021-03-23
+Nuevo León,1.0,2021-03-23
+Oaxaca,6.0,2021-03-23
+Puebla,1.0,2021-03-23
+Querétaro,0.0,2021-03-23
+Quintana Roo,1.0,2021-03-23
+San Luis Potosí,4.0,2021-03-23
+Sinaloa,2.0,2021-03-23
+Sonora,3.0,2021-03-23
+Tabasco,0.0,2021-03-23
+Tamaulipas,0.0,2021-03-23
+Tlaxcala,0.0,2021-03-23
+Veracruz,2.0,2021-03-23
+Yucatán,0.0,2021-03-23
+Zacatecas,1.0,2021-03-23
+Aguascalientes,2.0,2021-03-24
+Baja California,7.0,2021-03-24
+Baja California Sur,0.0,2021-03-24
+Campeche,0.0,2021-03-24
+Chiapas,1.0,2021-03-24
+Chihuahua,7.0,2021-03-24
+Ciudad de México,5.0,2021-03-24
+Coahuila,0.0,2021-03-24
+Colima,0.0,2021-03-24
+Durango,0.0,2021-03-24
+Estado de México,6.0,2021-03-24
+Guanajuato,12.0,2021-03-24
+Guerrero,1.0,2021-03-24
+Hidalgo,1.0,2021-03-24
+Jalisco,8.0,2021-03-24
+Michoacán,3.0,2021-03-24
+Morelos,3.0,2021-03-24
+Nayarit,0.0,2021-03-24
+Nuevo León,6.0,2021-03-24
+Oaxaca,1.0,2021-03-24
+Puebla,5.0,2021-03-24
+Querétaro,0.0,2021-03-24
+Quintana Roo,1.0,2021-03-24
+San Luis Potosí,0.0,2021-03-24
+Sinaloa,2.0,2021-03-24
+Sonora,5.0,2021-03-24
+Tabasco,0.0,2021-03-24
+Tamaulipas,1.0,2021-03-24
+Tlaxcala,1.0,2021-03-24
+Veracruz,4.0,2021-03-24
+Yucatán,0.0,2021-03-24
+Zacatecas,3.0,2021-03-24
+Aguascalientes,0.0,2021-03-25
+Baja California,7.0,2021-03-25
+Baja California Sur,0.0,2021-03-25
+Campeche,0.0,2021-03-25
+Chiapas,0.0,2021-03-25
+Chihuahua,9.0,2021-03-25
+Ciudad de México,1.0,2021-03-25
+Coahuila,0.0,2021-03-25
+Colima,0.0,2021-03-25
+Durango,0.0,2021-03-25
+Estado de México,6.0,2021-03-25
+Guanajuato,14.0,2021-03-25
+Guerrero,13.0,2021-03-25
+Hidalgo,0.0,2021-03-25
+Jalisco,6.0,2021-03-25
+Michoacán,7.0,2021-03-25
+Morelos,2.0,2021-03-25
+Nayarit,0.0,2021-03-25
+Nuevo León,1.0,2021-03-25
+Oaxaca,2.0,2021-03-25
+Puebla,3.0,2021-03-25
+Querétaro,0.0,2021-03-25
+Quintana Roo,0.0,2021-03-25
+San Luis Potosí,1.0,2021-03-25
+Sinaloa,4.0,2021-03-25
+Sonora,1.0,2021-03-25
+Tabasco,2.0,2021-03-25
+Tamaulipas,1.0,2021-03-25
+Tlaxcala,0.0,2021-03-25
+Veracruz,4.0,2021-03-25
+Yucatán,0.0,2021-03-25
+Zacatecas,5.0,2021-03-25
+Aguascalientes,0.0,2021-03-26
+Baja California,4.0,2021-03-26
+Baja California Sur,0.0,2021-03-26
+Campeche,0.0,2021-03-26
+Chiapas,2.0,2021-03-26
+Chihuahua,0.0,2021-03-26
+Ciudad de México,3.0,2021-03-26
+Coahuila,0.0,2021-03-26
+Colima,0.0,2021-03-26
+Durango,0.0,2021-03-26
+Estado de México,10.0,2021-03-26
+Guanajuato,9.0,2021-03-26
+Guerrero,3.0,2021-03-26
+Hidalgo,3.0,2021-03-26
+Jalisco,4.0,2021-03-26
+Michoacán,8.0,2021-03-26
+Morelos,1.0,2021-03-26
+Nayarit,3.0,2021-03-26
+Nuevo León,4.0,2021-03-26
+Oaxaca,0.0,2021-03-26
+Puebla,4.0,2021-03-26
+Querétaro,0.0,2021-03-26
+Quintana Roo,2.0,2021-03-26
+San Luis Potosí,1.0,2021-03-26
+Sinaloa,2.0,2021-03-26
+Sonora,0.0,2021-03-26
+Tabasco,0.0,2021-03-26
+Tamaulipas,1.0,2021-03-26
+Tlaxcala,0.0,2021-03-26
+Veracruz,3.0,2021-03-26
+Yucatán,0.0,2021-03-26
+Zacatecas,6.0,2021-03-26
+Aguascalientes,0.0,2021-03-27
+Baja California,12.0,2021-03-27
+Baja California Sur,0.0,2021-03-27
+Campeche,0.0,2021-03-27
+Chiapas,1.0,2021-03-27
+Chihuahua,3.0,2021-03-27
+Ciudad de México,2.0,2021-03-27
+Coahuila,0.0,2021-03-27
+Colima,3.0,2021-03-27
+Durango,1.0,2021-03-27
+Estado de México,8.0,2021-03-27
+Guanajuato,3.0,2021-03-27
+Guerrero,3.0,2021-03-27
+Hidalgo,0.0,2021-03-27
+Jalisco,5.0,2021-03-27
+Michoacán,3.0,2021-03-27
+Morelos,5.0,2021-03-27
+Nayarit,0.0,2021-03-27
+Nuevo León,4.0,2021-03-27
+Oaxaca,1.0,2021-03-27
+Puebla,3.0,2021-03-27
+Querétaro,0.0,2021-03-27
+Quintana Roo,4.0,2021-03-27
+San Luis Potosí,1.0,2021-03-27
+Sinaloa,2.0,2021-03-27
+Sonora,3.0,2021-03-27
+Tabasco,2.0,2021-03-27
+Tamaulipas,1.0,2021-03-27
+Tlaxcala,1.0,2021-03-27
+Veracruz,6.0,2021-03-27
+Yucatán,0.0,2021-03-27
+Zacatecas,2.0,2021-03-27
+Aguascalientes,0.0,2021-03-28
+Baja California,1.0,2021-03-28
+Baja California Sur,0.0,2021-03-28
+Campeche,0.0,2021-03-28
+Chiapas,1.0,2021-03-28
+Chihuahua,4.0,2021-03-28
+Ciudad de México,2.0,2021-03-28
+Coahuila,0.0,2021-03-28
+Colima,0.0,2021-03-28
+Durango,0.0,2021-03-28
+Estado de México,12.0,2021-03-28
+Guanajuato,14.0,2021-03-28
+Guerrero,4.0,2021-03-28
+Hidalgo,1.0,2021-03-28
+Jalisco,6.0,2021-03-28
+Michoacán,3.0,2021-03-28
+Morelos,2.0,2021-03-28
+Nayarit,0.0,2021-03-28
+Nuevo León,1.0,2021-03-28
+Oaxaca,5.0,2021-03-28
+Puebla,3.0,2021-03-28
+Querétaro,1.0,2021-03-28
+Quintana Roo,4.0,2021-03-28
+San Luis Potosí,0.0,2021-03-28
+Sinaloa,1.0,2021-03-28
+Sonora,1.0,2021-03-28
+Tabasco,2.0,2021-03-28
+Tamaulipas,1.0,2021-03-28
+Tlaxcala,2.0,2021-03-28
+Veracruz,2.0,2021-03-28
+Yucatán,0.0,2021-03-28
+Zacatecas,3.0,2021-03-28
+Aguascalientes,0.0,2021-03-29
+Baja California,6.0,2021-03-29
+Baja California Sur,0.0,2021-03-29
+Campeche,0.0,2021-03-29
+Chiapas,3.0,2021-03-29
+Chihuahua,5.0,2021-03-29
+Ciudad de México,3.0,2021-03-29
+Coahuila,1.0,2021-03-29
+Colima,1.0,2021-03-29
+Durango,0.0,2021-03-29
+Estado de México,13.0,2021-03-29
+Guanajuato,10.0,2021-03-29
+Guerrero,2.0,2021-03-29
+Hidalgo,2.0,2021-03-29
+Jalisco,5.0,2021-03-29
+Michoacán,11.0,2021-03-29
+Morelos,5.0,2021-03-29
+Nayarit,0.0,2021-03-29
+Nuevo León,2.0,2021-03-29
+Oaxaca,2.0,2021-03-29
+Puebla,1.0,2021-03-29
+Querétaro,0.0,2021-03-29
+Quintana Roo,4.0,2021-03-29
+San Luis Potosí,0.0,2021-03-29
+Sinaloa,1.0,2021-03-29
+Sonora,4.0,2021-03-29
+Tabasco,0.0,2021-03-29
+Tamaulipas,0.0,2021-03-29
+Tlaxcala,0.0,2021-03-29
+Veracruz,6.0,2021-03-29
+Yucatán,0.0,2021-03-29
+Zacatecas,7.0,2021-03-29
+Aguascalientes,0.0,2021-03-30
+Baja California,5.0,2021-03-30
+Baja California Sur,1.0,2021-03-30
+Campeche,0.0,2021-03-30
+Chiapas,5.0,2021-03-30
+Chihuahua,6.0,2021-03-30
+Ciudad de México,0.0,2021-03-30
+Coahuila,0.0,2021-03-30
+Colima,0.0,2021-03-30
+Durango,0.0,2021-03-30
+Estado de México,7.0,2021-03-30
+Guanajuato,2.0,2021-03-30
+Guerrero,2.0,2021-03-30
+Hidalgo,1.0,2021-03-30
+Jalisco,8.0,2021-03-30
+Michoacán,7.0,2021-03-30
+Morelos,1.0,2021-03-30
+Nayarit,0.0,2021-03-30
+Nuevo León,1.0,2021-03-30
+Oaxaca,3.0,2021-03-30
+Puebla,2.0,2021-03-30
+Querétaro,0.0,2021-03-30
+Quintana Roo,3.0,2021-03-30
+San Luis Potosí,1.0,2021-03-30
+Sinaloa,1.0,2021-03-30
+Sonora,1.0,2021-03-30
+Tabasco,3.0,2021-03-30
+Tamaulipas,4.0,2021-03-30
+Tlaxcala,0.0,2021-03-30
+Veracruz,1.0,2021-03-30
+Yucatán,0.0,2021-03-30
+Zacatecas,3.0,2021-03-30
+Aguascalientes,0.0,2021-03-31
+Baja California,6.0,2021-03-31
+Baja California Sur,4.0,2021-03-31
+Campeche,0.0,2021-03-31
+Chiapas,4.0,2021-03-31
+Chihuahua,6.0,2021-03-31
+Ciudad de México,1.0,2021-03-31
+Coahuila,0.0,2021-03-31
+Colima,0.0,2021-03-31
+Durango,1.0,2021-03-31
+Estado de México,5.0,2021-03-31
+Guanajuato,13.0,2021-03-31
+Guerrero,2.0,2021-03-31
+Hidalgo,1.0,2021-03-31
+Jalisco,4.0,2021-03-31
+Michoacán,7.0,2021-03-31
+Morelos,4.0,2021-03-31
+Nayarit,0.0,2021-03-31
+Nuevo León,0.0,2021-03-31
+Oaxaca,4.0,2021-03-31
+Puebla,1.0,2021-03-31
+Querétaro,0.0,2021-03-31
+Quintana Roo,1.0,2021-03-31
+San Luis Potosí,1.0,2021-03-31
+Sinaloa,1.0,2021-03-31
+Sonora,3.0,2021-03-31
+Tabasco,1.0,2021-03-31
+Tamaulipas,2.0,2021-03-31
+Tlaxcala,0.0,2021-03-31
+Veracruz,6.0,2021-03-31
+Yucatán,0.0,2021-03-31
+Zacatecas,2.0,2021-03-31

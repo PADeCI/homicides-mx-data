@@ -1,0 +1,54 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Calvillo,1.0,1.0,0.0,0.0,2021-01-19
+Baja California,Ensenada,2.0,2.0,0.0,0.0,2021-01-19
+Baja California,Playas De Rosarito,2.0,0.0,2.0,0.0,2021-01-19
+Baja California,Tijuana,3.0,2.0,0.0,1.0,2021-01-19
+Chiapas,Palenque,1.0,1.0,0.0,0.0,2021-01-19
+Chihuahua,Madera,1.0,1.0,0.0,0.0,2021-01-19
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2021-01-19
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2021-01-19
+Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2021-01-19
+Ciudad de México,Venustiano Carranza,1.0,0.0,1.0,0.0,2021-01-19
+Colima,Manzanillo,2.0,2.0,0.0,0.0,2021-01-19
+Durango,Cuencamé,1.0,1.0,0.0,0.0,2021-01-19
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2021-01-19
+Guanajuato,León,4.0,4.0,0.0,0.0,2021-01-19
+Guanajuato,Salamanca,1.0,0.0,1.0,0.0,2021-01-19
+Guanajuato,San Francisco Del Rincón,1.0,1.0,0.0,0.0,2021-01-19
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2021-01-19
+Guanajuato,Yuriria,2.0,2.0,0.0,0.0,2021-01-19
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2021-01-19
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2021-01-19
+Guerrero,Tlapa De Comonfort,1.0,1.0,0.0,0.0,2021-01-19
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2021-01-19
+Jalisco,San Pedro Tlaquepaque,2.0,1.0,1.0,0.0,2021-01-19
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2021-01-19
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2021-01-19
+Michoacán,Tangancícuaro,1.0,1.0,0.0,0.0,2021-01-19
+Michoacán,Zitácuaro,9.0,0.0,0.0,9.0,2021-01-19
+Morelos,Cuautla,3.0,3.0,0.0,0.0,2021-01-19
+Estado de México,Teoloyucan,1.0,1.0,0.0,0.0,2021-01-19
+Estado de México,Zinacantepec,1.0,1.0,0.0,0.0,2021-01-19
+Nayarit,Tepic,2.0,1.0,1.0,0.0,2021-01-19
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2021-01-19
+Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2021-01-19
+Nuevo León,Santa Catarina,1.0,1.0,0.0,0.0,2021-01-19
+Oaxaca,San Lucas Zoquiápam,1.0,0.0,1.0,0.0,2021-01-19
+Oaxaca,Santa Lucía Del Camino,1.0,1.0,0.0,0.0,2021-01-19
+Puebla,San Andrés Cholula,1.0,1.0,0.0,0.0,2021-01-19
+Puebla,San Pedro Cholula,3.0,3.0,0.0,0.0,2021-01-19
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2021-01-19
+Quintana Roo,Solidaridad,1.0,0.0,0.0,1.0,2021-01-19
+San Luis Potosí,Cerritos,1.0,0.0,0.0,1.0,2021-01-19
+San Luis Potosí,El Naranjo,1.0,1.0,0.0,0.0,2021-01-19
+Sinaloa,Culiacán,1.0,0.0,0.0,1.0,2021-01-19
+Sonora,Cajeme,3.0,3.0,0.0,0.0,2021-01-19
+Tamaulipas,Victoria,1.0,1.0,0.0,0.0,2021-01-19
+Veracruz,Acayucan,1.0,1.0,0.0,0.0,2021-01-19
+Veracruz,Coatzacoalcos,1.0,1.0,0.0,0.0,2021-01-19
+Veracruz,Coatzintla,1.0,1.0,0.0,0.0,2021-01-19
+Veracruz,Espinal,1.0,0.0,0.0,1.0,2021-01-19
+Veracruz,Papantla,1.0,1.0,0.0,0.0,2021-01-19
+Veracruz,Tlapacoyan,1.0,1.0,0.0,0.0,2021-01-19
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2021-01-19
+Zacatecas,Guadalupe,2.0,2.0,0.0,0.0,2021-01-19

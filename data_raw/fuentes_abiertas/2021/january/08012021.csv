@@ -1,0 +1,49 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,1.0,0.0,1.0,0.0,2021-01-08
+Baja California,Tijuana,3.0,2.0,1.0,0.0,2021-01-08
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2021-01-08
+Colima,Colima,1.0,1.0,0.0,0.0,2021-01-08
+Guanajuato,Celaya,1.0,0.0,1.0,0.0,2021-01-08
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2021-01-08
+Guanajuato,León,1.0,1.0,0.0,0.0,2021-01-08
+Guanajuato,Pénjamo,1.0,1.0,0.0,0.0,2021-01-08
+Guanajuato,San Luis De La Paz,2.0,2.0,0.0,0.0,2021-01-08
+Guanajuato,Uriangato,2.0,0.0,2.0,0.0,2021-01-08
+Guerrero,Acapulco De Juárez,2.0,1.0,0.0,1.0,2021-01-08
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2021-01-08
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2021-01-08
+Jalisco,Tlajomulco De Zúñiga,2.0,1.0,1.0,0.0,2021-01-08
+Jalisco,Tonalá,1.0,1.0,0.0,0.0,2021-01-08
+Michoacán,Gabriel Zamora,1.0,1.0,0.0,0.0,2021-01-08
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2021-01-08
+Michoacán,Sahuayo,1.0,1.0,0.0,0.0,2021-01-08
+Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2021-01-08
+Morelos,Amacuzac,1.0,1.0,0.0,0.0,2021-01-08
+Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2021-01-08
+Morelos,Yautepec,1.0,1.0,0.0,0.0,2021-01-08
+Estado de México,Cuautitlán Izcalli,1.0,0.0,1.0,0.0,2021-01-08
+Estado de México,Ixtapaluca,1.0,1.0,0.0,0.0,2021-01-08
+Estado de México,La Paz,1.0,1.0,0.0,0.0,2021-01-08
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2021-01-08
+Nuevo León,Carmen,1.0,1.0,0.0,0.0,2021-01-08
+Nuevo León,Escobedo,1.0,1.0,0.0,0.0,2021-01-08
+Nuevo León,Monterrey,2.0,2.0,0.0,0.0,2021-01-08
+Oaxaca,Miahuatlán De Porfirio Díaz,1.0,1.0,0.0,0.0,2021-01-08
+Oaxaca,Putla Villa De Guerrero,1.0,1.0,0.0,0.0,2021-01-08
+Oaxaca,San Miguel Soyaltepec,1.0,1.0,0.0,0.0,2021-01-08
+Puebla,Amozoc,1.0,1.0,0.0,0.0,2021-01-08
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2021-01-08
+San Luis Potosí,Ciudad Fernández,1.0,1.0,0.0,0.0,2021-01-08
+San Luis Potosí,San Luis Potosí,1.0,0.0,0.0,1.0,2021-01-08
+San Luis Potosí,Soledad De Graciano Sánchez,1.0,0.0,1.0,0.0,2021-01-08
+Sinaloa,Ahome,1.0,1.0,0.0,0.0,2021-01-08
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2021-01-08
+Sinaloa,Navolato,3.0,0.0,0.0,3.0,2021-01-08
+Sonora,Cajeme,3.0,3.0,0.0,0.0,2021-01-08
+Tamaulipas,Nuevo Laredo,1.0,0.0,1.0,0.0,2021-01-08
+Tamaulipas,Reynosa,1.0,0.0,0.0,1.0,2021-01-08
+Veracruz,Ixhuatlán Del Sureste,1.0,1.0,0.0,0.0,2021-01-08
+Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2021-01-08
+Veracruz,Tlapacoyan,1.0,0.0,1.0,0.0,2021-01-08
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2021-01-08
+Zacatecas,Guadalupe,3.0,3.0,0.0,0.0,2021-01-08

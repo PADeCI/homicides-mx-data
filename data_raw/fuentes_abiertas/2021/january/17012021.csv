@@ -1,0 +1,47 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,1.0,0.0,0.0,1.0,2021-01-17
+Baja California,Mexicali,1.0,0.0,1.0,0.0,2021-01-17
+Baja California,Tijuana,8.0,7.0,1.0,0.0,2021-01-17
+Chiapas,Suchiate,1.0,1.0,0.0,0.0,2021-01-17
+Chihuahua,Juárez,7.0,6.0,1.0,0.0,2021-01-17
+Coahuila,Saltillo,1.0,0.0,0.0,1.0,2021-01-17
+Guanajuato,Apaseo El Alto,1.0,1.0,0.0,0.0,2021-01-17
+Guanajuato,Celaya,3.0,2.0,1.0,0.0,2021-01-17
+Guanajuato,Moroleón,1.0,0.0,1.0,0.0,2021-01-17
+Guanajuato,Purísima Del Rincón,2.0,2.0,0.0,0.0,2021-01-17
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2021-01-17
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2021-01-17
+Guerrero,Florencio Villarreal,2.0,2.0,0.0,0.0,2021-01-17
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2021-01-17
+Guerrero,Tecoanapa,2.0,2.0,0.0,0.0,2021-01-17
+Hidalgo,Pachuca De Soto,1.0,1.0,0.0,0.0,2021-01-17
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2021-01-17
+Jalisco,San Pedro Tlaquepaque,2.0,2.0,0.0,0.0,2021-01-17
+Jalisco,Tlajomulco De Zúñiga,1.0,0.0,0.0,1.0,2021-01-17
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2021-01-17
+Michoacán,Jiquilpan,2.0,2.0,0.0,0.0,2021-01-17
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2021-01-17
+Michoacán,Sahuayo,1.0,0.0,0.0,1.0,2021-01-17
+Michoacán,Zamora,1.0,1.0,0.0,0.0,2021-01-17
+Michoacán,Zitácuaro,4.0,4.0,0.0,0.0,2021-01-17
+Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2021-01-17
+Estado de México,Chapa De Mota,1.0,1.0,0.0,0.0,2021-01-17
+Estado de México,Tianguistenco,1.0,1.0,0.0,0.0,2021-01-17
+Estado de México,Toluca,1.0,1.0,0.0,0.0,2021-01-17
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2021-01-17
+Puebla,Ocoyucan,1.0,1.0,0.0,0.0,2021-01-17
+Puebla,Puebla,1.0,1.0,0.0,0.0,2021-01-17
+Puebla,Xicotepec,2.0,2.0,0.0,0.0,2021-01-17
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2021-01-17
+San Luis Potosí,Ciudad Valles,1.0,0.0,0.0,1.0,2021-01-17
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2021-01-17
+San Luis Potosí,Tamuín,1.0,1.0,0.0,0.0,2021-01-17
+Sinaloa,Choix,1.0,1.0,0.0,0.0,2021-01-17
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2021-01-17
+Sinaloa,Salvador Alvarado,1.0,1.0,0.0,0.0,2021-01-17
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2021-01-17
+Tabasco,Macuspana,1.0,1.0,0.0,0.0,2021-01-17
+Tlaxcala,San Pablo Del Monte,1.0,1.0,0.0,0.0,2021-01-17
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2021-01-17
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2021-01-17
+Zacatecas,Zacatecas,2.0,2.0,0.0,0.0,2021-01-17

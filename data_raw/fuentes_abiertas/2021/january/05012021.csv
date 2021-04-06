@@ -1,0 +1,43 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tecate,8.0,8.0,0.0,0.0,2021-01-05
+Baja California,Tijuana,6.0,3.0,0.0,3.0,2021-01-05
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2021-01-05
+Chihuahua,Juárez,3.0,1.0,2.0,0.0,2021-01-05
+Ciudad de México,Iztapalapa,1.0,0.0,0.0,1.0,2021-01-05
+Coahuila,Saltillo,1.0,0.0,1.0,0.0,2021-01-05
+Colima,Manzanillo,3.0,2.0,1.0,0.0,2021-01-05
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2021-01-05
+Guanajuato,Irapuato,1.0,1.0,0.0,0.0,2021-01-05
+Guanajuato,León,7.0,2.0,0.0,5.0,2021-01-05
+Guanajuato,Pénjamo,2.0,2.0,0.0,0.0,2021-01-05
+Guanajuato,Salamanca,2.0,2.0,0.0,0.0,2021-01-05
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2021-01-05
+Guerrero,Cocula,1.0,1.0,0.0,0.0,2021-01-05
+Jalisco,Guadalajara,3.0,3.0,0.0,0.0,2021-01-05
+Jalisco,Gómez Farías,3.0,3.0,0.0,0.0,2021-01-05
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2021-01-05
+Jalisco,Zapopan,1.0,1.0,0.0,0.0,2021-01-05
+Michoacán,Aquila,1.0,1.0,0.0,0.0,2021-01-05
+Michoacán,Jacona,2.0,2.0,0.0,0.0,2021-01-05
+Michoacán,Morelia,2.0,2.0,0.0,0.0,2021-01-05
+Morelos,Cuernavaca,2.0,2.0,0.0,0.0,2021-01-05
+Morelos,Emiliano Zapata,2.0,1.0,1.0,0.0,2021-01-05
+Morelos,Jojutla,1.0,0.0,0.0,1.0,2021-01-05
+Morelos,Xochitepec,1.0,1.0,0.0,0.0,2021-01-05
+Estado de México,La Paz,1.0,1.0,0.0,0.0,2021-01-05
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2021-01-05
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2021-01-05
+Oaxaca,Oaxaca De Juárez,1.0,0.0,0.0,1.0,2021-01-05
+Oaxaca,San Pablo Huixtepec,1.0,1.0,0.0,0.0,2021-01-05
+Puebla,Acatzingo,1.0,1.0,0.0,0.0,2021-01-05
+Puebla,Jalpan,1.0,1.0,0.0,0.0,2021-01-05
+Puebla,Xicotepec,1.0,0.0,0.0,1.0,2021-01-05
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2021-01-05
+Quintana Roo,Solidaridad,2.0,0.0,0.0,2.0,2021-01-05
+Sinaloa,Culiacán,2.0,2.0,0.0,0.0,2021-01-05
+Sonora,Cajeme,2.0,1.0,0.0,1.0,2021-01-05
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2021-01-05
+Veracruz,Camerino Z. Mendoza,1.0,0.0,1.0,0.0,2021-01-05
+Veracruz,Álamo Temapache,2.0,1.0,1.0,0.0,2021-01-05
+Zacatecas,Fresnillo,3.0,3.0,0.0,0.0,2021-01-05
+Zacatecas,Zacatecas,2.0,1.0,1.0,0.0,2021-01-05

@@ -1,0 +1,52 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1.0,1.0,0.0,0.0,2021-02-19
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2021-02-19
+Baja California,Tijuana,2.0,1.0,0.0,1.0,2021-02-19
+Chiapas,Tuxtla Gutiérrez,1.0,1.0,0.0,0.0,2021-02-19
+Chihuahua,Chihuahua,1.0,0.0,1.0,0.0,2021-02-19
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2021-02-19
+Estado de México,Chimalhuacán,1.0,1.0,0.0,0.0,2021-02-19
+Estado de México,Ecatepec De Morelos,3.0,3.0,0.0,0.0,2021-02-19
+Estado de México,Tenango Del Valle,1.0,1.0,0.0,0.0,2021-02-19
+Estado de México,Tultitlán,1.0,1.0,0.0,0.0,2021-02-19
+Guanajuato,Guanajuato,1.0,1.0,0.0,0.0,2021-02-19
+Guanajuato,León,2.0,1.0,1.0,0.0,2021-02-19
+Guanajuato,Salamanca,3.0,3.0,0.0,0.0,2021-02-19
+Guanajuato,Salvatierra,1.0,1.0,0.0,0.0,2021-02-19
+Guerrero,Chilpancingo De Los Bravo,4.0,4.0,0.0,0.0,2021-02-19
+Guerrero,Cualác,1.0,1.0,0.0,0.0,2021-02-19
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2021-02-19
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2021-02-19
+Guerrero,Tlapa De Comonfort,2.0,2.0,0.0,0.0,2021-02-19
+Hidalgo,Huichapan,1.0,0.0,0.0,1.0,2021-02-19
+Jalisco,Degollado,1.0,1.0,0.0,0.0,2021-02-19
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2021-02-19
+Jalisco,Quitupan,1.0,1.0,0.0,0.0,2021-02-19
+Jalisco,Zapopan,2.0,2.0,0.0,0.0,2021-02-19
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2021-02-19
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2021-02-19
+Michoacán,Pátzcuaro,1.0,0.0,1.0,0.0,2021-02-19
+Morelos,Cuautla,2.0,1.0,1.0,0.0,2021-02-19
+Morelos,Cuernavaca,3.0,2.0,1.0,0.0,2021-02-19
+Nuevo León,García,2.0,0.0,2.0,0.0,2021-02-19
+Nuevo León,Juárez,1.0,1.0,0.0,0.0,2021-02-19
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2021-02-19
+Nuevo León,Santa Catarina,1.0,1.0,0.0,0.0,2021-02-19
+Oaxaca,Salina Cruz,1.0,1.0,0.0,0.0,2021-02-19
+Puebla,Hueytamalco,2.0,0.0,0.0,2.0,2021-02-19
+Puebla,San Martín Texmelucan,1.0,0.0,0.0,1.0,2021-02-19
+Quintana Roo,Bacalar,1.0,1.0,0.0,0.0,2021-02-19
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2021-02-19
+Sinaloa,Badiraguato,1.0,1.0,0.0,0.0,2021-02-19
+Sinaloa,Guasave,3.0,1.0,2.0,0.0,2021-02-19
+Sinaloa,Mazatlán,1.0,1.0,0.0,0.0,2021-02-19
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2021-02-19
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2021-02-19
+Tamaulipas,Río Bravo,3.0,0.0,0.0,3.0,2021-02-19
+Veracruz,Orizaba,1.0,0.0,0.0,1.0,2021-02-19
+Veracruz,Soledad De Doblado,1.0,1.0,0.0,0.0,2021-02-19
+Veracruz,Xalapa,1.0,1.0,0.0,0.0,2021-02-19
+Yucatán,Mérida,1.0,0.0,1.0,0.0,2021-02-19
+Zacatecas,Fresnillo,3.0,3.0,0.0,0.0,2021-02-19
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2021-02-19
+Zacatecas,Zacatecas,1.0,1.0,0.0,0.0,2021-02-19

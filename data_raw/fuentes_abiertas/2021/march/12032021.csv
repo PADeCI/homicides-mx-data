@@ -1,0 +1,53 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,2.0,1.0,1.0,0.0,2021-03-12
+Baja California,Playas De Rosarito,1.0,1.0,0.0,0.0,2021-03-12
+Baja California,Tijuana,1.0,1.0,0.0,0.0,2021-03-12
+Chiapas,Yajalón,1.0,1.0,0.0,0.0,2021-03-12
+Ciudad de México,Cuauhtémoc,1.0,1.0,0.0,0.0,2021-03-12
+Ciudad de México,Gustavo A. Madero,3.0,1.0,2.0,0.0,2021-03-12
+Ciudad de México,Tlalpan,1.0,0.0,1.0,0.0,2021-03-12
+Colima,Armería,1.0,1.0,0.0,0.0,2021-03-12
+Colima,Tecomán,1.0,1.0,0.0,0.0,2021-03-12
+Guanajuato,Apaseo El Grande,2.0,1.0,1.0,0.0,2021-03-12
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2021-03-12
+Guanajuato,Comonfort,5.0,0.0,0.0,5.0,2021-03-12
+Guanajuato,León,5.0,2.0,0.0,3.0,2021-03-12
+Guanajuato,San José Iturbide,1.0,1.0,0.0,0.0,2021-03-12
+Guerrero,Acapulco De Juárez,3.0,3.0,0.0,0.0,2021-03-12
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2021-03-12
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2021-03-12
+Guerrero,Ometepec,1.0,1.0,0.0,0.0,2021-03-12
+Hidalgo,Tepeji Del Río De Ocampo,1.0,1.0,0.0,0.0,2021-03-12
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2021-03-12
+Jalisco,San Pedro Tlaquepaque,1.0,1.0,0.0,0.0,2021-03-12
+Jalisco,Tonalá,2.0,1.0,1.0,0.0,2021-03-12
+Michoacán,Huetamo,1.0,0.0,0.0,1.0,2021-03-12
+Michoacán,Múgica,1.0,1.0,0.0,0.0,2021-03-12
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2021-03-12
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2021-03-12
+Morelos,Escobedo,1.0,1.0,0.0,0.0,2021-03-12
+Morelos,Tepoztlán,1.0,1.0,0.0,0.0,2021-03-12
+Morelos,Tlaltizapán De Zapata,1.0,1.0,0.0,0.0,2021-03-12
+Estado de México,La Paz,2.0,0.0,2.0,0.0,2021-03-12
+Estado de México,Nezahualcóyotl,1.0,1.0,0.0,0.0,2021-03-12
+Oaxaca,Yogana,1.0,1.0,0.0,0.0,2021-03-12
+Puebla,Palmar De Bravo,1.0,1.0,0.0,0.0,2021-03-12
+Querétaro,Querétaro,1.0,1.0,0.0,0.0,2021-03-12
+Querétaro,San Juan Del Río,1.0,1.0,0.0,0.0,2021-03-12
+Quintana Roo,Benito Juárez,2.0,2.0,0.0,0.0,2021-03-12
+San Luis Potosí,Ciudad Valles,1.0,0.0,0.0,1.0,2021-03-12
+San Luis Potosí,San Luis Potosí,2.0,2.0,0.0,0.0,2021-03-12
+San Luis Potosí,Soledad De Graciano Sánchez,3.0,0.0,1.0,2.0,2021-03-12
+Sinaloa,Ahome,1.0,0.0,1.0,0.0,2021-03-12
+Sinaloa,Culiacán,1.0,1.0,0.0,0.0,2021-03-12
+Sonora,Cajeme,1.0,0.0,1.0,0.0,2021-03-12
+Sonora,Empalme,1.0,1.0,0.0,0.0,2021-03-12
+Sonora,San Luis Río Colorado,2.0,0.0,0.0,2.0,2021-03-12
+Tamaulipas,El Mante,1.0,0.0,1.0,0.0,2021-03-12
+Tamaulipas,Miguel Alemán,1.0,1.0,0.0,0.0,2021-03-12
+Tlaxcala,Santa Catarina Ayometla,1.0,0.0,1.0,0.0,2021-03-12
+Veracruz,Córdoba,2.0,1.0,0.0,1.0,2021-03-12
+Veracruz,Ixmatlahuacan,1.0,0.0,1.0,0.0,2021-03-12
+Zacatecas,Calera,1.0,1.0,0.0,0.0,2021-03-12
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2021-03-12
+Zacatecas,Zacatecas,1.0,0.0,0.0,1.0,2021-03-12

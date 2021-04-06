@@ -1,0 +1,57 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Aguascalientes,1.0,0.0,0.0,1.0,2021-03-23
+Baja California,Ensenada,1.0,1.0,0.0,0.0,2021-03-23
+Baja California,Tijuana,4.0,2.0,2.0,0.0,2021-03-23
+Chiapas,Frontera Comalapa,1.0,1.0,0.0,0.0,2021-03-23
+Chihuahua,Bocoyna,1.0,1.0,0.0,0.0,2021-03-23
+Chihuahua,Chihuahua,1.0,0.0,1.0,0.0,2021-03-23
+Chihuahua,Guadalupe Y Calvo,2.0,1.0,1.0,0.0,2021-03-23
+Chihuahua,Juárez,4.0,3.0,1.0,0.0,2021-03-23
+Chihuahua,Madera,1.0,1.0,0.0,0.0,2021-03-23
+Ciudad de México,Gustavo A. Madero,2.0,2.0,0.0,0.0,2021-03-23
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2021-03-23
+Coahuila,Monclova,1.0,1.0,0.0,0.0,2021-03-23
+Colima,Manzanillo,1.0,1.0,0.0,0.0,2021-03-23
+Durango,Durango,1.0,1.0,0.0,0.0,2021-03-23
+Guanajuato,Apaseo El Grande,2.0,2.0,0.0,0.0,2021-03-23
+Guanajuato,Apaseo El Alto,2.0,2.0,0.0,0.0,2021-03-23
+Guanajuato,Irapuato,2.0,2.0,0.0,0.0,2021-03-23
+Guanajuato,León,2.0,0.0,2.0,0.0,2021-03-23
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2021-03-23
+Guanajuato,Valle De Santiago,1.0,1.0,0.0,0.0,2021-03-23
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2021-03-23
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2021-03-23
+Jalisco,El Salto,1.0,1.0,0.0,0.0,2021-03-23
+Jalisco,Guadalajara,1.0,1.0,0.0,0.0,2021-03-23
+Jalisco,Juanacatlán,44.0,0.0,0.0,44.0,2021-03-23
+Jalisco,San Pedro Tlaquepaque,2.0,2.0,0.0,0.0,2021-03-23
+Michoacán,Contepec,1.0,1.0,0.0,0.0,2021-03-23
+Michoacán,Morelia,3.0,3.0,0.0,0.0,2021-03-23
+Michoacán,Tarímbaro,1.0,1.0,0.0,0.0,2021-03-23
+Michoacán,Uruapan,3.0,3.0,0.0,0.0,2021-03-23
+Morelos,Emiliano Zapata,1.0,1.0,0.0,0.0,2021-03-23
+Morelos,Jiutepec,2.0,1.0,1.0,0.0,2021-03-23
+Morelos,Tlaltizapán De Zapata,1.0,1.0,0.0,0.0,2021-03-23
+Estado de México,Chalco,1.0,1.0,0.0,0.0,2021-03-23
+Estado de México,Nicolás Romero,1.0,1.0,0.0,0.0,2021-03-23
+Estado de México,Otzolotepec,1.0,1.0,0.0,0.0,2021-03-23
+Estado de México,Xonacatlán,1.0,0.0,1.0,0.0,2021-03-23
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2021-03-23
+Oaxaca,Santiago Pinotepa Nacional,1.0,1.0,0.0,0.0,2021-03-23
+Puebla,San Salvador Huixcolotla,1.0,1.0,0.0,0.0,2021-03-23
+Quintana Roo,Solidaridad,1.0,0.0,1.0,0.0,2021-03-23
+San Luis Potosí,Cerritos,1.0,1.0,0.0,0.0,2021-03-23
+San Luis Potosí,Ciudad Valles,4.0,1.0,0.0,3.0,2021-03-23
+Sinaloa,Culiacán,1.0,0.0,1.0,0.0,2021-03-23
+Sonora,Cajeme,1.0,0.0,0.0,1.0,2021-03-23
+Sonora,Guaymas,3.0,3.0,0.0,0.0,2021-03-23
+Sonora,Hermosillo,2.0,2.0,0.0,0.0,2021-03-23
+Tamaulipas,Gómez Farías,4.0,4.0,0.0,0.0,2021-03-23
+Tamaulipas,Nuevo Laredo,1.0,1.0,0.0,0.0,2021-03-23
+Veracruz,Coatepec,1.0,1.0,0.0,0.0,2021-03-23
+Veracruz,Córdoba,1.0,1.0,0.0,0.0,2021-03-23
+Veracruz,Omealca,1.0,1.0,0.0,0.0,2021-03-23
+Veracruz,Papantla,1.0,0.0,1.0,0.0,2021-03-23
+Veracruz,Tlapacoyan,1.0,0.0,0.0,1.0,2021-03-23
+Zacatecas,Río Grande,2.0,2.0,0.0,0.0,2021-03-23
+Zacatecas,Villanueva,1.0,1.0,0.0,0.0,2021-03-23

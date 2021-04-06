@@ -1,0 +1,45 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Mexicali,1.0,1.0,0.0,0.0,2021-02-14
+Baja California,Tecate,1.0,0.0,1.0,0.0,2021-02-14
+Baja California,Tijuana,2.0,2.0,0.0,0.0,2021-02-14
+Campeche,Campeche,1.0,1.0,0.0,0.0,2021-02-14
+Chihuahua,Coronado,5.0,5.0,0.0,0.0,2021-02-14
+Chihuahua,Cuauhtémoc,2.0,2.0,0.0,0.0,2021-02-14
+Chihuahua,Juárez,1.0,1.0,0.0,0.0,2021-02-14
+Ciudad de México,Gustavo A. Madero,4.0,4.0,0.0,0.0,2021-02-14
+Ciudad de México,Venustiano Carranza,1.0,1.0,0.0,0.0,2021-02-14
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2021-02-14
+Coahuila,Juárez,1.0,0.0,0.0,1.0,2021-02-14
+Estado de México,Nicolás Romero,1.0,1.0,0.0,0.0,2021-02-14
+Estado de México,Otzolotepec,1.0,1.0,0.0,0.0,2021-02-14
+Estado de México,Tlalnepantla De Baz,2.0,0.0,0.0,2.0,2021-02-14
+Guanajuato,Jerécuaro,1.0,1.0,0.0,0.0,2021-02-14
+Guanajuato,León,2.0,2.0,0.0,0.0,2021-02-14
+Guanajuato,Salamanca,3.0,3.0,0.0,0.0,2021-02-14
+Guanajuato,Silao De La Victoria,1.0,0.0,0.0,1.0,2021-02-14
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2021-02-14
+Hidalgo,Zempoala,2.0,2.0,0.0,0.0,2021-02-14
+Jalisco,Guadalajara,2.0,1.0,1.0,0.0,2021-02-14
+Jalisco,Tlajomulco De Zúñiga,1.0,1.0,0.0,0.0,2021-02-14
+Michoacán,Jacona,1.0,1.0,0.0,0.0,2021-02-14
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2021-02-14
+Morelos,Tlaltizapán De Zapata,4.0,4.0,0.0,0.0,2021-02-14
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2021-02-14
+Nuevo León,Guadalupe,1.0,1.0,0.0,0.0,2021-02-14
+Oaxaca,Oaxaca De Juárez,1.0,1.0,0.0,0.0,2021-02-14
+Oaxaca,Santiago Pinotepa Nacional,1.0,0.0,1.0,0.0,2021-02-14
+Puebla,Palmar De Bravo,1.0,1.0,0.0,0.0,2021-02-14
+Querétaro,Querétaro,1.0,0.0,0.0,1.0,2021-02-14
+Quintana Roo,Benito Juárez,1.0,1.0,0.0,0.0,2021-02-14
+San Luis Potosí,San Luis Potosí,1.0,1.0,0.0,0.0,2021-02-14
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2021-02-14
+Sonora,Empalme,1.0,1.0,0.0,0.0,2021-02-14
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2021-02-14
+Tabasco,Comalcalco,1.0,1.0,0.0,0.0,2021-02-14
+Tabasco,Emiliano Zapata,1.0,1.0,0.0,0.0,2021-02-14
+Tamaulipas,Nuevo Laredo,1.0,0.0,1.0,0.0,2021-02-14
+Tamaulipas,Reynosa,1.0,1.0,0.0,0.0,2021-02-14
+Veracruz,San Andrés Tuxtla,1.0,1.0,0.0,0.0,2021-02-14
+Veracruz,Tierra Blanca,1.0,1.0,0.0,0.0,2021-02-14
+Zacatecas,Fresnillo,1.0,0.0,1.0,0.0,2021-02-14
+Zacatecas,General Pánfilo Natera,1.0,0.0,0.0,1.0,2021-02-14

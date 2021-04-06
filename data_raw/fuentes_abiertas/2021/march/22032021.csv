@@ -1,0 +1,51 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Tecate,3.0,3.0,0.0,0.0,2021-03-22
+Baja California,Tijuana,5.0,3.0,1.0,1.0,2021-03-22
+Chihuahua,Juárez,4.0,0.0,2.0,2.0,2021-03-22
+Ciudad de México,Gustavo A. Madero,1.0,1.0,0.0,0.0,2021-03-22
+Ciudad de México,Iztapalapa,1.0,1.0,0.0,0.0,2021-03-22
+Ciudad de México,La Magdalena Contreras,1.0,1.0,0.0,0.0,2021-03-22
+Ciudad de México,Miguel Hidalgo,1.0,0.0,1.0,0.0,2021-03-22
+Ciudad de México,Milpa Alta,1.0,0.0,1.0,0.0,2021-03-22
+Ciudad de México,Tlalpan,1.0,1.0,0.0,0.0,2021-03-22
+Ciudad de México,Álvaro Obregón,1.0,1.0,0.0,0.0,2021-03-22
+Coahuila,San Pedro,1.0,1.0,0.0,0.0,2021-03-22
+Colima,Colima,1.0,0.0,0.0,1.0,2021-03-22
+Colima,Comala,1.0,0.0,0.0,1.0,2021-03-22
+Colima,Tecomán,1.0,1.0,0.0,0.0,2021-03-22
+Durango,Tlahualilo,1.0,0.0,0.0,1.0,2021-03-22
+Guanajuato,Apaseo El Grande,2.0,0.0,0.0,2.0,2021-03-22
+Guanajuato,Celaya,1.0,1.0,0.0,0.0,2021-03-22
+Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,2.0,0.0,2.0,0.0,2021-03-22
+Guanajuato,Jaral Del Progreso,2.0,1.0,1.0,0.0,2021-03-22
+Guanajuato,Tarimoro,2.0,0.0,0.0,2.0,2021-03-22
+Guerrero,Acapulco De Juárez,2.0,2.0,0.0,0.0,2021-03-22
+Guerrero,Iguala De La Independencia,1.0,1.0,0.0,0.0,2021-03-22
+Guerrero,Marquelia,2.0,2.0,0.0,0.0,2021-03-22
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2021-03-22
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2021-03-22
+Michoacán,Uruapan,2.0,2.0,0.0,0.0,2021-03-22
+Michoacán,Zamora,4.0,4.0,0.0,0.0,2021-03-22
+Estado de México,Tultepec,1.0,1.0,0.0,0.0,2021-03-22
+Nuevo León,Juárez,2.0,2.0,0.0,0.0,2021-03-22
+Oaxaca,San Gabriel Mixtepec,2.0,2.0,0.0,0.0,2021-03-22
+Puebla,San José Miahuatlán,1.0,1.0,0.0,0.0,2021-03-22
+Quintana Roo,Othón P. Blanco,1.0,1.0,0.0,0.0,2021-03-22
+San Luis Potosí,San Luis Potosí,2.0,1.0,0.0,1.0,2021-03-22
+Sinaloa,Culiacán,3.0,2.0,1.0,0.0,2021-03-22
+Sonora,Cajeme,5.0,4.0,1.0,0.0,2021-03-22
+Sonora,Hermosillo,3.0,1.0,0.0,2.0,2021-03-22
+Tlaxcala,Contla De Juan Cuamatzi,2.0,1.0,1.0,0.0,2021-03-22
+Veracruz,Acayucan,1.0,1.0,0.0,0.0,2021-03-22
+Veracruz,Álamo Temapache,1.0,1.0,0.0,0.0,2021-03-22
+Veracruz,Atzacan,1.0,0.0,0.0,1.0,2021-03-22
+Veracruz,Juan Rodríguez Clara,1.0,1.0,0.0,0.0,2021-03-22
+Veracruz,Minatitlán,1.0,1.0,0.0,0.0,2021-03-22
+Veracruz,Poza Rica De Hidalgo,1.0,0.0,0.0,1.0,2021-03-22
+Veracruz,Santiago Tuxtla,1.0,1.0,0.0,0.0,2021-03-22
+Veracruz,Tierra Blanca,1.0,1.0,0.0,0.0,2021-03-22
+Veracruz,Ursulo Galván,1.0,1.0,0.0,0.0,2021-03-22
+Yucatán,Umán,1.0,1.0,0.0,0.0,2021-03-22
+Zacatecas,Fresnillo,1.0,1.0,0.0,0.0,2021-03-22
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2021-03-22
+Zacatecas,Río Grande,2.0,2.0,0.0,0.0,2021-03-22

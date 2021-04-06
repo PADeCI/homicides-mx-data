@@ -1,0 +1,993 @@
+Entidad,Homicidios,Fecha
+Aguascalientes,0,2021-01-01
+Baja California,3,2021-01-01
+Baja California Sur,0,2021-01-01
+Campeche,0,2021-01-01
+Chiapas,0,2021-01-01
+Chihuahua,2,2021-01-01
+Ciudad de México,3,2021-01-01
+Coahuila,0,2021-01-01
+Colima,2,2021-01-01
+Durango,2,2021-01-01
+Estado de México,3,2021-01-01
+Guanajuato,6,2021-01-01
+Guerrero,4,2021-01-01
+Hidalgo,2,2021-01-01
+Jalisco,5,2021-01-01
+Michoacán,3,2021-01-01
+Morelos,1,2021-01-01
+Nayarit,0,2021-01-01
+Nuevo León,0,2021-01-01
+Oaxaca,2,2021-01-01
+Puebla,3,2021-01-01
+Querétaro,1,2021-01-01
+Quintana Roo,2,2021-01-01
+San Luis Potosí,4,2021-01-01
+Sinaloa,3,2021-01-01
+Sonora,2,2021-01-01
+Tabasco,3,2021-01-01
+Tamaulipas,1,2021-01-01
+Tlaxcala,1,2021-01-01
+Veracruz,7,2021-01-01
+Yucatán,2,2021-01-01
+Zacatecas,6,2021-01-01
+Aguascalientes,0,2021-01-02
+Baja California,8,2021-01-02
+Baja California Sur,0,2021-01-02
+Campeche,1,2021-01-02
+Chiapas,1,2021-01-02
+Chihuahua,4,2021-01-02
+Ciudad de México,1,2021-01-02
+Coahuila,0,2021-01-02
+Colima,0,2021-01-02
+Durango,0,2021-01-02
+Estado de México,3,2021-01-02
+Guanajuato,9,2021-01-02
+Guerrero,5,2021-01-02
+Hidalgo,3,2021-01-02
+Jalisco,6,2021-01-02
+Michoacán,9,2021-01-02
+Morelos,1,2021-01-02
+Nayarit,0,2021-01-02
+Nuevo León,2,2021-01-02
+Oaxaca,4,2021-01-02
+Puebla,0,2021-01-02
+Querétaro,0,2021-01-02
+Quintana Roo,2,2021-01-02
+San Luis Potosí,1,2021-01-02
+Sinaloa,2,2021-01-02
+Sonora,0,2021-01-02
+Tabasco,1,2021-01-02
+Tamaulipas,1,2021-01-02
+Tlaxcala,0,2021-01-02
+Veracruz,2,2021-01-02
+Yucatán,0,2021-01-02
+Zacatecas,2,2021-01-02
+Aguascalientes,0,2021-01-03
+Baja California,4,2021-01-03
+Baja California Sur,0,2021-01-03
+Campeche,0,2021-01-03
+Chiapas,1,2021-01-03
+Chihuahua,3,2021-01-03
+Ciudad de México,3,2021-01-03
+Coahuila,1,2021-01-03
+Colima,0,2021-01-03
+Durango,0,2021-01-03
+Estado de México,5,2021-01-03
+Guanajuato,6,2021-01-03
+Guerrero,2,2021-01-03
+Hidalgo,3,2021-01-03
+Jalisco,6,2021-01-03
+Michoacán,3,2021-01-03
+Morelos,1,2021-01-03
+Nayarit,5,2021-01-03
+Nuevo León,5,2021-01-03
+Oaxaca,3,2021-01-03
+Puebla,2,2021-01-03
+Querétaro,1,2021-01-03
+Quintana Roo,1,2021-01-03
+San Luis Potosí,0,2021-01-03
+Sinaloa,3,2021-01-03
+Sonora,1,2021-01-03
+Tabasco,0,2021-01-03
+Tamaulipas,1,2021-01-03
+Tlaxcala,0,2021-01-03
+Veracruz,5,2021-01-03
+Yucatán,0,2021-01-03
+Zacatecas,4,2021-01-03
+Aguascalientes,0,2021-01-04
+Baja California,10,2021-01-04
+Baja California Sur,2,2021-01-04
+Campeche,0,2021-01-04
+Chiapas,1,2021-01-04
+Chihuahua,1,2021-01-04
+Ciudad de México,1,2021-01-04
+Coahuila,2,2021-01-04
+Colima,3,2021-01-04
+Durango,0,2021-01-04
+Estado de México,3,2021-01-04
+Guanajuato,8,2021-01-04
+Guerrero,1,2021-01-04
+Hidalgo,0,2021-01-04
+Jalisco,5,2021-01-04
+Michoacán,15,2021-01-04
+Morelos,7,2021-01-04
+Nayarit,0,2021-01-04
+Nuevo León,1,2021-01-04
+Oaxaca,3,2021-01-04
+Puebla,2,2021-01-04
+Querétaro,1,2021-01-04
+Quintana Roo,0,2021-01-04
+San Luis Potosí,1,2021-01-04
+Sinaloa,1,2021-01-04
+Sonora,0,2021-01-04
+Tabasco,0,2021-01-04
+Tamaulipas,1,2021-01-04
+Tlaxcala,0,2021-01-04
+Veracruz,6,2021-01-04
+Yucatán,0,2021-01-04
+Zacatecas,3,2021-01-04
+Aguascalientes,0,2021-01-05
+Baja California,4,2021-01-05
+Baja California Sur,0,2021-01-05
+Campeche,0,2021-01-05
+Chiapas,1,2021-01-05
+Chihuahua,1,2021-01-05
+Ciudad de México,1,2021-01-05
+Coahuila,0,2021-01-05
+Colima,1,2021-01-05
+Durango,0,2021-01-05
+Estado de México,5,2021-01-05
+Guanajuato,15,2021-01-05
+Guerrero,1,2021-01-05
+Hidalgo,1,2021-01-05
+Jalisco,5,2021-01-05
+Michoacán,10,2021-01-05
+Morelos,4,2021-01-05
+Nayarit,2,2021-01-05
+Nuevo León,3,2021-01-05
+Oaxaca,2,2021-01-05
+Puebla,2,2021-01-05
+Querétaro,0,2021-01-05
+Quintana Roo,5,2021-01-05
+San Luis Potosí,0,2021-01-05
+Sinaloa,2,2021-01-05
+Sonora,4,2021-01-05
+Tabasco,0,2021-01-05
+Tamaulipas,2,2021-01-05
+Tlaxcala,0,2021-01-05
+Veracruz,2,2021-01-05
+Yucatán,0,2021-01-05
+Zacatecas,6,2021-01-05
+Aguascalientes,0,2021-01-06
+Baja California,4,2021-01-06
+Baja California Sur,0,2021-01-06
+Campeche,0,2021-01-06
+Chiapas,1,2021-01-06
+Chihuahua,1,2021-01-06
+Ciudad de México,1,2021-01-06
+Coahuila,1,2021-01-06
+Colima,2,2021-01-06
+Durango,0,2021-01-06
+Estado de México,4,2021-01-06
+Guanajuato,10,2021-01-06
+Guerrero,1,2021-01-06
+Hidalgo,0,2021-01-06
+Jalisco,2,2021-01-06
+Michoacán,1,2021-01-06
+Morelos,2,2021-01-06
+Nayarit,0,2021-01-06
+Nuevo León,3,2021-01-06
+Oaxaca,5,2021-01-06
+Puebla,3,2021-01-06
+Querétaro,0,2021-01-06
+Quintana Roo,0,2021-01-06
+San Luis Potosí,0,2021-01-06
+Sinaloa,1,2021-01-06
+Sonora,3,2021-01-06
+Tabasco,3,2021-01-06
+Tamaulipas,0,2021-01-06
+Tlaxcala,0,2021-01-06
+Veracruz,5,2021-01-06
+Yucatán,0,2021-01-06
+Zacatecas,5,2021-01-06
+Aguascalientes,0,2021-01-07
+Baja California,10,2021-01-07
+Baja California Sur,0,2021-01-07
+Campeche,0,2021-01-07
+Chiapas,3,2021-01-07
+Chihuahua,4,2021-01-07
+Ciudad de México,0,2021-01-07
+Coahuila,0,2021-01-07
+Colima,1,2021-01-07
+Durango,0,2021-01-07
+Estado de México,4,2021-01-07
+Guanajuato,23,2021-01-07
+Guerrero,1,2021-01-07
+Hidalgo,1,2021-01-07
+Jalisco,7,2021-01-07
+Michoacán,2,2021-01-07
+Morelos,4,2021-01-07
+Nayarit,0,2021-01-07
+Nuevo León,4,2021-01-07
+Oaxaca,3,2021-01-07
+Puebla,2,2021-01-07
+Querétaro,0,2021-01-07
+Quintana Roo,0,2021-01-07
+San Luis Potosí,2,2021-01-07
+Sinaloa,1,2021-01-07
+Sonora,2,2021-01-07
+Tabasco,0,2021-01-07
+Tamaulipas,0,2021-01-07
+Tlaxcala,0,2021-01-07
+Veracruz,6,2021-01-07
+Yucatán,1,2021-01-07
+Zacatecas,4,2021-01-07
+Aguascalientes,0,2021-01-08
+Baja California,2,2021-01-08
+Baja California Sur,0,2021-01-08
+Campeche,0,2021-01-08
+Chiapas,1,2021-01-08
+Chihuahua,5,2021-01-08
+Ciudad de México,0,2021-01-08
+Coahuila,1,2021-01-08
+Colima,1,2021-01-08
+Durango,0,2021-01-08
+Estado de México,7,2021-01-08
+Guanajuato,9,2021-01-08
+Guerrero,5,2021-01-08
+Hidalgo,0,2021-01-08
+Jalisco,5,2021-01-08
+Michoacán,7,2021-01-08
+Morelos,1,2021-01-08
+Nayarit,0,2021-01-08
+Nuevo León,3,2021-01-08
+Oaxaca,3,2021-01-08
+Puebla,2,2021-01-08
+Querétaro,1,2021-01-08
+Quintana Roo,0,2021-01-08
+San Luis Potosí,2,2021-01-08
+Sinaloa,6,2021-01-08
+Sonora,3,2021-01-08
+Tabasco,0,2021-01-08
+Tamaulipas,1,2021-01-08
+Tlaxcala,1,2021-01-08
+Veracruz,4,2021-01-08
+Yucatán,0,2021-01-08
+Zacatecas,2,2021-01-08
+Aguascalientes,1,2021-01-09
+Baja California,7,2021-01-09
+Baja California Sur,0,2021-01-09
+Campeche,0,2021-01-09
+Chiapas,1,2021-01-09
+Chihuahua,1,2021-01-09
+Ciudad de México,7,2021-01-09
+Coahuila,0,2021-01-09
+Colima,4,2021-01-09
+Durango,0,2021-01-09
+Estado de México,6,2021-01-09
+Guanajuato,12,2021-01-09
+Guerrero,1,2021-01-09
+Hidalgo,0,2021-01-09
+Jalisco,6,2021-01-09
+Michoacán,4,2021-01-09
+Morelos,4,2021-01-09
+Nayarit,0,2021-01-09
+Nuevo León,3,2021-01-09
+Oaxaca,3,2021-01-09
+Puebla,3,2021-01-09
+Querétaro,0,2021-01-09
+Quintana Roo,0,2021-01-09
+San Luis Potosí,1,2021-01-09
+Sinaloa,4,2021-01-09
+Sonora,2,2021-01-09
+Tabasco,3,2021-01-09
+Tamaulipas,0,2021-01-09
+Tlaxcala,0,2021-01-09
+Veracruz,2,2021-01-09
+Yucatán,0,2021-01-09
+Zacatecas,7,2021-01-09
+Aguascalientes,0,2021-01-10
+Baja California,6,2021-01-10
+Baja California Sur,0,2021-01-10
+Campeche,0,2021-01-10
+Chiapas,1,2021-01-10
+Chihuahua,7,2021-01-10
+Ciudad de México,2,2021-01-10
+Coahuila,0,2021-01-10
+Colima,1,2021-01-10
+Durango,0,2021-01-10
+Estado de México,7,2021-01-10
+Guanajuato,6,2021-01-10
+Guerrero,3,2021-01-10
+Hidalgo,0,2021-01-10
+Jalisco,8,2021-01-10
+Michoacán,3,2021-01-10
+Morelos,2,2021-01-10
+Nayarit,0,2021-01-10
+Nuevo León,2,2021-01-10
+Oaxaca,4,2021-01-10
+Puebla,2,2021-01-10
+Querétaro,0,2021-01-10
+Quintana Roo,1,2021-01-10
+San Luis Potosí,0,2021-01-10
+Sinaloa,2,2021-01-10
+Sonora,3,2021-01-10
+Tabasco,0,2021-01-10
+Tamaulipas,1,2021-01-10
+Tlaxcala,0,2021-01-10
+Veracruz,1,2021-01-10
+Yucatán,0,2021-01-10
+Zacatecas,0,2021-01-10
+Aguascalientes,1,2021-01-11
+Baja California,7,2021-01-11
+Baja California Sur,1,2021-01-11
+Campeche,0,2021-01-11
+Chiapas,1,2021-01-11
+Chihuahua,1,2021-01-11
+Ciudad de México,4,2021-01-11
+Coahuila,0,2021-01-11
+Colima,0,2021-01-11
+Durango,0,2021-01-11
+Estado de México,3,2021-01-11
+Guanajuato,15,2021-01-11
+Guerrero,3,2021-01-11
+Hidalgo,3,2021-01-11
+Jalisco,5,2021-01-11
+Michoacán,3,2021-01-11
+Morelos,3,2021-01-11
+Nayarit,2,2021-01-11
+Nuevo León,1,2021-01-11
+Oaxaca,1,2021-01-11
+Puebla,2,2021-01-11
+Querétaro,0,2021-01-11
+Quintana Roo,2,2021-01-11
+San Luis Potosí,5,2021-01-11
+Sinaloa,1,2021-01-11
+Sonora,1,2021-01-11
+Tabasco,2,2021-01-11
+Tamaulipas,5,2021-01-11
+Tlaxcala,0,2021-01-11
+Veracruz,0,2021-01-11
+Yucatán,0,2021-01-11
+Zacatecas,8,2021-01-11
+Aguascalientes,0,2021-01-12
+Baja California,14,2021-01-12
+Baja California Sur,0,2021-01-12
+Campeche,0,2021-01-12
+Chiapas,3,2021-01-12
+Chihuahua,5,2021-01-12
+Ciudad de México,2,2021-01-12
+Coahuila,0,2021-01-12
+Colima,0,2021-01-12
+Durango,0,2021-01-12
+Estado de México,4,2021-01-12
+Guanajuato,18,2021-01-12
+Guerrero,2,2021-01-12
+Hidalgo,0,2021-01-12
+Jalisco,5,2021-01-12
+Michoacán,6,2021-01-12
+Morelos,0,2021-01-12
+Nayarit,1,2021-01-12
+Nuevo León,0,2021-01-12
+Oaxaca,2,2021-01-12
+Puebla,0,2021-01-12
+Querétaro,0,2021-01-12
+Quintana Roo,0,2021-01-12
+San Luis Potosí,3,2021-01-12
+Sinaloa,1,2021-01-12
+Sonora,0,2021-01-12
+Tabasco,0,2021-01-12
+Tamaulipas,0,2021-01-12
+Tlaxcala,0,2021-01-12
+Veracruz,0,2021-01-12
+Yucatán,0,2021-01-12
+Zacatecas,8,2021-01-12
+Aguascalientes,0,2021-01-13
+Baja California,9,2021-01-13
+Baja California Sur,0,2021-01-13
+Campeche,0,2021-01-13
+Chiapas,2,2021-01-13
+Chihuahua,1,2021-01-13
+Ciudad de México,2,2021-01-13
+Coahuila,0,2021-01-13
+Colima,0,2021-01-13
+Durango,0,2021-01-13
+Estado de México,5,2021-01-13
+Guanajuato,13,2021-01-13
+Guerrero,2,2021-01-13
+Hidalgo,1,2021-01-13
+Jalisco,5,2021-01-13
+Michoacán,2,2021-01-13
+Morelos,3,2021-01-13
+Nayarit,0,2021-01-13
+Nuevo León,2,2021-01-13
+Oaxaca,0,2021-01-13
+Puebla,4,2021-01-13
+Querétaro,0,2021-01-13
+Quintana Roo,0,2021-01-13
+San Luis Potosí,0,2021-01-13
+Sinaloa,0,2021-01-13
+Sonora,4,2021-01-13
+Tabasco,0,2021-01-13
+Tamaulipas,1,2021-01-13
+Tlaxcala,1,2021-01-13
+Veracruz,2,2021-01-13
+Yucatán,0,2021-01-13
+Zacatecas,9,2021-01-13
+Aguascalientes,0,2021-01-14
+Baja California,4,2021-01-14
+Baja California Sur,0,2021-01-14
+Campeche,0,2021-01-14
+Chiapas,0,2021-01-14
+Chihuahua,6,2021-01-14
+Ciudad de México,2,2021-01-14
+Coahuila,2,2021-01-14
+Colima,0,2021-01-14
+Durango,0,2021-01-14
+Estado de México,7,2021-01-14
+Guanajuato,13,2021-01-14
+Guerrero,6,2021-01-14
+Hidalgo,2,2021-01-14
+Jalisco,8,2021-01-14
+Michoacán,6,2021-01-14
+Morelos,1,2021-01-14
+Nayarit,0,2021-01-14
+Nuevo León,4,2021-01-14
+Oaxaca,1,2021-01-14
+Puebla,0,2021-01-14
+Querétaro,1,2021-01-14
+Quintana Roo,1,2021-01-14
+San Luis Potosí,1,2021-01-14
+Sinaloa,1,2021-01-14
+Sonora,4,2021-01-14
+Tabasco,4,2021-01-14
+Tamaulipas,0,2021-01-14
+Tlaxcala,0,2021-01-14
+Veracruz,5,2021-01-14
+Yucatán,0,2021-01-14
+Zacatecas,6,2021-01-14
+Aguascalientes,0,2021-01-15
+Baja California,8,2021-01-15
+Baja California Sur,0,2021-01-15
+Campeche,0,2021-01-15
+Chiapas,0,2021-01-15
+Chihuahua,2,2021-01-15
+Ciudad de México,6,2021-01-15
+Coahuila,0,2021-01-15
+Colima,3,2021-01-15
+Durango,0,2021-01-15
+Estado de México,6,2021-01-15
+Guanajuato,7,2021-01-15
+Guerrero,6,2021-01-15
+Hidalgo,0,2021-01-15
+Jalisco,4,2021-01-15
+Michoacán,16,2021-01-15
+Morelos,1,2021-01-15
+Nayarit,0,2021-01-15
+Nuevo León,0,2021-01-15
+Oaxaca,2,2021-01-15
+Puebla,1,2021-01-15
+Querétaro,0,2021-01-15
+Quintana Roo,0,2021-01-15
+San Luis Potosí,4,2021-01-15
+Sinaloa,2,2021-01-15
+Sonora,0,2021-01-15
+Tabasco,0,2021-01-15
+Tamaulipas,4,2021-01-15
+Tlaxcala,0,2021-01-15
+Veracruz,1,2021-01-15
+Yucatán,0,2021-01-15
+Zacatecas,14,2021-01-15
+Aguascalientes,0,2021-01-16
+Baja California,3,2021-01-16
+Baja California Sur,0,2021-01-16
+Campeche,0,2021-01-16
+Chiapas,0,2021-01-16
+Chihuahua,0,2021-01-16
+Ciudad de México,4,2021-01-16
+Coahuila,0,2021-01-16
+Colima,0,2021-01-16
+Durango,0,2021-01-16
+Estado de México,10,2021-01-16
+Guanajuato,15,2021-01-16
+Guerrero,10,2021-01-16
+Hidalgo,1,2021-01-16
+Jalisco,6,2021-01-16
+Michoacán,8,2021-01-16
+Morelos,4,2021-01-16
+Nayarit,0,2021-01-16
+Nuevo León,2,2021-01-16
+Oaxaca,4,2021-01-16
+Puebla,3,2021-01-16
+Querétaro,2,2021-01-16
+Quintana Roo,0,2021-01-16
+San Luis Potosí,0,2021-01-16
+Sinaloa,3,2021-01-16
+Sonora,2,2021-01-16
+Tabasco,0,2021-01-16
+Tamaulipas,0,2021-01-16
+Tlaxcala,0,2021-01-16
+Veracruz,3,2021-01-16
+Yucatán,0,2021-01-16
+Zacatecas,5,2021-01-16
+Aguascalientes,0,2021-01-17
+Baja California,8,2021-01-17
+Baja California Sur,0,2021-01-17
+Campeche,0,2021-01-17
+Chiapas,3,2021-01-17
+Chihuahua,6,2021-01-17
+Ciudad de México,7,2021-01-17
+Coahuila,0,2021-01-17
+Colima,0,2021-01-17
+Durango,0,2021-01-17
+Estado de México,7,2021-01-17
+Guanajuato,9,2021-01-17
+Guerrero,3,2021-01-17
+Hidalgo,2,2021-01-17
+Jalisco,12,2021-01-17
+Michoacán,10,2021-01-17
+Morelos,4,2021-01-17
+Nayarit,1,2021-01-17
+Nuevo León,3,2021-01-17
+Oaxaca,0,2021-01-17
+Puebla,4,2021-01-17
+Querétaro,0,2021-01-17
+Quintana Roo,0,2021-01-17
+San Luis Potosí,4,2021-01-17
+Sinaloa,2,2021-01-17
+Sonora,1,2021-01-17
+Tabasco,1,2021-01-17
+Tamaulipas,0,2021-01-17
+Tlaxcala,2,2021-01-17
+Veracruz,2,2021-01-17
+Yucatán,0,2021-01-17
+Zacatecas,3,2021-01-17
+Aguascalientes,0,2021-01-18
+Baja California,2,2021-01-18
+Baja California Sur,0,2021-01-18
+Campeche,0,2021-01-18
+Chiapas,2,2021-01-18
+Chihuahua,2,2021-01-18
+Ciudad de México,5,2021-01-18
+Coahuila,1,2021-01-18
+Colima,0,2021-01-18
+Durango,1,2021-01-18
+Estado de México,5,2021-01-18
+Guanajuato,8,2021-01-18
+Guerrero,4,2021-01-18
+Hidalgo,0,2021-01-18
+Jalisco,2,2021-01-18
+Michoacán,7,2021-01-18
+Morelos,5,2021-01-18
+Nayarit,5,2021-01-18
+Nuevo León,5,2021-01-18
+Oaxaca,4,2021-01-18
+Puebla,1,2021-01-18
+Querétaro,1,2021-01-18
+Quintana Roo,0,2021-01-18
+San Luis Potosí,4,2021-01-18
+Sinaloa,1,2021-01-18
+Sonora,0,2021-01-18
+Tabasco,1,2021-01-18
+Tamaulipas,1,2021-01-18
+Tlaxcala,0,2021-01-18
+Veracruz,2,2021-01-18
+Yucatán,0,2021-01-18
+Zacatecas,13,2021-01-18
+Aguascalientes,1,2021-01-19
+Baja California,3,2021-01-19
+Baja California Sur,0,2021-01-19
+Campeche,0,2021-01-19
+Chiapas,2,2021-01-19
+Chihuahua,1,2021-01-19
+Ciudad de México,3,2021-01-19
+Coahuila,0,2021-01-19
+Colima,4,2021-01-19
+Durango,0,2021-01-19
+Estado de México,4,2021-01-19
+Guanajuato,10,2021-01-19
+Guerrero,2,2021-01-19
+Hidalgo,2,2021-01-19
+Jalisco,2,2021-01-19
+Michoacán,10,2021-01-19
+Morelos,0,2021-01-19
+Nayarit,0,2021-01-19
+Nuevo León,3,2021-01-19
+Oaxaca,3,2021-01-19
+Puebla,3,2021-01-19
+Querétaro,0,2021-01-19
+Quintana Roo,0,2021-01-19
+San Luis Potosí,1,2021-01-19
+Sinaloa,0,2021-01-19
+Sonora,3,2021-01-19
+Tabasco,1,2021-01-19
+Tamaulipas,1,2021-01-19
+Tlaxcala,2,2021-01-19
+Veracruz,5,2021-01-19
+Yucatán,0,2021-01-19
+Zacatecas,5,2021-01-19
+Aguascalientes,0,2021-01-20
+Baja California,3,2021-01-20
+Baja California Sur,1,2021-01-20
+Campeche,0,2021-01-20
+Chiapas,0,2021-01-20
+Chihuahua,2,2021-01-20
+Ciudad de México,2,2021-01-20
+Coahuila,1,2021-01-20
+Colima,0,2021-01-20
+Durango,6,2021-01-20
+Estado de México,5,2021-01-20
+Guanajuato,5,2021-01-20
+Guerrero,3,2021-01-20
+Hidalgo,0,2021-01-20
+Jalisco,4,2021-01-20
+Michoacán,6,2021-01-20
+Morelos,1,2021-01-20
+Nayarit,0,2021-01-20
+Nuevo León,4,2021-01-20
+Oaxaca,2,2021-01-20
+Puebla,1,2021-01-20
+Querétaro,0,2021-01-20
+Quintana Roo,0,2021-01-20
+San Luis Potosí,0,2021-01-20
+Sinaloa,1,2021-01-20
+Sonora,1,2021-01-20
+Tabasco,0,2021-01-20
+Tamaulipas,0,2021-01-20
+Tlaxcala,0,2021-01-20
+Veracruz,11,2021-01-20
+Yucatán,0,2021-01-20
+Zacatecas,1,2021-01-20
+Aguascalientes,1,2021-01-21
+Baja California,4,2021-01-21
+Baja California Sur,0,2021-01-21
+Campeche,0,2021-01-21
+Chiapas,7,2021-01-21
+Chihuahua,5,2021-01-21
+Ciudad de México,2,2021-01-21
+Coahuila,0,2021-01-21
+Colima,2,2021-01-21
+Durango,3,2021-01-21
+Estado de México,3,2021-01-21
+Guanajuato,14,2021-01-21
+Guerrero,2,2021-01-21
+Hidalgo,0,2021-01-21
+Jalisco,3,2021-01-21
+Michoacán,7,2021-01-21
+Morelos,0,2021-01-21
+Nayarit,0,2021-01-21
+Nuevo León,2,2021-01-21
+Oaxaca,4,2021-01-21
+Puebla,2,2021-01-21
+Querétaro,0,2021-01-21
+Quintana Roo,3,2021-01-21
+San Luis Potosí,1,2021-01-21
+Sinaloa,3,2021-01-21
+Sonora,5,2021-01-21
+Tabasco,4,2021-01-21
+Tamaulipas,1,2021-01-21
+Tlaxcala,0,2021-01-21
+Veracruz,0,2021-01-21
+Yucatán,0,2021-01-21
+Zacatecas,4,2021-01-21
+Aguascalientes,0,2021-01-22
+Baja California,4,2021-01-22
+Baja California Sur,1,2021-01-22
+Campeche,0,2021-01-22
+Chiapas,0,2021-01-22
+Chihuahua,3,2021-01-22
+Ciudad de México,4,2021-01-22
+Coahuila,0,2021-01-22
+Colima,2,2021-01-22
+Durango,0,2021-01-22
+Estado de México,9,2021-01-22
+Guanajuato,9,2021-01-22
+Guerrero,3,2021-01-22
+Hidalgo,0,2021-01-22
+Jalisco,4,2021-01-22
+Michoacán,8,2021-01-22
+Morelos,2,2021-01-22
+Nayarit,0,2021-01-22
+Nuevo León,2,2021-01-22
+Oaxaca,3,2021-01-22
+Puebla,2,2021-01-22
+Querétaro,0,2021-01-22
+Quintana Roo,1,2021-01-22
+San Luis Potosí,0,2021-01-22
+Sinaloa,3,2021-01-22
+Sonora,4,2021-01-22
+Tabasco,0,2021-01-22
+Tamaulipas,17,2021-01-22
+Tlaxcala,2,2021-01-22
+Veracruz,6,2021-01-22
+Yucatán,0,2021-01-22
+Zacatecas,1,2021-01-22
+Aguascalientes,0,2021-01-23
+Baja California,6,2021-01-23
+Baja California Sur,0,2021-01-23
+Campeche,0,2021-01-23
+Chiapas,0,2021-01-23
+Chihuahua,7,2021-01-23
+Ciudad de México,6,2021-01-23
+Coahuila,2,2021-01-23
+Colima,3,2021-01-23
+Durango,0,2021-01-23
+Estado de México,14,2021-01-23
+Guanajuato,16,2021-01-23
+Guerrero,7,2021-01-23
+Hidalgo,0,2021-01-23
+Jalisco,6,2021-01-23
+Michoacán,5,2021-01-23
+Morelos,2,2021-01-23
+Nayarit,0,2021-01-23
+Nuevo León,2,2021-01-23
+Oaxaca,2,2021-01-23
+Puebla,1,2021-01-23
+Querétaro,0,2021-01-23
+Quintana Roo,3,2021-01-23
+San Luis Potosí,3,2021-01-23
+Sinaloa,2,2021-01-23
+Sonora,2,2021-01-23
+Tabasco,1,2021-01-23
+Tamaulipas,1,2021-01-23
+Tlaxcala,0,2021-01-23
+Veracruz,6,2021-01-23
+Yucatán,0,2021-01-23
+Zacatecas,1,2021-01-23
+Aguascalientes,0,2021-01-24
+Baja California,5,2021-01-24
+Baja California Sur,0,2021-01-24
+Campeche,0,2021-01-24
+Chiapas,0,2021-01-24
+Chihuahua,2,2021-01-24
+Ciudad de México,6,2021-01-24
+Coahuila,2,2021-01-24
+Colima,0,2021-01-24
+Durango,2,2021-01-24
+Estado de México,10,2021-01-24
+Guanajuato,13,2021-01-24
+Guerrero,4,2021-01-24
+Hidalgo,1,2021-01-24
+Jalisco,8,2021-01-24
+Michoacán,8,2021-01-24
+Morelos,3,2021-01-24
+Nayarit,0,2021-01-24
+Nuevo León,2,2021-01-24
+Oaxaca,1,2021-01-24
+Puebla,2,2021-01-24
+Querétaro,0,2021-01-24
+Quintana Roo,2,2021-01-24
+San Luis Potosí,4,2021-01-24
+Sinaloa,3,2021-01-24
+Sonora,2,2021-01-24
+Tabasco,1,2021-01-24
+Tamaulipas,0,2021-01-24
+Tlaxcala,0,2021-01-24
+Veracruz,2,2021-01-24
+Yucatán,0,2021-01-24
+Zacatecas,3,2021-01-24
+Aguascalientes,0,2021-01-25
+Baja California,2,2021-01-25
+Baja California Sur,0,2021-01-25
+Campeche,0,2021-01-25
+Chiapas,5,2021-01-25
+Chihuahua,1,2021-01-25
+Ciudad de México,0,2021-01-25
+Coahuila,0,2021-01-25
+Colima,1,2021-01-25
+Durango,0,2021-01-25
+Estado de México,4,2021-01-25
+Guanajuato,6,2021-01-25
+Guerrero,5,2021-01-25
+Hidalgo,0,2021-01-25
+Jalisco,8,2021-01-25
+Michoacán,6,2021-01-25
+Morelos,3,2021-01-25
+Nayarit,0,2021-01-25
+Nuevo León,1,2021-01-25
+Oaxaca,1,2021-01-25
+Puebla,5,2021-01-25
+Querétaro,0,2021-01-25
+Quintana Roo,1,2021-01-25
+San Luis Potosí,0,2021-01-25
+Sinaloa,1,2021-01-25
+Sonora,3,2021-01-25
+Tabasco,0,2021-01-25
+Tamaulipas,3,2021-01-25
+Tlaxcala,0,2021-01-25
+Veracruz,3,2021-01-25
+Yucatán,0,2021-01-25
+Zacatecas,8,2021-01-25
+Aguascalientes,1,2021-01-26
+Baja California,4,2021-01-26
+Baja California Sur,0,2021-01-26
+Campeche,2,2021-01-26
+Chiapas,3,2021-01-26
+Chihuahua,6,2021-01-26
+Ciudad de México,2,2021-01-26
+Coahuila,0,2021-01-26
+Colima,1,2021-01-26
+Durango,0,2021-01-26
+Estado de México,2,2021-01-26
+Guanajuato,12,2021-01-26
+Guerrero,2,2021-01-26
+Hidalgo,0,2021-01-26
+Jalisco,11,2021-01-26
+Michoacán,6,2021-01-26
+Morelos,3,2021-01-26
+Nayarit,1,2021-01-26
+Nuevo León,3,2021-01-26
+Oaxaca,2,2021-01-26
+Puebla,1,2021-01-26
+Querétaro,0,2021-01-26
+Quintana Roo,1,2021-01-26
+San Luis Potosí,0,2021-01-26
+Sinaloa,0,2021-01-26
+Sonora,4,2021-01-26
+Tabasco,0,2021-01-26
+Tamaulipas,1,2021-01-26
+Tlaxcala,0,2021-01-26
+Veracruz,1,2021-01-26
+Yucatán,0,2021-01-26
+Zacatecas,1,2021-01-26
+Aguascalientes,0,2021-01-27
+Baja California,4,2021-01-27
+Baja California Sur,0,2021-01-27
+Campeche,0,2021-01-27
+Chiapas,1,2021-01-27
+Chihuahua,5,2021-01-27
+Ciudad de México,2,2021-01-27
+Coahuila,1,2021-01-27
+Colima,0,2021-01-27
+Durango,0,2021-01-27
+Estado de México,7,2021-01-27
+Guanajuato,9,2021-01-27
+Guerrero,3,2021-01-27
+Hidalgo,1,2021-01-27
+Jalisco,9,2021-01-27
+Michoacán,10,2021-01-27
+Morelos,0,2021-01-27
+Nayarit,0,2021-01-27
+Nuevo León,0,2021-01-27
+Oaxaca,1,2021-01-27
+Puebla,2,2021-01-27
+Querétaro,0,2021-01-27
+Quintana Roo,1,2021-01-27
+San Luis Potosí,2,2021-01-27
+Sinaloa,1,2021-01-27
+Sonora,1,2021-01-27
+Tabasco,2,2021-01-27
+Tamaulipas,1,2021-01-27
+Tlaxcala,0,2021-01-27
+Veracruz,2,2021-01-27
+Yucatán,1,2021-01-27
+Zacatecas,3,2021-01-27
+Aguascalientes,0,2021-01-28
+Baja California,5,2021-01-28
+Baja California Sur,1,2021-01-28
+Campeche,0,2021-01-28
+Chiapas,2,2021-01-28
+Chihuahua,8,2021-01-28
+Ciudad de México,4,2021-01-28
+Coahuila,0,2021-01-28
+Colima,2,2021-01-28
+Durango,0,2021-01-28
+Estado de México,6,2021-01-28
+Guanajuato,6,2021-01-28
+Guerrero,9,2021-01-28
+Hidalgo,3,2021-01-28
+Jalisco,4,2021-01-28
+Michoacán,3,2021-01-28
+Morelos,0,2021-01-28
+Nayarit,0,2021-01-28
+Nuevo León,6,2021-01-28
+Oaxaca,1,2021-01-28
+Puebla,2,2021-01-28
+Querétaro,0,2021-01-28
+Quintana Roo,2,2021-01-28
+San Luis Potosí,2,2021-01-28
+Sinaloa,1,2021-01-28
+Sonora,0,2021-01-28
+Tabasco,0,2021-01-28
+Tamaulipas,1,2021-01-28
+Tlaxcala,0,2021-01-28
+Veracruz,5,2021-01-28
+Yucatán,0,2021-01-28
+Zacatecas,6,2021-01-28
+Aguascalientes,0,2021-01-29
+Baja California,3,2021-01-29
+Baja California Sur,0,2021-01-29
+Campeche,0,2021-01-29
+Chiapas,9,2021-01-29
+Chihuahua,4,2021-01-29
+Ciudad de México,1,2021-01-29
+Coahuila,0,2021-01-29
+Colima,0,2021-01-29
+Durango,0,2021-01-29
+Estado de México,4,2021-01-29
+Guanajuato,16,2021-01-29
+Guerrero,0,2021-01-29
+Hidalgo,0,2021-01-29
+Jalisco,11,2021-01-29
+Michoacán,8,2021-01-29
+Morelos,3,2021-01-29
+Nayarit,0,2021-01-29
+Nuevo León,5,2021-01-29
+Oaxaca,4,2021-01-29
+Puebla,1,2021-01-29
+Querétaro,0,2021-01-29
+Quintana Roo,3,2021-01-29
+San Luis Potosí,0,2021-01-29
+Sinaloa,2,2021-01-29
+Sonora,5,2021-01-29
+Tabasco,0,2021-01-29
+Tamaulipas,0,2021-01-29
+Tlaxcala,1,2021-01-29
+Veracruz,3,2021-01-29
+Yucatán,0,2021-01-29
+Zacatecas,0,2021-01-29
+Aguascalientes,0,2021-01-30
+Baja California,4,2021-01-30
+Baja California Sur,0,2021-01-30
+Campeche,0,2021-01-30
+Chiapas,2,2021-01-30
+Chihuahua,1,2021-01-30
+Ciudad de México,2,2021-01-30
+Coahuila,0,2021-01-30
+Colima,1,2021-01-30
+Durango,0,2021-01-30
+Estado de México,6,2021-01-30
+Guanajuato,5,2021-01-30
+Guerrero,1,2021-01-30
+Hidalgo,1,2021-01-30
+Jalisco,16,2021-01-30
+Michoacán,10,2021-01-30
+Morelos,1,2021-01-30
+Nayarit,0,2021-01-30
+Nuevo León,2,2021-01-30
+Oaxaca,0,2021-01-30
+Puebla,4,2021-01-30
+Querétaro,0,2021-01-30
+Quintana Roo,1,2021-01-30
+San Luis Potosí,2,2021-01-30
+Sinaloa,4,2021-01-30
+Sonora,2,2021-01-30
+Tabasco,3,2021-01-30
+Tamaulipas,2,2021-01-30
+Tlaxcala,0,2021-01-30
+Veracruz,1,2021-01-30
+Yucatán,0,2021-01-30
+Zacatecas,2,2021-01-30
+Aguascalientes,0,2021-01-31
+Baja California,7,2021-01-31
+Baja California Sur,0,2021-01-31
+Campeche,0,2021-01-31
+Chiapas,3,2021-01-31
+Chihuahua,6,2021-01-31
+Ciudad de México,0,2021-01-31
+Coahuila,0,2021-01-31
+Colima,1,2021-01-31
+Durango,0,2021-01-31
+Estado de México,4,2021-01-31
+Guanajuato,4,2021-01-31
+Guerrero,3,2021-01-31
+Hidalgo,1,2021-01-31
+Jalisco,6,2021-01-31
+Michoacán,1,2021-01-31
+Morelos,1,2021-01-31
+Nayarit,0,2021-01-31
+Nuevo León,1,2021-01-31
+Oaxaca,0,2021-01-31
+Puebla,3,2021-01-31
+Querétaro,1,2021-01-31
+Quintana Roo,1,2021-01-31
+San Luis Potosí,1,2021-01-31
+Sinaloa,3,2021-01-31
+Sonora,2,2021-01-31
+Tabasco,6,2021-01-31
+Tamaulipas,1,2021-01-31
+Tlaxcala,0,2021-01-31
+Veracruz,4,2021-01-31
+Yucatán,1,2021-01-31
+Zacatecas,9,2021-01-31

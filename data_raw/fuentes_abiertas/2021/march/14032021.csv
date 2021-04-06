@@ -1,0 +1,47 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Baja California,Ensenada,3.0,3.0,0.0,0.0,2021-03-14
+Baja California,Tijuana,4.0,3.0,1.0,0.0,2021-03-14
+Baja California Sur,La Paz,1.0,1.0,0.0,0.0,2021-03-14
+Chiapas,Mapastepec,1.0,1.0,0.0,0.0,2021-03-14
+Chihuahua,Aquiles Serdán,1.0,1.0,0.0,0.0,2021-03-14
+Ciudad de México,Iztacalco,1.0,1.0,0.0,0.0,2021-03-14
+Colima,Colima,1.0,0.0,1.0,0.0,2021-03-14
+Colima,Manzanillo,2.0,1.0,1.0,0.0,2021-03-14
+Guanajuato,Apaseo El Grande,3.0,3.0,0.0,0.0,2021-03-14
+Guanajuato,Comonfort,2.0,1.0,1.0,0.0,2021-03-14
+Guanajuato,León,1.0,0.0,0.0,1.0,2021-03-14
+Guanajuato,Moroleón,2.0,2.0,0.0,0.0,2021-03-14
+Guerrero,Chilpancingo De Los Bravo,1.0,1.0,0.0,0.0,2021-03-14
+Jalisco,Ixtlahuacán Del Río,1.0,1.0,0.0,0.0,2021-03-14
+Jalisco,Puerto Vallarta,2.0,2.0,0.0,0.0,2021-03-14
+Jalisco,San Pedro Tlaquepaque,2.0,2.0,0.0,0.0,2021-03-14
+Michoacán,Morelia,1.0,1.0,0.0,0.0,2021-03-14
+Michoacán,Uruapan,1.0,1.0,0.0,0.0,2021-03-14
+Morelos,Amacuzac,1.0,1.0,0.0,0.0,2021-03-14
+Morelos,Cuautla,1.0,1.0,0.0,0.0,2021-03-14
+Morelos,Cuernavaca,1.0,1.0,0.0,0.0,2021-03-14
+Morelos,Xochitepec,1.0,1.0,0.0,0.0,2021-03-14
+Estado de México,Acolman,1.0,1.0,0.0,0.0,2021-03-14
+Estado de México,Almoloya De Juárez,1.0,1.0,0.0,0.0,2021-03-14
+Estado de México,Naucalpan De Juárez,3.0,3.0,0.0,0.0,2021-03-14
+Estado de México,Tultitlán,2.0,2.0,0.0,0.0,2021-03-14
+Nuevo León,Monterrey,1.0,1.0,0.0,0.0,2021-03-14
+Nuevo León,San Nicolás De Los Garza,1.0,1.0,0.0,0.0,2021-03-14
+Oaxaca,Zaragoza,1.0,1.0,0.0,0.0,2021-03-14
+Oaxaca,Ocotlán De Morelos,1.0,1.0,0.0,0.0,2021-03-14
+Oaxaca,San Lucas Ojitlán,1.0,1.0,0.0,0.0,2021-03-14
+Puebla,Izúcar De Matamoros,1.0,1.0,0.0,0.0,2021-03-14
+Puebla,Puebla,1.0,0.0,1.0,0.0,2021-03-14
+Quintana Roo,Benito Juárez,3.0,3.0,0.0,0.0,2021-03-14
+Quintana Roo,Solidaridad,2.0,2.0,0.0,0.0,2021-03-14
+Quintana Roo,Tulum,1.0,1.0,0.0,0.0,2021-03-14
+San Luis Potosí,Rioverde,2.0,2.0,0.0,0.0,2021-03-14
+Sinaloa,Badiraguato,1.0,1.0,0.0,0.0,2021-03-14
+Sinaloa,Navolato,1.0,1.0,0.0,0.0,2021-03-14
+Sonora,Caborca,3.0,3.0,0.0,0.0,2021-03-14
+Sonora,Guaymas,1.0,1.0,0.0,0.0,2021-03-14
+Tamaulipas,Altamira,3.0,2.0,1.0,0.0,2021-03-14
+Tamaulipas,Victoria,1.0,0.0,0.0,1.0,2021-03-14
+Veracruz,Las Choapas,1.0,1.0,0.0,0.0,2021-03-14
+Veracruz,Papantla,1.0,0.0,1.0,0.0,2021-03-14
+Zacatecas,Guadalupe,1.0,1.0,0.0,0.0,2021-03-14

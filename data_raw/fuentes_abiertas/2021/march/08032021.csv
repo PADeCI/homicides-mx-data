@@ -1,0 +1,50 @@
+Entidad,Municipio,Homicidios,Hombre,Mujer,No Identificado,Fecha
+Aguascalientes,Cosío,1.0,1.0,0.0,0.0,2021-03-08
+Baja California,Tijuana,8.0,8.0,0.0,0.0,2021-03-08
+Chiapas,Pijijiapan,1.0,1.0,0.0,0.0,2021-03-08
+Chiapas,Tuxtla Chico,1.0,1.0,0.0,0.0,2021-03-08
+Chihuahua,Chihuahua,1.0,1.0,0.0,0.0,2021-03-08
+Chihuahua,Cuauhtémoc,1.0,1.0,0.0,0.0,2021-03-08
+Chihuahua,Juárez,2.0,2.0,0.0,0.0,2021-03-08
+Colima,Colima,1.0,1.0,0.0,0.0,2021-03-08
+Colima,Villa De Álvarez,4.0,4.0,0.0,0.0,2021-03-08
+Guanajuato,Apaseo El Grande,1.0,1.0,0.0,0.0,2021-03-08
+Guanajuato,León,1.0,1.0,0.0,0.0,2021-03-08
+Guanajuato,Salamanca,1.0,1.0,0.0,0.0,2021-03-08
+Guanajuato,Santa Cruz De Juventino Rosas,2.0,2.0,0.0,0.0,2021-03-08
+Guanajuato,Tarimoro,1.0,1.0,0.0,0.0,2021-03-08
+Guanajuato,Villagrán,1.0,1.0,0.0,0.0,2021-03-08
+Guerrero,Acapulco De Juárez,1.0,1.0,0.0,0.0,2021-03-08
+Guerrero,Olinalá,1.0,1.0,0.0,0.0,2021-03-08
+Guerrero,Taxco De Alarcón,1.0,1.0,0.0,0.0,2021-03-08
+Guerrero,Tlacoachistlahuaca,1.0,0.0,1.0,0.0,2021-03-08
+Jalisco,Guadalajara,2.0,2.0,0.0,0.0,2021-03-08
+Jalisco,San Pedro Tlaquepaque,4.0,3.0,0.0,1.0,2021-03-08
+Michoacán,Angamacutiro,3.0,1.0,2.0,0.0,2021-03-08
+Michoacán,Tangamandapio,1.0,1.0,0.0,0.0,2021-03-08
+Morelos,Axochiapan,1.0,1.0,0.0,0.0,2021-03-08
+Estado de México,Ecatepec De Morelos,1.0,1.0,0.0,0.0,2021-03-08
+Estado de México,Tianguistenco,1.0,1.0,0.0,0.0,2021-03-08
+Estado de México,Valle De Chalco Solidaridad,2.0,2.0,0.0,0.0,2021-03-08
+Estado de México,Zumpango,1.0,1.0,0.0,0.0,2021-03-08
+Nayarit,Santa María Del Oro,1.0,1.0,0.0,0.0,2021-03-08
+Nuevo León,Cadereyta Jiménez,1.0,1.0,0.0,0.0,2021-03-08
+Oaxaca,San Francisco Del Mar,2.0,1.0,1.0,0.0,2021-03-08
+Oaxaca,San Miguel Del Puerto,2.0,1.0,1.0,0.0,2021-03-08
+Oaxaca,Santa Cruz Xoxocotlán,1.0,1.0,0.0,0.0,2021-03-08
+Puebla,Chietla,1.0,0.0,1.0,0.0,2021-03-08
+Puebla,Tehuacán,1.0,1.0,0.0,0.0,2021-03-08
+Quintana Roo,Tulum,1.0,0.0,1.0,0.0,2021-03-08
+Sinaloa,Culiacán,3.0,3.0,0.0,0.0,2021-03-08
+Sonora,Caborca,4.0,4.0,0.0,0.0,2021-03-08
+Sonora,Cajeme,3.0,3.0,0.0,0.0,2021-03-08
+Sonora,Empalme,2.0,2.0,0.0,0.0,2021-03-08
+Sonora,Guaymas,2.0,2.0,0.0,0.0,2021-03-08
+Sonora,Hermosillo,1.0,1.0,0.0,0.0,2021-03-08
+Veracruz,Córdoba,2.0,1.0,1.0,0.0,2021-03-08
+Veracruz,Omealca,1.0,1.0,0.0,0.0,2021-03-08
+Veracruz,Papantla,1.0,1.0,0.0,0.0,2021-03-08
+Veracruz,Sayula De Alemán,1.0,0.0,1.0,0.0,2021-03-08
+Veracruz,Tecolutla,1.0,1.0,0.0,0.0,2021-03-08
+Veracruz,Tuxpan,1.0,0.0,1.0,0.0,2021-03-08
+Zacatecas,Guadalupe,3.0,3.0,0.0,0.0,2021-03-08
